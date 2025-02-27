@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BERTopic Plots</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        a { display: block; margin: 10px 0; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>BERTopic Plots</h1>
+    <p>Click on any plot to view it.</p>
+    <div id="plot-list"></div>
+
+    <script>
+        fetch("plots/")
+        .then(response => response.text())
+        .then(text => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, "text/html");
+            const files = [...doc.querySelectorAll("a")].map(a => a.href).filter(f => f.endsWith(".html"));
+            const container = document.getElementById("plot-list");
+            files.forEach(file => {
+                const link = document.createElement("a");
+                link.href = "plots/" + file.split("/").pop();
+                link.textContent = file.split("/").pop();
+                container.appendChild(link);
+            });
+        })
+        .catch(error => console.error("Error loading plots:", error));
+    </script>
+</body>
+</html>
