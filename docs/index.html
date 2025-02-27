@@ -15,7 +15,7 @@
     <div id="plot-list"></div>
 
     <script>
-        fetch("plots/")
+        fetch("plots")
         .then(response => response.text())
         .then(text => {
             const parser = new DOMParser();
