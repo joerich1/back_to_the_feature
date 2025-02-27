@@ -1,0 +1,658 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 464361,
+    "imdb_id": "tt0126025",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "戦国群盗傳　前篇　虎狼",
+    "overview": "Story of a bandit king.",
+    "popularity": 2.323,
+    "poster_path": "/jb1LIZgNTVo8kUtlGHgwxnJm1gp.jpg",
+    "production_companies": [
+        {
+            "id": 54049,
+            "logo_path": "/ilpJiYm2OInjZBkekd82bu8HrbP.png",
+            "name": "P.C.L. Eiga Seisaku-jo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1937-02-11",
+    "revenue": 0,
+    "runtime": 74,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Tale of Thieves in War Time: Part 1 - Tiger and Wolf",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-05-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1937-02-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134369,
+                "known_for_department": "Acting",
+                "name": "Chōjūrō Kawarasaki",
+                "original_name": "Chōjūrō Kawarasaki",
+                "popularity": 3.475,
+                "profile_path": "/1rhtrKHU1VFMM7vp8ZSyugPCBra.jpg",
+                "cast_id": 2,
+                "character": "Toki Saemonnojō",
+                "credit_id": "5ccdee3fc3a36836b7dea4d1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 133605,
+                "known_for_department": "Acting",
+                "name": "Shizue Kawarazaki",
+                "original_name": "Shizue Kawarazaki",
+                "popularity": 5.238,
+                "profile_path": "/lZRLg87srzyYHCnbWFbUjS82ArU.jpg",
+                "cast_id": 3,
+                "character": "Tatsuru",
+                "credit_id": "5ccdee76c3a36840cfd8d8b5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 118984,
+                "known_for_department": "Acting",
+                "name": "Kan'emon Nakamura",
+                "original_name": "Kan'emon Nakamura",
+                "popularity": 5.292,
+                "profile_path": "/9JEKx46uhnPBWuELipdD6t0TlST.jpg",
+                "cast_id": 4,
+                "character": "Rokuro Kai",
+                "credit_id": "5ccdee8a0e0a2631b8fec7c4",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134370,
+                "known_for_department": "Acting",
+                "name": "Kunitarō Kawarasaki",
+                "original_name": "Kunitarō Kawarasaki",
+                "popularity": 2.247,
+                "profile_path": "/wF7LJaXQkhvUgN06kwQlpLFdsAX.jpg",
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "5edc7855b4224200229236f3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1395916,
+                "known_for_department": "Acting",
+                "name": "Tsuruzo Nakamura",
+                "original_name": "Tsuruzo Nakamura",
+                "popularity": 0.918,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "",
+                "credit_id": "5ccdeea6c3a36836c1de6d4f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1179488,
+                "known_for_department": "Acting",
+                "name": "Sachiko Chiba",
+                "original_name": "Sachiko Chiba",
+                "popularity": 3.597,
+                "profile_path": "/5Iy4eqgW06t3lMpbzQuwTH9EO6n.jpg",
+                "cast_id": 7,
+                "character": "Princess Koyuki",
+                "credit_id": "5ccdeeb90e0a262fcd04738f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1713188,
+                "known_for_department": "Acting",
+                "name": "Emitaro Ichikawa",
+                "original_name": "Emitaro Ichikawa",
+                "popularity": 1.508,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "60df8a370716500046134b3e",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3144115,
+                "known_for_department": "Acting",
+                "name": "Satoshi Ichikawa",
+                "original_name": "Satoshi Ichikawa",
+                "popularity": 0.197,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "60df8a49344a8e00753d30b4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2715079,
+                "known_for_department": "Acting",
+                "name": "Shingorō Nakamura",
+                "original_name": "Shingorō Nakamura",
+                "popularity": 0.295,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "60df8a59d0b434002ab31534",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3144116,
+                "known_for_department": "Acting",
+                "name": "Shinzo Yamazaki",
+                "original_name": "Shinzo Yamazaki",
+                "popularity": 0.048,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "60df8a68344a8e00753d314f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1964106,
+                "known_for_department": "Acting",
+                "name": "Sukezō Sukedakaya",
+                "original_name": "Sukezō Sukedakaya",
+                "popularity": 1.174,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "60df8a756dc6c0002db2a72e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1964102,
+                "known_for_department": "Acting",
+                "name": "Rakusaburô Ichikawa",
+                "original_name": "Rakusaburô Ichikawa",
+                "popularity": 0.022,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "60df8a87b686b90075f786e7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 134367,
+                "known_for_department": "Acting",
+                "name": "Yoshizaburo Arashi",
+                "original_name": "Yoshizaburo Arashi",
+                "popularity": 1.408,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "60df8a909979d200469c92a1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3144117,
+                "known_for_department": "Acting",
+                "name": "Kikunosuke Segawa",
+                "original_name": "Kikunosuke Segawa",
+                "popularity": 0.027,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "60df8a9b83ee67005ddadb82",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3144118,
+                "known_for_department": "Acting",
+                "name": "Chobei Yamazaki",
+                "original_name": "Chobei Yamazaki",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "60df8aabd0b434005ed3a358",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3144119,
+                "known_for_department": "Acting",
+                "name": "Saemon Bando",
+                "original_name": "Saemon Bando",
+                "popularity": 0.239,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "60df8abc6dc6c0005f3123f6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1179488,
+                "known_for_department": "Acting",
+                "name": "Sachiko Chiba",
+                "original_name": "Sachiko Chiba",
+                "popularity": 3.597,
+                "profile_path": "/5Iy4eqgW06t3lMpbzQuwTH9EO6n.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "60df8adcb686b9005e45f0b8",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1964107,
+                "known_for_department": "Acting",
+                "name": "Kosaburō Tachibana",
+                "original_name": "Kosaburō Tachibana",
+                "popularity": 0.386,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "60df8ae483ee670046ee9cb8",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 133605,
+                "known_for_department": "Acting",
+                "name": "Shizue Kawarazaki",
+                "original_name": "Shizue Kawarazaki",
+                "popularity": 5.238,
+                "profile_path": "/lZRLg87srzyYHCnbWFbUjS82ArU.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "60df8af5d0b434007f073c6f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1059343,
+                "known_for_department": "Acting",
+                "name": "Sensho Ichikawa",
+                "original_name": "Sensho Ichikawa",
+                "popularity": 3.119,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "60df8affd0b43400477c9ffa",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1200817,
+                "known_for_department": "Acting",
+                "name": "Satoko Date",
+                "original_name": "Satoko Date",
+                "popularity": 8.154,
+                "profile_path": "/dClzRxEJEh9OPXt9sYHl3PhOcu5.jpg",
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "60df8b05344a8e00287bc508",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1200800,
+                "known_for_department": "Acting",
+                "name": "Naoyo Yamagata",
+                "original_name": "Naoyo Yamagata",
+                "popularity": 1.357,
+                "profile_path": "/aaE1YmEfubRW9hPFgJ2bEW7sY4E.jpg",
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "60df8b0eef9d72004790b163",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1530484,
+                "known_for_department": "Acting",
+                "name": "Sumie Tsubaki",
+                "original_name": "Sumie Tsubaki",
+                "popularity": 1.7,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "60df8b17fbe36f007403fb98",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 86859,
+                "known_for_department": "Acting",
+                "name": "Nijiko Kiyokawa",
+                "original_name": "Nijiko Kiyokawa",
+                "popularity": 17.014,
+                "profile_path": "/4vGxJRwHHCwCkXmf6flTXYBffGI.jpg",
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "60df8b1e945d360046f92a1b",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1435298,
+                "known_for_department": "Acting",
+                "name": "Yōyō Kojima",
+                "original_name": "Yōyō Kojima",
+                "popularity": 0.727,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "60df8b2b071650005d9a3007",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1614543,
+                "known_for_department": "Acting",
+                "name": "Kenichiro Ubukata",
+                "original_name": "Kenichiro Ubukata",
+                "popularity": 0.316,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "",
+                "credit_id": "60df8b33fbe36f002d50ff82",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1318413,
+                "known_for_department": "Directing",
+                "name": "Eisuke Takizawa",
+                "original_name": "Eisuke Takizawa",
+                "popularity": 3.813,
+                "profile_path": "/uJ9UsrHO1oLZyKnkU0BCaO5u0AX.jpg",
+                "credit_id": "595987b9c3a3682750027f21",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5026,
+                "known_for_department": "Directing",
+                "name": "Akira Kurosawa",
+                "original_name": "Akira Kurosawa",
+                "popularity": 34.678,
+                "profile_path": "/eGexa6MZ22T1MZxce1qR3RcAYaS.jpg",
+                "credit_id": "5ccdef879251417cce28142a",
+                "department": "Directing",
+                "job": "Third Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1323603,
+                "known_for_department": "Sound",
+                "name": "Kosaku Yamada",
+                "original_name": "Kosaku Yamada",
+                "popularity": 1.147,
+                "profile_path": null,
+                "credit_id": "5ccdefa9c3a36836b0debd76",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1551733,
+                "known_for_department": "Camera",
+                "name": "Hiromitsu Karasawa",
+                "original_name": "Hiromitsu Karasawa",
+                "popularity": 1.606,
+                "profile_path": null,
+                "credit_id": "5ccdef660e0a262fcd047447",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30467,
+                "known_for_department": "Art",
+                "name": "Takeo Kita",
+                "original_name": "Takeo Kita",
+                "popularity": 2.708,
+                "profile_path": null,
+                "credit_id": "5ccdef769251414f7c262c10",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1651880,
+                "known_for_department": "Writing",
+                "name": "Jūrō Miyoshi",
+                "original_name": "Jūrō Miyoshi",
+                "popularity": 0.596,
+                "profile_path": null,
+                "credit_id": "650ff335a3e4ba00abef26f0",
+                "department": "Writing",
+                "job": "Original Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2376416,
+                "known_for_department": "Writing",
+                "name": "Kinpachi Kajiwara",
+                "original_name": "Kinpachi Kajiwara",
+                "popularity": 0.371,
+                "profile_path": null,
+                "credit_id": "650ff33be8d0b400ca8624e6",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chōjūrō Kawarasaki",
+            "character": "Toki Saemonnojō"
+        },
+        {
+            "actor": "Shizue Kawarazaki",
+            "character": "Tatsuru"
+        },
+        {
+            "actor": "Kan'emon Nakamura",
+            "character": "Rokuro Kai"
+        },
+        {
+            "actor": "Kunitarō Kawarasaki",
+            "character": ""
+        },
+        {
+            "actor": "Tsuruzo Nakamura",
+            "character": ""
+        },
+        {
+            "actor": "Sachiko Chiba",
+            "character": "Princess Koyuki"
+        },
+        {
+            "actor": "Emitaro Ichikawa",
+            "character": ""
+        },
+        {
+            "actor": "Satoshi Ichikawa",
+            "character": ""
+        },
+        {
+            "actor": "Shingorō Nakamura",
+            "character": ""
+        },
+        {
+            "actor": "Shinzo Yamazaki",
+            "character": ""
+        },
+        {
+            "actor": "Sukezō Sukedakaya",
+            "character": ""
+        },
+        {
+            "actor": "Rakusaburô Ichikawa",
+            "character": ""
+        },
+        {
+            "actor": "Yoshizaburo Arashi",
+            "character": ""
+        },
+        {
+            "actor": "Kikunosuke Segawa",
+            "character": ""
+        },
+        {
+            "actor": "Chobei Yamazaki",
+            "character": ""
+        },
+        {
+            "actor": "Saemon Bando",
+            "character": ""
+        },
+        {
+            "actor": "Sachiko Chiba",
+            "character": ""
+        },
+        {
+            "actor": "Kosaburō Tachibana",
+            "character": ""
+        },
+        {
+            "actor": "Shizue Kawarazaki",
+            "character": ""
+        },
+        {
+            "actor": "Sensho Ichikawa",
+            "character": ""
+        },
+        {
+            "actor": "Satoko Date",
+            "character": ""
+        },
+        {
+            "actor": "Naoyo Yamagata",
+            "character": ""
+        },
+        {
+            "actor": "Sumie Tsubaki",
+            "character": ""
+        },
+        {
+            "actor": "Nijiko Kiyokawa",
+            "character": ""
+        },
+        {
+            "actor": "Yōyō Kojima",
+            "character": ""
+        },
+        {
+            "actor": "Kenichiro Ubukata",
+            "character": ""
+        }
+    ]
+}

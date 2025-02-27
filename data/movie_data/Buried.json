@@ -1,0 +1,944 @@
+{
+    "adult": false,
+    "backdrop_path": "/3GrCggVsUD3DT6UyyuB5Xdx3Sma.jpg",
+    "belongs_to_collection": null,
+    "budget": 1987650,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.experienceburied.com/index.html",
+    "id": 26388,
+    "imdb_id": "tt1462758",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "en",
+    "original_title": "Buried",
+    "overview": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic death trap.",
+    "popularity": 39.563,
+    "poster_path": "/splPNB0vAoNlb8l5WYxz2E3FK2G.jpg",
+    "production_companies": [
+        {
+            "id": 11564,
+            "logo_path": null,
+            "name": "Versus Entertainment",
+            "origin_country": "ES"
+        },
+        {
+            "id": 11565,
+            "logo_path": "/S74cHHbIrdmb5M51Pft72Uo9Gz.png",
+            "name": "The Safran Company",
+            "origin_country": "US"
+        },
+        {
+            "id": 11566,
+            "logo_path": null,
+            "name": "Dark Trick Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 2577,
+            "logo_path": "/QZ4zbeJ0sULzGNJvfukrzgx4d8.png",
+            "name": "Studio 37",
+            "origin_country": "FR"
+        },
+        {
+            "id": 29566,
+            "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+            "name": "Atresmedia",
+            "origin_country": "ES"
+        },
+        {
+            "id": 9335,
+            "logo_path": null,
+            "name": "Canal+ España",
+            "origin_country": "ES"
+        },
+        {
+            "id": 18626,
+            "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+            "name": "Kinology",
+            "origin_country": "FR"
+        },
+        {
+            "id": 29259,
+            "logo_path": null,
+            "name": "ICO",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-09-24",
+    "revenue": 19152480,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "170,000 sq miles of desert. 90 minutes of oxygen. No way out.",
+    "title": "Buried",
+    "video": false,
+    "vote_average": 6.62,
+    "vote_count": 2701,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "pt",
+                        "note": "",
+                        "release_date": "2010-12-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-11-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-11-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-09-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-11-25T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD, blu ray",
+                        "release_date": "2011-04-27T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Veronica",
+                        "release_date": "2013-08-13T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-14T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2010-11-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Sundance Film Festival",
+                        "release_date": "2010-01-23T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-09-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10859,
+                "known_for_department": "Acting",
+                "name": "Ryan Reynolds",
+                "original_name": "Ryan Reynolds",
+                "popularity": 109.24,
+                "profile_path": "/2Orm6l3z3zukF1q0AgIOUqvwLeB.jpg",
+                "cast_id": 1,
+                "character": "Paul Conroy",
+                "credit_id": "52fe44ffc3a368484e042c5b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43323,
+                "known_for_department": "Acting",
+                "name": "José Luis García Pérez",
+                "original_name": "José Luis García Pérez",
+                "popularity": 6.754,
+                "profile_path": "/pszEIxu2skaRTf45YshJ2PTEuTO.jpg",
+                "cast_id": 31,
+                "character": "Jabir (voice)",
+                "credit_id": "52fe44ffc3a368484e042ce7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559068,
+                "known_for_department": "Acting",
+                "name": "Robert Paterson",
+                "original_name": "Robert Paterson",
+                "popularity": 12.974,
+                "profile_path": "/r8KFprRQsVsTX7FOQsxENB0jVEw.jpg",
+                "cast_id": 7,
+                "character": "Dan Brenner (voice)",
+                "credit_id": "52fe44ffc3a368484e042c6f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 537,
+                "known_for_department": "Acting",
+                "name": "Stephen Tobolowsky",
+                "original_name": "Stephen Tobolowsky",
+                "popularity": 51.282,
+                "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg",
+                "cast_id": 20,
+                "character": "Alan Davenport (voice)",
+                "credit_id": "52fe44ffc3a368484e042cbb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20767,
+                "known_for_department": "Acting",
+                "name": "Samantha Mathis",
+                "original_name": "Samantha Mathis",
+                "popularity": 27.982,
+                "profile_path": "/9dixKdjdBUgG8MrlZTpWpy4OQnh.jpg",
+                "cast_id": 5,
+                "character": "Linda Conroy (voice)",
+                "credit_id": "52fe44ffc3a368484e042c6b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1040499,
+                "known_for_department": "Acting",
+                "name": "Ivana Miño",
+                "original_name": "Ivana Miño",
+                "popularity": 7.172,
+                "profile_path": "/uH3gyDpopK2j85dVNIVJ6BqFc4B.jpg",
+                "cast_id": 21,
+                "character": "Pamela Lutti (voice)",
+                "credit_id": "52fe44ffc3a368484e042cbf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 194641,
+                "known_for_department": "Acting",
+                "name": "Warner Loughlin",
+                "original_name": "Warner Loughlin",
+                "popularity": 4.078,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Maryanne Conroy / Donna Mitchell / Rebecca Browning (voice)",
+                "credit_id": "52fe44ffc3a368484e042cc3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43902,
+                "known_for_department": "Acting",
+                "name": "Erik Palladino",
+                "original_name": "Erik Palladino",
+                "popularity": 15.68,
+                "profile_path": "/k8wx0HCCcjRYKqowh8E1yIdrsVu.jpg",
+                "cast_id": 23,
+                "character": "Special Agent Harris (voice)",
+                "credit_id": "52fe44ffc3a368484e042cc7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 149665,
+                "known_for_department": "Acting",
+                "name": "Kali Rocha",
+                "original_name": "Kali Rocha",
+                "popularity": 23.827,
+                "profile_path": "/f7KbFyacNW8SpGikARP99m6uT7B.jpg",
+                "cast_id": 24,
+                "character": "911 Operator (voice)",
+                "credit_id": "52fe44ffc3a368484e042ccb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 152820,
+                "known_for_department": "Acting",
+                "name": "Chris William Martin",
+                "original_name": "Chris William Martin",
+                "popularity": 18.146,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "State Department Rep. (voice)",
+                "credit_id": "52fe44ffc3a368484e042ccf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1062208,
+                "known_for_department": "Acting",
+                "name": "Cade Dundish",
+                "original_name": "Cade Dundish",
+                "popularity": 0.763,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Shane Conroy (voice)",
+                "credit_id": "52fe44ffc3a368484e042cd3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 63232,
+                "known_for_department": "Acting",
+                "name": "Mary Birdsong",
+                "original_name": "Mary Birdsong",
+                "popularity": 12.051,
+                "profile_path": "/zZWIvyXarnIEQVXKTpS0EUdts9M.jpg",
+                "cast_id": 27,
+                "character": "411 Female Operator (voice)",
+                "credit_id": "52fe44ffc3a368484e042cd7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 176035,
+                "known_for_department": "Acting",
+                "name": "Kirk Baily",
+                "original_name": "Kirk Baily",
+                "popularity": 9.23,
+                "profile_path": "/pu0kg7Nbaw028jnQlQXLO5ZGaZk.jpg",
+                "cast_id": 28,
+                "character": "411 Male Operator (voice)",
+                "credit_id": "52fe44ffc3a368484e042cdb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41227,
+                "known_for_department": "Acting",
+                "name": "Anne Lockhart",
+                "original_name": "Anne Lockhart",
+                "popularity": 31.109,
+                "profile_path": "/2S2Fg2ICuiEMUod9SFnOp2usJqX.jpg",
+                "cast_id": 29,
+                "character": "CRT Operator (voice)",
+                "credit_id": "52fe44ffc3a368484e042cdf",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35172,
+                "known_for_department": "Acting",
+                "name": "Robert Clotworthy",
+                "original_name": "Robert Clotworthy",
+                "popularity": 18.413,
+                "profile_path": "/ya6d3Nkp28AYIQ9TFDfwh8lshxg.jpg",
+                "cast_id": 30,
+                "character": "CRT Spokesman (voice)",
+                "credit_id": "52fe44ffc3a368484e042ce3",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1208113,
+                "known_for_department": "Acting",
+                "name": "Michalla Petersen",
+                "original_name": "Michalla Petersen",
+                "popularity": 2.421,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Nursing Home Nurse (voice)",
+                "credit_id": "52fe44ffc3a368484e042ceb",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1208127,
+                "known_for_department": "Acting",
+                "name": "Juan Hidalgo",
+                "original_name": "Juan Hidalgo",
+                "popularity": 1.0,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Kidnapper (voice)",
+                "credit_id": "52fe44ffc3a368484e042cef",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1208128,
+                "known_for_department": "Acting",
+                "name": "Abdelilah Ben Massou",
+                "original_name": "Abdelilah Ben Massou",
+                "popularity": 0.541,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Kidnapper (voice)",
+                "credit_id": "52fe44ffc3a368484e042cf3",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1208129,
+                "known_for_department": "Acting",
+                "name": "Joe Guarneri",
+                "original_name": "Joe Guarneri",
+                "popularity": 2.758,
+                "profile_path": "/tfLVzsnmQZrpSG0wwsaNUqXZO2j.jpg",
+                "cast_id": 35,
+                "character": "Additional Voice (voice)",
+                "credit_id": "52fe44ffc3a368484e042cf7",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1145676,
+                "known_for_department": "Acting",
+                "name": "Heath Centazzo",
+                "original_name": "Heath Centazzo",
+                "popularity": 0.752,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Additional Voice (voice)",
+                "credit_id": "52fe44ffc3a368484e042cfb",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95320,
+                "known_for_department": "Directing",
+                "name": "Rodrigo Cortés",
+                "original_name": "Rodrigo Cortés",
+                "popularity": 4.68,
+                "profile_path": "/vl93c1UMcxgN8pcS7P8Ltjb4Gxu.jpg",
+                "credit_id": "52fe44ffc3a368484e042c61",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95321,
+                "known_for_department": "Writing",
+                "name": "Chris Sparling",
+                "original_name": "Chris Sparling",
+                "popularity": 6.392,
+                "profile_path": null,
+                "credit_id": "52fe44ffc3a368484e042c67",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1054301,
+                "known_for_department": "Production",
+                "name": "Adrián Guerra",
+                "original_name": "Adrián Guerra",
+                "popularity": 3.837,
+                "profile_path": "/4ZfybKJ722RJh8lnEY24TKgsCtt.jpg",
+                "credit_id": "52fe44ffc3a368484e042c75",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1030588,
+                "known_for_department": "Production",
+                "name": "Ken Hirsh",
+                "original_name": "Ken Hirsh",
+                "popularity": 0.879,
+                "profile_path": null,
+                "credit_id": "52fe44ffc3a368484e042c7b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1120585,
+                "known_for_department": "Acting",
+                "name": "Miki Nadal",
+                "original_name": "Miki Nadal",
+                "popularity": 12.769,
+                "profile_path": "/aT6gnoag3LInFKZnIkk7OnGtyl5.jpg",
+                "credit_id": "52fe44ffc3a368484e042c81",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1120586,
+                "known_for_department": "Sound",
+                "name": "Víctor Reyes",
+                "original_name": "Víctor Reyes",
+                "popularity": 1.798,
+                "profile_path": "/gAAhjmc6W3Am7mFv3ONk5Yq124j.jpg",
+                "credit_id": "52fe44ffc3a368484e042c87",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52259,
+                "known_for_department": "Production",
+                "name": "Peter Safran",
+                "original_name": "Peter Safran",
+                "popularity": 9.68,
+                "profile_path": "/fi7kdDDUdNrn5K6vmLkLrLarQQs.jpg",
+                "credit_id": "52fe44ffc3a368484e042c8d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1120587,
+                "known_for_department": "Production",
+                "name": "Tom Drumm",
+                "original_name": "Tom Drumm",
+                "popularity": 1.723,
+                "profile_path": null,
+                "credit_id": "52fe44ffc3a368484e042c93",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95320,
+                "known_for_department": "Directing",
+                "name": "Rodrigo Cortés",
+                "original_name": "Rodrigo Cortés",
+                "popularity": 4.68,
+                "profile_path": "/vl93c1UMcxgN8pcS7P8Ltjb4Gxu.jpg",
+                "credit_id": "52fe44ffc3a368484e042c99",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 968703,
+                "known_for_department": "Production",
+                "name": "Alejandro Miranda",
+                "original_name": "Alejandro Miranda",
+                "popularity": 0.794,
+                "profile_path": null,
+                "credit_id": "52fe44ffc3a368484e042c9f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1120588,
+                "known_for_department": "Production",
+                "name": "Oriol Maymó",
+                "original_name": "Oriol Maymó",
+                "popularity": 2.166,
+                "profile_path": null,
+                "credit_id": "52fe44ffc3a368484e042ca5",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1120586,
+                "known_for_department": "Sound",
+                "name": "Víctor Reyes",
+                "original_name": "Víctor Reyes",
+                "popularity": 1.798,
+                "profile_path": "/gAAhjmc6W3Am7mFv3ONk5Yq124j.jpg",
+                "credit_id": "52fe44ffc3a368484e042cab",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95320,
+                "known_for_department": "Directing",
+                "name": "Rodrigo Cortés",
+                "original_name": "Rodrigo Cortés",
+                "popularity": 4.68,
+                "profile_path": "/vl93c1UMcxgN8pcS7P8Ltjb4Gxu.jpg",
+                "credit_id": "52fe44ffc3a368484e042cb7",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 582924,
+                "known_for_department": "Camera",
+                "name": "Eduard Grau",
+                "original_name": "Eduard Grau",
+                "popularity": 5.687,
+                "profile_path": "/pEMBYzaub7iyNCQW2zFybseuBtY.jpg",
+                "credit_id": "54e6fdfcc3a3685af90010c6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 19817,
+                "known_for_department": "Sound",
+                "name": "James Muñoz",
+                "original_name": "James Muñoz",
+                "popularity": 7.693,
+                "profile_path": null,
+                "credit_id": "5991d5829251410448000083",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3004530,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mónica Alarcón",
+                "original_name": "Mónica Alarcón",
+                "popularity": 0.317,
+                "profile_path": null,
+                "credit_id": "6148fbec609750002a465abd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1400474,
+                "known_for_department": "Sound",
+                "name": "Marc Orts",
+                "original_name": "Marc Orts",
+                "popularity": 3.493,
+                "profile_path": null,
+                "credit_id": "6148fc0bc2823a00643cc941",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1637494,
+                "known_for_department": "Visual Effects",
+                "name": "Àlex Villagrasa",
+                "original_name": "Àlex Villagrasa",
+                "popularity": 0.452,
+                "profile_path": "/ecKk68lQyPdUoaAIruZKaJ6Y9cn.jpg",
+                "credit_id": "6148fc207719d70064a414c5",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95320,
+                "known_for_department": "Directing",
+                "name": "Rodrigo Cortés",
+                "original_name": "Rodrigo Cortés",
+                "popularity": 4.68,
+                "profile_path": "/vl93c1UMcxgN8pcS7P8Ltjb4Gxu.jpg",
+                "credit_id": "625226b067e0f72721619685",
+                "department": "Sound",
+                "job": "Music Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95320,
+                "known_for_department": "Directing",
+                "name": "Rodrigo Cortés",
+                "original_name": "Rodrigo Cortés",
+                "popularity": 4.68,
+                "profile_path": "/vl93c1UMcxgN8pcS7P8Ltjb4Gxu.jpg",
+                "credit_id": "625226bc56b9f7009ee1bbc9",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 935767,
+                "known_for_department": "Acting",
+                "name": "Susana García Díez",
+                "original_name": "Susana García Díez",
+                "popularity": 1.351,
+                "profile_path": null,
+                "credit_id": "62522c0c68b1ea006680d8c4",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ryan Reynolds",
+            "character": "Paul Conroy"
+        },
+        {
+            "actor": "José Luis García Pérez",
+            "character": "Jabir (voice)"
+        },
+        {
+            "actor": "Robert Paterson",
+            "character": "Dan Brenner (voice)"
+        },
+        {
+            "actor": "Stephen Tobolowsky",
+            "character": "Alan Davenport (voice)"
+        },
+        {
+            "actor": "Samantha Mathis",
+            "character": "Linda Conroy (voice)"
+        },
+        {
+            "actor": "Ivana Miño",
+            "character": "Pamela Lutti (voice)"
+        },
+        {
+            "actor": "Warner Loughlin",
+            "character": "Maryanne Conroy / Donna Mitchell / Rebecca Browning (voice)"
+        },
+        {
+            "actor": "Erik Palladino",
+            "character": "Special Agent Harris (voice)"
+        },
+        {
+            "actor": "Kali Rocha",
+            "character": "911 Operator (voice)"
+        },
+        {
+            "actor": "Chris William Martin",
+            "character": "State Department Rep. (voice)"
+        },
+        {
+            "actor": "Cade Dundish",
+            "character": "Shane Conroy (voice)"
+        },
+        {
+            "actor": "Mary Birdsong",
+            "character": "411 Female Operator (voice)"
+        },
+        {
+            "actor": "Kirk Baily",
+            "character": "411 Male Operator (voice)"
+        },
+        {
+            "actor": "Anne Lockhart",
+            "character": "CRT Operator (voice)"
+        },
+        {
+            "actor": "Robert Clotworthy",
+            "character": "CRT Spokesman (voice)"
+        },
+        {
+            "actor": "Michalla Petersen",
+            "character": "Nursing Home Nurse (voice)"
+        },
+        {
+            "actor": "Juan Hidalgo",
+            "character": "Kidnapper (voice)"
+        },
+        {
+            "actor": "Abdelilah Ben Massou",
+            "character": "Kidnapper (voice)"
+        },
+        {
+            "actor": "Joe Guarneri",
+            "character": "Additional Voice (voice)"
+        },
+        {
+            "actor": "Heath Centazzo",
+            "character": "Additional Voice (voice)"
+        }
+    ]
+}

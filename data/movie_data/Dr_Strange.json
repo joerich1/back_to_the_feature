@@ -1,0 +1,618 @@
+{
+    "adult": false,
+    "backdrop_path": "/kw4GhCZP5NeMVsfPol6HcX9JEeQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 50468,
+    "imdb_id": "tt0077469",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dr. Strange",
+    "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
+    "popularity": 19.159,
+    "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
+    "production_companies": [
+        {
+            "id": 26727,
+            "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+            "name": "Universal Television",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1978-09-06",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Battle of the sorcerers burns the screen with electric flame",
+    "title": "Dr. Strange",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 96,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "CBS",
+                        "release_date": "1978-09-06T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91624,
+                "known_for_department": "Acting",
+                "name": "Peter Hooten",
+                "original_name": "Peter Hooten",
+                "popularity": 19.103,
+                "profile_path": "/lpl3ymXsh58rUmqRycJWgveSJOd.jpg",
+                "cast_id": 1,
+                "character": "Dr. Stephen Strange",
+                "credit_id": "52fe47c8c3a36847f81480b9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2249,
+                "known_for_department": "Acting",
+                "name": "Clyde Kusatsu",
+                "original_name": "Clyde Kusatsu",
+                "popularity": 23.766,
+                "profile_path": "/5dTSe1F9cnReZGHYzbCbVy7vbcf.jpg",
+                "cast_id": 2,
+                "character": "Wong",
+                "credit_id": "52fe47c8c3a36847f81480bd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41232,
+                "known_for_department": "Acting",
+                "name": "Jessica Walter",
+                "original_name": "Jessica Walter",
+                "popularity": 32.011,
+                "profile_path": "/fjcMP7dMlTghgT3fFqFn6DWqxiS.jpg",
+                "cast_id": 3,
+                "character": "Morgan LeFay",
+                "credit_id": "52fe47c8c3a36847f81480c1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9986,
+                "known_for_department": "Acting",
+                "name": "Anne-Marie Martin",
+                "original_name": "Anne-Marie Martin",
+                "popularity": 21.518,
+                "profile_path": "/txE1j7v7BakV0DXippLa1wnGl5e.jpg",
+                "cast_id": 4,
+                "character": "Clea Lake",
+                "credit_id": "52fe47c8c3a36847f81480c5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22437,
+                "known_for_department": "Acting",
+                "name": "Philip Sterling",
+                "original_name": "Philip Sterling",
+                "popularity": 13.539,
+                "profile_path": "/r9i8O4VJfQRdkjPfzsVRRdMbBVH.jpg",
+                "cast_id": 5,
+                "character": "Dr Frank Taylor, Chief of Psychiatry",
+                "credit_id": "52fe47c8c3a36847f81480c9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11859,
+                "known_for_department": "Acting",
+                "name": "John Mills",
+                "original_name": "John Mills",
+                "popularity": 25.754,
+                "profile_path": "/jMqhI1NeTwgdKsrj9vMshk1r5hP.jpg",
+                "cast_id": 6,
+                "character": "Thomas Lindmer",
+                "credit_id": "52fe47c8c3a36847f81480cd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 564081,
+                "known_for_department": "Acting",
+                "name": "June Barrett",
+                "original_name": "June Barrett",
+                "popularity": 5.291,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Sarah",
+                "credit_id": "52fe47c8c3a36847f81480d1",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 166055,
+                "known_for_department": "Acting",
+                "name": "Sarah Rush",
+                "original_name": "Sarah Rush",
+                "popularity": 12.471,
+                "profile_path": "/9DwFjHEpPXsrBMrsFTZLRkNIzMI.jpg",
+                "cast_id": 8,
+                "character": "Nurse",
+                "credit_id": "52fe47c8c3a36847f81480d5",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 151731,
+                "known_for_department": "Acting",
+                "name": "Diana Webster",
+                "original_name": "Diana Webster",
+                "popularity": 5.217,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Head Nurse",
+                "credit_id": "52fe47c8c3a36847f81480d9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 154123,
+                "known_for_department": "Acting",
+                "name": "Bob Delegall",
+                "original_name": "Bob Delegall",
+                "popularity": 6.687,
+                "profile_path": "/5a4W3FWDzGwcsuO4cm7jqRdruiI.jpg",
+                "cast_id": 10,
+                "character": "Intern",
+                "credit_id": "52fe47c8c3a36847f81480dd",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213554,
+                "known_for_department": "Acting",
+                "name": "Larry Anderson",
+                "original_name": "Larry Anderson",
+                "popularity": 12.814,
+                "profile_path": "/9r93h4qdyCMn5XCWmtpMWqmWKTh.jpg",
+                "cast_id": 18,
+                "character": "Magician",
+                "credit_id": "53e83fbd0e0a266fa10036c6",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 166068,
+                "known_for_department": "Acting",
+                "name": "Blake Marion",
+                "original_name": "Blake Marion",
+                "popularity": 3.749,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Department Chief",
+                "credit_id": "52fe47c9c3a36847f81480e5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 146711,
+                "known_for_department": "Acting",
+                "name": "Lady Rowlands",
+                "original_name": "Lady Rowlands",
+                "popularity": 4.57,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Mrs. Sullivan",
+                "credit_id": "52fe47c9c3a36847f81480e9",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 219057,
+                "known_for_department": "Acting",
+                "name": "Ines Pedroza",
+                "original_name": "Ines Pedroza",
+                "popularity": 4.827,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Announcer",
+                "credit_id": "52fe47c9c3a36847f81480ed",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1109703,
+                "known_for_department": "Acting",
+                "name": "Michael Clark",
+                "original_name": "Michael Clark",
+                "popularity": 4.913,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Taxi Driver",
+                "credit_id": "56f514aa9251410ef70005db",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162167,
+                "known_for_department": "Acting",
+                "name": "David Hooks",
+                "original_name": "David Hooks",
+                "popularity": 3.88,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "The Nameless One",
+                "credit_id": "5ae65bfd9251410ce40042f0",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9600,
+                "known_for_department": "Acting",
+                "name": "Ted Cassidy",
+                "original_name": "Ted Cassidy",
+                "popularity": 34.297,
+                "profile_path": "/wGl9g8LgfJRGcCy1qv9AZwsfOrK.jpg",
+                "cast_id": 33,
+                "character": "Demon Balzaroth (voice)",
+                "credit_id": "5ae65c090e0a261072003f53",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16074,
+                "known_for_department": "Acting",
+                "name": "Michael Ansara",
+                "original_name": "Michael Ansara",
+                "popularity": 19.877,
+                "profile_path": "/pdxw0htplQoGCfCELABFlfIM7r9.jpg",
+                "cast_id": 34,
+                "character": "The Ancient One (voice)",
+                "credit_id": "5ae65c170e0a261051003f0f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 553770,
+                "known_for_department": "Acting",
+                "name": "Frank Catalano",
+                "original_name": "Frank Catalano",
+                "popularity": 2.121,
+                "profile_path": "/auwcsFXuvv2pBX7R3WgiMPC4r3V.jpg",
+                "cast_id": 35,
+                "character": "Orderly",
+                "credit_id": "5ae65c34c3a368136d0043b7",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162156,
+                "known_for_department": "Writing",
+                "name": "Philip DeGuere Jr.",
+                "original_name": "Philip DeGuere Jr.",
+                "popularity": 6.178,
+                "profile_path": null,
+                "credit_id": "52fe47c9c3a36847f81480f7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162156,
+                "known_for_department": "Writing",
+                "name": "Philip DeGuere Jr.",
+                "original_name": "Philip DeGuere Jr.",
+                "popularity": 6.178,
+                "profile_path": null,
+                "credit_id": "52fe47c9c3a36847f81480fd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 124008,
+                "known_for_department": "Sound",
+                "name": "Paul Chihara",
+                "original_name": "Paul Chihara",
+                "popularity": 5.271,
+                "profile_path": null,
+                "credit_id": "59c28a9b92514168970003ba",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1334272,
+                "known_for_department": "Camera",
+                "name": "Enzo A. Martinelli",
+                "original_name": "Enzo A. Martinelli",
+                "popularity": 2.113,
+                "profile_path": null,
+                "credit_id": "59c28aa3c3a368043200042b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1434060,
+                "known_for_department": "Editing",
+                "name": "Christopher Nelson",
+                "original_name": "Christopher Nelson",
+                "popularity": 5.067,
+                "profile_path": null,
+                "credit_id": "59c28ab0925141685f00041c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1213440,
+                "known_for_department": "Production",
+                "name": "Alex Beaton",
+                "original_name": "Alex Beaton",
+                "popularity": 2.719,
+                "profile_path": null,
+                "credit_id": "59c28ac192514168650003d9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17812,
+                "known_for_department": "Directing",
+                "name": "Gregory Hoblit",
+                "original_name": "Gregory Hoblit",
+                "popularity": 11.833,
+                "profile_path": "/1YUF4UpcCX3j3J65a4L1KoLOHAl.jpg",
+                "credit_id": "59c28acb92514168b20003ee",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1483088,
+                "known_for_department": "Writing",
+                "name": "Philip DeGuere Jr.",
+                "original_name": "Philip DeGuere Jr.",
+                "popularity": 1.776,
+                "profile_path": null,
+                "credit_id": "59c28ad4925141685f000449",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5842,
+                "known_for_department": "Art",
+                "name": "William H. Tuntke",
+                "original_name": "William H. Tuntke",
+                "popularity": 2.78,
+                "profile_path": null,
+                "credit_id": "59c28adfc3a368041e0003b8",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1318662,
+                "known_for_department": "Art",
+                "name": "Marc E. Meyer Jr.",
+                "original_name": "Marc E. Meyer Jr.",
+                "popularity": 1.529,
+                "profile_path": null,
+                "credit_id": "59c28ae9c3a3680411000477",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 417597,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Yvonne Wood",
+                "original_name": "Yvonne Wood",
+                "popularity": 4.203,
+                "profile_path": null,
+                "credit_id": "59c28af3925141685b000457",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7624,
+                "known_for_department": "Writing",
+                "name": "Stan Lee",
+                "original_name": "Stan Lee",
+                "popularity": 49.312,
+                "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+                "credit_id": "5ae65bbcc3a368136a0030b0",
+                "department": "Production",
+                "job": "Consulting Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7624,
+                "known_for_department": "Writing",
+                "name": "Stan Lee",
+                "original_name": "Stan Lee",
+                "popularity": 49.312,
+                "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg",
+                "credit_id": "5ae65bc5c3a368135100574c",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7625,
+                "known_for_department": "Writing",
+                "name": "Steve Ditko",
+                "original_name": "Steve Ditko",
+                "popularity": 17.456,
+                "profile_path": "/liZhKuugdqrSCYMzggzyhYRbfou.jpg",
+                "credit_id": "5ae65bd20e0a26106c003f09",
+                "department": "Writing",
+                "job": "Characters"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Peter Hooten",
+            "character": "Dr. Stephen Strange"
+        },
+        {
+            "actor": "Clyde Kusatsu",
+            "character": "Wong"
+        },
+        {
+            "actor": "Jessica Walter",
+            "character": "Morgan LeFay"
+        },
+        {
+            "actor": "Anne-Marie Martin",
+            "character": "Clea Lake"
+        },
+        {
+            "actor": "Philip Sterling",
+            "character": "Dr Frank Taylor, Chief of Psychiatry"
+        },
+        {
+            "actor": "John Mills",
+            "character": "Thomas Lindmer"
+        },
+        {
+            "actor": "June Barrett",
+            "character": "Sarah"
+        },
+        {
+            "actor": "Sarah Rush",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Diana Webster",
+            "character": "Head Nurse"
+        },
+        {
+            "actor": "Bob Delegall",
+            "character": "Intern"
+        },
+        {
+            "actor": "Larry Anderson",
+            "character": "Magician"
+        },
+        {
+            "actor": "Blake Marion",
+            "character": "Department Chief"
+        },
+        {
+            "actor": "Lady Rowlands",
+            "character": "Mrs. Sullivan"
+        },
+        {
+            "actor": "Ines Pedroza",
+            "character": "Announcer"
+        },
+        {
+            "actor": "Michael Clark",
+            "character": "Taxi Driver"
+        },
+        {
+            "actor": "David Hooks",
+            "character": "The Nameless One"
+        },
+        {
+            "actor": "Ted Cassidy",
+            "character": "Demon Balzaroth (voice)"
+        },
+        {
+            "actor": "Michael Ansara",
+            "character": "The Ancient One (voice)"
+        },
+        {
+            "actor": "Frank Catalano",
+            "character": "Orderly"
+        }
+    ]
+}

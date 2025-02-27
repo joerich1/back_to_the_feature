@@ -1,0 +1,867 @@
+{
+    "adult": false,
+    "backdrop_path": "/eTIZrKfOdE42Y9J9L0yekWLp936.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 20721,
+    "imdb_id": "tt0088936",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Code of Silence",
+    "overview": "A Chicago cop is caught in the middle of a gang war while his own comrades shun him because he wants to take an irresponsible cop down.",
+    "popularity": 13.618,
+    "poster_path": "/yE1Xh7Q7M6uDrm28ib0MMcuhO4L.jpg",
+    "production_companies": [
+        {
+            "id": 59424,
+            "logo_path": null,
+            "name": "Raymond Wagner Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 41,
+            "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+            "name": "Orion Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1985-05-03",
+    "revenue": 20345361,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Eddie Cusack's a good cop having a very bad day.",
+    "title": "Code of Silence",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 194,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1985-05-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1985-06-19T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2004-01-20T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2012-08-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1985-05-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1985-05-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51576,
+                "known_for_department": "Acting",
+                "name": "Chuck Norris",
+                "original_name": "Chuck Norris",
+                "popularity": 32.404,
+                "profile_path": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+                "cast_id": 1,
+                "character": "Eddie Cusack",
+                "credit_id": "52fe43f6c3a368484e0082ff",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86499,
+                "known_for_department": "Acting",
+                "name": "Mike Genovese",
+                "original_name": "Mike Genovese",
+                "popularity": 9.902,
+                "profile_path": "/dXUyMI5u9kL2Xh6C3YlyX6VYQD6.jpg",
+                "cast_id": 2,
+                "character": "Tony Luna",
+                "credit_id": "52fe43f6c3a368484e008303",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14731,
+                "known_for_department": "Acting",
+                "name": "Henry Silva",
+                "original_name": "Henry Silva",
+                "popularity": 20.943,
+                "profile_path": "/lPXDv2K8tkFMnEQsDGmeIMSPxiq.jpg",
+                "cast_id": 4,
+                "character": "Luis Comacho",
+                "credit_id": "52fe43f6c3a368484e00830d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30621,
+                "known_for_department": "Acting",
+                "name": "Bert Remsen",
+                "original_name": "Bert Remsen",
+                "popularity": 13.921,
+                "profile_path": "/2KOnofFMvseWKyo5LWO1uS6mtMc.jpg",
+                "cast_id": 5,
+                "character": "Commander Kates",
+                "credit_id": "52fe43f6c3a368484e008311",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1244120,
+                "known_for_department": "Acting",
+                "name": "Ralph Foody",
+                "original_name": "Ralph Foody",
+                "popularity": 6.847,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Cragie",
+                "credit_id": "5c05eff10e0a26486608da4e",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 156592,
+                "known_for_department": "Acting",
+                "name": "Nathan Davis",
+                "original_name": "Nathan Davis",
+                "popularity": 18.34,
+                "profile_path": "/rB4lnIJ81nhlybSzoo1YSrO3xEI.jpg",
+                "cast_id": 6,
+                "character": "Felix Scalese",
+                "credit_id": "52fe43f6c3a368484e008315",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554391,
+                "known_for_department": "Acting",
+                "name": "Allen Hamilton",
+                "original_name": "Allen Hamilton",
+                "popularity": 3.563,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Ted Pirelli",
+                "credit_id": "52fe43f6c3a368484e00831d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 194567,
+                "known_for_department": "Acting",
+                "name": "Ron Henriquez",
+                "original_name": "Ron Henriquez",
+                "popularity": 4.501,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Victor Comacho",
+                "credit_id": "52fe43f6c3a368484e008321",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 146307,
+                "known_for_department": "Acting",
+                "name": "Joe Guzaldo",
+                "original_name": "Joe Guzaldo",
+                "popularity": 14.64,
+                "profile_path": "/kyF6rJ7dMi8HrkF4fIYd3bSHVja.jpg",
+                "cast_id": 10,
+                "character": "Det. Nick Kopalas",
+                "credit_id": "52fe43f6c3a368484e008325",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58045,
+                "known_for_department": "Acting",
+                "name": "Molly Hagan",
+                "original_name": "Molly Hagan",
+                "popularity": 42.833,
+                "profile_path": "/m5pL170dlh7ex4lTESAK5kKARde.jpg",
+                "cast_id": 11,
+                "character": "Diana Luna",
+                "credit_id": "52fe43f6c3a368484e008329",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57597,
+                "known_for_department": "Acting",
+                "name": "Ron Dean",
+                "original_name": "Ron Dean",
+                "popularity": 12.777,
+                "profile_path": "/mgqdr4VFrTVZatkki2suNLYxeDG.jpg",
+                "cast_id": 12,
+                "character": "Det. Brennan",
+                "credit_id": "52fe43f6c3a368484e00832d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 101120,
+                "known_for_department": "Acting",
+                "name": "Wilbert Bradley",
+                "original_name": "Wilbert Bradley",
+                "popularity": 10.251,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Spider",
+                "credit_id": "52fe43f6c3a368484e008331",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1117,
+                "known_for_department": "Acting",
+                "name": "Dennis Farina",
+                "original_name": "Dennis Farina",
+                "popularity": 23.122,
+                "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg",
+                "cast_id": 14,
+                "character": "Det. Dorato",
+                "credit_id": "52fe43f6c3a368484e008335",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 992588,
+                "known_for_department": "Acting",
+                "name": "Gene Barge",
+                "original_name": "Gene Barge",
+                "popularity": 4.072,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Det. Music",
+                "credit_id": "52fe43f6c3a368484e008339",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 992589,
+                "known_for_department": "Acting",
+                "name": "Mario Nieves",
+                "original_name": "Mario Nieves",
+                "popularity": 1.21,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Pompas",
+                "credit_id": "52fe43f6c3a368484e00833d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59399,
+                "known_for_department": "Acting",
+                "name": "Miguel Nino",
+                "original_name": "Miguel Nino",
+                "popularity": 6.744,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Efren",
+                "credit_id": "5f0f3d021feac100335772f3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2713268,
+                "known_for_department": "Acting",
+                "name": "Lou Damiani",
+                "original_name": "Lou Damiani",
+                "popularity": 0.284,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Gamiani",
+                "credit_id": "5f0f3d270231f20039fdb281",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86576,
+                "known_for_department": "Acting",
+                "name": "Joseph F. Kosala",
+                "original_name": "Joseph F. Kosala",
+                "popularity": 15.414,
+                "profile_path": "/a6ioHr863U5wNiRCGimEyHOs4tg.jpg",
+                "cast_id": 25,
+                "character": "Kobas",
+                "credit_id": "5f0f3d3b1da7a60036154539",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2713270,
+                "known_for_department": "Acting",
+                "name": "Ronnie Barron",
+                "original_name": "Ronnie Barron",
+                "popularity": 0.155,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Doc",
+                "credit_id": "5f0f3d48ac41610037cf6321",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1522073,
+                "known_for_department": "Acting",
+                "name": "Nydia Rodriguez Terracina",
+                "original_name": "Nydia Rodriguez Terracina",
+                "popularity": 7.158,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Partida",
+                "credit_id": "5f0f3d671da7a600361546c3",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2064977,
+                "known_for_department": "Acting",
+                "name": "Andre Marquis",
+                "original_name": "Andre Marquis",
+                "popularity": 0.702,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Sanchez",
+                "credit_id": "5f0f3d9aa313b8003632a7c5",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136527,
+                "known_for_department": "Acting",
+                "name": "Howard Jackson",
+                "original_name": "Howard Jackson",
+                "popularity": 3.662,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Officer Johnson",
+                "credit_id": "5f0f3dbaafe2240036e03c0c",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138098,
+                "known_for_department": "Acting",
+                "name": "Alex Stevens",
+                "original_name": "Alex Stevens",
+                "popularity": 6.467,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Angel",
+                "credit_id": "5f0f3ddcac41610037cf647e",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4251,
+                "known_for_department": "Acting",
+                "name": "John Mahoney",
+                "original_name": "John Mahoney",
+                "popularity": 26.583,
+                "profile_path": "/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg",
+                "cast_id": 31,
+                "character": "Prowler Representative",
+                "credit_id": "610edebbae3843005eac5985",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 155825,
+                "known_for_department": "Acting",
+                "name": "Dennis Cockrum",
+                "original_name": "Dennis Cockrum",
+                "popularity": 17.689,
+                "profile_path": "/A3Or26SK7GFf9nv9OVd2X5DpLuO.jpg",
+                "cast_id": 32,
+                "character": "Hood in Tavern",
+                "credit_id": "62ee72d47d5504007bb69e00",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46075,
+                "known_for_department": "Acting",
+                "name": "Zaid Farid",
+                "original_name": "Zaid Farid",
+                "popularity": 9.869,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Hood in Tavern",
+                "credit_id": "62ee72ec176a9400864496ee",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 143903,
+                "known_for_department": "Crew",
+                "name": "Don Pike",
+                "original_name": "Don Pike",
+                "popularity": 5.26,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Hood on Yacht",
+                "credit_id": "62ee739846aed4007aa3e5d8",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1318541,
+                "known_for_department": "Acting",
+                "name": "Les Podewell",
+                "original_name": "Les Podewell",
+                "popularity": 7.039,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Coroner",
+                "credit_id": "62ee73af813cb600806ce2d6",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3652606,
+                "known_for_department": "Acting",
+                "name": "Trish Schaefer",
+                "original_name": "Trish Schaefer",
+                "popularity": 0.019,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Molly Luna",
+                "credit_id": "62ee73c7514c4a008290a6f9",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109007,
+                "known_for_department": "Acting",
+                "name": "Jack Kandel",
+                "original_name": "Jack Kandel",
+                "popularity": 2.704,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Eenie",
+                "credit_id": "62ee73ec514c4a007ab4fefe",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1870611,
+                "known_for_department": "Crew",
+                "name": "James Fierro",
+                "original_name": "James Fierro",
+                "popularity": 5.642,
+                "profile_path": "/35aSfehvNKjTSntcRgpdQG6TZzy.jpg",
+                "cast_id": 38,
+                "character": "Vito",
+                "credit_id": "62ee7400514c4a008290a719",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3652610,
+                "known_for_department": "Acting",
+                "name": "Tom Letuli",
+                "original_name": "Tom Letuli",
+                "popularity": 0.437,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Samo",
+                "credit_id": "62ee741a9369a2007afb322d",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 143904,
+                "known_for_department": "Crew",
+                "name": "Gary Pike",
+                "original_name": "Gary Pike",
+                "popularity": 3.839,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Scalese's Driver (as Gary T. Pike)",
+                "credit_id": "62ee7456813cb600806ce339",
+                "order": 32
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12989,
+                "known_for_department": "Directing",
+                "name": "Andrew Davis",
+                "original_name": "Andrew Davis",
+                "popularity": 11.172,
+                "profile_path": "/iHtwEZeu1X1l48WVMeNkN5vFo19.jpg",
+                "credit_id": "52fe43f6c3a368484e008309",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56191,
+                "known_for_department": "Writing",
+                "name": "Michael Butler",
+                "original_name": "Michael Butler",
+                "popularity": 6.44,
+                "profile_path": null,
+                "credit_id": "5ac21a3f0e0a260c4d01d9fb",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50715,
+                "known_for_department": "Sound",
+                "name": "David Michael Frank",
+                "original_name": "David Michael Frank",
+                "popularity": 2.773,
+                "profile_path": "/4QOAiZ706AL6n4DJBTZ8ndsTuhQ.jpg",
+                "credit_id": "5ac21a8a0e0a260c0101af4e",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53006,
+                "known_for_department": "Writing",
+                "name": "Dennis Shryack",
+                "original_name": "Dennis Shryack",
+                "popularity": 3.743,
+                "profile_path": null,
+                "credit_id": "5ac21a4d0e0a260c3901dcf5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53007,
+                "known_for_department": "Production",
+                "name": "Raymond Wagner",
+                "original_name": "Raymond Wagner",
+                "popularity": 1.413,
+                "profile_path": null,
+                "credit_id": "5ac21a230e0a264a5705cf3f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59955,
+                "known_for_department": "Camera",
+                "name": "Frank Tidy",
+                "original_name": "Frank Tidy",
+                "popularity": 7.196,
+                "profile_path": "/7EBqH2wrCMti6U8sMxl2fCTbiHZ.jpg",
+                "credit_id": "5ac21aaf92514126c301a88d",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3847045,
+                "known_for_department": "Editing",
+                "name": "Cecilia Reyes",
+                "original_name": "Cecilia Reyes",
+                "popularity": 0.577,
+                "profile_path": null,
+                "credit_id": "63aab11b5ad76b007dc56603",
+                "department": "Sound",
+                "job": "Assistant Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11475,
+                "known_for_department": "Art",
+                "name": "Maher Ahmad",
+                "original_name": "Maher Ahmad",
+                "popularity": 6.657,
+                "profile_path": null,
+                "credit_id": "643184101f98d101f645d42f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 58135,
+                "known_for_department": "Editing",
+                "name": "Christopher Holmes",
+                "original_name": "Christopher Holmes",
+                "popularity": 4.766,
+                "profile_path": null,
+                "credit_id": "6431842631032500e0dccd6f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188117,
+                "known_for_department": "Editing",
+                "name": "Peter Parasheles",
+                "original_name": "Peter Parasheles",
+                "popularity": 3.46,
+                "profile_path": null,
+                "credit_id": "643184349a643506ab786e73",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chuck Norris",
+            "character": "Eddie Cusack"
+        },
+        {
+            "actor": "Mike Genovese",
+            "character": "Tony Luna"
+        },
+        {
+            "actor": "Henry Silva",
+            "character": "Luis Comacho"
+        },
+        {
+            "actor": "Bert Remsen",
+            "character": "Commander Kates"
+        },
+        {
+            "actor": "Ralph Foody",
+            "character": "Cragie"
+        },
+        {
+            "actor": "Nathan Davis",
+            "character": "Felix Scalese"
+        },
+        {
+            "actor": "Allen Hamilton",
+            "character": "Ted Pirelli"
+        },
+        {
+            "actor": "Ron Henriquez",
+            "character": "Victor Comacho"
+        },
+        {
+            "actor": "Joe Guzaldo",
+            "character": "Det. Nick Kopalas"
+        },
+        {
+            "actor": "Molly Hagan",
+            "character": "Diana Luna"
+        },
+        {
+            "actor": "Ron Dean",
+            "character": "Det. Brennan"
+        },
+        {
+            "actor": "Wilbert Bradley",
+            "character": "Spider"
+        },
+        {
+            "actor": "Dennis Farina",
+            "character": "Det. Dorato"
+        },
+        {
+            "actor": "Gene Barge",
+            "character": "Det. Music"
+        },
+        {
+            "actor": "Mario Nieves",
+            "character": "Pompas"
+        },
+        {
+            "actor": "Miguel Nino",
+            "character": "Efren"
+        },
+        {
+            "actor": "Lou Damiani",
+            "character": "Gamiani"
+        },
+        {
+            "actor": "Joseph F. Kosala",
+            "character": "Kobas"
+        },
+        {
+            "actor": "Ronnie Barron",
+            "character": "Doc"
+        },
+        {
+            "actor": "Nydia Rodriguez Terracina",
+            "character": "Partida"
+        },
+        {
+            "actor": "Andre Marquis",
+            "character": "Sanchez"
+        },
+        {
+            "actor": "Howard Jackson",
+            "character": "Officer Johnson"
+        },
+        {
+            "actor": "Alex Stevens",
+            "character": "Angel"
+        },
+        {
+            "actor": "John Mahoney",
+            "character": "Prowler Representative"
+        },
+        {
+            "actor": "Dennis Cockrum",
+            "character": "Hood in Tavern"
+        },
+        {
+            "actor": "Zaid Farid",
+            "character": "Hood in Tavern"
+        },
+        {
+            "actor": "Don Pike",
+            "character": "Hood on Yacht"
+        },
+        {
+            "actor": "Les Podewell",
+            "character": "Coroner"
+        },
+        {
+            "actor": "Trish Schaefer",
+            "character": "Molly Luna"
+        },
+        {
+            "actor": "Jack Kandel",
+            "character": "Eenie"
+        },
+        {
+            "actor": "James Fierro",
+            "character": "Vito"
+        },
+        {
+            "actor": "Tom Letuli",
+            "character": "Samo"
+        },
+        {
+            "actor": "Gary Pike",
+            "character": "Scalese's Driver (as Gary T. Pike)"
+        }
+    ]
+}

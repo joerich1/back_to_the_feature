@@ -1,0 +1,557 @@
+{
+    "adult": false,
+    "backdrop_path": "/bmbgAZO8tK3jFzcxRXfcq8rlJd3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 25993,
+    "imdb_id": "tt0068230",
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Asylum",
+    "overview": "A young psychiatrist applies for a job at a mental asylum, and must pass a test by interviewing four patients. He must figure out which of the patients, is in fact, the doctor that he would be replacing if hired.",
+    "popularity": 36.737,
+    "poster_path": "/dNLelAHNX8reXhtNfTMRF10gGIj.jpg",
+    "production_companies": [
+        {
+            "id": 4630,
+            "logo_path": null,
+            "name": "Amicus Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1972-11-17",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "You have nothing to lose but your mind.",
+    "title": "Asylum",
+    "video": false,
+    "vote_average": 6.022,
+    "vote_count": 156,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1980-09-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-11-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5,
+                "known_for_department": "Acting",
+                "name": "Peter Cushing",
+                "original_name": "Peter Cushing",
+                "popularity": 54.334,
+                "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
+                "cast_id": 1,
+                "character": "Smith",
+                "credit_id": "52fe44e9c3a368484e03ddd7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2264,
+                "known_for_department": "Acting",
+                "name": "Patrick Magee",
+                "original_name": "Patrick Magee",
+                "popularity": 31.417,
+                "profile_path": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
+                "cast_id": 3,
+                "character": "Dr. Lionel Rutherford",
+                "credit_id": "52fe44e9c3a368484e03dde1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14503,
+                "known_for_department": "Acting",
+                "name": "Herbert Lom",
+                "original_name": "Herbert Lom",
+                "popularity": 21.223,
+                "profile_path": "/1sqfpn8EzsCgQdwmB8NP4bLWYlP.jpg",
+                "cast_id": 4,
+                "character": "Byron",
+                "credit_id": "52fe44e9c3a368484e03dde5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10341,
+                "known_for_department": "Acting",
+                "name": "Britt Ekland",
+                "original_name": "Britt Ekland",
+                "popularity": 39.685,
+                "profile_path": "/xwqKmseMHCXwLQGxardWgPTtAcW.jpg",
+                "cast_id": 5,
+                "character": "Lucy",
+                "credit_id": "52fe44e9c3a368484e03dde9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101851,
+                "known_for_department": "Acting",
+                "name": "Barry Morse",
+                "original_name": "Barry Morse",
+                "popularity": 32.074,
+                "profile_path": "/i3WCQnTcMSRXYTEum37rXYpboTz.jpg",
+                "cast_id": 6,
+                "character": "Bruno",
+                "credit_id": "52fe44e9c3a368484e03dded",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44079,
+                "known_for_department": "Acting",
+                "name": "Charlotte Rampling",
+                "original_name": "Charlotte Rampling",
+                "popularity": 46.328,
+                "profile_path": "/7fhg5FCcl0VfYERP5D0unpybqgx.jpg",
+                "cast_id": 7,
+                "character": "Barbara",
+                "credit_id": "52fe44e9c3a368484e03ddf1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 30121,
+                "known_for_department": "Acting",
+                "name": "Barbara Parkins",
+                "original_name": "Barbara Parkins",
+                "popularity": 25.033,
+                "profile_path": "/rP3lWj18YxMjU4D1TJqxHwhbtEH.jpg",
+                "cast_id": 9,
+                "character": "Bonnie",
+                "credit_id": "52fe44e9c3a368484e03ddfb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24682,
+                "known_for_department": "Acting",
+                "name": "Robert Powell",
+                "original_name": "Robert Powell",
+                "popularity": 26.347,
+                "profile_path": "/seHIncPS18PLjhEPqy4ZdeZ6lsU.jpg",
+                "cast_id": 10,
+                "character": "Dr. Martin",
+                "credit_id": "52fe44e9c3a368484e03ddff",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15736,
+                "known_for_department": "Acting",
+                "name": "Sylvia Syms",
+                "original_name": "Sylvia Syms",
+                "popularity": 16.303,
+                "profile_path": "/mfVaiYdavjLBjvFZpuLwJILLb6m.jpg",
+                "cast_id": 11,
+                "character": "Ruth",
+                "credit_id": "52fe44e9c3a368484e03de03",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20393,
+                "known_for_department": "Acting",
+                "name": "Richard Todd",
+                "original_name": "Richard Todd",
+                "popularity": 23.031,
+                "profile_path": "/3HRtRwg4PB3IeYkco9bXsQ6XBUr.jpg",
+                "cast_id": 12,
+                "character": "Walter",
+                "credit_id": "52fe44e9c3a368484e03de07",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39066,
+                "known_for_department": "Acting",
+                "name": "James Villiers",
+                "original_name": "James Villiers",
+                "popularity": 14.542,
+                "profile_path": "/4Q3T9KYj6fV8CpR9y8BOAAA1UAz.jpg",
+                "cast_id": 13,
+                "character": "George",
+                "credit_id": "52fe44e9c3a368484e03de0b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 123209,
+                "known_for_department": "Acting",
+                "name": "Geoffrey Bayldon",
+                "original_name": "Geoffrey Bayldon",
+                "popularity": 10.111,
+                "profile_path": "/11XZ9KrxGBzDzWarlEPv1sBLIGE.jpg",
+                "cast_id": 14,
+                "character": "Max Reynolds",
+                "credit_id": "52fe44e9c3a368484e03de0f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 17161,
+                "known_for_department": "Acting",
+                "name": "Ann Firbank",
+                "original_name": "Ann Firbank",
+                "popularity": 14.619,
+                "profile_path": "/m7RMLej3oaD6ZailQ0H6CwZiD8i.jpg",
+                "cast_id": 15,
+                "character": "Anna",
+                "credit_id": "52fe44e9c3a368484e03de13",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 47398,
+                "known_for_department": "Acting",
+                "name": "Megs Jenkins",
+                "original_name": "Megs Jenkins",
+                "popularity": 15.912,
+                "profile_path": "/rqkCDzV1hqsTCy7wsxZXNtdmcrm.jpg",
+                "cast_id": 16,
+                "character": "Nurse Higgins",
+                "credit_id": "52fe44e9c3a368484e03de17",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16697,
+                "known_for_department": "Acting",
+                "name": "John Franklyn-Robbins",
+                "original_name": "John Franklyn-Robbins",
+                "popularity": 9.115,
+                "profile_path": "/hpKBMsvLCmXk7BK2UzMBaZGTWHU.jpg",
+                "cast_id": 17,
+                "character": "Mr. Stebbins",
+                "credit_id": "52fe44e9c3a368484e03de1b",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26134,
+                "known_for_department": "Directing",
+                "name": "Roy Ward Baker",
+                "original_name": "Roy Ward Baker",
+                "popularity": 7.204,
+                "profile_path": "/8y7ip2Nhos2I0UfLOFz3kSlmoJp.jpg",
+                "credit_id": "52fe44e9c3a368484e03dddd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7299,
+                "known_for_department": "Writing",
+                "name": "Robert Bloch",
+                "original_name": "Robert Bloch",
+                "popularity": 13.81,
+                "profile_path": "/sc6dSKVCdqxCCqwHdBjtsCFLMyn.jpg",
+                "credit_id": "52fe44e9c3a368484e03de21",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7299,
+                "known_for_department": "Writing",
+                "name": "Robert Bloch",
+                "original_name": "Robert Bloch",
+                "popularity": 13.81,
+                "profile_path": "/sc6dSKVCdqxCCqwHdBjtsCFLMyn.jpg",
+                "credit_id": "52fe44e9c3a368484e03ddf7",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 30169,
+                "known_for_department": "Production",
+                "name": "Max Rosenberg",
+                "original_name": "Max Rosenberg",
+                "popularity": 2.191,
+                "profile_path": null,
+                "credit_id": "5c54a1efc3a368729085c4f5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20105,
+                "known_for_department": "Camera",
+                "name": "Denys N. Coop",
+                "original_name": "Denys N. Coop",
+                "popularity": 1.775,
+                "profile_path": null,
+                "credit_id": "5c549d9bc3a36830288197bd",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66105,
+                "known_for_department": "Editing",
+                "name": "Peter Tanner",
+                "original_name": "Peter Tanner",
+                "popularity": 3.347,
+                "profile_path": null,
+                "credit_id": "5c549db10e0a2662a4d19658",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90077,
+                "known_for_department": "Production",
+                "name": "Milton Subotsky",
+                "original_name": "Milton Subotsky",
+                "popularity": 8.499,
+                "profile_path": "/jigHvgqFk6YTkhkjlwUvc9Sbt2V.jpg",
+                "credit_id": "5c54a1dbc3a36847779c4d86",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 38646,
+                "known_for_department": "Sound",
+                "name": "Douglas Gamley",
+                "original_name": "Douglas Gamley",
+                "popularity": 2.45,
+                "profile_path": null,
+                "credit_id": "5f9068fd761421003986f125",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1313707,
+                "known_for_department": "Art",
+                "name": "Tony Curtis",
+                "original_name": "Tony Curtis",
+                "popularity": 1.318,
+                "profile_path": null,
+                "credit_id": "648f92b90f0da500e2b27c44",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 29671,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Roy Ashton",
+                "original_name": "Roy Ashton",
+                "popularity": 5.441,
+                "profile_path": null,
+                "credit_id": "648f92d50f0da500e2b27c4e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1546355,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joan Carpenter",
+                "original_name": "Joan Carpenter",
+                "popularity": 1.611,
+                "profile_path": null,
+                "credit_id": "648f92ea42bf0100c7fc1d8a",
+                "department": "Costume & Make-Up",
+                "job": "Hairdresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1417958,
+                "known_for_department": "Production",
+                "name": "Ronnie Curtis",
+                "original_name": "Ronnie Curtis",
+                "popularity": 3.748,
+                "profile_path": null,
+                "credit_id": "648f93082f8d0900ad3571f8",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 937166,
+                "known_for_department": "Sound",
+                "name": "Norman Bolland",
+                "original_name": "Norman Bolland",
+                "popularity": 2.89,
+                "profile_path": null,
+                "credit_id": "648f932e0f0da500e2b27c61",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136246,
+                "known_for_department": "Sound",
+                "name": "Clive Smith",
+                "original_name": "Clive Smith",
+                "popularity": 1.736,
+                "profile_path": null,
+                "credit_id": "648f9342c3c891010ca594a8",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1120609,
+                "known_for_department": "Production",
+                "name": "Gustave M. Berne",
+                "original_name": "Gustave M. Berne",
+                "popularity": 0.737,
+                "profile_path": null,
+                "credit_id": "648f9363559d2200e206ef7b",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Peter Cushing",
+            "character": "Smith"
+        },
+        {
+            "actor": "Patrick Magee",
+            "character": "Dr. Lionel Rutherford"
+        },
+        {
+            "actor": "Herbert Lom",
+            "character": "Byron"
+        },
+        {
+            "actor": "Britt Ekland",
+            "character": "Lucy"
+        },
+        {
+            "actor": "Barry Morse",
+            "character": "Bruno"
+        },
+        {
+            "actor": "Charlotte Rampling",
+            "character": "Barbara"
+        },
+        {
+            "actor": "Barbara Parkins",
+            "character": "Bonnie"
+        },
+        {
+            "actor": "Robert Powell",
+            "character": "Dr. Martin"
+        },
+        {
+            "actor": "Sylvia Syms",
+            "character": "Ruth"
+        },
+        {
+            "actor": "Richard Todd",
+            "character": "Walter"
+        },
+        {
+            "actor": "James Villiers",
+            "character": "George"
+        },
+        {
+            "actor": "Geoffrey Bayldon",
+            "character": "Max Reynolds"
+        },
+        {
+            "actor": "Ann Firbank",
+            "character": "Anna"
+        },
+        {
+            "actor": "Megs Jenkins",
+            "character": "Nurse Higgins"
+        },
+        {
+            "actor": "John Franklyn-Robbins",
+            "character": "Mr. Stebbins"
+        }
+    ]
+}

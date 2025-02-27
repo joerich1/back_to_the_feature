@@ -1,0 +1,846 @@
+{
+    "adult": false,
+    "backdrop_path": "/fL6CXc3iV8fJeAYfijHE2S7rtcg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 42877,
+    "imdb_id": "tt0132920",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dish Dogs",
+    "overview": "Two friends travel from town to town taking jobs as dishwashers until they both find love and must choose separate paths.",
+    "popularity": 9.372,
+    "poster_path": "/g9cFyxfS5EXNpz8AlnwFb6PRZiI.jpg",
+    "production_companies": [
+        {
+            "id": 42379,
+            "logo_path": null,
+            "name": "Filmwave Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 16245,
+            "logo_path": null,
+            "name": "7.23 Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-08-29",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "It's a story about the friends you make... the jobs you take... and the women who change everything.",
+    "title": "Dish Dogs",
+    "video": false,
+    "vote_average": 3.9,
+    "vote_count": 10,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2004-01-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2000-08-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1328,
+                "known_for_department": "Acting",
+                "name": "Sean Astin",
+                "original_name": "Sean Astin",
+                "popularity": 53.662,
+                "profile_path": "/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg",
+                "cast_id": 2,
+                "character": "Morgan",
+                "credit_id": "52fe461fc3a36847f80ee18d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26457,
+                "known_for_department": "Acting",
+                "name": "Matthew Lillard",
+                "original_name": "Matthew Lillard",
+                "popularity": 62.086,
+                "profile_path": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg",
+                "cast_id": 3,
+                "character": "Jason",
+                "credit_id": "52fe461fc3a36847f80ee191",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6197,
+                "known_for_department": "Acting",
+                "name": "Brian Dennehy",
+                "original_name": "Brian Dennehy",
+                "popularity": 57.208,
+                "profile_path": "/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg",
+                "cast_id": 4,
+                "character": "Frost",
+                "credit_id": "52fe461fc3a36847f80ee195",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21596,
+                "known_for_department": "Acting",
+                "name": "Shannon Elizabeth",
+                "original_name": "Shannon Elizabeth",
+                "popularity": 28.053,
+                "profile_path": "/NttGD7i2OgoMBZPDmpaSfoUUAm.jpg",
+                "cast_id": 5,
+                "character": "Anne",
+                "credit_id": "52fe461fc3a36847f80ee199",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13591,
+                "known_for_department": "Acting",
+                "name": "Richard Moll",
+                "original_name": "Richard Moll",
+                "popularity": 27.915,
+                "profile_path": "/p51OMBLWgsmf3qeprxszXHLmxKt.jpg",
+                "cast_id": 6,
+                "character": "Dewitt",
+                "credit_id": "52fe461fc3a36847f80ee19d",
+                "order": 4
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 71482,
+                "known_for_department": "Acting",
+                "name": "Maitland Ward",
+                "original_name": "Maitland Ward",
+                "popularity": 62.849,
+                "profile_path": "/ltzmimkpSxiSnUCAJjGdTL4FVBv.jpg",
+                "cast_id": 9,
+                "character": "Molly",
+                "credit_id": "5e9ac0c0076ce8001f2c60d1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 204411,
+                "known_for_department": "Acting",
+                "name": "Steven Martini",
+                "original_name": "Steven Martini",
+                "popularity": 20.201,
+                "profile_path": "/abNHa9hAM8IJafgS1dE19GIbHQs.jpg",
+                "cast_id": 10,
+                "character": "David (as Steve Martini)",
+                "credit_id": "5f2bb6dbf1759c003589257f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1058172,
+                "known_for_department": "Acting",
+                "name": "David Harris",
+                "original_name": "David Harris",
+                "popularity": 17.936,
+                "profile_path": "/5hBB94ZT9AeatPaTUHyNm4PnItR.jpg",
+                "cast_id": 38,
+                "character": "Shane",
+                "credit_id": "640842b0d3719700f986225e",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53778,
+                "known_for_department": "Acting",
+                "name": "E.J. Callahan",
+                "original_name": "E.J. Callahan",
+                "popularity": 12.333,
+                "profile_path": "/joHFIHLcqGstHrDr7T2nLa7Od3j.jpg",
+                "cast_id": 12,
+                "character": "Earl",
+                "credit_id": "5f2bb6f12b531d0038032438",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24323,
+                "known_for_department": "Acting",
+                "name": "Steve Franken",
+                "original_name": "Steve Franken",
+                "popularity": 8.785,
+                "profile_path": "/wdiQ9Pye2vM1Tfgr3QJ0XUEFYGX.jpg",
+                "cast_id": 13,
+                "character": "Pastor",
+                "credit_id": "5f2bb6fb2b531d003902aee6",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106474,
+                "known_for_department": "Acting",
+                "name": "Marcelo Tubert",
+                "original_name": "Marcelo Tubert",
+                "popularity": 10.552,
+                "profile_path": "/94XR27kAYZlkDDDnp6OSrGeyuvn.jpg",
+                "cast_id": 14,
+                "character": "Roberto",
+                "credit_id": "5f2bb7034b6d9d0035856294",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1196804,
+                "known_for_department": "Acting",
+                "name": "George Gray",
+                "original_name": "George Gray",
+                "popularity": 5.189,
+                "profile_path": "/q4NSqqtrI2uzJbi0UP6ZyHPbepl.jpg",
+                "cast_id": 15,
+                "character": "Aaron",
+                "credit_id": "5f2bb70efab3fa0033fd6682",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1391895,
+                "known_for_department": "Acting",
+                "name": "Sam Shamshak",
+                "original_name": "Sam Shamshak",
+                "popularity": 4.492,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Dean Berkowitz",
+                "credit_id": "5f2bb7178e8702003631c4a1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 166924,
+                "known_for_department": "Acting",
+                "name": "Herschel Sparber",
+                "original_name": "Herschel Sparber",
+                "popularity": 7.257,
+                "profile_path": "/rMionKu2DntCizR0dPGkfOMglU2.jpg",
+                "cast_id": 17,
+                "character": "E.J.",
+                "credit_id": "5f2bb7208e8702003732e15c",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1748147,
+                "known_for_department": "Acting",
+                "name": "Brad Braeden",
+                "original_name": "Brad Braeden",
+                "popularity": 1.923,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Troy",
+                "credit_id": "5f2bb72a4b6d9d00358562c6",
+                "order": 14
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 98130,
+                "known_for_department": "Acting",
+                "name": "Lorissa McComas",
+                "original_name": "Lorissa McComas",
+                "popularity": 3.076,
+                "profile_path": "/4Sk0Hefwhb1Y9OWNVivMeJbTTIW.jpg",
+                "cast_id": 19,
+                "character": "Susan",
+                "credit_id": "5f2bb7402b531d003902b171",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44780,
+                "known_for_department": "Acting",
+                "name": "Kimber West",
+                "original_name": "Kimber West",
+                "popularity": 2.876,
+                "profile_path": "/nQVrDE4dLhm0eLp3LgrSphbjTcZ.jpg",
+                "cast_id": 20,
+                "character": "Bridget",
+                "credit_id": "5f2bb7488e8702003732e195",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 63985,
+                "known_for_department": "Acting",
+                "name": "Jamie Anderson",
+                "original_name": "Jamie Anderson",
+                "popularity": 5.716,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Tiffany",
+                "credit_id": "5f2bb7548e8702003530f036",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 990687,
+                "known_for_department": "Acting",
+                "name": "Claudia Pichardo",
+                "original_name": "Claudia Pichardo",
+                "popularity": 3.017,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Karen",
+                "credit_id": "5f2bb75d2b531d003803269f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 155625,
+                "known_for_department": "Acting",
+                "name": "Sonya Eddy",
+                "original_name": "Sonya Eddy",
+                "popularity": 13.71,
+                "profile_path": "/u4yQNLmXkijZoXxMYC2Hs3DtA4P.jpg",
+                "cast_id": 23,
+                "character": "Outback Waitress",
+                "credit_id": "5f2bb7672b531d00380326b1",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1577284,
+                "known_for_department": "Acting",
+                "name": "Leah Jediny",
+                "original_name": "Leah Jediny",
+                "popularity": 1.845,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Hot Waitress",
+                "credit_id": "60f78cd8f1759c00765e2269",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3464066,
+                "known_for_department": "Acting",
+                "name": "Shannon Frank",
+                "original_name": "Shannon Frank",
+                "popularity": 1.718,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Cocktail Waitress",
+                "credit_id": "62890d0ce004a66f33a2193f",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 104905,
+                "known_for_department": "Acting",
+                "name": "C.C. Costigan",
+                "original_name": "C.C. Costigan",
+                "popularity": 8.723,
+                "profile_path": "/jojnSeZCReNlbxLFSdo98yRePEP.jpg",
+                "cast_id": 32,
+                "character": "Baby Doll Dancer",
+                "credit_id": "60f78c9b1685da0045787408",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44948,
+                "known_for_department": "Acting",
+                "name": "Linda O'Neil",
+                "original_name": "Linda O'Neil",
+                "popularity": 9.376,
+                "profile_path": "/4ANLArXefDqKH7e1Igc4mGh7QxU.jpg",
+                "cast_id": 33,
+                "character": "Baby Doll Dancer",
+                "credit_id": "60f78cab8d1b8e002d1344df",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1081136,
+                "known_for_department": "Acting",
+                "name": "Chanel Ryan",
+                "original_name": "Chanel Ryan",
+                "popularity": 9.215,
+                "profile_path": "/vr8M7rCXWDLEthWQFUVrtXlD3Ya.jpg",
+                "cast_id": 34,
+                "character": "Baby Doll Dancer",
+                "credit_id": "60f78cc3c7a7e0002d68319f",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1795656,
+                "known_for_department": "Acting",
+                "name": "Jamaica Charley",
+                "original_name": "Jamaica Charley",
+                "popularity": 3.08,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Baby Doll Dancer",
+                "credit_id": "662e63527d5db501233e2864",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45330,
+                "known_for_department": "Directing",
+                "name": "Robert Kubilos",
+                "original_name": "Robert Kubilos",
+                "popularity": 2.317,
+                "profile_path": null,
+                "credit_id": "52fe461fc3a36847f80ee189",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1038875,
+                "known_for_department": "Writing",
+                "name": "Nathan Ives",
+                "original_name": "Nathan Ives",
+                "popularity": 4.351,
+                "profile_path": null,
+                "credit_id": "54a11dd1925141190d0010e3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1172322,
+                "known_for_department": "Writing",
+                "name": "Ashley Scott Meyers",
+                "original_name": "Ashley Scott Meyers",
+                "popularity": 1.336,
+                "profile_path": null,
+                "credit_id": "54a11dc39251414e280078b5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1623822,
+                "known_for_department": "Production",
+                "name": "Michael A. Candela",
+                "original_name": "Michael A. Candela",
+                "popularity": 1.786,
+                "profile_path": null,
+                "credit_id": "60f786c1af58cb0075046cf0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1833989,
+                "known_for_department": "Production",
+                "name": "David Forrest",
+                "original_name": "David Forrest",
+                "popularity": 2.688,
+                "profile_path": null,
+                "credit_id": "60f786e01685da0045786049",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 940645,
+                "known_for_department": "Production",
+                "name": "Richard Mann",
+                "original_name": "Richard Mann",
+                "popularity": 3.205,
+                "profile_path": null,
+                "credit_id": "60f786ecc7a7e0002d6822d1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 954589,
+                "known_for_department": "Production",
+                "name": "Beau Rogers",
+                "original_name": "Beau Rogers",
+                "popularity": 2.001,
+                "profile_path": null,
+                "credit_id": "60f786f61685da0045786077",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43745,
+                "known_for_department": "Sound",
+                "name": "Herman Beeftink",
+                "original_name": "Herman Beeftink",
+                "popularity": 3.583,
+                "profile_path": "/eMbH9x2n8a75mTVzrTv700CAgKb.jpg",
+                "credit_id": "60f786fe8d1b8e0046cf7ee1",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 55429,
+                "known_for_department": "Crew",
+                "name": "Mark Vicente",
+                "original_name": "Mark Vicente",
+                "popularity": 4.375,
+                "profile_path": null,
+                "credit_id": "60f7870b42d8a5005e744a23",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 48586,
+                "known_for_department": "Editing",
+                "name": "Carol Oblath",
+                "original_name": "Carol Oblath",
+                "popularity": 2.841,
+                "profile_path": null,
+                "credit_id": "60f78711d7fbda0062a33bb6",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1183915,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kristin M. Burke",
+                "original_name": "Kristin M. Burke",
+                "popularity": 1.853,
+                "profile_path": null,
+                "credit_id": "60f7871ceda4b70046e230a0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 180830,
+                "known_for_department": "Crew",
+                "name": "Kurt Bryant",
+                "original_name": "Kurt Bryant",
+                "popularity": 14.826,
+                "profile_path": "/fj3nQcu5YoJSkfOy8ibVodIXk4h.jpg",
+                "credit_id": "6422186c6a34480086262f41",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1748470,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michael R. Jones",
+                "original_name": "Michael R. Jones",
+                "popularity": 0.791,
+                "profile_path": null,
+                "credit_id": "6432eb0c310325009a21d00c",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1832795,
+                "known_for_department": "Directing",
+                "name": "Tony Steinberg",
+                "original_name": "Tony Steinberg",
+                "popularity": 2.114,
+                "profile_path": null,
+                "credit_id": "6432eb1b6f53e1009325d53a",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1347997,
+                "known_for_department": "Sound",
+                "name": "Gary Coppola",
+                "original_name": "Gary Coppola",
+                "popularity": 3.91,
+                "profile_path": null,
+                "credit_id": "6432eb2e9a643506cebd514e",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 112610,
+                "known_for_department": "Sound",
+                "name": "George R. Groves Jr.",
+                "original_name": "George R. Groves Jr.",
+                "popularity": 1.478,
+                "profile_path": null,
+                "credit_id": "6432eb35e92d8300d59d9527",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457813,
+                "known_for_department": "Camera",
+                "name": "Jeremy Launais",
+                "original_name": "Jeremy Launais",
+                "popularity": 2.171,
+                "profile_path": null,
+                "credit_id": "6432eb4f9a64350666c7ad99",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1564150,
+                "known_for_department": "Sound",
+                "name": "Lonnie Sill",
+                "original_name": "Lonnie Sill",
+                "popularity": 0.704,
+                "profile_path": null,
+                "credit_id": "6432eb5f6dea3a0112e4d929",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2003512,
+                "known_for_department": "Production",
+                "name": "Ellen Erwin",
+                "original_name": "Ellen Erwin",
+                "popularity": 1.394,
+                "profile_path": null,
+                "credit_id": "6432eb756f53e100b4a35815",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21857,
+                "known_for_department": "Art",
+                "name": "Chris Davis",
+                "original_name": "Chris Davis",
+                "popularity": 3.691,
+                "profile_path": null,
+                "credit_id": "6432eb8e31032500bd56d91d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 957670,
+                "known_for_department": "Production",
+                "name": "Don Poquette",
+                "original_name": "Don Poquette",
+                "popularity": 1.193,
+                "profile_path": null,
+                "credit_id": "6432ebaa1f98d101cba6caf9",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Sean Astin",
+            "character": "Morgan"
+        },
+        {
+            "actor": "Matthew Lillard",
+            "character": "Jason"
+        },
+        {
+            "actor": "Brian Dennehy",
+            "character": "Frost"
+        },
+        {
+            "actor": "Shannon Elizabeth",
+            "character": "Anne"
+        },
+        {
+            "actor": "Richard Moll",
+            "character": "Dewitt"
+        },
+        {
+            "actor": "Maitland Ward",
+            "character": "Molly"
+        },
+        {
+            "actor": "Steven Martini",
+            "character": "David (as Steve Martini)"
+        },
+        {
+            "actor": "David Harris",
+            "character": "Shane"
+        },
+        {
+            "actor": "E.J. Callahan",
+            "character": "Earl"
+        },
+        {
+            "actor": "Steve Franken",
+            "character": "Pastor"
+        },
+        {
+            "actor": "Marcelo Tubert",
+            "character": "Roberto"
+        },
+        {
+            "actor": "George Gray",
+            "character": "Aaron"
+        },
+        {
+            "actor": "Sam Shamshak",
+            "character": "Dean Berkowitz"
+        },
+        {
+            "actor": "Herschel Sparber",
+            "character": "E.J."
+        },
+        {
+            "actor": "Brad Braeden",
+            "character": "Troy"
+        },
+        {
+            "actor": "Lorissa McComas",
+            "character": "Susan"
+        },
+        {
+            "actor": "Kimber West",
+            "character": "Bridget"
+        },
+        {
+            "actor": "Jamie Anderson",
+            "character": "Tiffany"
+        },
+        {
+            "actor": "Claudia Pichardo",
+            "character": "Karen"
+        },
+        {
+            "actor": "Sonya Eddy",
+            "character": "Outback Waitress"
+        },
+        {
+            "actor": "Leah Jediny",
+            "character": "Hot Waitress"
+        },
+        {
+            "actor": "Shannon Frank",
+            "character": "Cocktail Waitress"
+        },
+        {
+            "actor": "C.C. Costigan",
+            "character": "Baby Doll Dancer"
+        },
+        {
+            "actor": "Linda O'Neil",
+            "character": "Baby Doll Dancer"
+        },
+        {
+            "actor": "Chanel Ryan",
+            "character": "Baby Doll Dancer"
+        },
+        {
+            "actor": "Jamaica Charley",
+            "character": "Baby Doll Dancer"
+        }
+    ]
+}

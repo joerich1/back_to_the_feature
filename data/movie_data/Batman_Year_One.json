@@ -1,0 +1,928 @@
+{
+    "adult": false,
+    "backdrop_path": "/bNMw3onveTYU7PpLQRK0HQK8JRb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/batman-year-one",
+    "id": 69735,
+    "imdb_id": "tt1672723",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Batman: Year One",
+    "overview": "A wealthy playboy named Bruce Wayne and a Chicago cop named Jim Gordon both return to Gotham City where their lives unexpectedly intersect.",
+    "popularity": 36.457,
+    "poster_path": "/mLZRhulJcDsxZWTdfx0trtk6y07.jpg",
+    "production_companies": [
+        {
+            "id": 2785,
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "origin_country": "US"
+        },
+        {
+            "id": 4811,
+            "logo_path": "/7xym5CnL4LcMPaWpp51cN1v73AR.png",
+            "name": "Warner Premiere",
+            "origin_country": "US"
+        },
+        {
+            "id": 9993,
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2011-09-27",
+    "revenue": 0,
+    "runtime": 64,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A merciless crime turns a man into an outlaw.",
+    "title": "Batman: Year One",
+    "video": false,
+    "vote_average": 7.273,
+    "vote_count": 915,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "HBO Max",
+                        "release_date": "2021-09-18T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "DVD, Blu-ray",
+                        "release_date": "2011-10-21T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "11",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-11-23T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "7",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2011-09-27T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2017-07-04T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MX",
+                "release_dates": [
+                    {
+                        "certification": "B-15",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2011-10-20T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-21T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Commemorative Edition",
+                        "release_date": "2021-11-09T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17245,
+                "known_for_department": "Acting",
+                "name": "Ben McKenzie",
+                "original_name": "Ben McKenzie",
+                "popularity": 18.098,
+                "profile_path": "/2jlwhOXKakL6gk365u4gPkTtHHi.jpg",
+                "cast_id": 30,
+                "character": "Batman / Bruce Wayne (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcccf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17419,
+                "known_for_department": "Acting",
+                "name": "Bryan Cranston",
+                "original_name": "Bryan Cranston",
+                "popularity": 49.225,
+                "profile_path": "/kNyTXGkiSP8W4Gs60hF7UoxZnWN.jpg",
+                "cast_id": 2,
+                "character": "Jim Gordon (voice)",
+                "credit_id": "52fe47d8c3a368484e0dcc55",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13446,
+                "known_for_department": "Acting",
+                "name": "Eliza Dushku",
+                "original_name": "Eliza Dushku",
+                "popularity": 48.576,
+                "profile_path": "/lvu4Vo9GL7uOjtU59MDiy3QDPAZ.jpg",
+                "cast_id": 3,
+                "character": "Selina (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc59",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4253,
+                "known_for_department": "Acting",
+                "name": "Jon Polito",
+                "original_name": "Jon Polito",
+                "popularity": 20.255,
+                "profile_path": "/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg",
+                "cast_id": 11,
+                "character": "Commissioner Loeb (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc83",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20752,
+                "known_for_department": "Acting",
+                "name": "Alex Rocco",
+                "original_name": "Alex Rocco",
+                "popularity": 27.538,
+                "profile_path": "/uAG4qvYhYHuCyyXGm3lqC4o6ujc.jpg",
+                "cast_id": 5,
+                "character": "Falcone (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc61",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 51798,
+                "known_for_department": "Acting",
+                "name": "Katee Sackhoff",
+                "original_name": "Katee Sackhoff",
+                "popularity": 61.891,
+                "profile_path": "/p8jMvubKMUE8thuRMZK5T6w1KbP.jpg",
+                "cast_id": 4,
+                "character": "Detective Essen (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc5d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127971,
+                "known_for_department": "Acting",
+                "name": "Sara Ballantine",
+                "original_name": "Sara Ballantine",
+                "popularity": 17.347,
+                "profile_path": "/1U5cbBlLEWGvtFY0fCgevwVNWQ4.jpg",
+                "cast_id": 12,
+                "character": "Skeevers' Attorney (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc87",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34982,
+                "known_for_department": "Acting",
+                "name": "Jeff Bennett",
+                "original_name": "Jeff Bennett",
+                "popularity": 35.667,
+                "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+                "cast_id": 13,
+                "character": "Alfred (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc8b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 571562,
+                "known_for_department": "Acting",
+                "name": "Steve Blum",
+                "original_name": "Steve Blum",
+                "popularity": 18.593,
+                "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+                "cast_id": 39,
+                "character": "Stan (voice)",
+                "credit_id": "5bff70f20e0a2629ce052d8d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92612,
+                "known_for_department": "Acting",
+                "name": "Roark Critchlow",
+                "original_name": "Roark Critchlow",
+                "popularity": 17.724,
+                "profile_path": "/8BbDBMItIx5OFD1YVmQeSALWQqq.jpg",
+                "cast_id": 15,
+                "character": "Hare Krishna (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc93",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15761,
+                "known_for_department": "Acting",
+                "name": "Grey DeLisle",
+                "original_name": "Grey DeLisle",
+                "popularity": 40.962,
+                "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+                "cast_id": 16,
+                "character": "Barbara Gordon (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc97",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 130081,
+                "known_for_department": "Acting",
+                "name": "Robin Atkin Downes",
+                "original_name": "Robin Atkin Downes",
+                "popularity": 19.825,
+                "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+                "cast_id": 17,
+                "character": "Harvey Dent (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc9b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 143346,
+                "known_for_department": "Acting",
+                "name": "Keith Ferguson",
+                "original_name": "Keith Ferguson",
+                "popularity": 22.639,
+                "profile_path": "/8EvTlmOhP34EZFEGsznqjbr4o4q.jpg",
+                "cast_id": 18,
+                "character": "Jefferson Skeevers (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcc9f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62389,
+                "known_for_department": "Acting",
+                "name": "Danny Jacobs",
+                "original_name": "Danny Jacobs",
+                "popularity": 12.713,
+                "profile_path": "/ox74aIErTCaBeBlamzZiPdkjVuX.jpg",
+                "cast_id": 20,
+                "character": "Flass' Attorney (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcca7",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39214,
+                "known_for_department": "Acting",
+                "name": "Nick Jameson",
+                "original_name": "Nick Jameson",
+                "popularity": 25.185,
+                "profile_path": "/rOvaOcNigOLPeZkAFipAwBEJQF6.jpg",
+                "cast_id": 21,
+                "character": "Merkel (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccab",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 71861,
+                "known_for_department": "Acting",
+                "name": "Liliana Mumy",
+                "original_name": "Liliana Mumy",
+                "popularity": 16.489,
+                "profile_path": "/rjwfUdZYb1P7y2DR8pekZ5tusHZ.jpg",
+                "cast_id": 22,
+                "character": "Holly (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccaf",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35349,
+                "known_for_department": "Acting",
+                "name": "Pat Musick",
+                "original_name": "Pat Musick",
+                "popularity": 17.478,
+                "profile_path": "/hERwKpGeMdnQQHB9fRe5Ly1oreN.jpg",
+                "cast_id": 23,
+                "character": "Falcone's Wife (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccb3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 34945,
+                "known_for_department": "Production",
+                "name": "Andrea Romano",
+                "original_name": "Andrea Romano",
+                "popularity": 10.072,
+                "profile_path": "/6WeW7uCKJNK5pVtHmJg5odVZH4u.jpg",
+                "cast_id": 24,
+                "character": "Obstetrician (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccb7",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17401,
+                "known_for_department": "Acting",
+                "name": "Stephen Root",
+                "original_name": "Stephen Root",
+                "popularity": 29.181,
+                "profile_path": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg",
+                "cast_id": 25,
+                "character": "Brendon (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccbb",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105641,
+                "known_for_department": "Acting",
+                "name": "James Patrick Stuart",
+                "original_name": "James Patrick Stuart",
+                "popularity": 18.521,
+                "profile_path": "/sFDP6Ahkr3LuMr1kTsLzwB5jV93.jpg",
+                "cast_id": 26,
+                "character": "Henchman (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccbf",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60279,
+                "known_for_department": "Acting",
+                "name": "Fred Tatasciore",
+                "original_name": "Fred Tatasciore",
+                "popularity": 31.151,
+                "profile_path": "/cKMuclPblMvQ4JQMN0nYKvb5ylu.jpg",
+                "cast_id": 27,
+                "character": "Detective Flass (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccc3",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34934,
+                "known_for_department": "Production",
+                "name": "Bruce Timm",
+                "original_name": "Bruce Timm",
+                "popularity": 21.201,
+                "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+                "cast_id": 28,
+                "character": "Thug #1 (voice)",
+                "credit_id": "52fe47d9c3a368484e0dccc7",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1128396,
+                "known_for_department": "Acting",
+                "name": "Bruce Wingert",
+                "original_name": "Bruce Wingert",
+                "popularity": 0.187,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Guard (voice)",
+                "credit_id": "52fe47d9c3a368484e0dcccb",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213976,
+                "known_for_department": "Acting",
+                "name": "Michael Gough",
+                "original_name": "Michael Gough",
+                "popularity": 11.048,
+                "profile_path": "/a1dGHmgxR6xvnHY1CSw9GN7Yy9Z.jpg",
+                "cast_id": 40,
+                "character": "Driver (voice)",
+                "credit_id": "5fca6d467314a10040c9ea0e",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90367,
+                "known_for_department": "Directing",
+                "name": "Sam Liu",
+                "original_name": "Sam Liu",
+                "popularity": 9.8,
+                "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg",
+                "credit_id": "52fe47d9c3a368484e0dcc67",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 74863,
+                "known_for_department": "Directing",
+                "name": "Lauren Montgomery",
+                "original_name": "Lauren Montgomery",
+                "popularity": 12.733,
+                "profile_path": "/vYgnYprzvl7sP6mcoxAhm66GneE.jpg",
+                "credit_id": "52fe47d9c3a368484e0dcc6d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61950,
+                "known_for_department": "Writing",
+                "name": "Tab Murphy",
+                "original_name": "Tab Murphy",
+                "popularity": 12.841,
+                "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+                "credit_id": "52fe47d9c3a368484e0dcc7f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3794,
+                "known_for_department": "Writing",
+                "name": "Bob Kane",
+                "original_name": "Bob Kane",
+                "popularity": 21.293,
+                "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+                "credit_id": "569c4333c3a36858c8001346",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 74863,
+                "known_for_department": "Directing",
+                "name": "Lauren Montgomery",
+                "original_name": "Lauren Montgomery",
+                "popularity": 12.733,
+                "profile_path": "/vYgnYprzvl7sP6mcoxAhm66GneE.jpg",
+                "credit_id": "569584c5c3a368717b000bf3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10949,
+                "known_for_department": "Production",
+                "name": "Michael Uslan",
+                "original_name": "Michael Uslan",
+                "popularity": 8.447,
+                "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+                "credit_id": "570ed83592514102af000adb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8068,
+                "known_for_department": "Editing",
+                "name": "Margaret Hou",
+                "original_name": "Margaret Hou",
+                "popularity": 3.868,
+                "profile_path": null,
+                "credit_id": "57ebe4fbc3a36839fe005c3f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1033619,
+                "known_for_department": "Editing",
+                "name": "Christopher D. Lozinski",
+                "original_name": "Christopher D. Lozinski",
+                "popularity": 2.974,
+                "profile_path": null,
+                "credit_id": "58d5a0a3c3a3681234030717",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10951,
+                "known_for_department": "Production",
+                "name": "Benjamin Melniker",
+                "original_name": "Benjamin Melniker",
+                "popularity": 7.776,
+                "profile_path": null,
+                "credit_id": "5febe18fa5d849003ce4b213",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34934,
+                "known_for_department": "Production",
+                "name": "Bruce Timm",
+                "original_name": "Bruce Timm",
+                "popularity": 21.201,
+                "profile_path": "/4G64qCUGFQ1Sfwa6MK7CzwAaHyL.jpg",
+                "credit_id": "5febe1a65ad76b003bcc9c17",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141043,
+                "known_for_department": "Production",
+                "name": "Sam Register",
+                "original_name": "Sam Register",
+                "popularity": 14.914,
+                "profile_path": "/9K1RTX51GDbegrAhMeLQLSGyF3B.jpg",
+                "credit_id": "5febe1ae1d1bf4003e1366a7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2036736,
+                "known_for_department": "Acting",
+                "name": "Mike Carlin",
+                "original_name": "Mike Carlin",
+                "popularity": 1.996,
+                "profile_path": null,
+                "credit_id": "5febe1c0d7107e003f27f1dc",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34936,
+                "known_for_department": "Writing",
+                "name": "Alan Burnett",
+                "original_name": "Alan Burnett",
+                "popularity": 11.034,
+                "profile_path": "/3gNmuxxdQbZ6nX2F63SMQNVbmqz.jpg",
+                "credit_id": "5febe1ca5ad76b003cccd98a",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1200787,
+                "known_for_department": "Production",
+                "name": "Michael Macasero",
+                "original_name": "Michael Macasero",
+                "popularity": 1.935,
+                "profile_path": null,
+                "credit_id": "5febe1d3761421003c89f5c2",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1113050,
+                "known_for_department": "Sound",
+                "name": "Christopher Drake",
+                "original_name": "Christopher Drake",
+                "popularity": 3.879,
+                "profile_path": null,
+                "credit_id": "5febe1e4bf7744003f2a7e2a",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105643,
+                "known_for_department": "Directing",
+                "name": "Jay Oliva",
+                "original_name": "Jay Oliva",
+                "popularity": 14.724,
+                "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg",
+                "credit_id": "5febe2225ff34e003ffe9a7b",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2916185,
+                "known_for_department": "Writing",
+                "name": "David Mazzucchelli",
+                "original_name": "David Mazzucchelli",
+                "popularity": 3.322,
+                "profile_path": null,
+                "credit_id": "61d66e0f1b722c008bfd98eb",
+                "department": "Writing",
+                "job": "Graphic Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2293,
+                "known_for_department": "Writing",
+                "name": "Frank Miller",
+                "original_name": "Frank Miller",
+                "popularity": 15.906,
+                "profile_path": "/2eqqLG9Sv4i1ZlM14wY2LTTEbld.jpg",
+                "credit_id": "61d66e18459ad600416d4947",
+                "department": "Writing",
+                "job": "Graphic Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 209181,
+                "known_for_department": "Directing",
+                "name": "Christopher Berkeley",
+                "original_name": "Christopher Berkeley",
+                "popularity": 4.966,
+                "profile_path": null,
+                "credit_id": "61d66e6a459ad600416d49d0",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ben McKenzie",
+            "character": "Batman / Bruce Wayne (voice)"
+        },
+        {
+            "actor": "Bryan Cranston",
+            "character": "Jim Gordon (voice)"
+        },
+        {
+            "actor": "Eliza Dushku",
+            "character": "Selina (voice)"
+        },
+        {
+            "actor": "Jon Polito",
+            "character": "Commissioner Loeb (voice)"
+        },
+        {
+            "actor": "Alex Rocco",
+            "character": "Falcone (voice)"
+        },
+        {
+            "actor": "Katee Sackhoff",
+            "character": "Detective Essen (voice)"
+        },
+        {
+            "actor": "Sara Ballantine",
+            "character": "Skeevers' Attorney (voice)"
+        },
+        {
+            "actor": "Jeff Bennett",
+            "character": "Alfred (voice)"
+        },
+        {
+            "actor": "Steve Blum",
+            "character": "Stan (voice)"
+        },
+        {
+            "actor": "Roark Critchlow",
+            "character": "Hare Krishna (voice)"
+        },
+        {
+            "actor": "Grey DeLisle",
+            "character": "Barbara Gordon (voice)"
+        },
+        {
+            "actor": "Robin Atkin Downes",
+            "character": "Harvey Dent (voice)"
+        },
+        {
+            "actor": "Keith Ferguson",
+            "character": "Jefferson Skeevers (voice)"
+        },
+        {
+            "actor": "Danny Jacobs",
+            "character": "Flass' Attorney (voice)"
+        },
+        {
+            "actor": "Nick Jameson",
+            "character": "Merkel (voice)"
+        },
+        {
+            "actor": "Liliana Mumy",
+            "character": "Holly (voice)"
+        },
+        {
+            "actor": "Pat Musick",
+            "character": "Falcone's Wife (voice)"
+        },
+        {
+            "actor": "Andrea Romano",
+            "character": "Obstetrician (voice)"
+        },
+        {
+            "actor": "Stephen Root",
+            "character": "Brendon (voice)"
+        },
+        {
+            "actor": "James Patrick Stuart",
+            "character": "Henchman (voice)"
+        },
+        {
+            "actor": "Fred Tatasciore",
+            "character": "Detective Flass (voice)"
+        },
+        {
+            "actor": "Bruce Timm",
+            "character": "Thug #1 (voice)"
+        },
+        {
+            "actor": "Bruce Wingert",
+            "character": "Guard (voice)"
+        },
+        {
+            "actor": "Michael Gough",
+            "character": "Driver (voice)"
+        }
+    ]
+}

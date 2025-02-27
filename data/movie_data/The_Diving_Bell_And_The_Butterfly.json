@@ -1,0 +1,993 @@
+{
+    "adult": false,
+    "backdrop_path": "/gs9Z5cPauxH9Gml2kO6oUYwkTgK.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000020,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 2013,
+    "imdb_id": "tt0401383",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Le Scaphandre et le Papillon",
+    "overview": "The true story of Elle France editor Jean-Dominique Bauby, who, in 1995 at the age of 43, suffered a stroke that paralyzed his entire body, except his left eye. Using that eye to blink out his memoir, Bauby eloquently described the aspects of his interior world, from the psychological torment of being trapped inside his body to his imagined stories from lands he'd only visited in his mind.",
+    "popularity": 25.534,
+    "poster_path": "/3MJUo4bCPai5r9zrw7nTS8sVzQ7.jpg",
+    "production_companies": [
+        {
+            "id": 866,
+            "logo_path": null,
+            "name": "Pathé Renn Productions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 591,
+            "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+            "name": "France 3 Cinéma",
+            "origin_country": "FR"
+        },
+        {
+            "id": 862,
+            "logo_path": "/udTjbqPmcTbfrihMuLtLcizDEM1.png",
+            "name": "The Kennedy/Marshall Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2007-05-23",
+    "revenue": 19777647,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Let your imagination set you free.",
+    "title": "The Diving Bell and the Butterfly",
+    "video": false,
+    "vote_average": 7.57,
+    "vote_count": 1130,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "M",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-11-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-03-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Cannes",
+                        "release_date": "2007-05-22T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-05-23T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2008-02-26T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Disney+",
+                        "release_date": "2021-09-10T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2022-06-01T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2008-02-20T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-02-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-02-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-10-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-02-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-11-30T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8789,
+                "known_for_department": "Acting",
+                "name": "Mathieu Amalric",
+                "original_name": "Mathieu Amalric",
+                "popularity": 27.944,
+                "profile_path": "/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg",
+                "cast_id": 9,
+                "character": "Jean-Dominique Bauby",
+                "credit_id": "52fe432cc3a36847f803fd91",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8925,
+                "known_for_department": "Acting",
+                "name": "Emmanuelle Seigner",
+                "original_name": "Emmanuelle Seigner",
+                "popularity": 33.317,
+                "profile_path": "/xPRldoTHgFd1Z5TtGk3jo3TGvPL.jpg",
+                "cast_id": 10,
+                "character": "Céline Desmoulins",
+                "credit_id": "52fe432cc3a36847f803fd95",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8791,
+                "known_for_department": "Acting",
+                "name": "Marie-Josée Croze",
+                "original_name": "Marie-Josée Croze",
+                "popularity": 25.603,
+                "profile_path": "/cGBcSPPfsXbtydml0taNOY4WVwu.jpg",
+                "cast_id": 11,
+                "character": "Henriette Durand",
+                "credit_id": "52fe432cc3a36847f803fd99",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7276,
+                "known_for_department": "Acting",
+                "name": "Anne Consigny",
+                "original_name": "Anne Consigny",
+                "popularity": 19.238,
+                "profile_path": "/zO3kxij0mkvCJH8XxuoAOv9LDMw.jpg",
+                "cast_id": 12,
+                "character": "Claude",
+                "credit_id": "52fe432cc3a36847f803fd9d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7275,
+                "known_for_department": "Acting",
+                "name": "Patrick Chesnais",
+                "original_name": "Patrick Chesnais",
+                "popularity": 15.009,
+                "profile_path": "/g0eY9xGHUCIZBJj0QfxNnZQcH98.jpg",
+                "cast_id": 13,
+                "character": "Dr. Lepage",
+                "credit_id": "52fe432cc3a36847f803fda1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17498,
+                "known_for_department": "Acting",
+                "name": "Niels Arestrup",
+                "original_name": "Niels Arestrup",
+                "popularity": 18.677,
+                "profile_path": "/cGBSXuGCgXNMdXJAQhhLCf4hxAn.jpg",
+                "cast_id": 14,
+                "character": "Roussin",
+                "credit_id": "52fe432cc3a36847f803fda5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20725,
+                "known_for_department": "Production",
+                "name": "Olatz López Garmendia",
+                "original_name": "Olatz López Garmendia",
+                "popularity": 5.716,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Marie Lopez",
+                "credit_id": "52fe432cc3a36847f803fda9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19162,
+                "known_for_department": "Acting",
+                "name": "Jean-Pierre Cassel",
+                "original_name": "Jean-Pierre Cassel",
+                "popularity": 15.352,
+                "profile_path": "/iCZ9CFw55lwdERGuIEFrkpOdaBi.jpg",
+                "cast_id": 27,
+                "character": "Father Lucien",
+                "credit_id": "52fe432cc3a36847f803fddd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32511,
+                "known_for_department": "Acting",
+                "name": "Marina Hands",
+                "original_name": "Marina Hands",
+                "popularity": 23.031,
+                "profile_path": "/gpBLj4sUtBj8au0XN7LQIZSbY3E.jpg",
+                "cast_id": 28,
+                "character": "Joséphine",
+                "credit_id": "52fe432cc3a36847f803fde1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2201,
+                "known_for_department": "Acting",
+                "name": "Max von Sydow",
+                "original_name": "Max von Sydow",
+                "popularity": 25.862,
+                "profile_path": "/fOzSDFqMx84NR7PSv36P7j0Qf1q.jpg",
+                "cast_id": 29,
+                "character": "Papinou",
+                "credit_id": "52fe432cc3a36847f803fde5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4812,
+                "known_for_department": "Acting",
+                "name": "Isaach De Bankolé",
+                "original_name": "Isaach De Bankolé",
+                "popularity": 18.045,
+                "profile_path": "/aGjABQBgTA3tduuh54hzWx0aQ44.jpg",
+                "cast_id": 30,
+                "character": "Laurent",
+                "credit_id": "52fe432cc3a36847f803fde9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4286,
+                "known_for_department": "Acting",
+                "name": "Emma de Caunes",
+                "original_name": "Emma de Caunes",
+                "popularity": 24.763,
+                "profile_path": "/4SGij5jBQNznmVxBHDBtc8gUD2v.jpg",
+                "cast_id": 31,
+                "character": "Empress Eugenia",
+                "credit_id": "52fe432cc3a36847f803fded",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49946,
+                "known_for_department": "Acting",
+                "name": "Jean-Philippe Écoffey",
+                "original_name": "Jean-Philippe Écoffey",
+                "popularity": 4.869,
+                "profile_path": "/kBCeL63g94b97FdeID04Yswfvg5.jpg",
+                "cast_id": 32,
+                "character": "Doctor Mercier",
+                "credit_id": "52fe432cc3a36847f803fdf1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49947,
+                "known_for_department": "Acting",
+                "name": "Gérard Watkins",
+                "original_name": "Gérard Watkins",
+                "popularity": 7.579,
+                "profile_path": "/dGesmXnqoYn2yaCr5acMA2Ec9z.jpg",
+                "cast_id": 33,
+                "character": "Doctor Cocheton",
+                "credit_id": "52fe432cc3a36847f803fdf5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 49948,
+                "known_for_department": "Acting",
+                "name": "Nicolas Le Riche",
+                "original_name": "Nicolas Le Riche",
+                "popularity": 2.897,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Ninjinski",
+                "credit_id": "52fe432cc3a36847f803fdf9",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1566966,
+                "known_for_department": "Acting",
+                "name": "Théo Sampaio",
+                "original_name": "Théo Sampaio",
+                "popularity": 0.584,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Théophile",
+                "credit_id": "56a2687b925141720e000109",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1131037,
+                "known_for_department": "Acting",
+                "name": "Fiorella Campanella",
+                "original_name": "Fiorella Campanella",
+                "popularity": 12.076,
+                "profile_path": "/ytZo5FiluLS10m0xWr6p58TVeTi.jpg",
+                "cast_id": 39,
+                "character": "Céleste",
+                "credit_id": "56a2688f925141720b00011c",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1177475,
+                "known_for_department": "Acting",
+                "name": "Talina Boyaci",
+                "original_name": "Talina Boyaci",
+                "popularity": 7.9,
+                "profile_path": "/bX8XFjfKy3o1WCQ1PJ4AWWujqkg.jpg",
+                "cast_id": 40,
+                "character": "Hortense",
+                "credit_id": "56a268a89251417202000120",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35324,
+                "known_for_department": "Acting",
+                "name": "Anne Alvaro",
+                "original_name": "Anne Alvaro",
+                "popularity": 11.143,
+                "profile_path": "/qVGJMYoNm0wLLCVa8xSmDaHWBxe.jpg",
+                "cast_id": 41,
+                "character": "Betty",
+                "credit_id": "56a268bdc3a3683893000106",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 236639,
+                "known_for_department": "Acting",
+                "name": "Françoise Lebrun",
+                "original_name": "Françoise Lebrun",
+                "popularity": 13.109,
+                "profile_path": "/djbPgHqOI1J7thLTTnJIEQNfnZj.jpg",
+                "cast_id": 42,
+                "character": "Madame Bauby",
+                "credit_id": "56a268d19251417205000147",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5445,
+                "known_for_department": "Acting",
+                "name": "Zinedine Soualem",
+                "original_name": "Zinedine Soualem",
+                "popularity": 13.644,
+                "profile_path": "/feyQoQ89GDPnnmbeiiVFHkJvQtH.jpg",
+                "cast_id": 43,
+                "character": "Joubert",
+                "credit_id": "56a26a6cc3a368388b000146",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 131827,
+                "known_for_department": "Acting",
+                "name": "Laure de Clermont-Tonnerre",
+                "original_name": "Laure de Clermont-Tonnerre",
+                "popularity": 12.357,
+                "profile_path": "/7xbK9EcfsfhuFkKv6bH2WrOD894.jpg",
+                "cast_id": 44,
+                "character": "Diane",
+                "credit_id": "56a26a90925141720b000152",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53903,
+                "known_for_department": "Acting",
+                "name": "Agathe de La Fontaine",
+                "original_name": "Agathe de La Fontaine",
+                "popularity": 13.121,
+                "profile_path": "/vrlthtFEzZz2nQ4zX862nlK0sq4.jpg",
+                "cast_id": 45,
+                "character": "Inès",
+                "credit_id": "56a26b18c3a368389600014f",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1650962,
+                "known_for_department": "Acting",
+                "name": "Marie Meyer",
+                "original_name": "Marie Meyer",
+                "popularity": 1.296,
+                "profile_path": "/7vOhcUE4DXbbUJO1TlNYAEhmwPW.jpg",
+                "cast_id": 46,
+                "character": "Mannequin",
+                "credit_id": "62bb4c88229ae21212d49aec",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3605138,
+                "known_for_department": "Acting",
+                "name": "Ilze Bajare",
+                "original_name": "Ilze Bajare",
+                "popularity": 0.588,
+                "profile_path": "/icT038Bkxdafo2KCVQB7diXeLI7.jpg",
+                "cast_id": 47,
+                "character": "Mannequin",
+                "credit_id": "62bb4c9e4fd1410051649757",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3605139,
+                "known_for_department": "Acting",
+                "name": "Anna Chyzh",
+                "original_name": "Anna Chyzh",
+                "popularity": 0.02,
+                "profile_path": "/bgh3tUYlN6L2gvXiqliXZOuMUJJ.jpg",
+                "cast_id": 48,
+                "character": "Mannequin",
+                "credit_id": "62bb4cae3d43e013f79f2dcb",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77069,
+                "known_for_department": "Acting",
+                "name": "Lenny Kravitz",
+                "original_name": "Lenny Kravitz",
+                "popularity": 43.052,
+                "profile_path": "/pIoGuEUax5aeH3PKuaYK9wKEeoj.jpg",
+                "cast_id": 50,
+                "character": "Himself",
+                "credit_id": "6328d92ba3b5e6007a1f4dec",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7486,
+                "known_for_department": "Acting",
+                "name": "Michael Wincott",
+                "original_name": "Michael Wincott",
+                "popularity": 57.275,
+                "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg",
+                "cast_id": 51,
+                "character": "Fashion Photographer",
+                "credit_id": "65b0a5d1ea37e00193e42ec9",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 492,
+                "known_for_department": "Camera",
+                "name": "Janusz Kamiński",
+                "original_name": "Janusz Kamiński",
+                "popularity": 6.726,
+                "profile_path": "/5yURZbwMmhiXXlvDmRdz4V14Ufs.jpg",
+                "credit_id": "52fe432cc3a36847f803fd7b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7482,
+                "known_for_department": "Directing",
+                "name": "Julian Schnabel",
+                "original_name": "Julian Schnabel",
+                "popularity": 8.028,
+                "profile_path": "/pg4vhqMaVNlXtor4kHGPc8P68Zb.jpg",
+                "credit_id": "52fe432cc3a36847f803fdb5",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3558,
+                "known_for_department": "Writing",
+                "name": "Ronald Harwood",
+                "original_name": "Ronald Harwood",
+                "popularity": 12.446,
+                "profile_path": "/pNTMQfukYXGFOZK2y6uGNGIUZvy.jpg",
+                "credit_id": "52fe432cc3a36847f803fd75",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4280,
+                "known_for_department": "Editing",
+                "name": "Juliette Welfling",
+                "original_name": "Juliette Welfling",
+                "popularity": 5.802,
+                "profile_path": "/emeLmCFqaj6Hd00n7qWnmjP9r8u.jpg",
+                "credit_id": "52fe432cc3a36847f803fd81",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 49930,
+                "known_for_department": "Art",
+                "name": "Michel Eric",
+                "original_name": "Michel Eric",
+                "popularity": 0.182,
+                "profile_path": null,
+                "credit_id": "52fe432cc3a36847f803fdd3",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 489,
+                "known_for_department": "Production",
+                "name": "Kathleen Kennedy",
+                "original_name": "Kathleen Kennedy",
+                "popularity": 12.278,
+                "profile_path": "/ndgYlie0PHkyqEiEBGM8SqrPOkr.jpg",
+                "credit_id": "52fe432cc3a36847f803fd69",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11204,
+                "known_for_department": "Production",
+                "name": "Pierre Grunstein",
+                "original_name": "Pierre Grunstein",
+                "popularity": 7.129,
+                "profile_path": "/tLkYVd7BsBwyLtReZlCtww0I7k1.jpg",
+                "credit_id": "52fe432cc3a36847f803fdc7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7482,
+                "known_for_department": "Directing",
+                "name": "Julian Schnabel",
+                "original_name": "Julian Schnabel",
+                "popularity": 8.028,
+                "profile_path": "/pg4vhqMaVNlXtor4kHGPc8P68Zb.jpg",
+                "credit_id": "52fe432cc3a36847f803fd63",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4446,
+                "known_for_department": "Production",
+                "name": "Jon Kilik",
+                "original_name": "Jon Kilik",
+                "popularity": 9.276,
+                "profile_path": "/gxNOHTVIUSACPZzNzcyi50SViid.jpg",
+                "credit_id": "52fe432cc3a36847f803fd6f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20719,
+                "known_for_department": "Production",
+                "name": "Léonard Glowinski",
+                "original_name": "Léonard Glowinski",
+                "popularity": 2.678,
+                "profile_path": null,
+                "credit_id": "52fe432cc3a36847f803fdaf",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9890,
+                "known_for_department": "Sound",
+                "name": "Jean-Paul Mugel",
+                "original_name": "Jean-Paul Mugel",
+                "popularity": 5.188,
+                "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+                "credit_id": "52fe432cc3a36847f803fd8d",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4865,
+                "known_for_department": "Sound",
+                "name": "Paul Cantelon",
+                "original_name": "Paul Cantelon",
+                "popularity": 2.708,
+                "profile_path": null,
+                "credit_id": "52fe432cc3a36847f803fe0b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49925,
+                "known_for_department": "Sound",
+                "name": "Francis Wargnier",
+                "original_name": "Francis Wargnier",
+                "popularity": 4.507,
+                "profile_path": "/xkdzKBIykPBYCFnbeHH10VmfG70.jpg",
+                "credit_id": "52fe432cc3a36847f803fdbb",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49927,
+                "known_for_department": "Sound",
+                "name": "Dominique Gaborieau",
+                "original_name": "Dominique Gaborieau",
+                "popularity": 4.154,
+                "profile_path": "/mecugcLJnPPtFZ9FSG0dNg1D6gy.jpg",
+                "credit_id": "52fe432cc3a36847f803fdc1",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20722,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Olivier Bériot",
+                "original_name": "Olivier Bériot",
+                "popularity": 7.993,
+                "profile_path": "/lRsjmXQqaen453QYXV9HfNOsAgw.jpg",
+                "credit_id": "52fe432cc3a36847f803fd87",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20720,
+                "known_for_department": "Production",
+                "name": "Jim Lemley",
+                "original_name": "Jim Lemley",
+                "popularity": 3.058,
+                "profile_path": "/hP5iUewXWA0qCGYijXmfn0dzAQt.jpg",
+                "credit_id": "52fe432cc3a36847f803fdcd",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20721,
+                "known_for_department": "Writing",
+                "name": "Jean-Dominique Bauby",
+                "original_name": "Jean-Dominique Bauby",
+                "popularity": 1.417,
+                "profile_path": null,
+                "credit_id": "52fe432cc3a36847f803fdd9",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 28687,
+                "known_for_department": "Art",
+                "name": "Laurent Ott",
+                "original_name": "Laurent Ott",
+                "popularity": 2.166,
+                "profile_path": "/9xWkB7p3QHKeLR9J9lW5ImOW3Ny.jpg",
+                "credit_id": "52fe432cc3a36847f803fdff",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 49933,
+                "known_for_department": "Production",
+                "name": "François-Xavier Decraene",
+                "original_name": "François-Xavier Decraene",
+                "popularity": 1.863,
+                "profile_path": null,
+                "credit_id": "52fe432cc3a36847f803fe05",
+                "department": "Production",
+                "job": "Line Producer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Mathieu Amalric",
+            "character": "Jean-Dominique Bauby"
+        },
+        {
+            "actor": "Emmanuelle Seigner",
+            "character": "Céline Desmoulins"
+        },
+        {
+            "actor": "Marie-Josée Croze",
+            "character": "Henriette Durand"
+        },
+        {
+            "actor": "Anne Consigny",
+            "character": "Claude"
+        },
+        {
+            "actor": "Patrick Chesnais",
+            "character": "Dr. Lepage"
+        },
+        {
+            "actor": "Niels Arestrup",
+            "character": "Roussin"
+        },
+        {
+            "actor": "Olatz López Garmendia",
+            "character": "Marie Lopez"
+        },
+        {
+            "actor": "Jean-Pierre Cassel",
+            "character": "Father Lucien"
+        },
+        {
+            "actor": "Marina Hands",
+            "character": "Joséphine"
+        },
+        {
+            "actor": "Max von Sydow",
+            "character": "Papinou"
+        },
+        {
+            "actor": "Isaach De Bankolé",
+            "character": "Laurent"
+        },
+        {
+            "actor": "Emma de Caunes",
+            "character": "Empress Eugenia"
+        },
+        {
+            "actor": "Jean-Philippe Écoffey",
+            "character": "Doctor Mercier"
+        },
+        {
+            "actor": "Gérard Watkins",
+            "character": "Doctor Cocheton"
+        },
+        {
+            "actor": "Nicolas Le Riche",
+            "character": "Ninjinski"
+        },
+        {
+            "actor": "Théo Sampaio",
+            "character": "Théophile"
+        },
+        {
+            "actor": "Fiorella Campanella",
+            "character": "Céleste"
+        },
+        {
+            "actor": "Talina Boyaci",
+            "character": "Hortense"
+        },
+        {
+            "actor": "Anne Alvaro",
+            "character": "Betty"
+        },
+        {
+            "actor": "Françoise Lebrun",
+            "character": "Madame Bauby"
+        },
+        {
+            "actor": "Zinedine Soualem",
+            "character": "Joubert"
+        },
+        {
+            "actor": "Laure de Clermont-Tonnerre",
+            "character": "Diane"
+        },
+        {
+            "actor": "Agathe de La Fontaine",
+            "character": "Inès"
+        },
+        {
+            "actor": "Marie Meyer",
+            "character": "Mannequin"
+        },
+        {
+            "actor": "Ilze Bajare",
+            "character": "Mannequin"
+        },
+        {
+            "actor": "Anna Chyzh",
+            "character": "Mannequin"
+        },
+        {
+            "actor": "Lenny Kravitz",
+            "character": "Himself"
+        },
+        {
+            "actor": "Michael Wincott",
+            "character": "Fashion Photographer"
+        }
+    ]
+}

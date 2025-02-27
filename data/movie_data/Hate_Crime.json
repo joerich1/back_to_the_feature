@@ -1,0 +1,608 @@
+{
+    "adult": false,
+    "backdrop_path": "/dCZFnbBoAiz9X4PaZd4J5Cm2BgC.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 32671,
+    "imdb_id": "tt0415833",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hate Crime",
+    "overview": "Robbie Levinson and Trey McCoy suddenly encounter intolerance and hostility at the hands of their new neighbor, Chris Boyd, the son of a fundamentalist preacher.",
+    "popularity": 20.849,
+    "poster_path": "/mmwd6e7mULFzDkpbqcmst1BbTgY.jpg",
+    "production_companies": [
+        {
+            "id": 5220,
+            "logo_path": null,
+            "name": "Pasidg Productions Inc.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2005-01-14",
+    "revenue": 40758,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hate Crime",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 24,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2005-01-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Palm Springs International Film Festival",
+                        "release_date": "2005-01-14T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109524,
+                "known_for_department": "Acting",
+                "name": "Seth Peterson",
+                "original_name": "Seth Peterson",
+                "popularity": 17.578,
+                "profile_path": "/eDDDm3vBnmJZ4opwSxKsOUJLPZi.jpg",
+                "cast_id": 1,
+                "character": "Robbie Levinson",
+                "credit_id": "52fe44e29251416c91020371",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52374,
+                "known_for_department": "Acting",
+                "name": "Bruce Davison",
+                "original_name": "Bruce Davison",
+                "popularity": 31.328,
+                "profile_path": "/xbqrAVB5NX55yJvZVrGn9n9aVlA.jpg",
+                "cast_id": 2,
+                "character": "Pastor Boyd",
+                "credit_id": "52fe44e29251416c91020375",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86397,
+                "known_for_department": "Acting",
+                "name": "Chad Donella",
+                "original_name": "Chad Donella",
+                "popularity": 17.388,
+                "profile_path": "/iUOcGIj18DpXBJdAx3qmmKNF1wp.jpg",
+                "cast_id": 3,
+                "character": "Chris Boyd",
+                "credit_id": "52fe44e29251416c91020379",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 74276,
+                "known_for_department": "Acting",
+                "name": "Cindy Pickett",
+                "original_name": "Cindy Pickett",
+                "popularity": 17.313,
+                "profile_path": "/oZMzCxIIv0od25webjx8Z6foNjR.jpg",
+                "cast_id": 4,
+                "character": "Barbara McCoy",
+                "credit_id": "52fe44e29251416c9102037d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22541,
+                "known_for_department": "Acting",
+                "name": "Brian J. Smith",
+                "original_name": "Brian J. Smith",
+                "popularity": 6.62,
+                "profile_path": "/sAlWlK9mtX9BVGFybx7wQ9SSzTp.jpg",
+                "cast_id": 5,
+                "character": "Trey McCoy",
+                "credit_id": "52fe44e29251416c91020381",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 22553,
+                "known_for_department": "Acting",
+                "name": "Susan Blakely",
+                "original_name": "Susan Blakely",
+                "popularity": 25.151,
+                "profile_path": "/xfl66Wa4LYdcRwoXd9ojn8V55eF.jpg",
+                "cast_id": 6,
+                "character": "Martha Boyd",
+                "credit_id": "52fe44e29251416c91020385",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7401,
+                "known_for_department": "Acting",
+                "name": "Lin Shaye",
+                "original_name": "Lin Shaye",
+                "popularity": 31.028,
+                "profile_path": "/aL87Za52elH81zMiXQn5C7AXAeg.jpg",
+                "cast_id": 7,
+                "character": "Kathleen Slansky",
+                "credit_id": "52fe44e29251416c91020389",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 94309,
+                "known_for_department": "Acting",
+                "name": "Farah White",
+                "original_name": "Farah White",
+                "popularity": 10.218,
+                "profile_path": "/g0Bl2SqK7ljSLOMpOrC6yXCzkkt.jpg",
+                "cast_id": 8,
+                "character": "Det. Elizabeth Fisher",
+                "credit_id": "52fe44e29251416c9102038d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4808,
+                "known_for_department": "Acting",
+                "name": "Giancarlo Esposito",
+                "original_name": "Giancarlo Esposito",
+                "popularity": 56.737,
+                "profile_path": "/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg",
+                "cast_id": 9,
+                "character": "Detective Esposito",
+                "credit_id": "52fe44e29251416c91020391",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109525,
+                "known_for_department": "Acting",
+                "name": "Sean Hennigan",
+                "original_name": "Sean Hennigan",
+                "popularity": 8.06,
+                "profile_path": "/2H2MMzVFXSfQQBnT3au1HMj1IXX.jpg",
+                "cast_id": 10,
+                "character": "Jim McCoy",
+                "credit_id": "52fe44e29251416c91020395",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98307,
+                "known_for_department": "Acting",
+                "name": "Brandy Little",
+                "original_name": "Brandy Little",
+                "popularity": 3.954,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Stella",
+                "credit_id": "52fe44e29251416c91020399",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109526,
+                "known_for_department": "Acting",
+                "name": "Ben Bathman",
+                "original_name": "Ben Bathman",
+                "popularity": 0.708,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Connor Davis",
+                "credit_id": "52fe44e39251416c9102039d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109527,
+                "known_for_department": "Acting",
+                "name": "Luke King",
+                "original_name": "Luke King",
+                "popularity": 6.268,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Alton Kachim",
+                "credit_id": "52fe44e39251416c910203a1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109528,
+                "known_for_department": "Acting",
+                "name": "Earl Browning III",
+                "original_name": "Earl Browning III",
+                "popularity": 1.141,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Detective Loy",
+                "credit_id": "52fe44e39251416c910203a5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 109529,
+                "known_for_department": "Acting",
+                "name": "Scarlett McAlister",
+                "original_name": "Scarlett McAlister",
+                "popularity": 15.988,
+                "profile_path": "/3AR4DE7UOAP61Zps65tVXntVK8K.jpg",
+                "cast_id": 15,
+                "character": "Doctor Kucera",
+                "credit_id": "52fe44e39251416c910203a9",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3373166,
+                "known_for_department": "Acting",
+                "name": "Connor Gewin",
+                "original_name": "Connor Gewin",
+                "popularity": 0.364,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "4-year-old Trey",
+                "credit_id": "61d8d1aa136545001cef883d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3373167,
+                "known_for_department": "Acting",
+                "name": "Tyler Farris",
+                "original_name": "Tyler Farris",
+                "popularity": 0.671,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "10-year-old Trey",
+                "credit_id": "61d8d1c91684f7006cdb81e1",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1265154,
+                "known_for_department": "Acting",
+                "name": "Trevor Sterling Stovall",
+                "original_name": "Trevor Sterling Stovall",
+                "popularity": 2.134,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Fisher's Son",
+                "credit_id": "61d8d1e791745b001d0ff994",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3373185,
+                "known_for_department": "Acting",
+                "name": "Jason Hair-Wynn",
+                "original_name": "Jason Hair-Wynn",
+                "popularity": 0.172,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Boy in Jail (uncredited)",
+                "credit_id": "61d8d5e145765d001cde981e",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 979590,
+                "known_for_department": "Acting",
+                "name": "Preston Strother",
+                "original_name": "Preston Strother",
+                "popularity": 5.582,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Boy in Church (uncredited)",
+                "credit_id": "61d8d6079f5dfb00a32ac5e5",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1467914,
+                "known_for_department": "Acting",
+                "name": "Tyler Strother",
+                "original_name": "Tyler Strother",
+                "popularity": 0.695,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Boy in Church (uncredited)",
+                "credit_id": "61d8d61800508a009f377c26",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3018785,
+                "known_for_department": "Acting",
+                "name": "Cyrus Thompson",
+                "original_name": "Cyrus Thompson",
+                "popularity": 2.685,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Boy in the Park (uncredited)",
+                "credit_id": "61d8d62daf3da6008f01d6d0",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109531,
+                "known_for_department": "Directing",
+                "name": "Tommy Stovall",
+                "original_name": "Tommy Stovall",
+                "popularity": 5.427,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203b5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109532,
+                "known_for_department": "Production",
+                "name": "Ed Bird",
+                "original_name": "Ed Bird",
+                "popularity": 1.176,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203bb",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 61554,
+                "known_for_department": "Production",
+                "name": "P. Dirk Higdon",
+                "original_name": "P. Dirk Higdon",
+                "popularity": 0.588,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203c1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109533,
+                "known_for_department": "Production",
+                "name": "Marc S. Sterling",
+                "original_name": "Marc S. Sterling",
+                "popularity": 0.733,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203c7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109534,
+                "known_for_department": "Production",
+                "name": "Joey Stewart",
+                "original_name": "Joey Stewart",
+                "popularity": 3.909,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203cd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109536,
+                "known_for_department": "Production",
+                "name": "Jodie Trainor",
+                "original_name": "Jodie Trainor",
+                "popularity": 1.222,
+                "profile_path": null,
+                "credit_id": "52fe44e39251416c910203d3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109531,
+                "known_for_department": "Directing",
+                "name": "Tommy Stovall",
+                "original_name": "Tommy Stovall",
+                "popularity": 5.427,
+                "profile_path": null,
+                "credit_id": "5a90a32d925141334f0050c8",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535129,
+                "known_for_department": "Camera",
+                "name": "Ian Ellis",
+                "original_name": "Ian Ellis",
+                "popularity": 1.859,
+                "profile_path": null,
+                "credit_id": "61d8d94660b58d0043f24b6c",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61570,
+                "known_for_department": "Crew",
+                "name": "Russell Towery",
+                "original_name": "Russell Towery",
+                "popularity": 8.413,
+                "profile_path": "/jqaMgJe1MDjkO0gSQFs9YhrMS8z.jpg",
+                "credit_id": "65a13a8721621b01235960b1",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Seth Peterson",
+            "character": "Robbie Levinson"
+        },
+        {
+            "actor": "Bruce Davison",
+            "character": "Pastor Boyd"
+        },
+        {
+            "actor": "Chad Donella",
+            "character": "Chris Boyd"
+        },
+        {
+            "actor": "Cindy Pickett",
+            "character": "Barbara McCoy"
+        },
+        {
+            "actor": "Brian J. Smith",
+            "character": "Trey McCoy"
+        },
+        {
+            "actor": "Susan Blakely",
+            "character": "Martha Boyd"
+        },
+        {
+            "actor": "Lin Shaye",
+            "character": "Kathleen Slansky"
+        },
+        {
+            "actor": "Farah White",
+            "character": "Det. Elizabeth Fisher"
+        },
+        {
+            "actor": "Giancarlo Esposito",
+            "character": "Detective Esposito"
+        },
+        {
+            "actor": "Sean Hennigan",
+            "character": "Jim McCoy"
+        },
+        {
+            "actor": "Brandy Little",
+            "character": "Stella"
+        },
+        {
+            "actor": "Ben Bathman",
+            "character": "Connor Davis"
+        },
+        {
+            "actor": "Luke King",
+            "character": "Alton Kachim"
+        },
+        {
+            "actor": "Earl Browning III",
+            "character": "Detective Loy"
+        },
+        {
+            "actor": "Scarlett McAlister",
+            "character": "Doctor Kucera"
+        },
+        {
+            "actor": "Connor Gewin",
+            "character": "4-year-old Trey"
+        },
+        {
+            "actor": "Tyler Farris",
+            "character": "10-year-old Trey"
+        },
+        {
+            "actor": "Trevor Sterling Stovall",
+            "character": "Fisher's Son"
+        },
+        {
+            "actor": "Jason Hair-Wynn",
+            "character": "Boy in Jail (uncredited)"
+        },
+        {
+            "actor": "Preston Strother",
+            "character": "Boy in Church (uncredited)"
+        },
+        {
+            "actor": "Tyler Strother",
+            "character": "Boy in Church (uncredited)"
+        },
+        {
+            "actor": "Cyrus Thompson",
+            "character": "Boy in the Park (uncredited)"
+        }
+    ]
+}

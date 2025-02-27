@@ -1,0 +1,863 @@
+{
+    "adult": false,
+    "backdrop_path": "/6CwIvZzTtsHX9LQAySH03Vby5UV.jpg",
+    "belongs_to_collection": null,
+    "budget": 500000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 9071,
+    "imdb_id": "tt0113677",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Living in Oblivion",
+    "overview": "Nick is the director of a low-budget indie film. He tries to keep everything together as his production is plagued with an insecure actress, a megalomaniac star, a pretentious, beret-wearing director of photography, and lousy catering.",
+    "popularity": 18.246,
+    "poster_path": "/b54xDk98oWtEtAso9sj1wjaZDDH.jpg",
+    "production_companies": [
+        {
+            "id": 13187,
+            "logo_path": null,
+            "name": "JDI productions",
+            "origin_country": ""
+        },
+        {
+            "id": 13190,
+            "logo_path": null,
+            "name": "Lemon Sky Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1995-07-21",
+    "revenue": 1148752,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Nick is about to discover the first rule of filmmaking: if at first you don't succeed... PANIC!",
+    "title": "Living in Oblivion",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 265,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-11-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-02-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2000-08-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-09-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Sundance Film Festival",
+                        "release_date": "1995-01-20T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-07-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 884,
+                "known_for_department": "Acting",
+                "name": "Steve Buscemi",
+                "original_name": "Steve Buscemi",
+                "popularity": 47.683,
+                "profile_path": "/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg",
+                "cast_id": 1,
+                "character": "Nick Reve",
+                "credit_id": "52fe44d8c3a36847f80ad757",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2229,
+                "known_for_department": "Acting",
+                "name": "Catherine Keener",
+                "original_name": "Catherine Keener",
+                "popularity": 34.907,
+                "profile_path": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg",
+                "cast_id": 2,
+                "character": "Nicole Springer",
+                "credit_id": "52fe44d8c3a36847f80ad75b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20212,
+                "known_for_department": "Acting",
+                "name": "Dermot Mulroney",
+                "original_name": "Dermot Mulroney",
+                "popularity": 65.239,
+                "profile_path": "/5gJszOF45KMPB5tmAbKdK0qgQBx.jpg",
+                "cast_id": 3,
+                "character": "Wolf",
+                "credit_id": "52fe44d8c3a36847f80ad75f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82220,
+                "known_for_department": "Acting",
+                "name": "Danielle von Zerneck",
+                "original_name": "Danielle von Zerneck",
+                "popularity": 13.076,
+                "profile_path": "/yRokAUnPSiOuzHiwO1zcC1T4qj.jpg",
+                "cast_id": 12,
+                "character": "Wanda",
+                "credit_id": "535bdfd1c3a3683099001805",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6474,
+                "known_for_department": "Acting",
+                "name": "James Le Gros",
+                "original_name": "James Le Gros",
+                "popularity": 22.33,
+                "profile_path": "/yLMWgoKy4O9F4IX1d5vwsiwNJk6.jpg",
+                "cast_id": 4,
+                "character": "Chad Palomino",
+                "credit_id": "52fe44d8c3a36847f80ad763",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 171672,
+                "known_for_department": "Acting",
+                "name": "Rica Martens",
+                "original_name": "Rica Martens",
+                "popularity": 5.622,
+                "profile_path": "/xMFDzkp92lIl4pZt9Hcbnqbkhag.jpg",
+                "cast_id": 14,
+                "character": "Cora",
+                "credit_id": "56beb5c492514173560060a1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22970,
+                "known_for_department": "Acting",
+                "name": "Peter Dinklage",
+                "original_name": "Peter Dinklage",
+                "popularity": 42.956,
+                "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+                "cast_id": 5,
+                "character": "Tito",
+                "credit_id": "52fe44d8c3a36847f80ad767",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18472,
+                "known_for_department": "Acting",
+                "name": "Kevin Corrigan",
+                "original_name": "Kevin Corrigan",
+                "popularity": 27.902,
+                "profile_path": "/cAU4b3tV02YwFiikfZ0OkckBUmP.jpg",
+                "cast_id": 15,
+                "character": "Assistant Camera",
+                "credit_id": "56beb61e92514173560060be",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56904,
+                "known_for_department": "Production",
+                "name": "Hilary Gilford",
+                "original_name": "Hilary Gilford",
+                "popularity": 1.054,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Script",
+                "credit_id": "5f95e52ffcf9070035e928a1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105309,
+                "known_for_department": "Acting",
+                "name": "Robert Wightman",
+                "original_name": "Robert Wightman",
+                "popularity": 5.596,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Gaffer",
+                "credit_id": "56beb66bc3a36817f4006526",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1115834,
+                "known_for_department": "Directing",
+                "name": "Tom Jarmusch",
+                "original_name": "Tom Jarmusch",
+                "popularity": 3.187,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Driver / Intern",
+                "credit_id": "5f95e5570792e10035589f13",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1744448,
+                "known_for_department": "Acting",
+                "name": "Matthew Grace",
+                "original_name": "Matthew Grace",
+                "popularity": 1.187,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Boom",
+                "credit_id": "5f95e570a1074b0038f447fb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2830126,
+                "known_for_department": "Acting",
+                "name": "Ryan Bowker",
+                "original_name": "Ryan Bowker",
+                "popularity": 1.083,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Food Service / Clapper",
+                "credit_id": "5f95e57938e5100039dce1fe",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2830127,
+                "known_for_department": "Acting",
+                "name": "Francesca DiMauro",
+                "original_name": "Francesca DiMauro",
+                "popularity": 0.252,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Production Assistant",
+                "credit_id": "5f95e580bd32090038ef8fa8",
+                "order": 13
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104573,
+                "known_for_department": "Acting",
+                "name": "Norman Fields",
+                "original_name": "Norman Fields",
+                "popularity": 1.132,
+                "profile_path": "/dRFe2unG5A9znR7boUCdkqDYEbT.jpg",
+                "cast_id": 40,
+                "character": "Hair / Make-up Artist",
+                "credit_id": "5f95e58777e1f60035c24e3a",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 171743,
+                "known_for_department": "Acting",
+                "name": "Lori Tan Chinn",
+                "original_name": "Lori Tan Chinn",
+                "popularity": 18.708,
+                "profile_path": "/i0pvjYbtcGZzVKfqknkA2eBLy1S.jpg",
+                "cast_id": 41,
+                "character": "Costume Designer",
+                "credit_id": "5f95e594b7b69d0035a8e78a",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2830128,
+                "known_for_department": "Acting",
+                "name": "Vincenzo Amelia",
+                "original_name": "Vincenzo Amelia",
+                "popularity": 1.294,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Cook",
+                "credit_id": "5f95e59a9a64c10035be3aef",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2830129,
+                "known_for_department": "Acting",
+                "name": "Laurel Thornby",
+                "original_name": "Laurel Thornby",
+                "popularity": 0.146,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Nicole's Mother",
+                "credit_id": "5f95e5a177e1f60037c2537b",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2934426,
+                "known_for_department": "Acting",
+                "name": "Michael Griffiths",
+                "original_name": "Michael Griffiths",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Sound Mixer / 'Speedo'",
+                "credit_id": "5ffec929dfe31d003f641040",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56906,
+                "known_for_department": "Camera",
+                "name": "Frank Prinzi",
+                "original_name": "Frank Prinzi",
+                "popularity": 6.306,
+                "profile_path": null,
+                "credit_id": "52fe44d8c3a36847f80ad77f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6400,
+                "known_for_department": "Directing",
+                "name": "Tom DiCillo",
+                "original_name": "Tom DiCillo",
+                "popularity": 14.703,
+                "profile_path": "/z8XD6BdliptWiaGP49yYNR2OTTR.jpg",
+                "credit_id": "52fe44d8c3a36847f80ad78b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56904,
+                "known_for_department": "Production",
+                "name": "Hilary Gilford",
+                "original_name": "Hilary Gilford",
+                "popularity": 1.054,
+                "profile_path": null,
+                "credit_id": "52fe44d8c3a36847f80ad773",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56907,
+                "known_for_department": "Editing",
+                "name": "Dana Congdon",
+                "original_name": "Dana Congdon",
+                "popularity": 3.792,
+                "profile_path": null,
+                "credit_id": "52fe44d8c3a36847f80ad785",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1951055,
+                "known_for_department": "Art",
+                "name": "Scott Pask",
+                "original_name": "Scott Pask",
+                "popularity": 0.66,
+                "profile_path": null,
+                "credit_id": "5a486127925141031d00b2b6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 956624,
+                "known_for_department": "Production",
+                "name": "Meredith Zamsky",
+                "original_name": "Meredith Zamsky",
+                "popularity": 7.293,
+                "profile_path": "/onWblQh6ztmNuDsfKXBJ8YZbWjt.jpg",
+                "credit_id": "5a4860540e0a26489800c014",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 51954,
+                "known_for_department": "Production",
+                "name": "Marcia Shulman",
+                "original_name": "Marcia Shulman",
+                "popularity": 1.871,
+                "profile_path": null,
+                "credit_id": "5a48608cc3a368191900b644",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51522,
+                "known_for_department": "Production",
+                "name": "Frank von Zerneck",
+                "original_name": "Frank von Zerneck",
+                "popularity": 3.048,
+                "profile_path": "/lWfV4qA4ARslW51icex9sTZ8z9U.jpg",
+                "credit_id": "5a4860e7c3a368193800a3af",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 59479,
+                "known_for_department": "Editing",
+                "name": "Camilla Toniolo",
+                "original_name": "Camilla Toniolo",
+                "popularity": 4.161,
+                "profile_path": null,
+                "credit_id": "5a48603bc3a368192600b122",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70944,
+                "known_for_department": "Production",
+                "name": "Robert M. Sertner",
+                "original_name": "Robert M. Sertner",
+                "popularity": 7.033,
+                "profile_path": "/cWxBa0gzNmdu2wUMO57qGnyx6v9.jpg",
+                "credit_id": "5a4860db0e0a2648a100be6a",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82220,
+                "known_for_department": "Acting",
+                "name": "Danielle von Zerneck",
+                "original_name": "Danielle von Zerneck",
+                "popularity": 13.076,
+                "profile_path": "/yRokAUnPSiOuzHiwO1zcC1T4qj.jpg",
+                "credit_id": "5a4860a7925141031400af56",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56904,
+                "known_for_department": "Production",
+                "name": "Hilary Gilford",
+                "original_name": "Hilary Gilford",
+                "popularity": 1.054,
+                "profile_path": null,
+                "credit_id": "5a4860cb0e0a26489800c08d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1951054,
+                "known_for_department": "Art",
+                "name": "Janine Michelle",
+                "original_name": "Janine Michelle",
+                "popularity": 0.046,
+                "profile_path": null,
+                "credit_id": "5a486119c3a368190900b616",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56905,
+                "known_for_department": "Sound",
+                "name": "Jim Farmer",
+                "original_name": "Jim Farmer",
+                "popularity": 2.513,
+                "profile_path": null,
+                "credit_id": "5a486063925141031700af56",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3287,
+                "known_for_department": "Art",
+                "name": "Thérèse DePrez",
+                "original_name": "Thérèse DePrez",
+                "popularity": 4.108,
+                "profile_path": null,
+                "credit_id": "5a48610bc3a36818fb00af23",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20826,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ellen Lutter",
+                "original_name": "Ellen Lutter",
+                "popularity": 6.518,
+                "profile_path": null,
+                "credit_id": "5a486133c3a368191300c512",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6400,
+                "known_for_department": "Directing",
+                "name": "Tom DiCillo",
+                "original_name": "Tom DiCillo",
+                "popularity": 14.703,
+                "profile_path": "/z8XD6BdliptWiaGP49yYNR2OTTR.jpg",
+                "credit_id": "5a486073925141030e00b620",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41332,
+                "known_for_department": "Production",
+                "name": "Marcus Viscidi",
+                "original_name": "Marcus Viscidi",
+                "popularity": 8.19,
+                "profile_path": "/mQuMv1kpd2WPeaM9kAnpwauAMpB.jpg",
+                "credit_id": "5a4860480e0a26489800c00a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4907,
+                "known_for_department": "Art",
+                "name": "Stephanie Carroll",
+                "original_name": "Stephanie Carroll",
+                "popularity": 3.553,
+                "profile_path": null,
+                "credit_id": "5a4860ff925141030b00b9aa",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20212,
+                "known_for_department": "Acting",
+                "name": "Dermot Mulroney",
+                "original_name": "Dermot Mulroney",
+                "popularity": 65.239,
+                "profile_path": "/5gJszOF45KMPB5tmAbKdK0qgQBx.jpg",
+                "credit_id": "5a48609b925141031d00b241",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1951053,
+                "known_for_department": "Production",
+                "name": "Jane Gil",
+                "original_name": "Jane Gil",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5a4860bac3a368192600b184",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1879201,
+                "known_for_department": "Sound",
+                "name": "Stuart Emanuel",
+                "original_name": "Stuart Emanuel",
+                "popularity": 1.468,
+                "profile_path": null,
+                "credit_id": "61ba7bf45ad76b0041ccda50",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1402027,
+                "known_for_department": "Sound",
+                "name": "Hal Levinsohn",
+                "original_name": "Hal Levinsohn",
+                "popularity": 5.536,
+                "profile_path": null,
+                "credit_id": "61ba7bffe72fe800615e4d8e",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 40109,
+                "known_for_department": "Sound",
+                "name": "Tim O'Shea",
+                "original_name": "Tim O'Shea",
+                "popularity": 2.085,
+                "profile_path": null,
+                "credit_id": "61ba7c0a7d5f4b001cbae6f4",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1527434,
+                "known_for_department": "Sound",
+                "name": "Eliza Paley",
+                "original_name": "Eliza Paley",
+                "popularity": 4.606,
+                "profile_path": null,
+                "credit_id": "61ba7c15d14443720e0eb638",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1337464,
+                "known_for_department": "Sound",
+                "name": "Dominick Tavella",
+                "original_name": "Dominick Tavella",
+                "popularity": 3.046,
+                "profile_path": null,
+                "credit_id": "61ba7c256a300b00451a1a70",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3349031,
+                "known_for_department": "Art",
+                "name": "Tom Nifenecker",
+                "original_name": "Tom Nifenecker",
+                "popularity": 0.174,
+                "profile_path": null,
+                "credit_id": "61ba7c6c439be10061df78ae",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3349032,
+                "known_for_department": "Art",
+                "name": "Craig Orvieto",
+                "original_name": "Craig Orvieto",
+                "popularity": 0.046,
+                "profile_path": null,
+                "credit_id": "61ba7c7bfa404600870e7719",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3349033,
+                "known_for_department": "Art",
+                "name": "Larry Orvieto",
+                "original_name": "Larry Orvieto",
+                "popularity": 0.052,
+                "profile_path": null,
+                "credit_id": "61ba7c8644a424001c10f9b1",
+                "department": "Art",
+                "job": "Set Dresser"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Steve Buscemi",
+            "character": "Nick Reve"
+        },
+        {
+            "actor": "Catherine Keener",
+            "character": "Nicole Springer"
+        },
+        {
+            "actor": "Dermot Mulroney",
+            "character": "Wolf"
+        },
+        {
+            "actor": "Danielle von Zerneck",
+            "character": "Wanda"
+        },
+        {
+            "actor": "James Le Gros",
+            "character": "Chad Palomino"
+        },
+        {
+            "actor": "Rica Martens",
+            "character": "Cora"
+        },
+        {
+            "actor": "Peter Dinklage",
+            "character": "Tito"
+        },
+        {
+            "actor": "Kevin Corrigan",
+            "character": "Assistant Camera"
+        },
+        {
+            "actor": "Hilary Gilford",
+            "character": "Script"
+        },
+        {
+            "actor": "Robert Wightman",
+            "character": "Gaffer"
+        },
+        {
+            "actor": "Tom Jarmusch",
+            "character": "Driver / Intern"
+        },
+        {
+            "actor": "Matthew Grace",
+            "character": "Boom"
+        },
+        {
+            "actor": "Ryan Bowker",
+            "character": "Food Service / Clapper"
+        },
+        {
+            "actor": "Francesca DiMauro",
+            "character": "Production Assistant"
+        },
+        {
+            "actor": "Norman Fields",
+            "character": "Hair / Make-up Artist"
+        },
+        {
+            "actor": "Lori Tan Chinn",
+            "character": "Costume Designer"
+        },
+        {
+            "actor": "Vincenzo Amelia",
+            "character": "Cook"
+        },
+        {
+            "actor": "Laurel Thornby",
+            "character": "Nicole's Mother"
+        },
+        {
+            "actor": "Michael Griffiths",
+            "character": "Sound Mixer / 'Speedo'"
+        }
+    ]
+}

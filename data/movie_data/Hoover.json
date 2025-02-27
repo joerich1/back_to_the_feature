@@ -1,0 +1,154 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 303862,
+    "imdb_id": "tt0230308",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hoover",
+    "overview": "A solo performance by Ernest Borgnine in the character of J. Edgar Hoover, the controversial figure who founded and headed the FBI.",
+    "popularity": 1.695,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2000-12-25",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hoover",
+    "video": false,
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7502,
+                "known_for_department": "Acting",
+                "name": "Ernest Borgnine",
+                "original_name": "Ernest Borgnine",
+                "popularity": 50.464,
+                "profile_path": "/JSHX01ZFEkIvt17HoeedsvCz1.jpg",
+                "cast_id": 0,
+                "character": "J. Edgar Hoover",
+                "credit_id": "546a409b22136e68d50039d2",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1376693,
+                "known_for_department": "Directing",
+                "name": "Rick Pamplin",
+                "original_name": "Rick Pamplin",
+                "popularity": 1.695,
+                "profile_path": null,
+                "credit_id": "546a426f22136e68da0036eb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3796062,
+                "known_for_department": "Writing",
+                "name": "Robert W. Fisher",
+                "original_name": "Robert W. Fisher",
+                "popularity": 0.799,
+                "profile_path": null,
+                "credit_id": "637ae1fe1bf87600cd7810d9",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1376693,
+                "known_for_department": "Directing",
+                "name": "Rick Pamplin",
+                "original_name": "Rick Pamplin",
+                "popularity": 1.695,
+                "profile_path": null,
+                "credit_id": "637ae207a3b5e60076c4eba0",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1399127,
+                "known_for_department": "Camera",
+                "name": "Stephen Campbell",
+                "original_name": "Stephen Campbell",
+                "popularity": 9.737,
+                "profile_path": null,
+                "credit_id": "637ae2105b2f47007532a55e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1165680,
+                "known_for_department": "Editing",
+                "name": "Oliver Peters",
+                "original_name": "Oliver Peters",
+                "popularity": 1.778,
+                "profile_path": null,
+                "credit_id": "637ae21831644b0094639a34",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2000-12-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ernest Borgnine",
+            "character": "J. Edgar Hoover"
+        }
+    ]
+}

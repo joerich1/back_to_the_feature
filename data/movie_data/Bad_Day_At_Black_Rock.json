@@ -1,0 +1,739 @@
+{
+    "adult": false,
+    "backdrop_path": "/tQv32m6pufbJT2rKuKDzt0kVynQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 1271000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 14554,
+    "imdb_id": "tt0047849",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Bad Day at Black Rock",
+    "overview": "One-armed war veteran John J. Macreedy steps off a train at the sleepy little town of Black Rock.  Once there, he begins to unravel a web of lies, secrecy, and murder.",
+    "popularity": 15.603,
+    "poster_path": "/8EnhHjU0DyCckmZRtn46s3WXeEf.jpg",
+    "production_companies": [
+        {
+            "id": 1460,
+            "logo_path": null,
+            "name": "Loew's Incorporated",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1955-01-13",
+    "revenue": 3788000,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Just the way it happened!",
+    "title": "Bad Day at Black Rock",
+    "video": false,
+    "vote_average": 7.284,
+    "vote_count": 349,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1955-10-18T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1955-06-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2005-09-14T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Texas",
+                        "release_date": "1955-01-13T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1955-02-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12147,
+                "known_for_department": "Acting",
+                "name": "Spencer Tracy",
+                "original_name": "Spencer Tracy",
+                "popularity": 15.812,
+                "profile_path": "/aUZUlQjiWvl23stKXzxycb31sen.jpg",
+                "cast_id": 1,
+                "character": "John J. Macreedy",
+                "credit_id": "52fe45ff9251416c75069ae3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8253,
+                "known_for_department": "Acting",
+                "name": "Robert Ryan",
+                "original_name": "Robert Ryan",
+                "popularity": 24.283,
+                "profile_path": "/hpWgaPTbBLGCdYXHcEVLIWaA3m0.jpg",
+                "cast_id": 2,
+                "character": "Reno Smith",
+                "credit_id": "52fe45ff9251416c75069ae7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4302,
+                "known_for_department": "Acting",
+                "name": "Walter Brennan",
+                "original_name": "Walter Brennan",
+                "popularity": 25.857,
+                "profile_path": "/7hlZ3WbT4JQxeN3fLMongUXNHma.jpg",
+                "cast_id": 4,
+                "character": "Doc T.R. Velie Jr.",
+                "credit_id": "52fe45ff9251416c75069aef",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18391,
+                "known_for_department": "Acting",
+                "name": "Lee Marvin",
+                "original_name": "Lee Marvin",
+                "popularity": 51.857,
+                "profile_path": "/3UyL1rHcJCbOEHmvgACG0I9kOxB.jpg",
+                "cast_id": 6,
+                "character": "Hector David",
+                "credit_id": "52fe45ff9251416c75069af7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29313,
+                "known_for_department": "Acting",
+                "name": "Dean Jagger",
+                "original_name": "Dean Jagger",
+                "popularity": 21.282,
+                "profile_path": "/fgAzRigYun0yXqIdAYPUA4GViFq.jpg",
+                "cast_id": 8,
+                "character": "Tim Horn",
+                "credit_id": "52fe46009251416c75069b01",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12309,
+                "known_for_department": "Acting",
+                "name": "Anne Francis",
+                "original_name": "Anne Francis",
+                "popularity": 44.045,
+                "profile_path": "/hcckb43OvvQbrdqOotqWcvLPXbg.jpg",
+                "cast_id": 3,
+                "character": "Liz Wirth",
+                "credit_id": "52fe45ff9251416c75069aeb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41231,
+                "known_for_department": "Acting",
+                "name": "John Ericson",
+                "original_name": "John Ericson",
+                "popularity": 17.735,
+                "profile_path": "/383uBWGjEchVGvYaQfLg6DdUZoL.jpg",
+                "cast_id": 9,
+                "character": "Pete Wirth",
+                "credit_id": "52fe46009251416c75069b05",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7502,
+                "known_for_department": "Acting",
+                "name": "Ernest Borgnine",
+                "original_name": "Ernest Borgnine",
+                "popularity": 50.464,
+                "profile_path": "/JSHX01ZFEkIvt17HoeedsvCz1.jpg",
+                "cast_id": 5,
+                "character": "Coley Trimble",
+                "credit_id": "52fe45ff9251416c75069af3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40203,
+                "known_for_department": "Acting",
+                "name": "Russell Collins",
+                "original_name": "Russell Collins",
+                "popularity": 11.784,
+                "profile_path": "/rRDRvPma2GuddGlCfCMrWHyBDN4.jpg",
+                "cast_id": 10,
+                "character": "Mr. Hastings",
+                "credit_id": "52fe46009251416c75069b09",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94293,
+                "known_for_department": "Acting",
+                "name": "Walter Sande",
+                "original_name": "Walter Sande",
+                "popularity": 11.144,
+                "profile_path": "/kyVJTouV9WlfIkcfooLE6whhiyy.jpg",
+                "cast_id": 11,
+                "character": "Sam",
+                "credit_id": "52fe46009251416c75069b0d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1060265,
+                "known_for_department": "Acting",
+                "name": "Billy Dix",
+                "original_name": "Billy Dix",
+                "popularity": 3.584,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Cafe Lounger (uncredited)",
+                "credit_id": "56c26ec2c3a36825fb000c2c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1472667,
+                "known_for_department": "Acting",
+                "name": "K.L. Smith",
+                "original_name": "K.L. Smith",
+                "popularity": 2.388,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Cafe Lounger (uncredited)",
+                "credit_id": "56c26ef192514144110000b3",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136126,
+                "known_for_department": "Acting",
+                "name": "Robert Griffin",
+                "original_name": "Robert Griffin",
+                "popularity": 8.706,
+                "profile_path": "/x8PqEmhifGB5sJwt7BnUNafHtBa.jpg",
+                "cast_id": 22,
+                "character": "Second Train Conductor (uncredited)",
+                "credit_id": "56c26f1f9251414a89000c84",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93628,
+                "known_for_department": "Acting",
+                "name": "Harry Harvey",
+                "original_name": "Harry Harvey",
+                "popularity": 15.252,
+                "profile_path": "/u2Ex63JzAb2Z5Ado1BuhDIfU5Mv.jpg",
+                "cast_id": 23,
+                "character": "First Train Conductor (uncredited)",
+                "credit_id": "56c26f489251414a86000c9d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96705,
+                "known_for_department": "Acting",
+                "name": "Bobby Johnson",
+                "original_name": "Bobby Johnson",
+                "popularity": 10.213,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "One of Two Porters (uncredited)",
+                "credit_id": "56c26f7bc3a3682606000df0",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102327,
+                "known_for_department": "Acting",
+                "name": "Francis McDonald",
+                "original_name": "Francis McDonald",
+                "popularity": 10.956,
+                "profile_path": "/5sIApbjJvZx0KvEDEk7BWKUuAeg.jpg",
+                "cast_id": 25,
+                "character": "Tall - White-haired Cafe Lounger (uncredited)",
+                "credit_id": "56c26fa79251414a8f000cc2",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18744,
+                "known_for_department": "Camera",
+                "name": "William C. Mellor",
+                "original_name": "William C. Mellor",
+                "popularity": 4.75,
+                "profile_path": "/yuVsUy3Igl73DPEqYQOGBD2OIOp.jpg",
+                "credit_id": "52fe46009251416c75069b37",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22598,
+                "known_for_department": "Production",
+                "name": "Dore Schary",
+                "original_name": "Dore Schary",
+                "popularity": 8.471,
+                "profile_path": "/7C9GYXtZ6pbe2vccP5pb9oGQaAQ.jpg",
+                "credit_id": "52fe46009251416c75069b2b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58093,
+                "known_for_department": "Acting",
+                "name": "Don McGuire",
+                "original_name": "Don McGuire",
+                "popularity": 10.989,
+                "profile_path": "/8eI0xHeGGsxgiIDzJ71ObLzvlAt.jpg",
+                "credit_id": "52fe46009251416c75069b1f",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5805,
+                "known_for_department": "Sound",
+                "name": "André Previn",
+                "original_name": "André Previn",
+                "popularity": 13.409,
+                "profile_path": "/eejlWsguIMSXw1arKn4G5e1uhAx.jpg",
+                "credit_id": "52fe46009251416c75069b31",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14520,
+                "known_for_department": "Directing",
+                "name": "John Sturges",
+                "original_name": "John Sturges",
+                "popularity": 15.078,
+                "profile_path": "/22Tg0PeUfexgVL4dpdkLyViZh5O.jpg",
+                "credit_id": "52fe45ff9251416c75069afd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 959953,
+                "known_for_department": "Writing",
+                "name": "Howard Breslin",
+                "original_name": "Howard Breslin",
+                "popularity": 1.142,
+                "profile_path": null,
+                "credit_id": "52fe46009251416c75069b13",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 41751,
+                "known_for_department": "Writing",
+                "name": "Millard Kaufman",
+                "original_name": "Millard Kaufman",
+                "popularity": 11.143,
+                "profile_path": null,
+                "credit_id": "52fe46009251416c75069b19",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119080,
+                "known_for_department": "Editing",
+                "name": "Newell P. Kimlin",
+                "original_name": "Newell P. Kimlin",
+                "popularity": 3.601,
+                "profile_path": null,
+                "credit_id": "52fe46009251416c75069b3d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9062,
+                "known_for_department": "Art",
+                "name": "Cedric Gibbons",
+                "original_name": "Cedric Gibbons",
+                "popularity": 15.379,
+                "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+                "credit_id": "56c35072c3a36825f9002afe",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1567833,
+                "known_for_department": "Sound",
+                "name": "Wally Heglin",
+                "original_name": "Wally Heglin",
+                "popularity": 2.353,
+                "profile_path": null,
+                "credit_id": "56c35455c3a3684d31000068",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9059,
+                "known_for_department": "Art",
+                "name": "Malcolm Brown",
+                "original_name": "Malcolm Brown",
+                "popularity": 1.571,
+                "profile_path": null,
+                "credit_id": "56c350439251414b0a001f95",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1761,
+                "known_for_department": "Sound",
+                "name": "Alexander Courage",
+                "original_name": "Alexander Courage",
+                "popularity": 8.945,
+                "profile_path": null,
+                "credit_id": "56c354389251416e8b000055",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13974,
+                "known_for_department": "Art",
+                "name": "Fred M. MacLean",
+                "original_name": "Fred M. MacLean",
+                "popularity": 3.859,
+                "profile_path": null,
+                "credit_id": "56c350949251412e68002453",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 166335,
+                "known_for_department": "Crew",
+                "name": "Roger Creed",
+                "original_name": "Roger Creed",
+                "popularity": 2.619,
+                "profile_path": null,
+                "credit_id": "56c3531b9251416e86000036",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3646,
+                "known_for_department": "Sound",
+                "name": "Wesley C. Miller",
+                "original_name": "Wesley C. Miller",
+                "popularity": 2.171,
+                "profile_path": null,
+                "credit_id": "56c3528fc3a3684d31000031",
+                "department": "Sound",
+                "job": "Recording Supervision"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578505,
+                "known_for_department": "Editing",
+                "name": "Alvord Eiseman",
+                "original_name": "Alvord Eiseman",
+                "popularity": 1.903,
+                "profile_path": null,
+                "credit_id": "56c353e4c3a3684d3c000054",
+                "department": "Editing",
+                "job": "Color Timer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34310,
+                "known_for_department": "Sound",
+                "name": "Leo Arnaud",
+                "original_name": "Leo Arnaud",
+                "popularity": 5.232,
+                "profile_path": null,
+                "credit_id": "56c35416c3a3684d3100005b",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9063,
+                "known_for_department": "Art",
+                "name": "Edwin B. Willis",
+                "original_name": "Edwin B. Willis",
+                "popularity": 6.643,
+                "profile_path": "/b4hSs5KLFXxSrvvA923VjdmywMl.jpg",
+                "credit_id": "56c351a7c3a3684d3c00000d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6568,
+                "known_for_department": "Production",
+                "name": "Joel Freeman",
+                "original_name": "Joel Freeman",
+                "popularity": 3.205,
+                "profile_path": null,
+                "credit_id": "56c3522dc3a3684d2a00002a",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1578504,
+                "known_for_department": "Acting",
+                "name": "Danny Sands",
+                "original_name": "Danny Sands",
+                "popularity": 3.068,
+                "profile_path": null,
+                "credit_id": "56c35381c3a3684d39000045",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73151,
+                "known_for_department": "Writing",
+                "name": "Herman Hoffman",
+                "original_name": "Herman Hoffman",
+                "popularity": 6.919,
+                "profile_path": null,
+                "credit_id": "587f6b93c3a3682e9b008e95",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2083700,
+                "known_for_department": "Costume & Make-Up",
+                "name": "John Truwe",
+                "original_name": "John Truwe",
+                "popularity": 3.316,
+                "profile_path": null,
+                "credit_id": "6335c03ba06645007e06ec69",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12431,
+                "known_for_department": "Acting",
+                "name": "Carey Loftin",
+                "original_name": "Carey Loftin",
+                "popularity": 30.594,
+                "profile_path": "/wpQnSduMm2iCtVrNT9kHo8c8aMH.jpg",
+                "credit_id": "64c865d71fa1c80130dc793c",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115331,
+                "known_for_department": "Acting",
+                "name": "John Indrisano",
+                "original_name": "John Indrisano",
+                "popularity": 8.634,
+                "profile_path": null,
+                "credit_id": "64c865dcf794ad00c5948854",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Spencer Tracy",
+            "character": "John J. Macreedy"
+        },
+        {
+            "actor": "Robert Ryan",
+            "character": "Reno Smith"
+        },
+        {
+            "actor": "Walter Brennan",
+            "character": "Doc T.R. Velie Jr."
+        },
+        {
+            "actor": "Lee Marvin",
+            "character": "Hector David"
+        },
+        {
+            "actor": "Dean Jagger",
+            "character": "Tim Horn"
+        },
+        {
+            "actor": "Anne Francis",
+            "character": "Liz Wirth"
+        },
+        {
+            "actor": "John Ericson",
+            "character": "Pete Wirth"
+        },
+        {
+            "actor": "Ernest Borgnine",
+            "character": "Coley Trimble"
+        },
+        {
+            "actor": "Russell Collins",
+            "character": "Mr. Hastings"
+        },
+        {
+            "actor": "Walter Sande",
+            "character": "Sam"
+        },
+        {
+            "actor": "Billy Dix",
+            "character": "Cafe Lounger (uncredited)"
+        },
+        {
+            "actor": "K.L. Smith",
+            "character": "Cafe Lounger (uncredited)"
+        },
+        {
+            "actor": "Robert Griffin",
+            "character": "Second Train Conductor (uncredited)"
+        },
+        {
+            "actor": "Harry Harvey",
+            "character": "First Train Conductor (uncredited)"
+        },
+        {
+            "actor": "Bobby Johnson",
+            "character": "One of Two Porters (uncredited)"
+        },
+        {
+            "actor": "Francis McDonald",
+            "character": "Tall - White-haired Cafe Lounger (uncredited)"
+        }
+    ]
+}

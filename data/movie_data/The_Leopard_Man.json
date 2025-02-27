@@ -1,0 +1,787 @@
+{
+    "adult": false,
+    "backdrop_path": "/evKA2DD7nOxeYH1zNFqpTjlw6VA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 28438,
+    "imdb_id": "tt0036104",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Leopard Man",
+    "overview": "When a leopard escapes during a publicity stunt, it triggers a series of murders.",
+    "popularity": 12.846,
+    "poster_path": "/UgOiYLMpFjsecN8Pyy2HFlRgL4.jpg",
+    "production_companies": [
+        {
+            "id": 6,
+            "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+            "name": "RKO Radio Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1943-05-19",
+    "revenue": 0,
+    "runtime": 66,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Woman alone the victims of strange, savage killer!",
+    "title": "The Leopard Man",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 110,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "New York City, New York",
+                        "release_date": "1943-05-19T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1943-06-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 88462,
+                "known_for_department": "Acting",
+                "name": "Dennis O'Keefe",
+                "original_name": "Dennis O'Keefe",
+                "popularity": 19.469,
+                "profile_path": "/xwdMxksOymeFYYi9oWtn7aocFKP.jpg",
+                "cast_id": 2,
+                "character": "Jerry Manning",
+                "credit_id": "52fe4596c3a368484e063cdf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 86824,
+                "known_for_department": "Acting",
+                "name": "Jean Brooks",
+                "original_name": "Jean Brooks",
+                "popularity": 11.075,
+                "profile_path": "/em8aWLDPIWwOvzNIa1hMg9j6FBn.jpg",
+                "cast_id": 4,
+                "character": "Kiki Walker",
+                "credit_id": "52fe4596c3a368484e063ce7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84935,
+                "known_for_department": "Acting",
+                "name": "James Bell",
+                "original_name": "James Bell",
+                "popularity": 10.397,
+                "profile_path": "/eu2oR1riKippv4xti7ERynzNCEP.jpg",
+                "cast_id": 13,
+                "character": "Dr. Galbraith",
+                "credit_id": "52fe4596c3a368484e063d19",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30239,
+                "known_for_department": "Acting",
+                "name": "Abner Biberman",
+                "original_name": "Abner Biberman",
+                "popularity": 13.493,
+                "profile_path": "/9i1mL1OmN7l5k8IRYUy6Go61S4m.jpg",
+                "cast_id": 15,
+                "character": "Charlie How-Come",
+                "credit_id": "52fe4596c3a368484e063d21",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1188145,
+                "known_for_department": "Acting",
+                "name": "Ariel Heath",
+                "original_name": "Ariel Heath",
+                "popularity": 4.028,
+                "profile_path": "/z5yxuIndQFXel9BW1nKzOyJHxgx.jpg",
+                "cast_id": 18,
+                "character": "Eloise, cigarette girl",
+                "credit_id": "5a3db28f9251411f3e001976",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85899,
+                "known_for_department": "Acting",
+                "name": "Ben Bard",
+                "original_name": "Ben Bard",
+                "popularity": 8.575,
+                "profile_path": "/esH8wBwmTKFeH67C08LKYtVZZWj.jpg",
+                "cast_id": 17,
+                "character": "Police Chief Robles",
+                "credit_id": "52fe4596c3a368484e063d29",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19221,
+                "known_for_department": "Acting",
+                "name": "Margo",
+                "original_name": "Margo",
+                "popularity": 15.39,
+                "profile_path": "/66hSyfJNtWxswJxCnThOtDkINsI.jpg",
+                "cast_id": 3,
+                "character": "Gabriella, aka Clo-Clo",
+                "credit_id": "52fe4596c3a368484e063ce3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 33277,
+                "known_for_department": "Acting",
+                "name": "Isabel Jewell",
+                "original_name": "Isabel Jewell",
+                "popularity": 6.89,
+                "profile_path": "/n8dtaQFdr6ZbIHOSCUlTIAprW8Z.jpg",
+                "cast_id": 5,
+                "character": "Maria the Fortune Teller",
+                "credit_id": "52fe4596c3a368484e063ceb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100986,
+                "known_for_department": "Acting",
+                "name": "Margaret Landry",
+                "original_name": "Margaret Landry",
+                "popularity": 2.848,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Teresa Delgado",
+                "credit_id": "52fe4596c3a368484e063d1d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946764,
+                "known_for_department": "Acting",
+                "name": "Kate Lawson",
+                "original_name": "Kate Lawson",
+                "popularity": 0.139,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Mother Delgado",
+                "credit_id": "5a3db2a59251411f510019a2",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100987,
+                "known_for_department": "Acting",
+                "name": "Tuulikki Paananen",
+                "original_name": "Tuulikki Paananen",
+                "popularity": 5.514,
+                "profile_path": "/7LTTLoOq1hIVa8jkuXs52eC2tLG.jpg",
+                "cast_id": 16,
+                "character": "(as Tula Parma) Consuelo Contreras",
+                "credit_id": "52fe4596c3a368484e063d25",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 564936,
+                "known_for_department": "Acting",
+                "name": "Fely Franquelli",
+                "original_name": "Fely Franquelli",
+                "popularity": 3.757,
+                "profile_path": "/kW1SaWHT4445nAFSwZvs53OWaxs.jpg",
+                "cast_id": 20,
+                "character": "Rosita, her maid",
+                "credit_id": "5a3db2bf9251411fc10019df",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29580,
+                "known_for_department": "Acting",
+                "name": "Brandon Hurst",
+                "original_name": "Brandon Hurst",
+                "popularity": 13.015,
+                "profile_path": "/fVpEO2PuRU2bNOK9XlEeRY9tiz.jpg",
+                "cast_id": 21,
+                "character": "The Cemetery Keeper",
+                "credit_id": "5a3db3110e0a2620e3005be4",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136472,
+                "known_for_department": "Acting",
+                "name": "Richard Martin",
+                "original_name": "Richard Martin",
+                "popularity": 5.548,
+                "profile_path": "/cd2B3ZYgqsWfOWZPIKqDXp4QpnK.jpg",
+                "cast_id": 22,
+                "character": "Raoul Belmonte",
+                "credit_id": "5a3db3269251411f51001a2f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946779,
+                "known_for_department": "Acting",
+                "name": "Bobby Spindola",
+                "original_name": "Bobby Spindola",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Pedro Delgado",
+                "credit_id": "5a3dd5b0c3a3680ba6008e54",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 153437,
+                "known_for_department": "Acting",
+                "name": "Belle Mitchell",
+                "original_name": "Belle Mitchell",
+                "popularity": 4.301,
+                "profile_path": "/wOHJLFoOD5B6lT9ktKP2gC7cJDe.jpg",
+                "cast_id": 24,
+                "character": "Senora Calderon, grocer",
+                "credit_id": "5a3dd5c3c3a3680bd6007e1f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946780,
+                "known_for_department": "Acting",
+                "name": "Eliso Gamboa",
+                "original_name": "Eliso Gamboa",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Juan Delgado",
+                "credit_id": "5a3dd5d29251411f9d003e89",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 265594,
+                "known_for_department": "Acting",
+                "name": "John Dilson",
+                "original_name": "John Dilson",
+                "popularity": 6.463,
+                "profile_path": "/xlskbrwdPKvGtq9uYHvdUhuy8UE.jpg",
+                "cast_id": 26,
+                "character": "The Coroner",
+                "credit_id": "5a3dd5de9251411fd5003ca4",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 121060,
+                "known_for_department": "Acting",
+                "name": "Mary MacLaren",
+                "original_name": "Mary MacLaren",
+                "popularity": 16.205,
+                "profile_path": "/Agteg70nmBZmFT9XQMD72TVqiiw.jpg",
+                "cast_id": 27,
+                "character": "The Nun",
+                "credit_id": "5a3dd5ec0e0a2620ec007fc4",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1828609,
+                "known_for_department": "Acting",
+                "name": "John Piffle",
+                "original_name": "John Piffle",
+                "popularity": 1.764,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "The Flower Vendor",
+                "credit_id": "5a3dd5fd9251411fab003e7a",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111585,
+                "known_for_department": "Acting",
+                "name": "Ottola Nesmith",
+                "original_name": "Ottola Nesmith",
+                "popularity": 12.069,
+                "profile_path": "/vGFs5Z2Skm9XVYRkOnc7rfnLavw.jpg",
+                "cast_id": 29,
+                "character": "Mother Contreras",
+                "credit_id": "5a3dd6100e0a2620e0008081",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 121330,
+                "known_for_department": "Acting",
+                "name": "Jacques Lory",
+                "original_name": "Jacques Lory",
+                "popularity": 4.483,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Phillipe, the chauffeur",
+                "credit_id": "5a3dd6260e0a2620ec007ffc",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109778,
+                "known_for_department": "Acting",
+                "name": "George Sherwood",
+                "original_name": "George Sherwood",
+                "popularity": 4.078,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Police Lieutenant at Cemetery",
+                "credit_id": "5a3dd639c3a3680bbc008296",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 127521,
+                "known_for_department": "Acting",
+                "name": "William Halligan",
+                "original_name": "William Halligan",
+                "popularity": 11.075,
+                "profile_path": "/9vK0hPndjtsaG5DAMtjxx6ZkRhF.jpg",
+                "cast_id": 32,
+                "character": "Brunton",
+                "credit_id": "5a3dd64a0e0a2620ec00801f",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 117856,
+                "known_for_department": "Acting",
+                "name": "Robert J. Anderson",
+                "original_name": "Robert J. Anderson",
+                "popularity": 9.576,
+                "profile_path": "/dQfQxxfJMkVliMS2XqZUIiPJprG.jpg",
+                "cast_id": 34,
+                "character": "Dwight Brunton",
+                "credit_id": "5a3dd6750e0a2620e6008343",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106104,
+                "known_for_department": "Acting",
+                "name": "Russell Wade",
+                "original_name": "Russell Wade",
+                "popularity": 7.616,
+                "profile_path": "/2eW7JYcTxmVQ8TT0ATKbbTwNus3.jpg",
+                "cast_id": 35,
+                "character": "The Man in the Black Car",
+                "credit_id": "5a3dd687c3a3680bbc0082f0",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 141085,
+                "known_for_department": "Acting",
+                "name": "Betty Roadman",
+                "original_name": "Betty Roadman",
+                "popularity": 2.791,
+                "profile_path": "/qryqOgSujUTMDF6uOlAmgNRuRIk.jpg",
+                "cast_id": 36,
+                "character": "Gabriella's Mother",
+                "credit_id": "5a3dd69b0e0a2620ef00866b",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946782,
+                "known_for_department": "Acting",
+                "name": "Rene Padrini",
+                "original_name": "Rene Padrini",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Injured Waiter (bit)",
+                "credit_id": "5a3dd6afc3a3680ba6008f9b",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946783,
+                "known_for_department": "Acting",
+                "name": "Tom Orosco",
+                "original_name": "Tom Orosco",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Window Washer (bit)",
+                "credit_id": "5a3dd6be9251411f3e003cfa",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1946784,
+                "known_for_department": "Acting",
+                "name": "Rosa Rita Varella",
+                "original_name": "Rosa Rita Varella",
+                "popularity": 0.014,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Pepita, Gabriella's sister (bit)",
+                "credit_id": "5a3dd6e00e0a2620f20085a9",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105571,
+                "known_for_department": "Acting",
+                "name": "Jacqueline deWit",
+                "original_name": "Jacqueline deWit",
+                "popularity": 17.606,
+                "profile_path": "/yfuNBru8DCX7h92E7BDnt97eEqP.jpg",
+                "cast_id": 42,
+                "character": "Helene (uncredited)",
+                "credit_id": "63ca0a7d006b01008e944cbd",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100985,
+                "known_for_department": "Writing",
+                "name": "Edward Dein",
+                "original_name": "Edward Dein",
+                "popularity": 9.939,
+                "profile_path": null,
+                "credit_id": "52fe4596c3a368484e063cfd",
+                "department": "Crew",
+                "job": "Additional Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100984,
+                "known_for_department": "Writing",
+                "name": "Ardel Wray",
+                "original_name": "Ardel Wray",
+                "popularity": 2.677,
+                "profile_path": "/oKhLzxa850vspf93vAN63LVmWKT.jpg",
+                "credit_id": "52fe4596c3a368484e063cf7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7748,
+                "known_for_department": "Writing",
+                "name": "Cornell Woolrich",
+                "original_name": "Cornell Woolrich",
+                "popularity": 12.137,
+                "profile_path": "/7yCwjCYnjV2qbIoD4OKn8TbZZ3H.jpg",
+                "credit_id": "52fe4596c3a368484e063cf1",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19457,
+                "known_for_department": "Directing",
+                "name": "Mark Robson",
+                "original_name": "Mark Robson",
+                "popularity": 14.827,
+                "profile_path": "/3oLTKEhJn27s9SSBnzYxkgTsIa1.jpg",
+                "credit_id": "52fe4596c3a368484e063d15",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97047,
+                "known_for_department": "Production",
+                "name": "Val Lewton",
+                "original_name": "Val Lewton",
+                "popularity": 4.735,
+                "profile_path": null,
+                "credit_id": "52fe4596c3a368484e063d03",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97047,
+                "known_for_department": "Production",
+                "name": "Val Lewton",
+                "original_name": "Val Lewton",
+                "popularity": 4.735,
+                "profile_path": null,
+                "credit_id": "52fe4596c3a368484e063d09",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10146,
+                "known_for_department": "Directing",
+                "name": "Jacques Tourneur",
+                "original_name": "Jacques Tourneur",
+                "popularity": 11.03,
+                "profile_path": "/o3Du8pFBlQ22JXGTVw9IB9yKVuC.jpg",
+                "credit_id": "52fe4596c3a368484e063cdb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33413,
+                "known_for_department": "Camera",
+                "name": "Robert De Grasse",
+                "original_name": "Robert De Grasse",
+                "popularity": 4.727,
+                "profile_path": null,
+                "credit_id": "52fe4596c3a368484e063d0f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4349,
+                "known_for_department": "Art",
+                "name": "Albert S. D'Agostino",
+                "original_name": "Albert S. D'Agostino",
+                "popularity": 6.456,
+                "profile_path": "/nYJgsC5n7j2XZRgqVlct6Zy0U3V.jpg",
+                "credit_id": "5b7daf5292514104e6002d42",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41710,
+                "known_for_department": "Art",
+                "name": "Walter E. Keller",
+                "original_name": "Walter E. Keller",
+                "popularity": 3.419,
+                "profile_path": null,
+                "credit_id": "5b7daf5cc3a3683409002922",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Dennis O'Keefe",
+            "character": "Jerry Manning"
+        },
+        {
+            "actor": "Jean Brooks",
+            "character": "Kiki Walker"
+        },
+        {
+            "actor": "James Bell",
+            "character": "Dr. Galbraith"
+        },
+        {
+            "actor": "Abner Biberman",
+            "character": "Charlie How-Come"
+        },
+        {
+            "actor": "Ariel Heath",
+            "character": "Eloise, cigarette girl"
+        },
+        {
+            "actor": "Ben Bard",
+            "character": "Police Chief Robles"
+        },
+        {
+            "actor": "Margo",
+            "character": "Gabriella, aka Clo-Clo"
+        },
+        {
+            "actor": "Isabel Jewell",
+            "character": "Maria the Fortune Teller"
+        },
+        {
+            "actor": "Margaret Landry",
+            "character": "Teresa Delgado"
+        },
+        {
+            "actor": "Kate Lawson",
+            "character": "Mother Delgado"
+        },
+        {
+            "actor": "Tuulikki Paananen",
+            "character": "(as Tula Parma) Consuelo Contreras"
+        },
+        {
+            "actor": "Fely Franquelli",
+            "character": "Rosita, her maid"
+        },
+        {
+            "actor": "Brandon Hurst",
+            "character": "The Cemetery Keeper"
+        },
+        {
+            "actor": "Richard Martin",
+            "character": "Raoul Belmonte"
+        },
+        {
+            "actor": "Bobby Spindola",
+            "character": "Pedro Delgado"
+        },
+        {
+            "actor": "Belle Mitchell",
+            "character": "Senora Calderon, grocer"
+        },
+        {
+            "actor": "Eliso Gamboa",
+            "character": "Juan Delgado"
+        },
+        {
+            "actor": "John Dilson",
+            "character": "The Coroner"
+        },
+        {
+            "actor": "Mary MacLaren",
+            "character": "The Nun"
+        },
+        {
+            "actor": "John Piffle",
+            "character": "The Flower Vendor"
+        },
+        {
+            "actor": "Ottola Nesmith",
+            "character": "Mother Contreras"
+        },
+        {
+            "actor": "Jacques Lory",
+            "character": "Phillipe, the chauffeur"
+        },
+        {
+            "actor": "George Sherwood",
+            "character": "Police Lieutenant at Cemetery"
+        },
+        {
+            "actor": "William Halligan",
+            "character": "Brunton"
+        },
+        {
+            "actor": "Robert J. Anderson",
+            "character": "Dwight Brunton"
+        },
+        {
+            "actor": "Russell Wade",
+            "character": "The Man in the Black Car"
+        },
+        {
+            "actor": "Betty Roadman",
+            "character": "Gabriella's Mother"
+        },
+        {
+            "actor": "Rene Padrini",
+            "character": "Injured Waiter (bit)"
+        },
+        {
+            "actor": "Tom Orosco",
+            "character": "Window Washer (bit)"
+        },
+        {
+            "actor": "Rosa Rita Varella",
+            "character": "Pepita, Gabriella's sister (bit)"
+        },
+        {
+            "actor": "Jacqueline deWit",
+            "character": "Helene (uncredited)"
+        }
+    ]
+}

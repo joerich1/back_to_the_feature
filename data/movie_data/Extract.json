@@ -1,0 +1,848 @@
+{
+    "adult": false,
+    "backdrop_path": "/vSUz6gjbK0x9LfaDxZcIKk84Dxs.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "https://www.miramax.com/movie/Extract/",
+    "id": 12569,
+    "imdb_id": "tt1225822",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Extract",
+    "overview": "The owner of a factory that produces flavor extracts, Joel Reynold seems to have it all, but really doesn't. What's missing is sexual attention from his wife, Suzie. Joel hatches a convoluted plan to get Suzie to cheat on him, thereby clearing the way for Joel to have an affair with Cindy, an employee. But what Joel doesn't know is that Cindy is a sociopathic con artist, and a freak workplace accident clears the way for her to ruin Joel forever.",
+    "popularity": 58.257,
+    "poster_path": "/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+    "production_companies": [
+        {
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2009-09-03",
+    "revenue": 10848783,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sticking it to the man has never looked so good.",
+    "title": "Extract",
+    "video": false,
+    "vote_average": 5.833,
+    "vote_count": 573,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-07-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-10-18T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-04-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NO",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "NRK3",
+                        "release_date": "2013-10-12T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2017-04-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-11-10T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2009-09-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23532,
+                "known_for_department": "Acting",
+                "name": "Jason Bateman",
+                "original_name": "Jason Bateman",
+                "popularity": 43.945,
+                "profile_path": "/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg",
+                "cast_id": 4,
+                "character": "Joel",
+                "credit_id": "52fe44fc9251416c75047ceb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18973,
+                "known_for_department": "Acting",
+                "name": "Mila Kunis",
+                "original_name": "Mila Kunis",
+                "popularity": 115.324,
+                "profile_path": "/811vCRSr9s2MFwCIOo1jWHltu3R.jpg",
+                "cast_id": 10,
+                "character": "Cindy",
+                "credit_id": "52fe44fc9251416c75047d01",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41091,
+                "known_for_department": "Acting",
+                "name": "Kristen Wiig",
+                "original_name": "Kristen Wiig",
+                "popularity": 75.009,
+                "profile_path": "/N517EQh7j4mNl3BStMmjMN6hId.jpg",
+                "cast_id": 6,
+                "character": "Suzie",
+                "credit_id": "52fe44fc9251416c75047cef",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 880,
+                "known_for_department": "Acting",
+                "name": "Ben Affleck",
+                "original_name": "Ben Affleck",
+                "popularity": 96.571,
+                "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+                "cast_id": 2,
+                "character": "Dean",
+                "credit_id": "52fe44fc9251416c75047ce3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18999,
+                "known_for_department": "Acting",
+                "name": "J.K. Simmons",
+                "original_name": "J.K. Simmons",
+                "popularity": 57.223,
+                "profile_path": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+                "cast_id": 12,
+                "character": "Brian",
+                "credit_id": "52fe44fc9251416c75047d09",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5365,
+                "known_for_department": "Acting",
+                "name": "Clifton Collins Jr.",
+                "original_name": "Clifton Collins Jr.",
+                "popularity": 14.032,
+                "profile_path": "/ceryVVubF74pgu13Y0KUqIzxOae.jpg",
+                "cast_id": 3,
+                "character": "Step",
+                "credit_id": "52fe44fc9251416c75047ce7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53117,
+                "known_for_department": "Acting",
+                "name": "Dustin Milligan",
+                "original_name": "Dustin Milligan",
+                "popularity": 37.678,
+                "profile_path": "/v1OtMBknzIUPXd0sQU6P0LA57V7.jpg",
+                "cast_id": 14,
+                "character": "Brad",
+                "credit_id": "52fe44fc9251416c75047d11",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 28638,
+                "known_for_department": "Acting",
+                "name": "David Koechner",
+                "original_name": "David Koechner",
+                "popularity": 27.966,
+                "profile_path": "/4zp1LzIOK2ls1cIo1coZYK02YpG.jpg",
+                "cast_id": 7,
+                "character": "Nathan",
+                "credit_id": "52fe44fc9251416c75047cf3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5151,
+                "known_for_department": "Acting",
+                "name": "Beth Grant",
+                "original_name": "Beth Grant",
+                "popularity": 16.551,
+                "profile_path": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg",
+                "cast_id": 15,
+                "character": "Mary",
+                "credit_id": "52fe44fc9251416c75047d15",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51990,
+                "known_for_department": "Acting",
+                "name": "T.J. Miller",
+                "original_name": "T.J. Miller",
+                "popularity": 29.412,
+                "profile_path": "/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg",
+                "cast_id": 13,
+                "character": "Rory",
+                "credit_id": "52fe44fc9251416c75047d0d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3217167,
+                "known_for_department": "Acting",
+                "name": "Javier Gutiérrez",
+                "original_name": "Javier Gutiérrez",
+                "popularity": 1.134,
+                "profile_path": null,
+                "cast_id": 47,
+                "character": "Hector",
+                "credit_id": "64117d25b4224200b973bb3c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 180527,
+                "known_for_department": "Acting",
+                "name": "Lidia Porto",
+                "original_name": "Lidia Porto",
+                "popularity": 8.031,
+                "profile_path": "/ukInRHpe2XZxv261eYqnav9WjQw.jpg",
+                "cast_id": 17,
+                "character": "Gabriella",
+                "credit_id": "52fe44fc9251416c75047d1d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57756,
+                "known_for_department": "Acting",
+                "name": "Gene Simmons",
+                "original_name": "Gene Simmons",
+                "popularity": 32.086,
+                "profile_path": "/c1t3QgTO4XTDZZG5Ndjxjt8Jt0a.jpg",
+                "cast_id": 8,
+                "character": "Joe Adler",
+                "credit_id": "52fe44fc9251416c75047cf7",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31841,
+                "known_for_department": "Acting",
+                "name": "Matt Schulze",
+                "original_name": "Matt Schulze",
+                "popularity": 41.906,
+                "profile_path": "/wFOVJr3dxEs5kC2rtS5iV3XbU0C.jpg",
+                "cast_id": 11,
+                "character": "Willie",
+                "credit_id": "52fe44fc9251416c75047d05",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1005829,
+                "known_for_department": "Acting",
+                "name": "Lamberto Gutierrez",
+                "original_name": "Lamberto Gutierrez",
+                "popularity": 1.046,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Victor",
+                "credit_id": "52fe44fc9251416c75047d21",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15011,
+                "known_for_department": "Acting",
+                "name": "Brent Briscoe",
+                "original_name": "Brent Briscoe",
+                "popularity": 11.965,
+                "profile_path": "/4N7ZjV0Tb2EwwRzOBGp7h01oXVu.jpg",
+                "cast_id": 19,
+                "character": "Phil",
+                "credit_id": "52fe44fc9251416c75047d25",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 75316,
+                "known_for_department": "Acting",
+                "name": "Hal Sparks",
+                "original_name": "Hal Sparks",
+                "popularity": 15.999,
+                "profile_path": "/sxmESxUf1nFEwheqXAtYDUMJP2s.jpg",
+                "cast_id": 20,
+                "character": "Guitar Salesman #1",
+                "credit_id": "55e8e865c3a3682c62003fa7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 216147,
+                "known_for_department": "Acting",
+                "name": "Nick Thune",
+                "original_name": "Nick Thune",
+                "popularity": 9.962,
+                "profile_path": "/aE8WEoNAs2PtgUzF6AcGodwLQvy.jpg",
+                "cast_id": 21,
+                "character": "Guitar Salesman #2",
+                "credit_id": "55e8e874c3a3682c67003fb8",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38709,
+                "known_for_department": "Acting",
+                "name": "Tom Virtue",
+                "original_name": "Tom Virtue",
+                "popularity": 20.819,
+                "profile_path": "/etCc7aFC9gOzOctFERT7e6qC83C.jpg",
+                "cast_id": 28,
+                "character": "Guitar Customer",
+                "credit_id": "57c8aa0292514148ee00068e",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1673214,
+                "known_for_department": "Acting",
+                "name": "Christopher Rocha",
+                "original_name": "Christopher Rocha",
+                "popularity": 5.02,
+                "profile_path": "/e9qBH4LHU573An60zzgkGMWDJ3m.jpg",
+                "cast_id": 29,
+                "character": "Pawn Shop Guy",
+                "credit_id": "57c8aa55c3a3685bf10006a4",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4734,
+                "known_for_department": "Acting",
+                "name": "Jenny O'Hara",
+                "original_name": "Jenny O'Hara",
+                "popularity": 28.087,
+                "profile_path": "/cNEu7MMpO2dAtZazIbxjo45oH3j.jpg",
+                "cast_id": 30,
+                "character": "Joel's Secretary",
+                "credit_id": "57c8ab5ac3a3685c00000815",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21163,
+                "known_for_department": "Acting",
+                "name": "Gary Cole",
+                "original_name": "Gary Cole",
+                "popularity": 44.194,
+                "profile_path": "/gPxHlVK9vNQSa5DkTFKYvLMASdE.jpg",
+                "cast_id": 31,
+                "character": "Bar Patron (uncredited)",
+                "credit_id": "57c8abb0c3a3685be60007b6",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17403,
+                "known_for_department": "Acting",
+                "name": "Mike Judge",
+                "original_name": "Mike Judge",
+                "popularity": 28.798,
+                "profile_path": "/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg",
+                "cast_id": 32,
+                "character": "Jim (uncredited)",
+                "credit_id": "57c8abe0c3a3685be60007c4",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1451115,
+                "known_for_department": "Acting",
+                "name": "Marilyn Monrovia",
+                "original_name": "Marilyn Monrovia",
+                "popularity": 5.227,
+                "profile_path": "/1ZgXyZdtteTRCWj3hGqBrnVP7pT.jpg",
+                "cast_id": 34,
+                "character": "Lawyer (uncredited)",
+                "credit_id": "57c8ac32c3a3685c020007f6",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17403,
+                "known_for_department": "Acting",
+                "name": "Mike Judge",
+                "original_name": "Mike Judge",
+                "popularity": 28.798,
+                "profile_path": "/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg",
+                "credit_id": "52fe44fc9251416c75047cdf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17403,
+                "known_for_department": "Acting",
+                "name": "Mike Judge",
+                "original_name": "Mike Judge",
+                "popularity": 28.798,
+                "profile_path": "/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg",
+                "credit_id": "52fe44fc9251416c75047cfd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11475,
+                "known_for_department": "Art",
+                "name": "Maher Ahmad",
+                "original_name": "Maher Ahmad",
+                "popularity": 6.657,
+                "profile_path": null,
+                "credit_id": "57c8a8d992514148ee00062a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60931,
+                "known_for_department": "Creator",
+                "name": "John Altschuler",
+                "original_name": "John Altschuler",
+                "popularity": 7.836,
+                "profile_path": "/9WsfnM8f6uvcXvsC8dEFoY6VTxl.jpg",
+                "credit_id": "57c8a852c3a3685bec0006fd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24177,
+                "known_for_department": "Production",
+                "name": "Michael Rotenberg",
+                "original_name": "Michael Rotenberg",
+                "popularity": 7.606,
+                "profile_path": null,
+                "credit_id": "57c8a879c3a3685bec00070c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17146,
+                "known_for_department": "Camera",
+                "name": "Tim Suhrstedt",
+                "original_name": "Tim Suhrstedt",
+                "popularity": 3.97,
+                "profile_path": null,
+                "credit_id": "57c8a8c4c3a3685be60006b1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52016,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alix Friedberg",
+                "original_name": "Alix Friedberg",
+                "popularity": 6.06,
+                "profile_path": null,
+                "credit_id": "57c8a8eec3a3685be9000738",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60932,
+                "known_for_department": "Creator",
+                "name": "Dave Krinsky",
+                "original_name": "Dave Krinsky",
+                "popularity": 7.485,
+                "profile_path": "/2JnNwJkiKFvcKCwI3FeancfF3hJ.jpg",
+                "credit_id": "5f20ffe4c048a900352d39be",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11100,
+                "known_for_department": "Editing",
+                "name": "Julia Wong",
+                "original_name": "Julia Wong",
+                "popularity": 3.38,
+                "profile_path": null,
+                "credit_id": "5f2100425b2f4700364c2ea5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 39123,
+                "known_for_department": "Production",
+                "name": "Venus Kanani",
+                "original_name": "Venus Kanani",
+                "popularity": 7.006,
+                "profile_path": null,
+                "credit_id": "5f210062be55b70037a07f91",
+                "department": "Production",
+                "job": "Casting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2725568,
+                "known_for_department": "Production",
+                "name": "Glenn Lucas",
+                "original_name": "Glenn Lucas",
+                "popularity": 0.074,
+                "profile_path": null,
+                "credit_id": "5f2100033d355700349a10bf",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1444953,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tracey Levy",
+                "original_name": "Tracey Levy",
+                "popularity": 4.143,
+                "profile_path": null,
+                "credit_id": "5f2100a8e942ee003955ec7c",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5914,
+                "known_for_department": "Production",
+                "name": "Mary Vernieu",
+                "original_name": "Mary Vernieu",
+                "popularity": 22.81,
+                "profile_path": "/fvPk2YNSpgqU2iBGgXCUCTcGRpo.jpg",
+                "credit_id": "5f21006a56b9f7003613c286",
+                "department": "Production",
+                "job": "Casting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1524757,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Emanuel Millar",
+                "original_name": "Emanuel Millar",
+                "popularity": 3.485,
+                "profile_path": null,
+                "credit_id": "5f2100b3caaca20033645c45",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19663,
+                "known_for_department": "Art",
+                "name": "Austin Gorg",
+                "original_name": "Austin Gorg",
+                "popularity": 7.013,
+                "profile_path": null,
+                "credit_id": "5f21007b5b2f4700364c303c",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2065171,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rhonda O'Neal",
+                "original_name": "Rhonda O'Neal",
+                "popularity": 1.34,
+                "profile_path": null,
+                "credit_id": "5f2100e156b9f70039121183",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5957,
+                "known_for_department": "Art",
+                "name": "Gene Serdena",
+                "original_name": "Gene Serdena",
+                "popularity": 9.002,
+                "profile_path": null,
+                "credit_id": "5f21008956b9f7003613c2c6",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53756,
+                "known_for_department": "Production",
+                "name": "Tom Lassally",
+                "original_name": "Tom Lassally",
+                "popularity": 4.22,
+                "profile_path": null,
+                "credit_id": "5f20ffecc048a900362d0e0f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9204,
+                "known_for_department": "Sound",
+                "name": "George S. Clinton",
+                "original_name": "George S. Clinton",
+                "popularity": 6.607,
+                "profile_path": "/tdJbE5zJV037lc2RwIRWv0cCJpZ.jpg",
+                "credit_id": "5f210027c048a900362d0e44",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142157,
+                "known_for_department": "Crew",
+                "name": "Doug Coleman",
+                "original_name": "Doug Coleman",
+                "popularity": 11.672,
+                "profile_path": "/temeKPrQ9VosJXwb51O3EWxQ5yO.jpg",
+                "credit_id": "64827544bf31f250569a6330",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jason Bateman",
+            "character": "Joel"
+        },
+        {
+            "actor": "Mila Kunis",
+            "character": "Cindy"
+        },
+        {
+            "actor": "Kristen Wiig",
+            "character": "Suzie"
+        },
+        {
+            "actor": "Ben Affleck",
+            "character": "Dean"
+        },
+        {
+            "actor": "J.K. Simmons",
+            "character": "Brian"
+        },
+        {
+            "actor": "Clifton Collins Jr.",
+            "character": "Step"
+        },
+        {
+            "actor": "Dustin Milligan",
+            "character": "Brad"
+        },
+        {
+            "actor": "David Koechner",
+            "character": "Nathan"
+        },
+        {
+            "actor": "Beth Grant",
+            "character": "Mary"
+        },
+        {
+            "actor": "T.J. Miller",
+            "character": "Rory"
+        },
+        {
+            "actor": "Javier Gutiérrez",
+            "character": "Hector"
+        },
+        {
+            "actor": "Lidia Porto",
+            "character": "Gabriella"
+        },
+        {
+            "actor": "Gene Simmons",
+            "character": "Joe Adler"
+        },
+        {
+            "actor": "Matt Schulze",
+            "character": "Willie"
+        },
+        {
+            "actor": "Lamberto Gutierrez",
+            "character": "Victor"
+        },
+        {
+            "actor": "Brent Briscoe",
+            "character": "Phil"
+        },
+        {
+            "actor": "Hal Sparks",
+            "character": "Guitar Salesman #1"
+        },
+        {
+            "actor": "Nick Thune",
+            "character": "Guitar Salesman #2"
+        },
+        {
+            "actor": "Tom Virtue",
+            "character": "Guitar Customer"
+        },
+        {
+            "actor": "Christopher Rocha",
+            "character": "Pawn Shop Guy"
+        },
+        {
+            "actor": "Jenny O'Hara",
+            "character": "Joel's Secretary"
+        },
+        {
+            "actor": "Gary Cole",
+            "character": "Bar Patron (uncredited)"
+        },
+        {
+            "actor": "Mike Judge",
+            "character": "Jim (uncredited)"
+        },
+        {
+            "actor": "Marilyn Monrovia",
+            "character": "Lawyer (uncredited)"
+        }
+    ]
+}

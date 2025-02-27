@@ -1,0 +1,592 @@
+{
+    "adult": false,
+    "backdrop_path": "/nuvkvulHicx1rcNHR7y02GR36au.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 588199,
+    "imdb_id": "tt8840400",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "In Search of the Last Action Heroes",
+    "overview": "The most comprehensive retrospective of the '80s action film genre ever made.",
+    "popularity": 10.482,
+    "poster_path": "/5rt2L11lVwRkjXHBmTLagoywfRb.jpg",
+    "production_companies": [
+        {
+            "id": 135251,
+            "logo_path": null,
+            "name": "CreatorVC",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2019-09-01",
+    "revenue": 0,
+    "runtime": 140,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "In Search of the Last Action Heroes",
+    "video": false,
+    "vote_average": 6.952,
+    "vote_count": 31,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2021-06-04T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "",
+                        "release_date": "2022-02-03T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2020-11-02T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2019-09-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 230572,
+                "known_for_department": "Acting",
+                "name": "Stuart Ashen",
+                "original_name": "Stuart Ashen",
+                "popularity": 3.262,
+                "profile_path": "/rTqk7VnQiqv6cHvjSmWGOBSt9VN.jpg",
+                "cast_id": 1,
+                "character": "Himself",
+                "credit_id": "5c8a9929c3a368216e0d2e7c",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129612,
+                "known_for_department": "Writing",
+                "name": "James Bruner",
+                "original_name": "James Bruner",
+                "popularity": 7.083,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Himself",
+                "credit_id": "5c8a99b50e0a264badc1886a",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16830,
+                "known_for_department": "Production",
+                "name": "Boaz Davidson",
+                "original_name": "Boaz Davidson",
+                "popularity": 17.39,
+                "profile_path": "/6GfBPoefCrLhuvtpFXRt88Qt8ZU.jpg",
+                "cast_id": 3,
+                "character": "Himself",
+                "credit_id": "5c8a99c4c3a368645d0de118",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1726,
+                "known_for_department": "Writing",
+                "name": "Steven E. de Souza",
+                "original_name": "Steven E. de Souza",
+                "popularity": 11.61,
+                "profile_path": "/7sUWRiurj2LfdGk6zdYP7fDbQPO.jpg",
+                "cast_id": 4,
+                "character": "Himself",
+                "credit_id": "5c8a99d40e0a267d08c3acf8",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1103,
+                "known_for_department": "Acting",
+                "name": "Bill Duke",
+                "original_name": "Bill Duke",
+                "popularity": 34.002,
+                "profile_path": "/3g2ggBB7hGq1gnQwiJtHgfX2AbF.jpg",
+                "cast_id": 5,
+                "character": "Himself",
+                "credit_id": "5c8a99e2c3a36864550de700",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72543,
+                "known_for_department": "Directing",
+                "name": "Sam Firstenberg",
+                "original_name": "Sam Firstenberg",
+                "popularity": 10.574,
+                "profile_path": "/5VAEvI8QxuMzNNy2XyYJNghCHFF.jpg",
+                "cast_id": 6,
+                "character": "Himself",
+                "credit_id": "5c8a99ee0e0a260cb1c3d500",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3981,
+                "known_for_department": "Acting",
+                "name": "Jenette Goldstein",
+                "original_name": "Jenette Goldstein",
+                "popularity": 41.744,
+                "profile_path": "/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg",
+                "cast_id": 7,
+                "character": "Herself",
+                "credit_id": "5c8a99ffc3a36824bf0d3aa8",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37250,
+                "known_for_department": "Acting",
+                "name": "Matthias Hues",
+                "original_name": "Matthias Hues",
+                "popularity": 14.701,
+                "profile_path": "/ngdHx4jWdyeZB65YfNvcPXlMpsj.jpg",
+                "cast_id": 8,
+                "character": "Himself",
+                "credit_id": "5c8a9a0a0e0a2642b5c19c5b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3986,
+                "known_for_department": "Production",
+                "name": "Mario Kassar",
+                "original_name": "Mario Kassar",
+                "popularity": 7.654,
+                "profile_path": "/39uC1Ou7mqOUSfrpfKV8rPJhRT8.jpg",
+                "cast_id": 9,
+                "character": "Himself",
+                "credit_id": "5c8a9a179251410462c07e87",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61704,
+                "known_for_department": "Acting",
+                "name": "Al Leong",
+                "original_name": "Al Leong",
+                "popularity": 19.069,
+                "profile_path": "/zC01uEOvbdTQIg19LKVu5r2QKan.jpg",
+                "cast_id": 10,
+                "character": "Himself",
+                "credit_id": "5c8a9a219251410ce2c36885",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67753,
+                "known_for_department": "Directing",
+                "name": "Mark L. Lester",
+                "original_name": "Mark L. Lester",
+                "popularity": 10.796,
+                "profile_path": "/ioa8RxmIBPUqmeoHLetFSLrLK4Q.jpg",
+                "cast_id": 11,
+                "character": "Himself",
+                "credit_id": "5c8a9a3ac3a36864650e0bdd",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16590,
+                "known_for_department": "Writing",
+                "name": "Sheldon Lettich",
+                "original_name": "Sheldon Lettich",
+                "popularity": 12.314,
+                "profile_path": "/eTwzTAJ4X48FalI9eDDsyvpooOP.jpg",
+                "cast_id": 12,
+                "character": "Himself",
+                "credit_id": "5c8a9a48c3a368645d0de1bd",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16589,
+                "known_for_department": "Directing",
+                "name": "Peter MacDonald",
+                "original_name": "Peter MacDonald",
+                "popularity": 22.372,
+                "profile_path": "/tSOyLrYE10HjM7rC3BVvJGZCYyw.jpg",
+                "cast_id": 13,
+                "character": "Himself",
+                "credit_id": "5c8a9adc9251410ce2c36973",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11011,
+                "known_for_department": "Writing",
+                "name": "Zak Penn",
+                "original_name": "Zak Penn",
+                "popularity": 20.005,
+                "profile_path": "/5Zx3o1Fmlu4sIYq4xn5WLyK2GNM.jpg",
+                "cast_id": 14,
+                "character": "Himself",
+                "credit_id": "5c8a9ae70e0a260cb1c3d6b6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82442,
+                "known_for_department": "Acting",
+                "name": "Phillip Rhee",
+                "original_name": "Phillip Rhee",
+                "popularity": 12.175,
+                "profile_path": "/8DPwKPYUWqpHO2BBbYR3D9HlC1j.jpg",
+                "cast_id": 15,
+                "character": "Himself",
+                "credit_id": "5c8a9af40e0a26042bc4c289",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21315,
+                "known_for_department": "Acting",
+                "name": "Eric Roberts",
+                "original_name": "Eric Roberts",
+                "popularity": 38.028,
+                "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+                "cast_id": 16,
+                "character": "Himself",
+                "credit_id": "5c8a9b029251410ccfc366d0",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 74375,
+                "known_for_department": "Acting",
+                "name": "Cynthia Rothrock",
+                "original_name": "Cynthia Rothrock",
+                "popularity": 26.863,
+                "profile_path": "/q1o25yMQNrrU2ekNHqRY0y8gmJZ.jpg",
+                "cast_id": 17,
+                "character": "Herself",
+                "credit_id": "5c8a9b26c3a36864650e0d18",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26491,
+                "known_for_department": "Acting",
+                "name": "Vernon Wells",
+                "original_name": "Vernon Wells",
+                "popularity": 17.879,
+                "profile_path": "/rpKjskAbftBMFi1HWZ0Jo6lZgod.jpg",
+                "cast_id": 18,
+                "character": "Himself",
+                "credit_id": "5c8a9b329251414e8bc280e3",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64856,
+                "known_for_department": "Acting",
+                "name": "Michael Jai White",
+                "original_name": "Michael Jai White",
+                "popularity": 48.585,
+                "profile_path": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg",
+                "cast_id": 19,
+                "character": "Himself",
+                "credit_id": "5c8a9b3fc3a36805f30ad11c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78110,
+                "known_for_department": "Acting",
+                "name": "Scott Adkins",
+                "original_name": "Scott Adkins",
+                "popularity": 70.236,
+                "profile_path": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "5f06054b93db920034453968",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15111,
+                "known_for_department": "Acting",
+                "name": "Jean-Claude Van Damme",
+                "original_name": "Jean-Claude Van Damme",
+                "popularity": 56.389,
+                "profile_path": "/7DP3bm3MS0qa0L8tBLHGebbCu6H.jpg",
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "5f0605531d1bf4003662526c",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1108,
+                "known_for_department": "Writing",
+                "name": "Shane Black",
+                "original_name": "Shane Black",
+                "popularity": 33.022,
+                "profile_path": "/dDPpKmYKomPPiqLKaJfZNJ00M3c.jpg",
+                "cast_id": 25,
+                "character": "Himself",
+                "credit_id": "6303f131efcea90083bf43e9",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10491,
+                "known_for_department": "Directing",
+                "name": "Paul Verhoeven",
+                "original_name": "Paul Verhoeven",
+                "popularity": 32.168,
+                "profile_path": "/wxkroRBtM6NKZdx9sYLFfFSGnaR.jpg",
+                "cast_id": 26,
+                "character": "Self",
+                "credit_id": "64565b27903c52011b7ba296",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2265262,
+                "known_for_department": "Directing",
+                "name": "Oliver Harper",
+                "original_name": "Oliver Harper",
+                "popularity": 0.904,
+                "profile_path": null,
+                "credit_id": "5c8a9b650e0a264badc18dc9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1393625,
+                "known_for_department": "Production",
+                "name": "Kyle Curry",
+                "original_name": "Kyle Curry",
+                "popularity": 1.206,
+                "profile_path": null,
+                "credit_id": "5c8a9b8cc3a36864550de905",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2145585,
+                "known_for_department": "Acting",
+                "name": "Sergio Rizzuto",
+                "original_name": "Sergio Rizzuto",
+                "popularity": 14.577,
+                "profile_path": "/wlxFO0dEtKAXR8W6fEy7T4u4X0K.jpg",
+                "credit_id": "5c8a9b9e9251410ce2c36a6e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4292650,
+                "known_for_department": "Production",
+                "name": "Martin Lister",
+                "original_name": "Martin Lister",
+                "popularity": 0.032,
+                "profile_path": "/hZPG6QkiUQso7ZJY1zED2ckiThE.jpg",
+                "credit_id": "6513300b8e2ba600e451f9d4",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Stuart Ashen",
+            "character": "Himself"
+        },
+        {
+            "actor": "James Bruner",
+            "character": "Himself"
+        },
+        {
+            "actor": "Boaz Davidson",
+            "character": "Himself"
+        },
+        {
+            "actor": "Steven E. de Souza",
+            "character": "Himself"
+        },
+        {
+            "actor": "Bill Duke",
+            "character": "Himself"
+        },
+        {
+            "actor": "Sam Firstenberg",
+            "character": "Himself"
+        },
+        {
+            "actor": "Jenette Goldstein",
+            "character": "Herself"
+        },
+        {
+            "actor": "Matthias Hues",
+            "character": "Himself"
+        },
+        {
+            "actor": "Mario Kassar",
+            "character": "Himself"
+        },
+        {
+            "actor": "Al Leong",
+            "character": "Himself"
+        },
+        {
+            "actor": "Mark L. Lester",
+            "character": "Himself"
+        },
+        {
+            "actor": "Sheldon Lettich",
+            "character": "Himself"
+        },
+        {
+            "actor": "Peter MacDonald",
+            "character": "Himself"
+        },
+        {
+            "actor": "Zak Penn",
+            "character": "Himself"
+        },
+        {
+            "actor": "Phillip Rhee",
+            "character": "Himself"
+        },
+        {
+            "actor": "Eric Roberts",
+            "character": "Himself"
+        },
+        {
+            "actor": "Cynthia Rothrock",
+            "character": "Herself"
+        },
+        {
+            "actor": "Vernon Wells",
+            "character": "Himself"
+        },
+        {
+            "actor": "Michael Jai White",
+            "character": "Himself"
+        },
+        {
+            "actor": "Scott Adkins",
+            "character": ""
+        },
+        {
+            "actor": "Jean-Claude Van Damme",
+            "character": ""
+        },
+        {
+            "actor": "Shane Black",
+            "character": "Himself"
+        },
+        {
+            "actor": "Paul Verhoeven",
+            "character": "Self"
+        }
+    ]
+}

@@ -1,0 +1,711 @@
+{
+    "adult": false,
+    "backdrop_path": "/fOfLYvd2BTKsOzbC3cz8ZpjDdFa.jpg",
+    "belongs_to_collection": null,
+    "budget": 2300000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 20283,
+    "imdb_id": "tt0078902",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Breaking Away",
+    "overview": "Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends and parents annoyance.",
+    "popularity": 28.411,
+    "poster_path": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1979-05-24",
+    "revenue": 20000000,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The movie that tells you exactly what you can do with your high school diploma!",
+    "title": "Breaking Away",
+    "video": false,
+    "vote_average": 7.123,
+    "vote_count": 248,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1984-02-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "APTA",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1980-02-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-05-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-07-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-03-13T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2010-06-25T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-07-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27770,
+                "known_for_department": "Acting",
+                "name": "Dennis Christopher",
+                "original_name": "Dennis Christopher",
+                "popularity": 29.894,
+                "profile_path": "/izYfd86mlERW5EtyNna4aKMXKOW.jpg",
+                "cast_id": 4,
+                "character": "Dave Stoller",
+                "credit_id": "52fe43dfc3a368484e0030eb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6065,
+                "known_for_department": "Acting",
+                "name": "Dennis Quaid",
+                "original_name": "Dennis Quaid",
+                "popularity": 69.553,
+                "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+                "cast_id": 1,
+                "character": "Mike",
+                "credit_id": "52fe43dfc3a368484e0030df",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11511,
+                "known_for_department": "Acting",
+                "name": "Daniel Stern",
+                "original_name": "Daniel Stern",
+                "popularity": 42.95,
+                "profile_path": "/939oerf8bJPrqT2a0N0oGuM1bjn.jpg",
+                "cast_id": 2,
+                "character": "Cyril",
+                "credit_id": "52fe43dfc3a368484e0030e3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17183,
+                "known_for_department": "Acting",
+                "name": "Jackie Earle Haley",
+                "original_name": "Jackie Earle Haley",
+                "popularity": 24.047,
+                "profile_path": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg",
+                "cast_id": 3,
+                "character": "Moocher",
+                "credit_id": "52fe43dfc3a368484e0030e7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1216876,
+                "known_for_department": "Acting",
+                "name": "Barbara Barrie",
+                "original_name": "Barbara Barrie",
+                "popularity": 17.296,
+                "profile_path": "/eUVrPjqoAKGFuF6ORUOEzfXgAhb.jpg",
+                "cast_id": 17,
+                "character": "Evelyn Stoller",
+                "credit_id": "52fe43dfc3a368484e00311b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15900,
+                "known_for_department": "Acting",
+                "name": "Paul Dooley",
+                "original_name": "Paul Dooley",
+                "popularity": 17.537,
+                "profile_path": "/7nTdbpU4wIsSDZ8WCPXNJOG9KPI.jpg",
+                "cast_id": 7,
+                "character": "Ray Stoller",
+                "credit_id": "52fe43dfc3a368484e0030f5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91460,
+                "known_for_department": "Acting",
+                "name": "Robyn Douglass",
+                "original_name": "Robyn Douglass",
+                "popularity": 19.54,
+                "profile_path": "/y6jTPbPBfqDK9X8ckbC02rQgnSq.jpg",
+                "cast_id": 8,
+                "character": "Katherine",
+                "credit_id": "52fe43dfc3a368484e0030f9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7678,
+                "known_for_department": "Acting",
+                "name": "Hart Bochner",
+                "original_name": "Hart Bochner",
+                "popularity": 11.913,
+                "profile_path": "/nfC2ByTNS3xoygwYVbUYsx2Zae6.jpg",
+                "cast_id": 9,
+                "character": "Rod",
+                "credit_id": "52fe43dfc3a368484e0030fd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87007,
+                "known_for_department": "Acting",
+                "name": "Amy Wright",
+                "original_name": "Amy Wright",
+                "popularity": 16.06,
+                "profile_path": "/wejr7718NPsCjTF2mvyOOIukRsc.jpg",
+                "cast_id": 18,
+                "character": "Nancy",
+                "credit_id": "54ee518e9251413ae8001fd0",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15415,
+                "known_for_department": "Acting",
+                "name": "Peter Maloney",
+                "original_name": "Peter Maloney",
+                "popularity": 18.788,
+                "profile_path": "/AuWdzHWJA6Jx9mdxxjJs6VcIs7m.jpg",
+                "cast_id": 11,
+                "character": "Doctor",
+                "credit_id": "52fe43dfc3a368484e003101",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 778,
+                "known_for_department": "Acting",
+                "name": "John Ashton",
+                "original_name": "John Ashton",
+                "popularity": 40.723,
+                "profile_path": "/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg",
+                "cast_id": 12,
+                "character": "Mike's Brother",
+                "credit_id": "52fe43dfc3a368484e003105",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 191771,
+                "known_for_department": "Acting",
+                "name": "Lisa Shure",
+                "original_name": "Lisa Shure",
+                "popularity": 1.721,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "French Girl",
+                "credit_id": "52fe43dfc3a368484e003109",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1090710,
+                "known_for_department": "Acting",
+                "name": "Jennifer K. Mickel",
+                "original_name": "Jennifer K. Mickel",
+                "popularity": 0.53,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Girl",
+                "credit_id": "52fe43dfc3a368484e00310d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15500,
+                "known_for_department": "Acting",
+                "name": "P.J. Soles",
+                "original_name": "P.J. Soles",
+                "popularity": 20.234,
+                "profile_path": "/7gxTnPBddrC8HBBuLqdgSdRIuGL.jpg",
+                "cast_id": 15,
+                "character": "Suzy",
+                "credit_id": "52fe43dfc3a368484e003111",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12804,
+                "known_for_department": "Directing",
+                "name": "Peter Yates",
+                "original_name": "Peter Yates",
+                "popularity": 11.876,
+                "profile_path": "/sHcC917Y0F7UoaVAnF2yKMvUnSn.jpg",
+                "credit_id": "52fe43dfc3a368484e0030f1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 598,
+                "known_for_department": "Production",
+                "name": "Mike Fenton",
+                "original_name": "Mike Fenton",
+                "popularity": 16.317,
+                "profile_path": "/oIKCBb2w47iZps9neDo2GY29g1y.jpg",
+                "credit_id": "54ee5227c3a3680b80004e82",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69809,
+                "known_for_department": "Editing",
+                "name": "Cynthia Scheider",
+                "original_name": "Cynthia Scheider",
+                "popularity": 6.355,
+                "profile_path": null,
+                "credit_id": "54ee5206925141795f004b30",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62045,
+                "known_for_department": "Production",
+                "name": "Art Levinson",
+                "original_name": "Art Levinson",
+                "popularity": 6.364,
+                "profile_path": null,
+                "credit_id": "54ee51c39251417968004a4a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 597,
+                "known_for_department": "Production",
+                "name": "Jane Feinberg",
+                "original_name": "Jane Feinberg",
+                "popularity": 13.538,
+                "profile_path": null,
+                "credit_id": "54ee52189251417974004b83",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12804,
+                "known_for_department": "Directing",
+                "name": "Peter Yates",
+                "original_name": "Peter Yates",
+                "popularity": 11.876,
+                "profile_path": "/sHcC917Y0F7UoaVAnF2yKMvUnSn.jpg",
+                "credit_id": "54ee51d3c3a3686d5e0043f8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6494,
+                "known_for_department": "Art",
+                "name": "Patrizia von Brandenstein",
+                "original_name": "Patrizia von Brandenstein",
+                "popularity": 7.07,
+                "profile_path": null,
+                "credit_id": "54ee5243c3a3680b80004e86",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2507,
+                "known_for_department": "Camera",
+                "name": "Matthew F. Leonetti",
+                "original_name": "Matthew F. Leonetti",
+                "popularity": 4.031,
+                "profile_path": "/v9kwWIkNkanReGoFfJA1vrLBUDP.jpg",
+                "credit_id": "54ee51f49251417968004a50",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1335808,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marvin G. Westmore",
+                "original_name": "Marvin G. Westmore",
+                "popularity": 2.115,
+                "profile_path": null,
+                "credit_id": "5b9f819e0e0a266376020f53",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 17994,
+                "known_for_department": "Sound",
+                "name": "Dan Sable",
+                "original_name": "Dan Sable",
+                "popularity": 11.257,
+                "profile_path": null,
+                "credit_id": "5b9f8289c3a36833a50215d7",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1568719,
+                "known_for_department": "Art",
+                "name": "Lee Poll",
+                "original_name": "Lee Poll",
+                "popularity": 1.575,
+                "profile_path": null,
+                "credit_id": "5b9f8150925141231701df71",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1341865,
+                "known_for_department": "Directing",
+                "name": "Ana Maria Quintana",
+                "original_name": "Ana Maria Quintana",
+                "popularity": 3.563,
+                "profile_path": "/kOwMpvilYZUIstFGiPWmjqLcdIx.jpg",
+                "credit_id": "5b9f83d0925141230c01dcbf",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1877122,
+                "known_for_department": "Sound",
+                "name": "Michael Moyse",
+                "original_name": "Michael Moyse",
+                "popularity": 3.464,
+                "profile_path": null,
+                "credit_id": "5b9f826fc3a36833a202107b",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1656421,
+                "known_for_department": "Lighting",
+                "name": "Mike Weathers",
+                "original_name": "Mike Weathers",
+                "popularity": 5.001,
+                "profile_path": null,
+                "credit_id": "5b9f833dc3a36833a9021c0c",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11376,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Betsy Cox",
+                "original_name": "Betsy Cox",
+                "popularity": 3.779,
+                "profile_path": null,
+                "credit_id": "5b9f817fc3a36833af0220ee",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1555024,
+                "known_for_department": "Sound",
+                "name": "Leonard A. Engel",
+                "original_name": "Leonard A. Engel",
+                "popularity": 2.241,
+                "profile_path": null,
+                "credit_id": "5b9f83860e0a266378021740",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1378165,
+                "known_for_department": "Art",
+                "name": "Mark Wade",
+                "original_name": "Mark Wade",
+                "popularity": 2.027,
+                "profile_path": null,
+                "credit_id": "5b9f8241c3a36833a00213c7",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35511,
+                "known_for_department": "Camera",
+                "name": "James Glennon",
+                "original_name": "James Glennon",
+                "popularity": 6.622,
+                "profile_path": "/bIYcdUqSKFEEV4Sun5N17ulZKMY.jpg",
+                "credit_id": "5b9f8316c3a36833b102190d",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30383,
+                "known_for_department": "Production",
+                "name": "Michael Grillo",
+                "original_name": "Michael Grillo",
+                "popularity": 9.394,
+                "profile_path": "/gpXYjDzSR0j4kmrEvXeY2amYV0T.jpg",
+                "credit_id": "5b9f821f925141230c01d90e",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2129706,
+                "known_for_department": "Production",
+                "name": "Elise Rohden",
+                "original_name": "Elise Rohden",
+                "popularity": 1.886,
+                "profile_path": null,
+                "credit_id": "5b9f83e9925141230901e8c2",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12948,
+                "known_for_department": "Crew",
+                "name": "Conrad E. Palmisano",
+                "original_name": "Conrad E. Palmisano",
+                "popularity": 9.849,
+                "profile_path": "/9012ElbfHVSrl0Jzvip19rFaLBP.jpg",
+                "credit_id": "5b9f82ac925141230f01e4c3",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 69002,
+                "known_for_department": "Writing",
+                "name": "Steve Tesich",
+                "original_name": "Steve Tesich",
+                "popularity": 12.442,
+                "profile_path": null,
+                "credit_id": "5d3da788ede1b00014ee0c8d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7422,
+                "known_for_department": "Sound",
+                "name": "Patrick Williams",
+                "original_name": "Patrick Williams",
+                "popularity": 7.501,
+                "profile_path": null,
+                "credit_id": "5ec22bb2d2147c0023b6e628",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Dennis Christopher",
+            "character": "Dave Stoller"
+        },
+        {
+            "actor": "Dennis Quaid",
+            "character": "Mike"
+        },
+        {
+            "actor": "Daniel Stern",
+            "character": "Cyril"
+        },
+        {
+            "actor": "Jackie Earle Haley",
+            "character": "Moocher"
+        },
+        {
+            "actor": "Barbara Barrie",
+            "character": "Evelyn Stoller"
+        },
+        {
+            "actor": "Paul Dooley",
+            "character": "Ray Stoller"
+        },
+        {
+            "actor": "Robyn Douglass",
+            "character": "Katherine"
+        },
+        {
+            "actor": "Hart Bochner",
+            "character": "Rod"
+        },
+        {
+            "actor": "Amy Wright",
+            "character": "Nancy"
+        },
+        {
+            "actor": "Peter Maloney",
+            "character": "Doctor"
+        },
+        {
+            "actor": "John Ashton",
+            "character": "Mike's Brother"
+        },
+        {
+            "actor": "Lisa Shure",
+            "character": "French Girl"
+        },
+        {
+            "actor": "Jennifer K. Mickel",
+            "character": "Girl"
+        },
+        {
+            "actor": "P.J. Soles",
+            "character": "Suzy"
+        }
+    ]
+}

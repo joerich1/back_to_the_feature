@@ -1,0 +1,953 @@
+{
+    "adult": false,
+    "backdrop_path": "/f26rSgpMWGNOtW4pdIpUDQSnbj3.jpg",
+    "belongs_to_collection": null,
+    "budget": 290000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 20424,
+    "imdb_id": "tt0045917",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Invaders from Mars",
+    "overview": "In the early hours of the night, young David Maclean sees a flying saucer land and disappear into the sand dunes just beyond his house. Slowly, all of the adults, including his once loving parents, begin to act strangely.",
+    "popularity": 18.62,
+    "poster_path": "/bJjikydpyhfFbFWyCagpGeomomH.jpg",
+    "production_companies": [
+        {
+            "id": 21732,
+            "logo_path": null,
+            "name": "Edward L. Alperson Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1953-04-22",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "NATURAL or SUPERNATURAL?",
+    "title": "Invaders from Mars",
+    "video": false,
+    "vote_average": 5.943,
+    "vote_count": 175,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1958-11-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Extended including additional footage & scenes",
+                        "release_date": "1954-09-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "T",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1958-08-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Detroit, MI",
+                        "release_date": "1953-04-09T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1953-04-22T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "4K restoration",
+                        "release_date": "2022-09-26T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87751,
+                "known_for_department": "Acting",
+                "name": "Jimmy Hunt",
+                "original_name": "Jimmy Hunt",
+                "popularity": 29.14,
+                "profile_path": "/nDpg0kR9dPUjHMlLUhpkeyknmd0.jpg",
+                "cast_id": 9,
+                "character": "David Maclean",
+                "credit_id": "52fe43e6c3a368484e004bb9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85940,
+                "known_for_department": "Acting",
+                "name": "Arthur Franz",
+                "original_name": "Arthur Franz",
+                "popularity": 16.435,
+                "profile_path": "/fvqixexCQT6y7lF27doLuV7rCwM.jpg",
+                "cast_id": 8,
+                "character": "Dr. Stuart Kelston",
+                "credit_id": "52fe43e6c3a368484e004bb5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82834,
+                "known_for_department": "Acting",
+                "name": "Helena Carter",
+                "original_name": "Helena Carter",
+                "popularity": 16.064,
+                "profile_path": "/rEthlb2nqLj2cvGLvH7DaFw3hl8.jpg",
+                "cast_id": 7,
+                "character": "Dr. Pat Blake, MD",
+                "credit_id": "52fe43e6c3a368484e004bb1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9865,
+                "known_for_department": "Acting",
+                "name": "Leif Erickson",
+                "original_name": "Leif Erickson",
+                "popularity": 12.4,
+                "profile_path": "/jXbg4qmC71cXhW48y0HLlmc5VgW.jpg",
+                "cast_id": 10,
+                "character": "Mr. George MacLean",
+                "credit_id": "52fe43e6c3a368484e004bbd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8241,
+                "known_for_department": "Acting",
+                "name": "Hillary Brooke",
+                "original_name": "Hillary Brooke",
+                "popularity": 12.811,
+                "profile_path": "/opmOe9OmeTmwF8PfmduNKyiVHyb.jpg",
+                "cast_id": 11,
+                "character": "Mrs. Mary MacLean",
+                "credit_id": "52fe43e6c3a368484e004bc1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81182,
+                "known_for_department": "Acting",
+                "name": "Morris Ankrum",
+                "original_name": "Morris Ankrum",
+                "popularity": 23.829,
+                "profile_path": "/pFgtE39bKKjpz1aluBq9v4ED2IT.jpg",
+                "cast_id": 12,
+                "character": "Col. Fielding",
+                "credit_id": "52fe43e6c3a368484e004bc5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94293,
+                "known_for_department": "Acting",
+                "name": "Walter Sande",
+                "original_name": "Walter Sande",
+                "popularity": 11.144,
+                "profile_path": "/kyVJTouV9WlfIkcfooLE6whhiyy.jpg",
+                "cast_id": 28,
+                "character": "Police Sgt. Mack Finlay",
+                "credit_id": "58ae5faa9251410b25000aa4",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31503,
+                "known_for_department": "Acting",
+                "name": "Bert Freed",
+                "original_name": "Bert Freed",
+                "popularity": 13.145,
+                "profile_path": "/2TLuIMSx3NaCgfhoQBsicbdEIBE.jpg",
+                "cast_id": 18,
+                "character": "Police Chief A.C. Barrows",
+                "credit_id": "5587c7e19251416b00001c78",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120178,
+                "known_for_department": "Acting",
+                "name": "Max Wagner",
+                "original_name": "Max Wagner",
+                "popularity": 6.476,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Army Sgt. Rinaldi",
+                "credit_id": "52fe43e6c3a368484e004bc9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1766032,
+                "known_for_department": "Acting",
+                "name": "Charles Gibb",
+                "original_name": "Charles Gibb",
+                "popularity": 0.288,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Lt. Blair",
+                "credit_id": "58b36fa292514177f600dabf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86356,
+                "known_for_department": "Acting",
+                "name": "Milburn Stone",
+                "original_name": "Milburn Stone",
+                "popularity": 28.694,
+                "profile_path": "/3USWF00CiqUfaFkityyyJxh9srN.jpg",
+                "cast_id": 14,
+                "character": "Army Capt. Roth",
+                "credit_id": "52fe43e6c3a368484e004bcd",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95734,
+                "known_for_department": "Acting",
+                "name": "Douglas Kennedy",
+                "original_name": "Douglas Kennedy",
+                "popularity": 26.46,
+                "profile_path": "/azKsJqwO84KgxLaEPLQnqztKLsY.jpg",
+                "cast_id": 29,
+                "character": "Officer Jackson",
+                "credit_id": "58b36f3992514177b400dfb2",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86402,
+                "known_for_department": "Acting",
+                "name": "Charles Cane",
+                "original_name": "Charles Cane",
+                "popularity": 6.875,
+                "profile_path": "/vc5xFe2MJuK1lzDNBZtsqNxVVJP.jpg",
+                "cast_id": 30,
+                "character": "Officer Blaine",
+                "credit_id": "58b36f4992514177b800d3d9",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98160,
+                "known_for_department": "Acting",
+                "name": "Fay Baker",
+                "original_name": "Fay Baker",
+                "popularity": 9.561,
+                "profile_path": "/h2sljmSUEOT7GTWPl9eaTrcLzDp.jpg",
+                "cast_id": 32,
+                "character": "Mrs. Wilson",
+                "credit_id": "58b36f6f92514177d100e38b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 115852,
+                "known_for_department": "Acting",
+                "name": "Janine Perreau",
+                "original_name": "Janine Perreau",
+                "popularity": 8.546,
+                "profile_path": "/jqIPUs4XexAEYnK0u6Jt5zgVtvr.jpg",
+                "cast_id": 15,
+                "character": "Kathy Wilson",
+                "credit_id": "52fe43e6c3a368484e004bd1",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96701,
+                "known_for_department": "Acting",
+                "name": "John Eldredge",
+                "original_name": "John Eldredge",
+                "popularity": 10.517,
+                "profile_path": "/4h1JgoOD9sHGYvRa6SNw4twxdIv.jpg",
+                "cast_id": 31,
+                "character": "Mr. Turner",
+                "credit_id": "58b36f5cc3a368528d00d654",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 117723,
+                "known_for_department": "Acting",
+                "name": "Barbara Billingsley",
+                "original_name": "Barbara Billingsley",
+                "popularity": 13.663,
+                "profile_path": "/33a4woqyhCo0vFsJWBvYRZTeWbh.jpg",
+                "cast_id": 16,
+                "character": "Kelston's Secretary",
+                "credit_id": "5587c7bd9251416b00001c74",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80206,
+                "known_for_department": "Acting",
+                "name": "Richard Deacon",
+                "original_name": "Richard Deacon",
+                "popularity": 7.129,
+                "profile_path": "/xjTLz6QAyFq0za1o7WloCY4syo4.jpg",
+                "cast_id": 17,
+                "character": "MP",
+                "credit_id": "5587c7cfc3a36836ea0058cc",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1482896,
+                "known_for_department": "Acting",
+                "name": "Gil Herman",
+                "original_name": "Gil Herman",
+                "popularity": 1.503,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Major Clary",
+                "credit_id": "58b36f8bc3a368522000d851",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1766033,
+                "known_for_department": "Acting",
+                "name": "Luce Potter",
+                "original_name": "Luce Potter",
+                "popularity": 0.416,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "The Martian Intelligence",
+                "credit_id": "58b36ff092514177ac00da1b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12284,
+                "known_for_department": "Acting",
+                "name": "Lock Martin",
+                "original_name": "Lock Martin",
+                "popularity": 5.034,
+                "profile_path": "/lz2P5A2WqZWBqN0dc6mHB5s9z9h.jpg",
+                "cast_id": 19,
+                "character": "Mutant Carrying David to 'Intelligence'",
+                "credit_id": "5587c7f69251417f6f006f09",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 931942,
+                "known_for_department": "Acting",
+                "name": "Max Palmer",
+                "original_name": "Max Palmer",
+                "popularity": 3.613,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Second Mutant Guarding the \"Intelligence\"",
+                "credit_id": "58b37054c3a368527d00c152",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17754,
+                "known_for_department": "Acting",
+                "name": "Todd Karns",
+                "original_name": "Todd Karns",
+                "popularity": 5.948,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Jim the Gas Station Attendant",
+                "credit_id": "58b36fc792514177d100e3ee",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34625,
+                "known_for_department": "Acting",
+                "name": "Frank Wilcox",
+                "original_name": "Frank Wilcox",
+                "popularity": 14.752,
+                "profile_path": "/hlqDTFrYD0l91GhwDaepxaZ2euc.jpg",
+                "cast_id": 39,
+                "character": "Pentagon Chief of Staff",
+                "credit_id": "58b37007c3a368522000d8fa",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34726,
+                "known_for_department": "Acting",
+                "name": "Robert Shayne",
+                "original_name": "Robert Shayne",
+                "popularity": 13.734,
+                "profile_path": "/k7wIXDxBHZTRcc1bcr1qcQjWz7Z.jpg",
+                "cast_id": 37,
+                "character": "Dr. William Wilson",
+                "credit_id": "58b36fe1c3a368526d00c0c5",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99754,
+                "known_for_department": "Acting",
+                "name": "William Phipps",
+                "original_name": "William Phipps",
+                "popularity": 17.199,
+                "profile_path": "/g9470NcR184oPHn1K8sHAJBA7R1.jpg",
+                "cast_id": 35,
+                "character": "Sgt. Baker",
+                "credit_id": "58b36fafc3a36852a300d427",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34084,
+                "known_for_department": "Acting",
+                "name": "William Forrest",
+                "original_name": "William Forrest",
+                "popularity": 14.147,
+                "profile_path": "/98kEbtZf1SdPOrDqeFzknMRV0Pg.jpg",
+                "cast_id": 40,
+                "character": "Col. Mayberry",
+                "credit_id": "58b3701992514177a800d62f",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7074,
+                "known_for_department": "Acting",
+                "name": "Peter Brocco",
+                "original_name": "Peter Brocco",
+                "popularity": 21.113,
+                "profile_path": "/bccBYzoHqh9lpgWNbsUenbQSBQT.jpg",
+                "cast_id": 41,
+                "character": "Brainard (bit)",
+                "credit_id": "58b3702b92514177b400e0db",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11489,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 7.946,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "credit_id": "52fe43e6c3a368484e004b8f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30836,
+                "known_for_department": "Sound",
+                "name": "Raoul Kraushaar",
+                "original_name": "Raoul Kraushaar",
+                "popularity": 1.861,
+                "profile_path": null,
+                "credit_id": "52fe43e6c3a368484e004ba1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8620,
+                "known_for_department": "Camera",
+                "name": "John F. Seitz",
+                "original_name": "John F. Seitz",
+                "popularity": 4.14,
+                "profile_path": "/imsSjaTlhfaN1UMegnPOcZ5Q0PS.jpg",
+                "credit_id": "52fe43e6c3a368484e004ba7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120177,
+                "known_for_department": "Editing",
+                "name": "Arthur Roberts",
+                "original_name": "Arthur Roberts",
+                "popularity": 7.862,
+                "profile_path": null,
+                "credit_id": "52fe43e6c3a368484e004bad",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 874,
+                "known_for_department": "Art",
+                "name": "Boris Leven",
+                "original_name": "Boris Leven",
+                "popularity": 4.637,
+                "profile_path": "/rXpErfaKzGG27xhPf2Sn1iw5cSu.jpg",
+                "credit_id": "572f66cec3a36874920006d7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27033,
+                "known_for_department": "Production",
+                "name": "Edward L. Alperson",
+                "original_name": "Edward L. Alperson",
+                "popularity": 2.379,
+                "profile_path": null,
+                "credit_id": "572f66839251412c890045af",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1616903,
+                "known_for_department": "Sound",
+                "name": "Edward L. Alperson Jr.",
+                "original_name": "Edward L. Alperson Jr.",
+                "popularity": 0.751,
+                "profile_path": null,
+                "credit_id": "572f66909251415cc10021d4",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120176,
+                "known_for_department": "Writing",
+                "name": "Richard Blake",
+                "original_name": "Richard Blake",
+                "popularity": 3.945,
+                "profile_path": null,
+                "credit_id": "572f66a0c3a368781800066e",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 120175,
+                "known_for_department": "Writing",
+                "name": "John Tucker Battle",
+                "original_name": "John Tucker Battle",
+                "popularity": 4.518,
+                "profile_path": null,
+                "credit_id": "572f66adc3a36874eb0005a3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1467281,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gene Hibbs",
+                "original_name": "Gene Hibbs",
+                "popularity": 2.466,
+                "profile_path": null,
+                "credit_id": "572f66da9251415cc10021e0",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1100324,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ruby Felker",
+                "original_name": "Ruby Felker",
+                "popularity": 0.622,
+                "profile_path": null,
+                "credit_id": "572f66e99251413bd90012f9",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3357,
+                "known_for_department": "Crew",
+                "name": "Jack Cosgrove",
+                "original_name": "Jack Cosgrove",
+                "popularity": 2.407,
+                "profile_path": null,
+                "credit_id": "572f66fdc3a368496e0013fa",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11489,
+                "known_for_department": "Art",
+                "name": "William Cameron Menzies",
+                "original_name": "William Cameron Menzies",
+                "popularity": 7.946,
+                "profile_path": "/ydx0eRPERKg6oD9r3horgYGJkaK.jpg",
+                "credit_id": "5bcf7c7792514172dc01a858",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2158750,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anatole Robbins",
+                "original_name": "Anatole Robbins",
+                "popularity": 0.088,
+                "profile_path": null,
+                "credit_id": "5bcf7c940e0a26624d01c5a8",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2072776,
+                "known_for_department": "Production",
+                "name": "Ben Chapman",
+                "original_name": "Ben Chapman",
+                "popularity": 2.199,
+                "profile_path": null,
+                "credit_id": "5bcf7cae92514172d501b027",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2072776,
+                "known_for_department": "Production",
+                "name": "Ben Chapman",
+                "original_name": "Ben Chapman",
+                "popularity": 2.199,
+                "profile_path": null,
+                "credit_id": "5bcf7cdf0e0a26624d01c604",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1668828,
+                "known_for_department": "Directing",
+                "name": "Leonard Kunody",
+                "original_name": "Leonard Kunody",
+                "popularity": 1.36,
+                "profile_path": null,
+                "credit_id": "5bcf7cef0e0a26624f01bfac",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4104,
+                "known_for_department": "Art",
+                "name": "Edward G. Boyle",
+                "original_name": "Edward G. Boyle",
+                "popularity": 3.37,
+                "profile_path": null,
+                "credit_id": "5bcf7d0b92514172cd019e94",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18745,
+                "known_for_department": "Sound",
+                "name": "Earl Crain Sr.",
+                "original_name": "Earl Crain Sr.",
+                "popularity": 2.277,
+                "profile_path": null,
+                "credit_id": "5bcf7d18c3a368663d01d981",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2158752,
+                "known_for_department": "Directing",
+                "name": "Mary Yerke",
+                "original_name": "Mary Yerke",
+                "popularity": 1.605,
+                "profile_path": null,
+                "credit_id": "5bcf7d2d92514172df01ac25",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3357,
+                "known_for_department": "Crew",
+                "name": "Jack Cosgrove",
+                "original_name": "Jack Cosgrove",
+                "popularity": 2.407,
+                "profile_path": null,
+                "credit_id": "5bcf7d4e0e0a26623d01ecdf",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12301,
+                "known_for_department": "Crew",
+                "name": "Irving Block",
+                "original_name": "Irving Block",
+                "popularity": 5.109,
+                "profile_path": null,
+                "credit_id": "5bcf7d64c3a368664301f41c",
+                "department": "Visual Effects",
+                "job": "Matte Painter"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103676,
+                "known_for_department": "Crew",
+                "name": "Howard Lydecker",
+                "original_name": "Howard Lydecker",
+                "popularity": 6.688,
+                "profile_path": null,
+                "credit_id": "5bcf7d7992514172ca01aa5a",
+                "department": "Visual Effects",
+                "job": "Mechanical & Creature Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102782,
+                "known_for_department": "Visual Effects",
+                "name": "Jack Rabin",
+                "original_name": "Jack Rabin",
+                "popularity": 4.844,
+                "profile_path": null,
+                "credit_id": "5bcf7d870e0a26623a01e88a",
+                "department": "Visual Effects",
+                "job": "Matte Painter"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jimmy Hunt",
+            "character": "David Maclean"
+        },
+        {
+            "actor": "Arthur Franz",
+            "character": "Dr. Stuart Kelston"
+        },
+        {
+            "actor": "Helena Carter",
+            "character": "Dr. Pat Blake, MD"
+        },
+        {
+            "actor": "Leif Erickson",
+            "character": "Mr. George MacLean"
+        },
+        {
+            "actor": "Hillary Brooke",
+            "character": "Mrs. Mary MacLean"
+        },
+        {
+            "actor": "Morris Ankrum",
+            "character": "Col. Fielding"
+        },
+        {
+            "actor": "Walter Sande",
+            "character": "Police Sgt. Mack Finlay"
+        },
+        {
+            "actor": "Bert Freed",
+            "character": "Police Chief A.C. Barrows"
+        },
+        {
+            "actor": "Max Wagner",
+            "character": "Army Sgt. Rinaldi"
+        },
+        {
+            "actor": "Charles Gibb",
+            "character": "Lt. Blair"
+        },
+        {
+            "actor": "Milburn Stone",
+            "character": "Army Capt. Roth"
+        },
+        {
+            "actor": "Douglas Kennedy",
+            "character": "Officer Jackson"
+        },
+        {
+            "actor": "Charles Cane",
+            "character": "Officer Blaine"
+        },
+        {
+            "actor": "Fay Baker",
+            "character": "Mrs. Wilson"
+        },
+        {
+            "actor": "Janine Perreau",
+            "character": "Kathy Wilson"
+        },
+        {
+            "actor": "John Eldredge",
+            "character": "Mr. Turner"
+        },
+        {
+            "actor": "Barbara Billingsley",
+            "character": "Kelston's Secretary"
+        },
+        {
+            "actor": "Richard Deacon",
+            "character": "MP"
+        },
+        {
+            "actor": "Gil Herman",
+            "character": "Major Clary"
+        },
+        {
+            "actor": "Luce Potter",
+            "character": "The Martian Intelligence"
+        },
+        {
+            "actor": "Lock Martin",
+            "character": "Mutant Carrying David to 'Intelligence'"
+        },
+        {
+            "actor": "Max Palmer",
+            "character": "Second Mutant Guarding the \"Intelligence\""
+        },
+        {
+            "actor": "Todd Karns",
+            "character": "Jim the Gas Station Attendant"
+        },
+        {
+            "actor": "Frank Wilcox",
+            "character": "Pentagon Chief of Staff"
+        },
+        {
+            "actor": "Robert Shayne",
+            "character": "Dr. William Wilson"
+        },
+        {
+            "actor": "William Phipps",
+            "character": "Sgt. Baker"
+        },
+        {
+            "actor": "William Forrest",
+            "character": "Col. Mayberry"
+        },
+        {
+            "actor": "Peter Brocco",
+            "character": "Brainard (bit)"
+        }
+    ]
+}

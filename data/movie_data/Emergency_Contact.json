@@ -1,0 +1,176 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 1087631,
+    "imdb_id": "tt4037922",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Emergency Contact",
+    "overview": "An inexperienced nurse becomes the voice of reason to a woman having a breakdown.",
+    "popularity": 8.851,
+    "poster_path": "/2WyfV5t1odTN2wfmZJMbePBMohp.jpg",
+    "production_companies": [
+        {
+            "id": 82551,
+            "logo_path": "/stoKouLRl58qtAlIGpfWuJcONyQ.png",
+            "name": "Best Boy Productions",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2015-03-01",
+    "revenue": 0,
+    "runtime": 12,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Emergency Contact",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2015-03-01T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 304282,
+                "known_for_department": "Acting",
+                "name": "Kate Flannery",
+                "original_name": "Kate Flannery",
+                "popularity": 23.573,
+                "profile_path": "/wFXWKB2IUyB6Cu08PyovyBAm9WT.jpg",
+                "cast_id": 1,
+                "character": "Carol",
+                "credit_id": "63ee593e1f3e6000a1c69ab1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1009811,
+                "known_for_department": "Acting",
+                "name": "Stephanie Hunt",
+                "original_name": "Stephanie Hunt",
+                "popularity": 10.492,
+                "profile_path": "/zpQVPEkFtUACQwxhawJWt2Whto1.jpg",
+                "cast_id": 2,
+                "character": "Marilyn",
+                "credit_id": "63ee5949813cb60096aba5b7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1517537,
+                "known_for_department": "Acting",
+                "name": "Bechir Sylvain",
+                "original_name": "Bechir Sylvain",
+                "popularity": 6.705,
+                "profile_path": "/wpZZVoUR9IrtsdxsX6A7Rth6AXz.jpg",
+                "cast_id": 3,
+                "character": "Triage Patient",
+                "credit_id": "63ee59671f3e600089dfe89b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1287573,
+                "known_for_department": "Acting",
+                "name": "David Saucedo",
+                "original_name": "David Saucedo",
+                "popularity": 5.081,
+                "profile_path": "/p27HRJvG6pPEsKQNVc4ksiUJ7Kr.jpg",
+                "cast_id": 4,
+                "character": "Byron",
+                "credit_id": "63ee59731b729400866e541a",
+                "order": 3
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2220233,
+                "known_for_department": "Directing",
+                "name": "Keola Racela",
+                "original_name": "Keola Racela",
+                "popularity": 2.296,
+                "profile_path": null,
+                "credit_id": "63ee59848e8702007a1b6873",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2220233,
+                "known_for_department": "Directing",
+                "name": "Keola Racela",
+                "original_name": "Keola Racela",
+                "popularity": 2.296,
+                "profile_path": null,
+                "credit_id": "63ee599d1f3e6000a1c69af2",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Kate Flannery",
+            "character": "Carol"
+        },
+        {
+            "actor": "Stephanie Hunt",
+            "character": "Marilyn"
+        },
+        {
+            "actor": "Bechir Sylvain",
+            "character": "Triage Patient"
+        },
+        {
+            "actor": "David Saucedo",
+            "character": "Byron"
+        }
+    ]
+}

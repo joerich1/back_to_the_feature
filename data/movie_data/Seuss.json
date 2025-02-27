@@ -1,0 +1,203 @@
+{
+    "adult": false,
+    "backdrop_path": "/xSbnFKTRk5lbDNmfDYX4abKrtdH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 1102491,
+    "imdb_id": null,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dr. Seuss The Cat in the Hat",
+    "overview": "VideoBook recording that includes two classic Dr. Seuss stories: “The Cat in the Hat” and “Maybe You Should Fly a Jet! Maybe You Should Be a Vet!”.",
+    "popularity": 1.001,
+    "poster_path": "/q6mw6gijT0mUjqlkrqy9vFujoYZ.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 19261,
+            "logo_path": null,
+            "name": "Penguin Books",
+            "origin_country": ""
+        },
+        {
+            "id": 82302,
+            "logo_path": null,
+            "name": "Random House",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2002-07-31",
+    "revenue": 0,
+    "runtime": 30,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Dr. Seuss Beginner Book Video",
+    "title": "Dr. Seuss The Cat in the Hat",
+    "video": true,
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "ISBN: 0738923397",
+                        "release_date": "2002-07-31T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1226732,
+                "known_for_department": "Creator",
+                "name": "Allan Sherman",
+                "original_name": "Allan Sherman",
+                "popularity": 2.805,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "the Cat (voice)",
+                "credit_id": "64188301310325008efdbd8a",
+                "order": 0
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 943977,
+                "known_for_department": "Sound",
+                "name": "Dean Elliott",
+                "original_name": "Dean Elliott",
+                "popularity": 2.652,
+                "profile_path": null,
+                "credit_id": "6418831d310325010151b061",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1003678,
+                "known_for_department": "Editing",
+                "name": "Roger Donley",
+                "original_name": "Roger Donley",
+                "popularity": 1.92,
+                "profile_path": null,
+                "credit_id": "6418832d0d5d8500f2d7b641",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1088275,
+                "known_for_department": "Production",
+                "name": "Lee Gunther",
+                "original_name": "Lee Gunther",
+                "popularity": 1.406,
+                "profile_path": null,
+                "credit_id": "6418833a310325007c0ad5b0",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179923,
+                "known_for_department": "Visual Effects",
+                "name": "Maurice Noble",
+                "original_name": "Maurice Noble",
+                "popularity": 2.911,
+                "profile_path": null,
+                "credit_id": "6418834b310325010151b076",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 150110,
+                "known_for_department": "Visual Effects",
+                "name": "Hal Ambro",
+                "original_name": "Hal Ambro",
+                "popularity": 1.908,
+                "profile_path": null,
+                "credit_id": "64188359310325008efdbdae",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79232,
+                "known_for_department": "Camera",
+                "name": "John Burton Jr.",
+                "original_name": "John Burton Jr.",
+                "popularity": 0.683,
+                "profile_path": null,
+                "credit_id": "64a8eb0ed1a89300ff801fb8",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 566892,
+                "known_for_department": "Directing",
+                "name": "Ray Lee",
+                "original_name": "Ray Lee",
+                "popularity": 5.104,
+                "profile_path": null,
+                "credit_id": "64a8eb1b3e2ec800af7cadc6",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Allan Sherman",
+            "character": "the Cat (voice)"
+        }
+    ]
+}

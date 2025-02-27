@@ -1,0 +1,864 @@
+{
+    "adult": false,
+    "backdrop_path": "/hAoTBCNBVafAoiilh4gtqqyhi8V.jpg",
+    "belongs_to_collection": null,
+    "budget": 1200000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/strangers-train",
+    "id": 845,
+    "imdb_id": "tt0044079",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Strangers on a Train",
+    "overview": "Two strangers meet on a train. They’ve never met before. Both of whom have someone they’d like to murder. So, they swap murders. A psychopath shares this concept with tennis star Guy Haines, whose wife refuses to get a divorce. He agrees, thinking it is a joke. But now his wife is dead, Haines finds himself a prime suspect and the man wants Guy to kill his father.",
+    "popularity": 28.856,
+    "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1951-06-27",
+    "revenue": 7000000,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "It starts with a shriek of a train whistle... and ends with shrieking excitement!",
+    "title": "Strangers on a Train",
+    "video": false,
+    "vote_average": 7.68,
+    "vote_count": 1596,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "M",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2020-07-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "12+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2001-04-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-02-01T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "ZDF",
+                        "release_date": "1969-09-29T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-03-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FI",
+                "release_dates": [
+                    {
+                        "certification": "K-16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-03-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-01-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-08-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-12-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-08-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-03-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2018-08-16T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1959-09-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD, Blu ray",
+                        "release_date": "2002-05-15T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Nederland 3",
+                        "release_date": "2002-05-31T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1952-10-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-06-27T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1951-06-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12497,
+                "known_for_department": "Acting",
+                "name": "Farley Granger",
+                "original_name": "Farley Granger",
+                "popularity": 21.186,
+                "profile_path": "/yJCwYnAYNWDuzuAlgo9vK1YwPeQ.jpg",
+                "cast_id": 16,
+                "character": "Guy Haines",
+                "credit_id": "52fe4281c3a36847f80240a9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12498,
+                "known_for_department": "Acting",
+                "name": "Ruth Roman",
+                "original_name": "Ruth Roman",
+                "popularity": 28.706,
+                "profile_path": "/ukEJhllnfHQQRyIELk2NHFS28rr.jpg",
+                "cast_id": 17,
+                "character": "Anne Morton",
+                "credit_id": "52fe4281c3a36847f80240ad",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12499,
+                "known_for_department": "Acting",
+                "name": "Robert Walker",
+                "original_name": "Robert Walker",
+                "popularity": 22.707,
+                "profile_path": "/c4vtXpzvEXs7xzpiSTaBi0UIPIn.jpg",
+                "cast_id": 29,
+                "character": "Bruno Antony",
+                "credit_id": "615cbc8adb952d002cb7cb74",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2642,
+                "known_for_department": "Acting",
+                "name": "Leo G. Carroll",
+                "original_name": "Leo G. Carroll",
+                "popularity": 16.806,
+                "profile_path": "/56ND35pQZetw5xpagHDKFZjMeuE.jpg",
+                "cast_id": 30,
+                "character": "Sen. Morton",
+                "credit_id": "615cbc98a33612004333d399",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12500,
+                "known_for_department": "Acting",
+                "name": "Patricia Hitchcock",
+                "original_name": "Patricia Hitchcock",
+                "popularity": 11.571,
+                "profile_path": "/bgMYy4SJLFcFex91an1D593pBY9.jpg",
+                "cast_id": 31,
+                "character": "Barbara Morton",
+                "credit_id": "615cbca433ec2600455eabe7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12505,
+                "known_for_department": "Acting",
+                "name": "Kasey Rogers",
+                "original_name": "Kasey Rogers",
+                "popularity": 31.9,
+                "profile_path": "/9WJAehUnZEjPDkSWO0oQErMoPcS.jpg",
+                "cast_id": 32,
+                "character": "Miriam Haines",
+                "credit_id": "615cbcb8a33612006121459a",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12501,
+                "known_for_department": "Acting",
+                "name": "Marion Lorne",
+                "original_name": "Marion Lorne",
+                "popularity": 10.722,
+                "profile_path": "/vnKNE0UIQhnzbgpde9ByQ7cG8PB.jpg",
+                "cast_id": 33,
+                "character": "Mrs. Antony",
+                "credit_id": "615cbcc90c12550062d89b14",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12502,
+                "known_for_department": "Acting",
+                "name": "Jonathan Hale",
+                "original_name": "Jonathan Hale",
+                "popularity": 14.938,
+                "profile_path": "/6slWYX9NChUonIPcybOaFLDKjl9.jpg",
+                "cast_id": 34,
+                "character": "Mr. Antony",
+                "credit_id": "615cbcd6bb10570089e8c7ee",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5792,
+                "known_for_department": "Acting",
+                "name": "Howard St. John",
+                "original_name": "Howard St. John",
+                "popularity": 6.115,
+                "profile_path": "/5HkEPH9C4JTzR0mQjDKzqbmrpQe.jpg",
+                "cast_id": 35,
+                "character": "Police Capt. Turley",
+                "credit_id": "615cbce833ec26009194677e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12503,
+                "known_for_department": "Acting",
+                "name": "John Brown",
+                "original_name": "John Brown",
+                "popularity": 9.194,
+                "profile_path": "/mPLK5zlyMQdDpzZPb8vknDuEYsP.jpg",
+                "cast_id": 36,
+                "character": "Prof. Collins",
+                "credit_id": "615cbcf833ec260065377313",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10926,
+                "known_for_department": "Acting",
+                "name": "Norma Varden",
+                "original_name": "Norma Varden",
+                "popularity": 21.123,
+                "profile_path": "/6f52jKhHnQRscajyhIoGNMNo4N7.jpg",
+                "cast_id": 37,
+                "character": "Mrs. Cunningham",
+                "credit_id": "615cbd05363909002c8772cd",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12504,
+                "known_for_department": "Acting",
+                "name": "Robert Gist",
+                "original_name": "Robert Gist",
+                "popularity": 25.466,
+                "profile_path": "/6AO1jw6rxAXicGk3Pi7FnJjRC7y.jpg",
+                "cast_id": 38,
+                "character": "Det. Leslie Hennessey",
+                "credit_id": "615cbd168e2ba6008be9df16",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115995,
+                "known_for_department": "Acting",
+                "name": "Brooks Benedict",
+                "original_name": "Brooks Benedict",
+                "popularity": 18.441,
+                "profile_path": "/l3Bw5oBij94yG0QSO45inFnySRZ.jpg",
+                "cast_id": 39,
+                "character": "Tennis Umpire (uncredited)",
+                "credit_id": "615cbd41bb1057004436e2c8",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34130,
+                "known_for_department": "Acting",
+                "name": "John Doucette",
+                "original_name": "John Doucette",
+                "popularity": 25.847,
+                "profile_path": "/xwSggqoVJTnipwaMsbIGz1J37sp.jpg",
+                "cast_id": 40,
+                "character": "Det. Hammond (uncredited)",
+                "credit_id": "615cbd4f8e2ba6002149abc9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 348497,
+                "known_for_department": "Acting",
+                "name": "Harry Hines",
+                "original_name": "Harry Hines",
+                "popularity": 5.756,
+                "profile_path": "/5GiGVMIi2eti2MMJ1tYlC8yYHAy.jpg",
+                "cast_id": 41,
+                "character": "Man Under Merry-Go-Round (uncredited)",
+                "credit_id": "615cbd636beaea00638d1ade",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2636,
+                "known_for_department": "Directing",
+                "name": "Alfred Hitchcock",
+                "original_name": "Alfred Hitchcock",
+                "popularity": 44.576,
+                "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+                "cast_id": 42,
+                "character": "Man Boarding Train Carrying a Double Bass (uncredited)",
+                "credit_id": "615cbd71eb14fa0043e10578",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 153318,
+                "known_for_department": "Acting",
+                "name": "Paul McGuire",
+                "original_name": "Paul McGuire",
+                "popularity": 4.434,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Train Passenger (uncredited)",
+                "credit_id": "647a0d5bcf4b8b01031db722",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1581070,
+                "known_for_department": "Acting",
+                "name": "Oliver Cross",
+                "original_name": "Oliver Cross",
+                "popularity": 6.185,
+                "profile_path": null,
+                "cast_id": 58,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "664792fa88821f7e162f466f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2638347,
+                "known_for_department": "Acting",
+                "name": "Tom Ferrandini",
+                "original_name": "Tom Ferrandini",
+                "popularity": 2.399,
+                "profile_path": null,
+                "cast_id": 59,
+                "character": "Linesman (uncredited)",
+                "credit_id": "66488287184a463172923c3b",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2636,
+                "known_for_department": "Directing",
+                "name": "Alfred Hitchcock",
+                "original_name": "Alfred Hitchcock",
+                "popularity": 44.576,
+                "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+                "credit_id": "52fe4281c3a36847f8024057",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12491,
+                "known_for_department": "Writing",
+                "name": "Patricia Highsmith",
+                "original_name": "Patricia Highsmith",
+                "popularity": 14.056,
+                "profile_path": "/rm0ucxiO1b37EFTYQhLirn8T5Md.jpg",
+                "credit_id": "52fe4281c3a36847f802405d",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12493,
+                "known_for_department": "Writing",
+                "name": "Raymond Chandler",
+                "original_name": "Raymond Chandler",
+                "popularity": 15.52,
+                "profile_path": "/nK2sQoVm8A9lfFxqToWG9WfmS6m.jpg",
+                "credit_id": "52fe4281c3a36847f8024063",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12494,
+                "known_for_department": "Writing",
+                "name": "Czenzi Ormonde",
+                "original_name": "Czenzi Ormonde",
+                "popularity": 4.948,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f8024069",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2636,
+                "known_for_department": "Directing",
+                "name": "Alfred Hitchcock",
+                "original_name": "Alfred Hitchcock",
+                "popularity": 44.576,
+                "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+                "credit_id": "52fe4281c3a36847f8024075",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4082,
+                "known_for_department": "Sound",
+                "name": "Dimitri Tiomkin",
+                "original_name": "Dimitri Tiomkin",
+                "popularity": 9.195,
+                "profile_path": "/oYL6Tiuf7MuFEd5F7vf7Dt5vHmF.jpg",
+                "credit_id": "52fe4281c3a36847f8024081",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2654,
+                "known_for_department": "Camera",
+                "name": "Robert Burks",
+                "original_name": "Robert Burks",
+                "popularity": 5.492,
+                "profile_path": "/bAn6DRoDZQWZWYqzfqPvvKOXqyj.jpg",
+                "credit_id": "52fe4281c3a36847f8024087",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2773,
+                "known_for_department": "Editing",
+                "name": "William H. Ziegler",
+                "original_name": "William H. Ziegler",
+                "popularity": 3.005,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f802408d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12495,
+                "known_for_department": "Art",
+                "name": "Ted Haworth",
+                "original_name": "Ted Haworth",
+                "popularity": 3.31,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f8024093",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4126,
+                "known_for_department": "Art",
+                "name": "George James Hopkins",
+                "original_name": "George James Hopkins",
+                "popularity": 7.33,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f8024099",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4313,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gordon Bau",
+                "original_name": "Gordon Bau",
+                "popularity": 6.468,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f802409f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12492,
+                "known_for_department": "Writing",
+                "name": "Whitfield Cook",
+                "original_name": "Whitfield Cook",
+                "popularity": 11.589,
+                "profile_path": null,
+                "credit_id": "52fe4281c3a36847f80240db",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119537,
+                "known_for_department": "Crew",
+                "name": "Hans F. Koenekamp",
+                "original_name": "Hans F. Koenekamp",
+                "popularity": 2.652,
+                "profile_path": null,
+                "credit_id": "615cbf446beaea0024000566",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12496,
+                "known_for_department": "Sound",
+                "name": "Dolph Thomas",
+                "original_name": "Dolph Thomas",
+                "popularity": 7.533,
+                "profile_path": null,
+                "credit_id": "65b3dab75541fa0164b18128",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30267,
+                "known_for_department": "Sound",
+                "name": "Ray Heindorf",
+                "original_name": "Ray Heindorf",
+                "popularity": 3.035,
+                "profile_path": null,
+                "credit_id": "65b3db0a00213401857c2e59",
+                "department": "Sound",
+                "job": "Music Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1433182,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Leah Rhodes",
+                "original_name": "Leah Rhodes",
+                "popularity": 3.671,
+                "profile_path": null,
+                "credit_id": "65b3dbb1d236e60184c06043",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4362,
+                "known_for_department": "Production",
+                "name": "Barbara Keon",
+                "original_name": "Barbara Keon",
+                "popularity": 1.725,
+                "profile_path": null,
+                "credit_id": "65c8353d9451e701847bc055",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Farley Granger",
+            "character": "Guy Haines"
+        },
+        {
+            "actor": "Ruth Roman",
+            "character": "Anne Morton"
+        },
+        {
+            "actor": "Robert Walker",
+            "character": "Bruno Antony"
+        },
+        {
+            "actor": "Leo G. Carroll",
+            "character": "Sen. Morton"
+        },
+        {
+            "actor": "Patricia Hitchcock",
+            "character": "Barbara Morton"
+        },
+        {
+            "actor": "Kasey Rogers",
+            "character": "Miriam Haines"
+        },
+        {
+            "actor": "Marion Lorne",
+            "character": "Mrs. Antony"
+        },
+        {
+            "actor": "Jonathan Hale",
+            "character": "Mr. Antony"
+        },
+        {
+            "actor": "Howard St. John",
+            "character": "Police Capt. Turley"
+        },
+        {
+            "actor": "John Brown",
+            "character": "Prof. Collins"
+        },
+        {
+            "actor": "Norma Varden",
+            "character": "Mrs. Cunningham"
+        },
+        {
+            "actor": "Robert Gist",
+            "character": "Det. Leslie Hennessey"
+        },
+        {
+            "actor": "Brooks Benedict",
+            "character": "Tennis Umpire (uncredited)"
+        },
+        {
+            "actor": "John Doucette",
+            "character": "Det. Hammond (uncredited)"
+        },
+        {
+            "actor": "Harry Hines",
+            "character": "Man Under Merry-Go-Round (uncredited)"
+        },
+        {
+            "actor": "Alfred Hitchcock",
+            "character": "Man Boarding Train Carrying a Double Bass (uncredited)"
+        },
+        {
+            "actor": "Paul McGuire",
+            "character": "Train Passenger (uncredited)"
+        },
+        {
+            "actor": "Oliver Cross",
+            "character": "Party Guest (uncredited)"
+        },
+        {
+            "actor": "Tom Ferrandini",
+            "character": "Linesman (uncredited)"
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 1274815,
+    "imdb_id": "tt0068451",
+    "origin_country": [
+        "FR",
+        "SE",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Day the Clown Cried",
+    "overview": "An unfinished and unreleased Swedish-French comedy-drama about a Circus clown imprisoned in a Nazi concentration camp.",
+    "popularity": 2.807,
+    "poster_path": "/hRUd6U2k1X3QtaA16dPSDTU576X.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1972-01-01",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Day the Clown Cried",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1972-01-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3663,
+                "known_for_department": "Acting",
+                "name": "Jerry Lewis",
+                "original_name": "Jerry Lewis",
+                "popularity": 21.97,
+                "profile_path": "/55Mr8Q7zpM2muhdGpOzTcNg1UMQ.jpg",
+                "cast_id": 1,
+                "character": "Helmut Doork",
+                "credit_id": "661d3f5a0e5aba0186f56ab7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 272929,
+                "known_for_department": "Acting",
+                "name": "Lars Amble",
+                "original_name": "Lars Amble",
+                "popularity": 5.887,
+                "profile_path": "/6hpA5doJAM3wR2JaCs3ZkLmVDdL.jpg",
+                "cast_id": 2,
+                "character": "Guard",
+                "credit_id": "661d3f68389da1018636887b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 108112,
+                "known_for_department": "Acting",
+                "name": "Jonas Bergström",
+                "original_name": "Jonas Bergström",
+                "popularity": 5.537,
+                "profile_path": "/zLMpGpS9odv9FwHh1icKlly7pYk.jpg",
+                "cast_id": 3,
+                "character": "Franz",
+                "credit_id": "661d3f7c1e64890186d51aa8",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7569,
+                "known_for_department": "Acting",
+                "name": "Harriet Andersson",
+                "original_name": "Harriet Andersson",
+                "popularity": 20.25,
+                "profile_path": "/rFQNqEAyzAw5XAMeVPFZlcveNgF.jpg",
+                "cast_id": 4,
+                "character": "Ada Doork",
+                "credit_id": "661d3fa1cb6db501850a05bc",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32292,
+                "known_for_department": "Sound",
+                "name": "Claude Bolling",
+                "original_name": "Claude Bolling",
+                "popularity": 10.29,
+                "profile_path": "/mQo6I3vYLfM3c9pzedqCQu8ItTn.jpg",
+                "cast_id": 5,
+                "character": "Circus Band Conductor",
+                "credit_id": "661d3fbaec0c58017c74c7bc",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121597,
+                "known_for_department": "Acting",
+                "name": "Curt Broberg",
+                "original_name": "Curt Broberg",
+                "popularity": 4.357,
+                "profile_path": "/g7KZC2uGilPTBHSzQE9cv1GmiBM.jpg",
+                "cast_id": 6,
+                "character": "Galt",
+                "credit_id": "661d3fd10e5aba0130f44dba",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1577187,
+                "known_for_department": "Acting",
+                "name": "Johnny Cacao",
+                "original_name": "Johnny Cacao",
+                "popularity": 1.147,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "",
+                "credit_id": "661d3fdc67203d0163139015",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 402686,
+                "known_for_department": "Acting",
+                "name": "Nils Eklund",
+                "original_name": "Nils Eklund",
+                "popularity": 9.467,
+                "profile_path": "/7gVrnrU9FDLawgacatvUQRObopL.jpg",
+                "cast_id": 8,
+                "character": "Bartender",
+                "credit_id": "661d3fef4ca67601641c368a",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34263,
+                "known_for_department": "Acting",
+                "name": "Serge Gainsbourg",
+                "original_name": "Serge Gainsbourg",
+                "popularity": 27.747,
+                "profile_path": "/hWIYqDHPuUrPkRkpmDDC0v1gY3X.jpg",
+                "cast_id": 9,
+                "character": "",
+                "credit_id": "661d3ffccb6db501850a061d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1275939,
+                "known_for_department": "Acting",
+                "name": "Ronald F. Hoiseck",
+                "original_name": "Ronald F. Hoiseck",
+                "popularity": 2.678,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Uhlmann",
+                "credit_id": "661d4020fd4a96016d6bccdf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4654237,
+                "known_for_department": "Acting",
+                "name": "Peter Ahlm",
+                "original_name": "Peter Ahlm",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "First New Prisoner",
+                "credit_id": "661d403f0e5aba0186f56b86",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 139088,
+                "known_for_department": "Acting",
+                "name": "Carl Billquist",
+                "original_name": "Carl Billquist",
+                "popularity": 15.307,
+                "profile_path": "/v6IPM42oFBKwp4QTU5ajlV6r0LA.jpg",
+                "cast_id": 12,
+                "character": "Gestapo Officer #2",
+                "credit_id": "661d405bfd4a9601866c4acb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 403172,
+                "known_for_department": "Acting",
+                "name": "Tomas Bolme",
+                "original_name": "Tomas Bolme",
+                "popularity": 12.411,
+                "profile_path": "/4xrBsXnK81GXvgmGoMrb8hEQgnW.jpg",
+                "cast_id": 13,
+                "character": "Adolf",
+                "credit_id": "661d406a67203d0186140938",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85146,
+                "known_for_department": "Acting",
+                "name": "Bo Brundin",
+                "original_name": "Bo Brundin",
+                "popularity": 8.713,
+                "profile_path": "/hs4tAFWTb9UeVnESOr3Psdkk8Q2.jpg",
+                "cast_id": 14,
+                "character": "Ludwig",
+                "credit_id": "661d407a60c51d01634e7569",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97935,
+                "known_for_department": "Acting",
+                "name": "Anton Diffring",
+                "original_name": "Anton Diffring",
+                "popularity": 17.166,
+                "profile_path": "/1M44U6xJb2YE2txYoiPlRb04oyJ.jpg",
+                "cast_id": 15,
+                "character": "Captain Curt Runkel",
+                "credit_id": "661d409dcb6db501850a06be",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77708,
+                "known_for_department": "Acting",
+                "name": "Heinz Hopf",
+                "original_name": "Heinz Hopf",
+                "popularity": 13.0,
+                "profile_path": "/2ICYKAo74bmPedOoPN1UFJ5RTid.jpg",
+                "cast_id": 16,
+                "character": "Gestapo Officer #1",
+                "credit_id": "661d40bb1e64890186d51b93",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 579420,
+                "known_for_department": "Acting",
+                "name": "Michel Garland",
+                "original_name": "Michel Garland",
+                "popularity": 1.33,
+                "profile_path": "/xVrxqtBGLcGyIjBPM5dilHGdkJX.jpg",
+                "cast_id": 17,
+                "character": "",
+                "credit_id": "661d40d84ca67601871cd8b3",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3663,
+                "known_for_department": "Acting",
+                "name": "Jerry Lewis",
+                "original_name": "Jerry Lewis",
+                "popularity": 21.97,
+                "profile_path": "/55Mr8Q7zpM2muhdGpOzTcNg1UMQ.jpg",
+                "credit_id": "661d40f41e64890186d51bc1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3663,
+                "known_for_department": "Acting",
+                "name": "Jerry Lewis",
+                "original_name": "Jerry Lewis",
+                "popularity": 21.97,
+                "profile_path": "/55Mr8Q7zpM2muhdGpOzTcNg1UMQ.jpg",
+                "credit_id": "661d4107931ea1018665c679",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3597417,
+                "known_for_department": "Writing",
+                "name": "Charles Denton",
+                "original_name": "Charles Denton",
+                "popularity": 0.048,
+                "profile_path": null,
+                "credit_id": "661d413560c51d01634e75a0",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1484021,
+                "known_for_department": "Creator",
+                "name": "Joan O'Brien",
+                "original_name": "Joan O'Brien",
+                "popularity": 0.452,
+                "profile_path": null,
+                "credit_id": "661d41666d1bb201633884e2",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 41841,
+                "known_for_department": "Production",
+                "name": "Nat Wachsberger",
+                "original_name": "Nat Wachsberger",
+                "popularity": 4.607,
+                "profile_path": null,
+                "credit_id": "661d41f21e64890162d47fa5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73949,
+                "known_for_department": "Sound",
+                "name": "Snuff Garrett",
+                "original_name": "Snuff Garrett",
+                "popularity": 3.079,
+                "profile_path": "/vzdxAjaOsk3BeZJH9uF9Hfdj2iJ.jpg",
+                "credit_id": "661d42161e6489012fd3f543",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3863,
+                "known_for_department": "Camera",
+                "name": "Rune Ericson",
+                "original_name": "Rune Ericson",
+                "popularity": 2.441,
+                "profile_path": "/q799zeqw2xKRNgO4Gimn5Ves7yb.jpg",
+                "credit_id": "661d42301e64890162d47fac",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 48570,
+                "known_for_department": "Editing",
+                "name": "Wic Kjellin",
+                "original_name": "Wic Kjellin",
+                "popularity": 3.851,
+                "profile_path": "/qiy3J5525rlyoZLWUOv0eYas1Zn.jpg",
+                "credit_id": "661d423d6f43ec01645d0533",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10473,
+                "known_for_department": "Art",
+                "name": "Max Douy",
+                "original_name": "Max Douy",
+                "popularity": 9.405,
+                "profile_path": "/9AHNTR1LQAUDOxjAZPeOYWDajf1.jpg",
+                "credit_id": "661d425267203d01631390e4",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37451,
+                "known_for_department": "Directing",
+                "name": "Jean-Jacques Beineix",
+                "original_name": "Jean-Jacques Beineix",
+                "popularity": 4.572,
+                "profile_path": "/ALiTvFg1jV7V01cyi906WiMWca.jpg",
+                "credit_id": "661d426b4ca67601871cda27",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jerry Lewis",
+            "character": "Helmut Doork"
+        },
+        {
+            "actor": "Lars Amble",
+            "character": "Guard"
+        },
+        {
+            "actor": "Jonas Bergström",
+            "character": "Franz"
+        },
+        {
+            "actor": "Harriet Andersson",
+            "character": "Ada Doork"
+        },
+        {
+            "actor": "Claude Bolling",
+            "character": "Circus Band Conductor"
+        },
+        {
+            "actor": "Curt Broberg",
+            "character": "Galt"
+        },
+        {
+            "actor": "Johnny Cacao",
+            "character": ""
+        },
+        {
+            "actor": "Nils Eklund",
+            "character": "Bartender"
+        },
+        {
+            "actor": "Serge Gainsbourg",
+            "character": ""
+        },
+        {
+            "actor": "Ronald F. Hoiseck",
+            "character": "Uhlmann"
+        },
+        {
+            "actor": "Peter Ahlm",
+            "character": "First New Prisoner"
+        },
+        {
+            "actor": "Carl Billquist",
+            "character": "Gestapo Officer #2"
+        },
+        {
+            "actor": "Tomas Bolme",
+            "character": "Adolf"
+        },
+        {
+            "actor": "Bo Brundin",
+            "character": "Ludwig"
+        },
+        {
+            "actor": "Anton Diffring",
+            "character": "Captain Curt Runkel"
+        },
+        {
+            "actor": "Heinz Hopf",
+            "character": "Gestapo Officer #1"
+        },
+        {
+            "actor": "Michel Garland",
+            "character": ""
+        }
+    ]
+}

@@ -1,0 +1,1033 @@
+{
+    "adult": false,
+    "backdrop_path": "/oPhyvR1UJ7qfOp1697HKz9xmtJP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "",
+    "id": 22404,
+    "imdb_id": "tt0033873",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Man Hunt",
+    "overview": "Shortly before the start of WW2, renown British big-game hunter Thorndike vacationing in Bavaria has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by Nazi agents and aided by a young woman.",
+    "popularity": 22.116,
+    "poster_path": "/5cQ3rmbzMcVeExlAyhgcJXlGgSO.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1941-06-13",
+    "revenue": 0,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "One of the Most Gripping Scenes Ever Filmed...as two world-famous hunters stalk each Other!",
+    "title": "Man Hunt",
+    "video": false,
+    "vote_average": 7.014,
+    "vote_count": 110,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1941-06-13T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1941-06-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12308,
+                "known_for_department": "Acting",
+                "name": "Walter Pidgeon",
+                "original_name": "Walter Pidgeon",
+                "popularity": 25.382,
+                "profile_path": "/4CKGtZgfVQsr9W9bDCPHYgRk8DY.jpg",
+                "cast_id": 8,
+                "character": "Captain Alan Thorndike",
+                "credit_id": "52fe443fc3a368484e018395",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7639,
+                "known_for_department": "Acting",
+                "name": "Joan Bennett",
+                "original_name": "Joan Bennett",
+                "popularity": 28.092,
+                "profile_path": "/w5Zd68FpxwRu5s2em6JsbVswPyl.jpg",
+                "cast_id": 9,
+                "character": "Jerry Stokes",
+                "credit_id": "52fe443fc3a368484e018399",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3361,
+                "known_for_department": "Acting",
+                "name": "George Sanders",
+                "original_name": "George Sanders",
+                "popularity": 29.042,
+                "profile_path": "/5tzdY4lCnfbLZU8Wblp5xfjn10B.jpg",
+                "cast_id": 10,
+                "character": "Major Quive-Smith",
+                "credit_id": "52fe443fc3a368484e01839d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8516,
+                "known_for_department": "Acting",
+                "name": "John Carradine",
+                "original_name": "John Carradine",
+                "popularity": 26.068,
+                "profile_path": "/hv2AAXNlTHVmGgXn8q7025S0g2b.jpg",
+                "cast_id": 11,
+                "character": "Mr. Jones",
+                "credit_id": "52fe443fc3a368484e0183a1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7505,
+                "known_for_department": "Acting",
+                "name": "Roddy McDowall",
+                "original_name": "Roddy McDowall",
+                "popularity": 38.111,
+                "profile_path": "/mGO0pDPi5p91k2Og09HTf270rxL.jpg",
+                "cast_id": 12,
+                "character": "Vaner",
+                "credit_id": "52fe443fc3a368484e0183a5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31209,
+                "known_for_department": "Acting",
+                "name": "Ludwig Stössel",
+                "original_name": "Ludwig Stössel",
+                "popularity": 17.261,
+                "profile_path": "/p6ioKRb3FNRteCC47HnNTGVlNRq.jpg",
+                "cast_id": 13,
+                "character": "Doctor",
+                "credit_id": "52fe443fc3a368484e0183a9",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 108804,
+                "known_for_department": "Acting",
+                "name": "Heather Thatcher",
+                "original_name": "Heather Thatcher",
+                "popularity": 11.369,
+                "profile_path": "/pAa4bVyUUSbrWT8ghhDsfvxvIaw.jpg",
+                "cast_id": 14,
+                "character": "Lady Alice Risborough",
+                "credit_id": "52fe443fc3a368484e0183ad",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14509,
+                "known_for_department": "Acting",
+                "name": "Frederick Worlock",
+                "original_name": "Frederick Worlock",
+                "popularity": 20.383,
+                "profile_path": "/8i21iKKMvqDxxqzYT1MW06FOAJ4.jpg",
+                "cast_id": 15,
+                "character": "Lord Gerald Risborough",
+                "credit_id": "52fe443fc3a368484e0183b1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112364,
+                "known_for_department": "Acting",
+                "name": "Roger Imhof",
+                "original_name": "Roger Imhof",
+                "popularity": 9.867,
+                "profile_path": "/1ZHIfeLUUzFHDr1DOrNUB3nqroa.jpg",
+                "cast_id": 21,
+                "character": "Captain Jensen",
+                "credit_id": "54476e610e0a2672da001bbb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29600,
+                "known_for_department": "Acting",
+                "name": "Holmes Herbert",
+                "original_name": "Holmes Herbert",
+                "popularity": 9.156,
+                "profile_path": "/oCvbtPpsOEdrFLR6be8qkRfOZ3x.jpg",
+                "cast_id": 22,
+                "character": "Saul Farnsworthy",
+                "credit_id": "54476e81c3a3686d8f001bda",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89727,
+                "known_for_department": "Acting",
+                "name": "Egon Brecher",
+                "original_name": "Egon Brecher",
+                "popularity": 16.962,
+                "profile_path": "/sNEB6hOJxTUuooPE3YdrKqVQ0C5.jpg",
+                "cast_id": 23,
+                "character": "Jeweler",
+                "credit_id": "5460187f0e0a262ca20013c5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 95631,
+                "known_for_department": "Acting",
+                "name": "Eily Malyon",
+                "original_name": "Eily Malyon",
+                "popularity": 19.66,
+                "profile_path": "/bBaSmUKqLNPMUkFUn1MV5P3CURF.jpg",
+                "cast_id": 24,
+                "character": "Postmistress",
+                "credit_id": "54601894c3a3686e49002f36",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121095,
+                "known_for_department": "Acting",
+                "name": "Herbert Evans",
+                "original_name": "Herbert Evans",
+                "popularity": 4.474,
+                "profile_path": "/tL2j1O5smA8WOdHgvrG2b1ifhdb.jpg",
+                "cast_id": 25,
+                "character": "Reeves",
+                "credit_id": "546018aac3a3680b5a001948",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148006,
+                "known_for_department": "Acting",
+                "name": "Charles Bennett",
+                "original_name": "Charles Bennett",
+                "popularity": 5.142,
+                "profile_path": "/sfcmmw6e1Ee8penS6IGUihuZKWa.jpg",
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "5ea3f9a0ec455200273f151c",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1125676,
+                "known_for_department": "Acting",
+                "name": "Frank Benson",
+                "original_name": "Frank Benson",
+                "popularity": 3.758,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "5ea3f9b46d1bb2001da34c2c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2936,
+                "known_for_department": "Acting",
+                "name": "Ted Billings",
+                "original_name": "Ted Billings",
+                "popularity": 7.602,
+                "profile_path": "/dYMTJxnuLBfVMWApCFhVDhohF5f.jpg",
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "5ea3f9c33faba0002545dfcc",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1045653,
+                "known_for_department": "Acting",
+                "name": "Walter Bonn",
+                "original_name": "Walter Bonn",
+                "popularity": 2.482,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "5ea3f9d23faba0002045c9e9",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1005247,
+                "known_for_department": "Acting",
+                "name": "Sven Hugo Borg",
+                "original_name": "Sven Hugo Borg",
+                "popularity": 2.442,
+                "profile_path": "/DqnWcE7DzxuopBMdnCFcXGhhcc.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "5ea3f9e35a4690001f10681d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 88906,
+                "known_for_department": "Acting",
+                "name": "Cyril Delevanti",
+                "original_name": "Cyril Delevanti",
+                "popularity": 10.605,
+                "profile_path": "/j3nJQuZPbfJVoCpHpw25YH8hJgH.jpg",
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "5ea3f9f75a4690001d107332",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1431719,
+                "known_for_department": "Acting",
+                "name": "Carl Ekberg",
+                "original_name": "Carl Ekberg",
+                "popularity": 2.509,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Adolf Hitler",
+                "credit_id": "5ea3fa0166f2d200243e04a9",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100074,
+                "known_for_department": "Acting",
+                "name": "Richard Fraser",
+                "original_name": "Richard Fraser",
+                "popularity": 6.348,
+                "profile_path": "/zrMd21b760zglHV4Bch6anieZZx.jpg",
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "5ea3fa1835c30a0024bda8e5",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 88464,
+                "known_for_department": "Acting",
+                "name": "Arno Frey",
+                "original_name": "Arno Frey",
+                "popularity": 8.364,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "5ea3fa25ec455200273f1636",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1175462,
+                "known_for_department": "Acting",
+                "name": "Douglas Gerrard",
+                "original_name": "Douglas Gerrard",
+                "popularity": 5.77,
+                "profile_path": "/8B2FwROI0bmfKpcsWlv5WPpxywe.jpg",
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "5ea3fa2fbdc34c002625d4cd",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120309,
+                "known_for_department": "Acting",
+                "name": "William Haade",
+                "original_name": "William Haade",
+                "popularity": 16.302,
+                "profile_path": "/tKcWdfVukKLoNd9q4RqeVFUJ6yL.jpg",
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "5ea3fa39713ed4001f530374",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 348606,
+                "known_for_department": "Acting",
+                "name": "Keith Hitchcock",
+                "original_name": "Keith Hitchcock",
+                "popularity": 3.607,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "5ea3fa5135c30a001fbdb348",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32192,
+                "known_for_department": "Acting",
+                "name": "Olaf Hytten",
+                "original_name": "Olaf Hytten",
+                "popularity": 14.571,
+                "profile_path": "/A47xM0KsIYVS0wMHNKdME8DyOwr.jpg",
+                "cast_id": 40,
+                "character": "",
+                "credit_id": "5ea3fa5baf43240025a06372",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 123573,
+                "known_for_department": "Acting",
+                "name": "Hans Joby",
+                "original_name": "Hans Joby",
+                "popularity": 4.317,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "",
+                "credit_id": "5ea3fa655a4690001d10735d",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78901,
+                "known_for_department": "Acting",
+                "name": "Kurt Kreuger",
+                "original_name": "Kurt Kreuger",
+                "popularity": 18.514,
+                "profile_path": "/pYBkYZ4KshCbOX0OY3upkPeCK2v.jpg",
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "5ea3fa6d66f2d200243e050a",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82384,
+                "known_for_department": "Acting",
+                "name": "Bruce Lester",
+                "original_name": "Bruce Lester",
+                "popularity": 11.035,
+                "profile_path": "/1HEpVg3oiNlwagZRXx9d0i2BcgP.jpg",
+                "cast_id": 43,
+                "character": "",
+                "credit_id": "5ea3fa776d1bb20024a35214",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 29139,
+                "known_for_department": "Acting",
+                "name": "Adolf E. Licho",
+                "original_name": "Adolf E. Licho",
+                "popularity": 3.597,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "",
+                "credit_id": "5ea3fa81ec4552001f3f1480",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82488,
+                "known_for_department": "Acting",
+                "name": "Lester Matthews",
+                "original_name": "Lester Matthews",
+                "popularity": 17.137,
+                "profile_path": "/4ro8X2GgjDJeCHTpbCONEYvrTPQ.jpg",
+                "cast_id": 45,
+                "character": "",
+                "credit_id": "5ea3fa8adb72c0001dbc2959",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1068842,
+                "known_for_department": "Acting",
+                "name": "Virginia McDowall",
+                "original_name": "Virginia McDowall",
+                "popularity": 4.718,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "",
+                "credit_id": "5ea3fa94ec4552001f3f14b5",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1041502,
+                "known_for_department": "Acting",
+                "name": "Adolph Milar",
+                "original_name": "Adolph Milar",
+                "popularity": 6.763,
+                "profile_path": "/iLNFdi29V2fEDUlbUAFNQDwjHQW.jpg",
+                "cast_id": 47,
+                "character": "",
+                "credit_id": "5ea3faaa66f2d2001e3e0a0c",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1828608,
+                "known_for_department": "Acting",
+                "name": "Carl Ottmar",
+                "original_name": "Carl Ottmar",
+                "popularity": 0.575,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "",
+                "credit_id": "5ea3fab43faba0001e45dd64",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2931,
+                "known_for_department": "Acting",
+                "name": "Lucien Prival",
+                "original_name": "Lucien Prival",
+                "popularity": 12.108,
+                "profile_path": "/eSTSWhb9eJIFzE4MJPfrgDeIDr1.jpg",
+                "cast_id": 49,
+                "character": "",
+                "credit_id": "5ea3fabe35c30a0024bda93a",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 431085,
+                "known_for_department": "Acting",
+                "name": "Otto Reichow",
+                "original_name": "Otto Reichow",
+                "popularity": 11.479,
+                "profile_path": "/nEOKKxh3AjA5eTWRAGBwow194Zd.jpg",
+                "cast_id": 50,
+                "character": "",
+                "credit_id": "5ea3fac9bdc34c001e25d9c6",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22605,
+                "known_for_department": "Acting",
+                "name": "John Rogers",
+                "original_name": "John Rogers",
+                "popularity": 6.572,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "",
+                "credit_id": "5ea3fad7af43240025a063c0",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1468477,
+                "known_for_department": "Acting",
+                "name": "Clifford Severn",
+                "original_name": "Clifford Severn",
+                "popularity": 5.764,
+                "profile_path": null,
+                "cast_id": 52,
+                "character": "",
+                "credit_id": "5ea3fae13faba0002045cade",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 544817,
+                "known_for_department": "Acting",
+                "name": "Robert R. Stephenson",
+                "original_name": "Robert R. Stephenson",
+                "popularity": 5.057,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "",
+                "credit_id": "5ea3faec66f2d2001a3e1127",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103951,
+                "known_for_department": "Acting",
+                "name": "Frederick Vogeding",
+                "original_name": "Frederick Vogeding",
+                "popularity": 7.066,
+                "profile_path": "/td9no6RZcb1cGsMvg2RT4s5Y3IS.jpg",
+                "cast_id": 54,
+                "character": "",
+                "credit_id": "5ea3faf666f2d2001a3e1132",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 229609,
+                "known_for_department": "Acting",
+                "name": "Wilhelm von Brincken",
+                "original_name": "Wilhelm von Brincken",
+                "popularity": 6.68,
+                "profile_path": "/gdPMkkvybQwk30Bj4QAZ2JhkC30.jpg",
+                "cast_id": 55,
+                "character": "",
+                "credit_id": "5ea3faffbdc34c002625d53d",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 120458,
+                "known_for_department": "Acting",
+                "name": "Bobby Hale",
+                "original_name": "Bobby Hale",
+                "popularity": 3.406,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "",
+                "credit_id": "5f44fab7511d090036b796fa",
+                "order": 41
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68,
+                "known_for_department": "Directing",
+                "name": "Fritz Lang",
+                "original_name": "Fritz Lang",
+                "popularity": 29.31,
+                "profile_path": "/zb7VF00t04zBaU4OJEihrD5O56s.jpg",
+                "credit_id": "52fe443fc3a368484e01836d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 88972,
+                "known_for_department": "Production",
+                "name": "Kenneth Macgowan",
+                "original_name": "Kenneth Macgowan",
+                "popularity": 3.349,
+                "profile_path": null,
+                "credit_id": "52fe443fc3a368484e018373",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 88973,
+                "known_for_department": "Writing",
+                "name": "Geoffrey Household",
+                "original_name": "Geoffrey Household",
+                "popularity": 6.734,
+                "profile_path": null,
+                "credit_id": "52fe443fc3a368484e018379",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13802,
+                "known_for_department": "Writing",
+                "name": "Dudley Nichols",
+                "original_name": "Dudley Nichols",
+                "popularity": 8.104,
+                "profile_path": null,
+                "credit_id": "52fe443fc3a368484e01837f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14648,
+                "known_for_department": "Camera",
+                "name": "Arthur C. Miller",
+                "original_name": "Arthur C. Miller",
+                "popularity": 3.203,
+                "profile_path": null,
+                "credit_id": "52fe443fc3a368484e01838b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14649,
+                "known_for_department": "Editing",
+                "name": "Allen McNeil",
+                "original_name": "Allen McNeil",
+                "popularity": 3.319,
+                "profile_path": "/2oYX7N90dojJIz69kTAcmX1eRwc.jpg",
+                "credit_id": "52fe443fc3a368484e018391",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8502,
+                "known_for_department": "Production",
+                "name": "Darryl F. Zanuck",
+                "original_name": "Darryl F. Zanuck",
+                "popularity": 8.536,
+                "profile_path": "/wHsPI8zweAXFBxA51rmrcVNoZIJ.jpg",
+                "credit_id": "54476d7d0e0a2672d7001bf0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8506,
+                "known_for_department": "Art",
+                "name": "Richard Day",
+                "original_name": "Richard Day",
+                "popularity": 8.252,
+                "profile_path": null,
+                "credit_id": "54476d990e0a2672d7001bf8",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103507,
+                "known_for_department": "Art",
+                "name": "Wiard B. Ihnen",
+                "original_name": "Wiard B. Ihnen",
+                "popularity": 3.068,
+                "profile_path": null,
+                "credit_id": "54476dadc3a3686da6001b75",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8508,
+                "known_for_department": "Art",
+                "name": "Thomas Little",
+                "original_name": "Thomas Little",
+                "popularity": 5.029,
+                "profile_path": null,
+                "credit_id": "54476dc40e0a2611200017b8",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7652,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Travis Banton",
+                "original_name": "Travis Banton",
+                "popularity": 8.207,
+                "profile_path": "/hf1TZE9c0qvgaXmYK6kBWfZHYzz.jpg",
+                "credit_id": "54476dddc3a36817e400165c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8503,
+                "known_for_department": "Sound",
+                "name": "Alfred Newman",
+                "original_name": "Alfred Newman",
+                "popularity": 7.122,
+                "profile_path": "/7U2GMZwkQmlNiXpFwGwabQLqUI1.jpg",
+                "credit_id": "5726555f92514119ed006356",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 958515,
+                "known_for_department": "Sound",
+                "name": "Eugene Grossman",
+                "original_name": "Eugene Grossman",
+                "popularity": 5.298,
+                "profile_path": null,
+                "credit_id": "6324cd93fd4a96007f626e37",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8511,
+                "known_for_department": "Sound",
+                "name": "Roger Heman Sr.",
+                "original_name": "Roger Heman Sr.",
+                "popularity": 6.741,
+                "profile_path": null,
+                "credit_id": "6324cd9d5437f5007a914b71",
+                "department": "Sound",
+                "job": "Sound"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Walter Pidgeon",
+            "character": "Captain Alan Thorndike"
+        },
+        {
+            "actor": "Joan Bennett",
+            "character": "Jerry Stokes"
+        },
+        {
+            "actor": "George Sanders",
+            "character": "Major Quive-Smith"
+        },
+        {
+            "actor": "John Carradine",
+            "character": "Mr. Jones"
+        },
+        {
+            "actor": "Roddy McDowall",
+            "character": "Vaner"
+        },
+        {
+            "actor": "Ludwig Stössel",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Heather Thatcher",
+            "character": "Lady Alice Risborough"
+        },
+        {
+            "actor": "Frederick Worlock",
+            "character": "Lord Gerald Risborough"
+        },
+        {
+            "actor": "Roger Imhof",
+            "character": "Captain Jensen"
+        },
+        {
+            "actor": "Holmes Herbert",
+            "character": "Saul Farnsworthy"
+        },
+        {
+            "actor": "Egon Brecher",
+            "character": "Jeweler"
+        },
+        {
+            "actor": "Eily Malyon",
+            "character": "Postmistress"
+        },
+        {
+            "actor": "Herbert Evans",
+            "character": "Reeves"
+        },
+        {
+            "actor": "Charles Bennett",
+            "character": ""
+        },
+        {
+            "actor": "Frank Benson",
+            "character": ""
+        },
+        {
+            "actor": "Ted Billings",
+            "character": ""
+        },
+        {
+            "actor": "Walter Bonn",
+            "character": ""
+        },
+        {
+            "actor": "Sven Hugo Borg",
+            "character": ""
+        },
+        {
+            "actor": "Cyril Delevanti",
+            "character": ""
+        },
+        {
+            "actor": "Carl Ekberg",
+            "character": "Adolf Hitler"
+        },
+        {
+            "actor": "Richard Fraser",
+            "character": ""
+        },
+        {
+            "actor": "Arno Frey",
+            "character": ""
+        },
+        {
+            "actor": "Douglas Gerrard",
+            "character": ""
+        },
+        {
+            "actor": "William Haade",
+            "character": ""
+        },
+        {
+            "actor": "Keith Hitchcock",
+            "character": ""
+        },
+        {
+            "actor": "Olaf Hytten",
+            "character": ""
+        },
+        {
+            "actor": "Hans Joby",
+            "character": ""
+        },
+        {
+            "actor": "Kurt Kreuger",
+            "character": ""
+        },
+        {
+            "actor": "Bruce Lester",
+            "character": ""
+        },
+        {
+            "actor": "Adolf E. Licho",
+            "character": ""
+        },
+        {
+            "actor": "Lester Matthews",
+            "character": ""
+        },
+        {
+            "actor": "Virginia McDowall",
+            "character": ""
+        },
+        {
+            "actor": "Adolph Milar",
+            "character": ""
+        },
+        {
+            "actor": "Carl Ottmar",
+            "character": ""
+        },
+        {
+            "actor": "Lucien Prival",
+            "character": ""
+        },
+        {
+            "actor": "Otto Reichow",
+            "character": ""
+        },
+        {
+            "actor": "John Rogers",
+            "character": ""
+        },
+        {
+            "actor": "Clifford Severn",
+            "character": ""
+        },
+        {
+            "actor": "Robert R. Stephenson",
+            "character": ""
+        },
+        {
+            "actor": "Frederick Vogeding",
+            "character": ""
+        },
+        {
+            "actor": "Wilhelm von Brincken",
+            "character": ""
+        },
+        {
+            "actor": "Bobby Hale",
+            "character": ""
+        }
+    ]
+}

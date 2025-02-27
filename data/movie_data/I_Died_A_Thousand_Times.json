@@ -1,0 +1,1438 @@
+{
+    "adult": false,
+    "backdrop_path": "/7wWWHHpzW0nzBfiibXsFuIBej8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 28490,
+    "imdb_id": "tt0048190",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "I Died a Thousand Times",
+    "overview": "After aging criminal Roy Earle is released from prison he decides to pull one last heist before retiring — by robbing a resort hotel.",
+    "popularity": 12.241,
+    "poster_path": "/5xaY8vWsRyDE38wY7u85Z0Ntby3.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1955-11-09",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The Story Behind The Terrifying 60-Day Hunt For Desperado 'Mad-Dog' Earle!",
+    "title": "I Died a Thousand Times",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 27,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1955-11-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3785,
+                "known_for_department": "Acting",
+                "name": "Jack Palance",
+                "original_name": "Jack Palance",
+                "popularity": 32.682,
+                "profile_path": "/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg",
+                "cast_id": 8,
+                "character": "Roy Earle / Roy Collins",
+                "credit_id": "52fe459ac3a368484e0649e9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7632,
+                "known_for_department": "Acting",
+                "name": "Shelley Winters",
+                "original_name": "Shelley Winters",
+                "popularity": 31.251,
+                "profile_path": "/sY7LVp0M8yJgFD0o2uAIJgfLGm9.jpg",
+                "cast_id": 9,
+                "character": "Marie Garson",
+                "credit_id": "52fe459ac3a368484e0649ed",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 78859,
+                "known_for_department": "Acting",
+                "name": "Lori Nelson",
+                "original_name": "Lori Nelson",
+                "popularity": 13.899,
+                "profile_path": "/vw1Bm71Vr9qSx5o9TK716MSvxX5.jpg",
+                "cast_id": 10,
+                "character": "Velma",
+                "credit_id": "52fe459ac3a368484e0649f1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18391,
+                "known_for_department": "Acting",
+                "name": "Lee Marvin",
+                "original_name": "Lee Marvin",
+                "popularity": 51.857,
+                "profile_path": "/3UyL1rHcJCbOEHmvgACG0I9kOxB.jpg",
+                "cast_id": 11,
+                "character": "Babe Kossuck",
+                "credit_id": "52fe459ac3a368484e0649f5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4305,
+                "known_for_department": "Acting",
+                "name": "Pedro Gonzalez Gonzalez",
+                "original_name": "Pedro Gonzalez Gonzalez",
+                "popularity": 6.88,
+                "profile_path": "/rjWzUgogu1ROQJEyqJ81tj8zScn.jpg",
+                "cast_id": 12,
+                "character": "Chico",
+                "credit_id": "52fe459ac3a368484e0649f9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4072,
+                "known_for_department": "Acting",
+                "name": "Lon Chaney Jr.",
+                "original_name": "Lon Chaney Jr.",
+                "popularity": 21.217,
+                "profile_path": "/xj8gBZ7Vbu1rGm1uaL11MfD8RSe.jpg",
+                "cast_id": 13,
+                "character": "Big Mac",
+                "credit_id": "52fe459ac3a368484e0649fd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12313,
+                "known_for_department": "Acting",
+                "name": "Earl Holliman",
+                "original_name": "Earl Holliman",
+                "popularity": 15.401,
+                "profile_path": "/2ks1x3zLi0a1DHyzl6KriGrbz74.jpg",
+                "cast_id": 14,
+                "character": "Red",
+                "credit_id": "52fe459ac3a368484e064a01",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12295,
+                "known_for_department": "Acting",
+                "name": "Perry Lopez",
+                "original_name": "Perry Lopez",
+                "popularity": 18.739,
+                "profile_path": "/rQXvA13yB182uYVZ1ziHDe6ECV0.jpg",
+                "cast_id": 15,
+                "character": "Louis Mendoza",
+                "credit_id": "52fe459ac3a368484e064a05",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2751,
+                "known_for_department": "Acting",
+                "name": "Richard Davalos",
+                "original_name": "Richard Davalos",
+                "popularity": 8.2,
+                "profile_path": "/fPTMDfqmhdoUSat6BWXVAnw99kL.jpg",
+                "cast_id": 16,
+                "character": "Lon Preisser",
+                "credit_id": "52fe459ac3a368484e064a09",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5792,
+                "known_for_department": "Acting",
+                "name": "Howard St. John",
+                "original_name": "Howard St. John",
+                "popularity": 6.115,
+                "profile_path": "/5HkEPH9C4JTzR0mQjDKzqbmrpQe.jpg",
+                "cast_id": 17,
+                "character": "Doc Banton",
+                "credit_id": "52fe459ac3a368484e064a0d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 30552,
+                "known_for_department": "Acting",
+                "name": "Olive Carey",
+                "original_name": "Olive Carey",
+                "popularity": 7.674,
+                "profile_path": "/8nun3DoEza3OmxMwcmMYlrQkINv.jpg",
+                "cast_id": 18,
+                "character": "Ma Goodhue",
+                "credit_id": "52fe459ac3a368484e064a11",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100944,
+                "known_for_department": "Acting",
+                "name": "Ralph Moody",
+                "original_name": "Ralph Moody",
+                "popularity": 15.96,
+                "profile_path": "/7TAlilRZmRpU0cB2sEO7JmhkwMf.jpg",
+                "cast_id": 19,
+                "character": "Pa Goodhue",
+                "credit_id": "52fe459ac3a368484e064a15",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100945,
+                "known_for_department": "Acting",
+                "name": "James Millican",
+                "original_name": "James Millican",
+                "popularity": 11.319,
+                "profile_path": "/1UPyrUmCftIOyKAI4uUOwiELrES.jpg",
+                "cast_id": 20,
+                "character": "Jack Kranmer",
+                "credit_id": "52fe459ac3a368484e064a19",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89530,
+                "known_for_department": "Acting",
+                "name": "Bill Kennedy",
+                "original_name": "Bill Kennedy",
+                "popularity": 6.197,
+                "profile_path": "/iHEWf7tZiGF1xqxr4rYbox4qjDQ.jpg",
+                "cast_id": 21,
+                "character": "Sheriff",
+                "credit_id": "52fe459ac3a368484e064a1d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2787,
+                "known_for_department": "Acting",
+                "name": "Nick Adams",
+                "original_name": "Nick Adams",
+                "popularity": 37.944,
+                "profile_path": "/yrXQ3DlthU5vks3L7Wan2r39AHF.jpg",
+                "cast_id": 42,
+                "character": "Bellboy (uncredited)",
+                "credit_id": "6217c06488bbe6001ee88373",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138375,
+                "known_for_department": "Acting",
+                "name": "Chris Alcaide",
+                "original_name": "Chris Alcaide",
+                "popularity": 15.422,
+                "profile_path": "/unodhhMnGONDFrqlBo47LGiEaga.jpg",
+                "cast_id": 43,
+                "character": "Sheriff's Deputy (uncredited)",
+                "credit_id": "6217c07379a1c3006b8bf6db",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98160,
+                "known_for_department": "Acting",
+                "name": "Fay Baker",
+                "original_name": "Fay Baker",
+                "popularity": 9.561,
+                "profile_path": "/h2sljmSUEOT7GTWPl9eaTrcLzDp.jpg",
+                "cast_id": 44,
+                "character": "Woman in Tropico Lobby (uncredited)",
+                "credit_id": "6217c081a88587006cd1f357",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82750,
+                "known_for_department": "Acting",
+                "name": "Larry J. Blake",
+                "original_name": "Larry J. Blake",
+                "popularity": 6.684,
+                "profile_path": "/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg",
+                "cast_id": 45,
+                "character": "Healy (uncredited)",
+                "credit_id": "6217c08d5be00e006b39934c",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112935,
+                "known_for_department": "Acting",
+                "name": "Nesdon Booth",
+                "original_name": "Nesdon Booth",
+                "popularity": 4.897,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Tom (uncredited)",
+                "credit_id": "6217c09d5be00e00420a6b23",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106611,
+                "known_for_department": "Acting",
+                "name": "Paul Brinegar",
+                "original_name": "Paul Brinegar",
+                "popularity": 15.651,
+                "profile_path": "/6GarNdMHXLKSnt9BAVYa5jtoYi0.jpg",
+                "cast_id": 47,
+                "character": "Bus Driver (uncredited)",
+                "credit_id": "6217c0cc7fcab3001c10649b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221260,
+                "known_for_department": "Acting",
+                "name": "Joe Brooks",
+                "original_name": "Joe Brooks",
+                "popularity": 8.613,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Observer at Accident Scene (uncredited)",
+                "credit_id": "6217c0d8ce5d8200410ee008",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2762,
+                "known_for_department": "Acting",
+                "name": "Mushy Callahan",
+                "original_name": "Mushy Callahan",
+                "popularity": 6.157,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Observer at Accident Scene (uncredited)",
+                "credit_id": "6217c0e454f6eb00438e6b94",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 29814,
+                "known_for_department": "Acting",
+                "name": "Mae Clarke",
+                "original_name": "Mae Clarke",
+                "popularity": 17.206,
+                "profile_path": "/9eKCjCHX920LGK0DhAmWExZ6mib.jpg",
+                "cast_id": 50,
+                "character": "Mabel Baughman (uncredited)",
+                "credit_id": "6217c0ef79a1c30043f7b02d",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1468172,
+                "known_for_department": "Acting",
+                "name": "Tom Coleman",
+                "original_name": "Tom Coleman",
+                "popularity": 5.266,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "Cabbie (uncredited)",
+                "credit_id": "6217c0f75be00e00420a6c8c",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91218,
+                "known_for_department": "Acting",
+                "name": "John Daheim",
+                "original_name": "John Daheim",
+                "popularity": 10.398,
+                "profile_path": null,
+                "cast_id": 52,
+                "character": "Holden (uncredited)",
+                "credit_id": "6217c104afa1b0006cc1a83e",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109725,
+                "known_for_department": "Acting",
+                "name": "Steve Darrell",
+                "original_name": "Steve Darrell",
+                "popularity": 16.295,
+                "profile_path": "/mPADuDDsXkXBaxl51CAKQCVpH0r.jpg",
+                "cast_id": 53,
+                "character": "Plainclothesman (uncredited)",
+                "credit_id": "6217c11154f6eb001b775fc4",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131448,
+                "known_for_department": "Acting",
+                "name": "Don Dillaway",
+                "original_name": "Don Dillaway",
+                "popularity": 6.339,
+                "profile_path": "/tMvl1q2ArKRwjZK5pkxw0JODlOR.jpg",
+                "cast_id": 54,
+                "character": "Observer at Accident Scene (uncredited)",
+                "credit_id": "6217c122a27502001b679469",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3442195,
+                "known_for_department": "Acting",
+                "name": "Darren Dublin",
+                "original_name": "Darren Dublin",
+                "popularity": 1.346,
+                "profile_path": null,
+                "cast_id": 55,
+                "character": "Bellboy (uncredited)",
+                "credit_id": "6217c1343d4d96001a2fab72",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100989,
+                "known_for_department": "Acting",
+                "name": "Myrna Fahey",
+                "original_name": "Myrna Fahey",
+                "popularity": 14.328,
+                "profile_path": "/7YQTO3UzV7NUOuGPe30FYiXWzG8.jpg",
+                "cast_id": 56,
+                "character": "Margie (uncredited)",
+                "credit_id": "6217c13d3a99370042e5d871",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106448,
+                "known_for_department": "Acting",
+                "name": "Ed Fury",
+                "original_name": "Ed Fury",
+                "popularity": 10.751,
+                "profile_path": "/epVlee4zXhFEEw5g89983lJmUhM.jpg",
+                "cast_id": 57,
+                "character": "Man with Tennis Racket at Accident Scene (uncredited)",
+                "credit_id": "6217c14cafa1b0001e20f61b",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78857,
+                "known_for_department": "Acting",
+                "name": "Howard Hoffman",
+                "original_name": "Howard Hoffman",
+                "popularity": 5.671,
+                "profile_path": null,
+                "cast_id": 58,
+                "character": "Fisherman (uncredited)",
+                "credit_id": "6217c159a885870042158073",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2778,
+                "known_for_department": "Acting",
+                "name": "Dennis Hopper",
+                "original_name": "Dennis Hopper",
+                "popularity": 28.748,
+                "profile_path": "/auMK1yGFhxgjwSlbveJSXDUEtgR.jpg",
+                "cast_id": 59,
+                "character": "Joe (uncredited)",
+                "credit_id": "6217c1613a9937006cc73f98",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1468755,
+                "known_for_department": "Acting",
+                "name": "Shep Houghton",
+                "original_name": "Shep Houghton",
+                "popularity": 10.011,
+                "profile_path": "/ecu2vbnOuM9WQfc2HtijJe1vxEZ.jpg",
+                "cast_id": 60,
+                "character": "Hotel Guest (uncredited)",
+                "credit_id": "6217c16a7fcab300624426d9",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1640750,
+                "known_for_department": "Acting",
+                "name": "Larry Hudson",
+                "original_name": "Larry Hudson",
+                "popularity": 3.265,
+                "profile_path": null,
+                "cast_id": 61,
+                "character": "Sheriff's Deputy (uncredited)",
+                "credit_id": "6217c17aa6d931006b28ae35",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 137204,
+                "known_for_department": "Acting",
+                "name": "Carol Kelly",
+                "original_name": "Carol Kelly",
+                "popularity": 5.286,
+                "profile_path": null,
+                "cast_id": 62,
+                "character": "Girl at Cigar Counter (uncredited)",
+                "credit_id": "6217c19a0e597b001b9b3417",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1339667,
+                "known_for_department": "Crew",
+                "name": "Carey Leverette",
+                "original_name": "Carey Leverette",
+                "popularity": 0.708,
+                "profile_path": null,
+                "cast_id": 63,
+                "character": "Velma's Friend (uncredited)",
+                "credit_id": "6217c1ac8d2f8d001bf8b104",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87665,
+                "known_for_department": "Acting",
+                "name": "Peggy Maley",
+                "original_name": "Peggy Maley",
+                "popularity": 18.193,
+                "profile_path": "/1ogLfneTOQP0O9c0GB6Txe6uiwb.jpg",
+                "cast_id": 64,
+                "character": "Kranmer's Girl (uncredited)",
+                "credit_id": "6217c1b9cb8028004299b6c6",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1173173,
+                "known_for_department": "Acting",
+                "name": "Philo McCullough",
+                "original_name": "Philo McCullough",
+                "popularity": 9.944,
+                "profile_path": "/3rRW4z7GBHrXMzGNvTJldipaLBF.jpg",
+                "cast_id": 65,
+                "character": "Observer at Accident Scene (uncredited)",
+                "credit_id": "6217c1cbcb80280065fa4cbb",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 165148,
+                "known_for_department": "Acting",
+                "name": "John McKee",
+                "original_name": "John McKee",
+                "popularity": 9.72,
+                "profile_path": "/pN2kYaZRuz9deT5fFY5U6E6OUnr.jpg",
+                "cast_id": 66,
+                "character": "State Trooper (uncredited)",
+                "credit_id": "6217c1dc88bbe6004276cc54",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 126997,
+                "known_for_department": "Acting",
+                "name": "David McMahon",
+                "original_name": "David McMahon",
+                "popularity": 8.994,
+                "profile_path": "/wBDHqoGFoR7S21EVaSLx7UyccAT.jpg",
+                "cast_id": 67,
+                "character": "Auto Court Owner (uncredited)",
+                "credit_id": "6217c1e6afa1b0006cc1ab4c",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33967,
+                "known_for_department": "Acting",
+                "name": "Dennis Moore",
+                "original_name": "Dennis Moore",
+                "popularity": 17.233,
+                "profile_path": "/l0ASkx4SxvHRGAJNLZsj1zkpg9V.jpg",
+                "cast_id": 68,
+                "character": "Officer (uncredited)",
+                "credit_id": "6217c1f40e597b004126b7de",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87370,
+                "known_for_department": "Acting",
+                "name": "Howard Negley",
+                "original_name": "Howard Negley",
+                "popularity": 14.859,
+                "profile_path": "/hwJF6mVvArbWXnJIj3qE0jl5ACH.jpg",
+                "cast_id": 69,
+                "character": "Tropico Watchman (uncredited)",
+                "credit_id": "6217c20179a1c3001b61b8b8",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 126550,
+                "known_for_department": "Acting",
+                "name": "Wendell Niles",
+                "original_name": "Wendell Niles",
+                "popularity": 4.959,
+                "profile_path": "/cIRkk6fu3B6HSquBTaE19yhGbL8.jpg",
+                "cast_id": 70,
+                "character": "Radio Announcer (uncredited)",
+                "credit_id": "6217c2410e597b00691d7cb0",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1368758,
+                "known_for_department": "Acting",
+                "name": "Monty O'Grady",
+                "original_name": "Monty O'Grady",
+                "popularity": 6.232,
+                "profile_path": "/1yz4sQu0J0EAYvUWvjGgT0udItr.jpg",
+                "cast_id": 71,
+                "character": "Hotel Guest (uncredited)",
+                "credit_id": "6217c2533a9937001a207813",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1214919,
+                "known_for_department": "Acting",
+                "name": "Gil Perkins",
+                "original_name": "Gil Perkins",
+                "popularity": 8.001,
+                "profile_path": null,
+                "cast_id": 72,
+                "character": "Slim (uncredited)",
+                "credit_id": "6217c25f54f6eb00438e7077",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115550,
+                "known_for_department": "Acting",
+                "name": "John Pickard",
+                "original_name": "John Pickard",
+                "popularity": 16.744,
+                "profile_path": "/olxJLvhYTY59INWlWvkLWXQZvJO.jpg",
+                "cast_id": 73,
+                "character": "Sheriff's Deputy (uncredited)",
+                "credit_id": "6217c2dea27502004271130c",
+                "order": 45
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151891,
+                "known_for_department": "Acting",
+                "name": "Paul Power",
+                "original_name": "Paul Power",
+                "popularity": 8.795,
+                "profile_path": null,
+                "cast_id": 74,
+                "character": "Observer at Accident Scene (uncredited)",
+                "credit_id": "6217c2ea383df2006c135c2f",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43822,
+                "known_for_department": "Acting",
+                "name": "Richard Reeves",
+                "original_name": "Richard Reeves",
+                "popularity": 13.005,
+                "profile_path": "/wDWCY3RbEyDMfO58RwRwV2diEX.jpg",
+                "cast_id": 75,
+                "character": "Deputy (uncredited)",
+                "credit_id": "6217c2f93a99370042e5de28",
+                "order": 47
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98503,
+                "known_for_department": "Acting",
+                "name": "Hugh Sanders",
+                "original_name": "Hugh Sanders",
+                "popularity": 8.149,
+                "profile_path": "/Y0UAhbpbraiotfUjRnP79HIyfu.jpg",
+                "cast_id": 76,
+                "character": "Mr. Baughman (uncredited)",
+                "credit_id": "6217c3023d4d96004104a726",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179327,
+                "known_for_department": "Acting",
+                "name": "Jeffrey Sayre",
+                "original_name": "Jeffrey Sayre",
+                "popularity": 10.054,
+                "profile_path": "/egXZ8R3lK5EgZjKCnKC30Gir6IV.jpg",
+                "cast_id": 77,
+                "character": "Tropico Guest (uncredited)",
+                "credit_id": "6217c30c5be00e00420a733f",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89703,
+                "known_for_department": "Acting",
+                "name": "James Seay",
+                "original_name": "James Seay",
+                "popularity": 13.702,
+                "profile_path": "/goPFeA5iRgrkCVLmcxS42ZD9a2t.jpg",
+                "cast_id": 78,
+                "character": "Man in Tropico Lobby (uncredited)",
+                "credit_id": "6217c31879a1c3006b8bff82",
+                "order": 50
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115077,
+                "known_for_department": "Acting",
+                "name": "Mickey Simpson",
+                "original_name": "Mickey Simpson",
+                "popularity": 8.148,
+                "profile_path": "/ibbfA05IyL8YBZyPsb0oiT5vNCL.jpg",
+                "cast_id": 79,
+                "character": "Officer (uncredited)",
+                "credit_id": "6217c3228d2f8d001bf8b62d",
+                "order": 51
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15869,
+                "known_for_department": "Acting",
+                "name": "John Stephenson",
+                "original_name": "John Stephenson",
+                "popularity": 20.787,
+                "profile_path": "/2WWZ5IAdGNlsCAcw8CefvsBeo9i.jpg",
+                "cast_id": 80,
+                "character": "Pfeiffer (uncredited)",
+                "credit_id": "6217c32b5be00e00420a7396",
+                "order": 52
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6463,
+                "known_for_department": "Acting",
+                "name": "Dub Taylor",
+                "original_name": "Dub Taylor",
+                "popularity": 22.028,
+                "profile_path": "/gDgTAXPq5vOW5CWxF2MaeQ9Kjkn.jpg",
+                "cast_id": 81,
+                "character": "Ed (uncredited)",
+                "credit_id": "6217c338afa1b0006cc1aef4",
+                "order": 53
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134614,
+                "known_for_department": "Acting",
+                "name": "Herb Vigran",
+                "original_name": "Herb Vigran",
+                "popularity": 20.115,
+                "profile_path": "/2CG32FVQmmbgDDNBmUN85sEza4f.jpg",
+                "cast_id": 82,
+                "character": "Art (uncredited)",
+                "credit_id": "6217c345a88587006cd1fac0",
+                "order": 54
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120178,
+                "known_for_department": "Acting",
+                "name": "Max Wagner",
+                "original_name": "Max Wagner",
+                "popularity": 6.476,
+                "profile_path": null,
+                "cast_id": 83,
+                "character": "Deputy Charlie (uncredited)",
+                "credit_id": "6217c3530e597b004126bd20",
+                "order": 55
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54683,
+                "known_for_department": "Acting",
+                "name": "Charles Watts",
+                "original_name": "Charles Watts",
+                "popularity": 13.083,
+                "profile_path": "/A9SdpXRPy7o4JuQ2w4YxTajC4bx.jpg",
+                "cast_id": 84,
+                "character": "Crowd Member (uncredited)",
+                "credit_id": "6217c35cafa1b00045634e41",
+                "order": 56
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120070,
+                "known_for_department": "Acting",
+                "name": "Robert B. Williams",
+                "original_name": "Robert B. Williams",
+                "popularity": 11.099,
+                "profile_path": "/fDEkRqtvUzwcZd7VzW7A7UZG6ku.jpg",
+                "cast_id": 85,
+                "character": "Ned (uncredited)",
+                "credit_id": "6217c36a79a1c3006b8c00a2",
+                "order": 57
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80728,
+                "known_for_department": "Writing",
+                "name": "W.R. Burnett",
+                "original_name": "W.R. Burnett",
+                "popularity": 5.838,
+                "profile_path": "/9zQbaA2x7bhz9GUAZidNzz59RU1.jpg",
+                "credit_id": "52fe459ac3a368484e0649cd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81285,
+                "known_for_department": "Directing",
+                "name": "Stuart Heisler",
+                "original_name": "Stuart Heisler",
+                "popularity": 15.786,
+                "profile_path": "/kdNAwG8DWEW09m0Q4WtJnW2p4U6.jpg",
+                "credit_id": "52fe459ac3a368484e0649c1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1503,
+                "known_for_department": "Writing",
+                "name": "Willis Goldbeck",
+                "original_name": "Willis Goldbeck",
+                "popularity": 8.928,
+                "profile_path": "/92jkS5x9TvVRUWT1Ffo80A0oyXF.jpg",
+                "credit_id": "52fe459ac3a368484e0649d3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80728,
+                "known_for_department": "Writing",
+                "name": "W.R. Burnett",
+                "original_name": "W.R. Burnett",
+                "popularity": 5.838,
+                "profile_path": "/9zQbaA2x7bhz9GUAZidNzz59RU1.jpg",
+                "credit_id": "52fe459ac3a368484e0649c7",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17667,
+                "known_for_department": "Sound",
+                "name": "David Buttolph",
+                "original_name": "David Buttolph",
+                "popularity": 6.174,
+                "profile_path": null,
+                "credit_id": "52fe459ac3a368484e0649d9",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2760,
+                "known_for_department": "Camera",
+                "name": "Ted D. McCord",
+                "original_name": "Ted D. McCord",
+                "popularity": 2.864,
+                "profile_path": null,
+                "credit_id": "52fe459ac3a368484e0649df",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29812,
+                "known_for_department": "Editing",
+                "name": "Clarence Kolster",
+                "original_name": "Clarence Kolster",
+                "popularity": 2.685,
+                "profile_path": null,
+                "credit_id": "52fe459ac3a368484e0649e5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7127,
+                "known_for_department": "Art",
+                "name": "Edward Carrere",
+                "original_name": "Edward Carrere",
+                "popularity": 3.858,
+                "profile_path": null,
+                "credit_id": "6217bf13a27502001b678d27",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1198731,
+                "known_for_department": "Art",
+                "name": "William L. Kuehl",
+                "original_name": "William L. Kuehl",
+                "popularity": 1.127,
+                "profile_path": null,
+                "credit_id": "6217bf2dce5d82001b3ef95d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14727,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Moss Mabry",
+                "original_name": "Moss Mabry",
+                "popularity": 4.018,
+                "profile_path": null,
+                "credit_id": "6217bf39a88587006cd1eea0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4313,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gordon Bau",
+                "original_name": "Gordon Bau",
+                "popularity": 6.468,
+                "profile_path": null,
+                "credit_id": "6217bf470e597b004126ae13",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1543599,
+                "known_for_department": "Sound",
+                "name": "Charles Lang",
+                "original_name": "Charles Lang",
+                "popularity": 1.235,
+                "profile_path": null,
+                "credit_id": "6217bf5288bbe6006be8b00a",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1570441,
+                "known_for_department": "Directing",
+                "name": "John Prettyman",
+                "original_name": "John Prettyman",
+                "popularity": 2.325,
+                "profile_path": null,
+                "credit_id": "6217bf5f79a1c30043f7ab68",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1614607,
+                "known_for_department": "Directing",
+                "name": "Lee White",
+                "original_name": "Lee White",
+                "popularity": 0.428,
+                "profile_path": null,
+                "credit_id": "6217bf69cb8028004299ae15",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1529473,
+                "known_for_department": "Directing",
+                "name": "Russell Saunders",
+                "original_name": "Russell Saunders",
+                "popularity": 2.757,
+                "profile_path": null,
+                "credit_id": "6217bf86a88587006cd1f029",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1529475,
+                "known_for_department": "Directing",
+                "name": "Chuck Hansen",
+                "original_name": "Chuck Hansen",
+                "popularity": 1.335,
+                "profile_path": null,
+                "credit_id": "6217bf90cb80280065fa4699",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91218,
+                "known_for_department": "Acting",
+                "name": "John Daheim",
+                "original_name": "John Daheim",
+                "popularity": 10.398,
+                "profile_path": null,
+                "credit_id": "6217bf9e383df20044eb8d7a",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1214919,
+                "known_for_department": "Acting",
+                "name": "Gil Perkins",
+                "original_name": "Gil Perkins",
+                "popularity": 8.001,
+                "profile_path": null,
+                "credit_id": "6217bfb3ce5d8200410edbdf",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 133439,
+                "known_for_department": "Camera",
+                "name": "Edwin B. DuPar",
+                "original_name": "Edwin B. DuPar",
+                "popularity": 2.543,
+                "profile_path": "/tEqBqZ9R9ydbZ3HhbzKXiFtHonX.jpg",
+                "credit_id": "6217bfd079a1c3006b8bf489",
+                "department": "Camera",
+                "job": "Second Unit Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14727,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Moss Mabry",
+                "original_name": "Moss Mabry",
+                "popularity": 4.018,
+                "profile_path": null,
+                "credit_id": "6217bfd9ce5d8200692469a2",
+                "department": "Costume & Make-Up",
+                "job": "Wardrobe Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1531943,
+                "known_for_department": "Sound",
+                "name": "Maurice De Packh",
+                "original_name": "Maurice De Packh",
+                "popularity": 2.631,
+                "profile_path": null,
+                "credit_id": "6217bfeaa275020042710848",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1141763,
+                "known_for_department": "Sound",
+                "name": "Gus Levene",
+                "original_name": "Gus Levene",
+                "popularity": 2.405,
+                "profile_path": null,
+                "credit_id": "6217bff20e597b004126b158",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1417676,
+                "known_for_department": "Directing",
+                "name": "Al Alleborn",
+                "original_name": "Al Alleborn",
+                "popularity": 1.887,
+                "profile_path": null,
+                "credit_id": "6217c013a88587006cd1f1d6",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2980524,
+                "known_for_department": "Crew",
+                "name": "Eugene Busch",
+                "original_name": "Eugene Busch",
+                "popularity": 1.15,
+                "profile_path": null,
+                "credit_id": "6217c038d14443006533654a",
+                "department": "Crew",
+                "job": "Dialogue Coach"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jack Palance",
+            "character": "Roy Earle / Roy Collins"
+        },
+        {
+            "actor": "Shelley Winters",
+            "character": "Marie Garson"
+        },
+        {
+            "actor": "Lori Nelson",
+            "character": "Velma"
+        },
+        {
+            "actor": "Lee Marvin",
+            "character": "Babe Kossuck"
+        },
+        {
+            "actor": "Pedro Gonzalez Gonzalez",
+            "character": "Chico"
+        },
+        {
+            "actor": "Lon Chaney Jr.",
+            "character": "Big Mac"
+        },
+        {
+            "actor": "Earl Holliman",
+            "character": "Red"
+        },
+        {
+            "actor": "Perry Lopez",
+            "character": "Louis Mendoza"
+        },
+        {
+            "actor": "Richard Davalos",
+            "character": "Lon Preisser"
+        },
+        {
+            "actor": "Howard St. John",
+            "character": "Doc Banton"
+        },
+        {
+            "actor": "Olive Carey",
+            "character": "Ma Goodhue"
+        },
+        {
+            "actor": "Ralph Moody",
+            "character": "Pa Goodhue"
+        },
+        {
+            "actor": "James Millican",
+            "character": "Jack Kranmer"
+        },
+        {
+            "actor": "Bill Kennedy",
+            "character": "Sheriff"
+        },
+        {
+            "actor": "Nick Adams",
+            "character": "Bellboy (uncredited)"
+        },
+        {
+            "actor": "Chris Alcaide",
+            "character": "Sheriff's Deputy (uncredited)"
+        },
+        {
+            "actor": "Fay Baker",
+            "character": "Woman in Tropico Lobby (uncredited)"
+        },
+        {
+            "actor": "Larry J. Blake",
+            "character": "Healy (uncredited)"
+        },
+        {
+            "actor": "Nesdon Booth",
+            "character": "Tom (uncredited)"
+        },
+        {
+            "actor": "Paul Brinegar",
+            "character": "Bus Driver (uncredited)"
+        },
+        {
+            "actor": "Joe Brooks",
+            "character": "Observer at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "Mushy Callahan",
+            "character": "Observer at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "Mae Clarke",
+            "character": "Mabel Baughman (uncredited)"
+        },
+        {
+            "actor": "Tom Coleman",
+            "character": "Cabbie (uncredited)"
+        },
+        {
+            "actor": "John Daheim",
+            "character": "Holden (uncredited)"
+        },
+        {
+            "actor": "Steve Darrell",
+            "character": "Plainclothesman (uncredited)"
+        },
+        {
+            "actor": "Don Dillaway",
+            "character": "Observer at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "Darren Dublin",
+            "character": "Bellboy (uncredited)"
+        },
+        {
+            "actor": "Myrna Fahey",
+            "character": "Margie (uncredited)"
+        },
+        {
+            "actor": "Ed Fury",
+            "character": "Man with Tennis Racket at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "Howard Hoffman",
+            "character": "Fisherman (uncredited)"
+        },
+        {
+            "actor": "Dennis Hopper",
+            "character": "Joe (uncredited)"
+        },
+        {
+            "actor": "Shep Houghton",
+            "character": "Hotel Guest (uncredited)"
+        },
+        {
+            "actor": "Larry Hudson",
+            "character": "Sheriff's Deputy (uncredited)"
+        },
+        {
+            "actor": "Carol Kelly",
+            "character": "Girl at Cigar Counter (uncredited)"
+        },
+        {
+            "actor": "Carey Leverette",
+            "character": "Velma's Friend (uncredited)"
+        },
+        {
+            "actor": "Peggy Maley",
+            "character": "Kranmer's Girl (uncredited)"
+        },
+        {
+            "actor": "Philo McCullough",
+            "character": "Observer at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "John McKee",
+            "character": "State Trooper (uncredited)"
+        },
+        {
+            "actor": "David McMahon",
+            "character": "Auto Court Owner (uncredited)"
+        },
+        {
+            "actor": "Dennis Moore",
+            "character": "Officer (uncredited)"
+        },
+        {
+            "actor": "Howard Negley",
+            "character": "Tropico Watchman (uncredited)"
+        },
+        {
+            "actor": "Wendell Niles",
+            "character": "Radio Announcer (uncredited)"
+        },
+        {
+            "actor": "Monty O'Grady",
+            "character": "Hotel Guest (uncredited)"
+        },
+        {
+            "actor": "Gil Perkins",
+            "character": "Slim (uncredited)"
+        },
+        {
+            "actor": "John Pickard",
+            "character": "Sheriff's Deputy (uncredited)"
+        },
+        {
+            "actor": "Paul Power",
+            "character": "Observer at Accident Scene (uncredited)"
+        },
+        {
+            "actor": "Richard Reeves",
+            "character": "Deputy (uncredited)"
+        },
+        {
+            "actor": "Hugh Sanders",
+            "character": "Mr. Baughman (uncredited)"
+        },
+        {
+            "actor": "Jeffrey Sayre",
+            "character": "Tropico Guest (uncredited)"
+        },
+        {
+            "actor": "James Seay",
+            "character": "Man in Tropico Lobby (uncredited)"
+        },
+        {
+            "actor": "Mickey Simpson",
+            "character": "Officer (uncredited)"
+        },
+        {
+            "actor": "John Stephenson",
+            "character": "Pfeiffer (uncredited)"
+        },
+        {
+            "actor": "Dub Taylor",
+            "character": "Ed (uncredited)"
+        },
+        {
+            "actor": "Herb Vigran",
+            "character": "Art (uncredited)"
+        },
+        {
+            "actor": "Max Wagner",
+            "character": "Deputy Charlie (uncredited)"
+        },
+        {
+            "actor": "Charles Watts",
+            "character": "Crowd Member (uncredited)"
+        },
+        {
+            "actor": "Robert B. Williams",
+            "character": "Ned (uncredited)"
+        }
+    ]
+}

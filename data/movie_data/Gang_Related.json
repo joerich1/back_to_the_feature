@@ -1,0 +1,733 @@
+{
+    "adult": false,
+    "backdrop_path": "/xCvbe2cTLc27EB1AtQhVrzqoZoY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 14398,
+    "imdb_id": "tt0118900",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gang Related",
+    "overview": "Two corrupt cops have a successful, seemingly perfect money making scheme- they sell drugs that they seize from dealers, kill the dealers, and blame the crimes on street gangs. Their scheme is going along smoothly until they kill an undercover DEA agent posing as a dealer, and then try to cover-up their crime.",
+    "popularity": 26.402,
+    "poster_path": "/zvl4RYK5OHo2d9V1aUkHkxhh9Zv.jpg",
+    "production_companies": [
+        {
+            "id": 41,
+            "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+            "name": "Orion Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3589,
+            "logo_path": null,
+            "name": "Kouf/Bigelow Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-10-08",
+    "revenue": 0,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Some cops play by the rules. Their own.",
+    "title": "Gang Related",
+    "video": false,
+    "vote_average": 6.291,
+    "vote_count": 141,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-10-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Pass Warner",
+                        "release_date": "2023-07-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-10-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26485,
+                "known_for_department": "Acting",
+                "name": "Jim Belushi",
+                "original_name": "Jim Belushi",
+                "popularity": 29.548,
+                "profile_path": "/wIvFYH110ER7ukwR0qryQJJDQYH.jpg",
+                "cast_id": 1,
+                "character": "Detective Frank K Divinci",
+                "credit_id": "52fe45ef9251416c75067743",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54422,
+                "known_for_department": "Acting",
+                "name": "Tupac Shakur",
+                "original_name": "Tupac Shakur",
+                "popularity": 22.652,
+                "profile_path": "/tasKybiACxAkc6eykxrL005XPRQ.jpg",
+                "cast_id": 2,
+                "character": "Detective Rodriguez",
+                "credit_id": "52fe45ef9251416c75067747",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 51359,
+                "known_for_department": "Acting",
+                "name": "Lela Rochon",
+                "original_name": "Lela Rochon",
+                "popularity": 20.369,
+                "profile_path": "/9DBu3r5O4fBosSS4FnSzFCVpm0O.jpg",
+                "cast_id": 3,
+                "character": "Cynthia Webb",
+                "credit_id": "52fe45ef9251416c7506774b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6065,
+                "known_for_department": "Acting",
+                "name": "Dennis Quaid",
+                "original_name": "Dennis Quaid",
+                "popularity": 69.553,
+                "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+                "cast_id": 4,
+                "character": "Joe Doe / William",
+                "credit_id": "52fe45ef9251416c7506774f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15152,
+                "known_for_department": "Acting",
+                "name": "James Earl Jones",
+                "original_name": "James Earl Jones",
+                "popularity": 32.179,
+                "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+                "cast_id": 5,
+                "character": "Arthur Baylor",
+                "credit_id": "52fe45ef9251416c75067753",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21163,
+                "known_for_department": "Acting",
+                "name": "Gary Cole",
+                "original_name": "Gary Cole",
+                "popularity": 44.194,
+                "profile_path": "/gPxHlVK9vNQSa5DkTFKYvLMASdE.jpg",
+                "cast_id": 6,
+                "character": "Richard Simms",
+                "credit_id": "52fe45ef9251416c75067757",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 233191,
+                "known_for_department": "Acting",
+                "name": "Terrence 'T.C.' Carson",
+                "original_name": "Terrence 'T.C.' Carson",
+                "popularity": 7.948,
+                "profile_path": "/3cKzbe7UY61ELyQSEWCHWzDSnNG.jpg",
+                "cast_id": 7,
+                "character": "Manny Landrew",
+                "credit_id": "52fe45ef9251416c7506775b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19957,
+                "known_for_department": "Acting",
+                "name": "Wendy Crewson",
+                "original_name": "Wendy Crewson",
+                "popularity": 35.377,
+                "profile_path": "/hj4mm0TCtXoA66Ed3G78qWVBg7l.jpg",
+                "cast_id": 26,
+                "character": "Helen Eden",
+                "credit_id": "5c798ad90e0a2611e70fd2cf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 199361,
+                "known_for_department": "Acting",
+                "name": "Kool Moe Dee",
+                "original_name": "Kool Moe Dee",
+                "popularity": 6.141,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Lionel Hudd",
+                "credit_id": "5eecf6e0b84cdd00332f09bc",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 122447,
+                "known_for_department": "Acting",
+                "name": "Reggie Miller",
+                "original_name": "Reggie Miller",
+                "popularity": 11.917,
+                "profile_path": "/wOMAa8JSZV5vTq1OTGHIlzYH6lF.jpg",
+                "cast_id": 28,
+                "character": "Self",
+                "credit_id": "5eecf70459e8a90034c7ecbf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19839,
+                "known_for_department": "Acting",
+                "name": "David Paymer",
+                "original_name": "David Paymer",
+                "popularity": 27.787,
+                "profile_path": "/rrI6LgFb1la4PCIYuTB7pjIGgut.jpg",
+                "cast_id": 29,
+                "character": "Elliot Goff",
+                "credit_id": "61bf01cda284eb001df7c0d3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56267,
+                "known_for_department": "Acting",
+                "name": "Brad Greenquist",
+                "original_name": "Brad Greenquist",
+                "popularity": 8.521,
+                "profile_path": "/kbucYMeLCNUk03HuP9SxQajEBnI.jpg",
+                "cast_id": 30,
+                "character": "Richard Stein",
+                "credit_id": "61bf0228873f00005f6b222b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51551,
+                "known_for_department": "Acting",
+                "name": "James Handy",
+                "original_name": "James Handy",
+                "popularity": 14.184,
+                "profile_path": "/j2vG5tc8OcpcKG8eufBEMn2oiqZ.jpg",
+                "cast_id": 42,
+                "character": "Captain Henderson",
+                "credit_id": "65b73b3e8cfcc70148e4f2e6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3352214,
+                "known_for_department": "Acting",
+                "name": "Victor Love",
+                "original_name": "Victor Love",
+                "popularity": 0.411,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Hooper",
+                "credit_id": "61bf0261223e20001d6d5742",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65831,
+                "known_for_department": "Acting",
+                "name": "Robert LaSardo",
+                "original_name": "Robert LaSardo",
+                "popularity": 30.915,
+                "profile_path": "/maezwGo8JUbjECLB6VZJPtGvn1B.jpg",
+                "cast_id": 33,
+                "character": "Sarkasian",
+                "credit_id": "61bf02740143250065dc891a",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 156413,
+                "known_for_department": "Acting",
+                "name": "Perry Anzilotti",
+                "original_name": "Perry Anzilotti",
+                "popularity": 17.441,
+                "profile_path": "/yV0dNPR1RRO6ygjXycS8uxMkMkg.jpg",
+                "cast_id": 34,
+                "character": "Vic",
+                "credit_id": "61bf02a3383df20062cc6ddc",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44178,
+                "known_for_department": "Acting",
+                "name": "Gregory Scott Cummins",
+                "original_name": "Gregory Scott Cummins",
+                "popularity": 15.15,
+                "profile_path": "/7zIPV7Wmyap5uoC1soLFaKCtNJO.jpg",
+                "cast_id": 35,
+                "character": "Clyde",
+                "credit_id": "61bf02b5297338009719b8c7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8396,
+                "known_for_department": "Acting",
+                "name": "Tommy Lister Jr.",
+                "original_name": "Tommy Lister Jr.",
+                "popularity": 24.543,
+                "profile_path": "/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg",
+                "cast_id": 36,
+                "character": "Cutless Supreme",
+                "credit_id": "61bf02c2a6a4c1008a54dfc5",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67579,
+                "known_for_department": "Acting",
+                "name": "Edward Edwards",
+                "original_name": "Edward Edwards",
+                "popularity": 9.528,
+                "profile_path": "/m5SbCvRHOWBx5Cghdaa1RDyL048.jpg",
+                "cast_id": 39,
+                "character": "Sgt. Gardner",
+                "credit_id": "64d54f7e021cee00ff10558d",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21155,
+                "known_for_department": "Writing",
+                "name": "Jim Kouf",
+                "original_name": "Jim Kouf",
+                "popularity": 7.317,
+                "profile_path": "/nNFrSM8DICtVHUBZlZ3tDLlawqY.jpg",
+                "credit_id": "52fe45ef9251416c75067761",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21155,
+                "known_for_department": "Writing",
+                "name": "Jim Kouf",
+                "original_name": "Jim Kouf",
+                "popularity": 7.317,
+                "profile_path": "/nNFrSM8DICtVHUBZlZ3tDLlawqY.jpg",
+                "credit_id": "546e08819251414c78001c6b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58202,
+                "known_for_department": "Production",
+                "name": "Jeff Ivers",
+                "original_name": "Jeff Ivers",
+                "popularity": 1.666,
+                "profile_path": null,
+                "credit_id": "563f6767c3a3681b6102fd8f",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71245,
+                "known_for_department": "Production",
+                "name": "Jeffrey Downer",
+                "original_name": "Jeffrey Downer",
+                "popularity": 5.761,
+                "profile_path": null,
+                "credit_id": "563f67dc9251413442006f10",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21933,
+                "known_for_department": "Sound",
+                "name": "Happy Walters",
+                "original_name": "Happy Walters",
+                "popularity": 3.38,
+                "profile_path": null,
+                "credit_id": "563f67f7c3a3681b5e02ccbc",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21363,
+                "known_for_department": "Production",
+                "name": "Carol Lewis",
+                "original_name": "Carol Lewis",
+                "popularity": 1.431,
+                "profile_path": null,
+                "credit_id": "563f6594c3a3681b5202e54f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1533103,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Shari Feldman",
+                "original_name": "Shari Feldman",
+                "popularity": 2.962,
+                "profile_path": null,
+                "credit_id": "563f65b8c3a3681b5202e557",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1533102,
+                "known_for_department": "Camera",
+                "name": "Brian J. Reynolds",
+                "original_name": "Brian J. Reynolds",
+                "popularity": 3.18,
+                "profile_path": null,
+                "credit_id": "563f646ac3a3681b6102fd09",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 126297,
+                "known_for_department": "Acting",
+                "name": "Mickey Hart",
+                "original_name": "Mickey Hart",
+                "popularity": 6.026,
+                "profile_path": "/yNJVepbyCmZWETB1T9Wy9EXxOEj.jpg",
+                "credit_id": "563f64aec3a3681b4b02bd8f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1767,
+                "known_for_department": "Editing",
+                "name": "Todd C. Ramsay",
+                "original_name": "Todd C. Ramsay",
+                "popularity": 3.606,
+                "profile_path": "/rupfgkwcPg0YaNCvDpcPP6jdwZb.jpg",
+                "credit_id": "563f6585c3a3681b54030da0",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1515868,
+                "known_for_department": "Art",
+                "name": "Stephanie Ziemer",
+                "original_name": "Stephanie Ziemer",
+                "popularity": 2.15,
+                "profile_path": null,
+                "credit_id": "563f65c2c3a3681b5e02cc55",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51703,
+                "known_for_department": "Production",
+                "name": "Steven Stabler",
+                "original_name": "Steven Stabler",
+                "popularity": 3.041,
+                "profile_path": null,
+                "credit_id": "563f664cc3a3681b6102fd57",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51702,
+                "known_for_department": "Production",
+                "name": "Brad Krevoy",
+                "original_name": "Brad Krevoy",
+                "popularity": 6.837,
+                "profile_path": "/fSGnlsFaIv2XismPpVOmJ9pHANi.jpg",
+                "credit_id": "563f663e925141781900be8f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58424,
+                "known_for_department": "Production",
+                "name": "Lynn Kouf",
+                "original_name": "Lynn Kouf",
+                "popularity": 5.516,
+                "profile_path": null,
+                "credit_id": "563f67279251413442006eeb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 956271,
+                "known_for_department": "Production",
+                "name": "Jory Weitz",
+                "original_name": "Jory Weitz",
+                "popularity": 2.932,
+                "profile_path": null,
+                "credit_id": "563f68559251416cd8007108",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58201,
+                "known_for_department": "Production",
+                "name": "John Bertolli",
+                "original_name": "John Bertolli",
+                "popularity": 1.52,
+                "profile_path": null,
+                "credit_id": "563f665dc3a3681b5c0309ca",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21615,
+                "known_for_department": "Art",
+                "name": "Charles William Breen",
+                "original_name": "Charles William Breen",
+                "popularity": 3.945,
+                "profile_path": null,
+                "credit_id": "5686a76292514131df01cd3d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24969,
+                "known_for_department": "Acting",
+                "name": "Henry Kingi",
+                "original_name": "Henry Kingi",
+                "popularity": 14.987,
+                "profile_path": "/cThdKH6fn4faqei4DC2H3BQNkgI.jpg",
+                "credit_id": "647539366743fa01197a31b3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1502517,
+                "known_for_department": "Crew",
+                "name": "Manny Perry",
+                "original_name": "Manny Perry",
+                "popularity": 9.484,
+                "profile_path": "/aCYOiEZ7LkqJUEce0PsPVx6GWo0.jpg",
+                "credit_id": "6495071397eab40127ff98a2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1880383,
+                "known_for_department": "Crew",
+                "name": "Janet Brady",
+                "original_name": "Janet Brady",
+                "popularity": 5.917,
+                "profile_path": null,
+                "credit_id": "6505db98394a8700e2259c58",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1513690,
+                "known_for_department": "Crew",
+                "name": "Henry Kingi Jr.",
+                "original_name": "Henry Kingi Jr.",
+                "popularity": 11.837,
+                "profile_path": "/dNsZTVShyJVRXHb2vjjEC8mC4f3.jpg",
+                "credit_id": "659dfa489bcd0f0256918ae5",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jim Belushi",
+            "character": "Detective Frank K Divinci"
+        },
+        {
+            "actor": "Tupac Shakur",
+            "character": "Detective Rodriguez"
+        },
+        {
+            "actor": "Lela Rochon",
+            "character": "Cynthia Webb"
+        },
+        {
+            "actor": "Dennis Quaid",
+            "character": "Joe Doe / William"
+        },
+        {
+            "actor": "James Earl Jones",
+            "character": "Arthur Baylor"
+        },
+        {
+            "actor": "Gary Cole",
+            "character": "Richard Simms"
+        },
+        {
+            "actor": "Terrence 'T.C.' Carson",
+            "character": "Manny Landrew"
+        },
+        {
+            "actor": "Wendy Crewson",
+            "character": "Helen Eden"
+        },
+        {
+            "actor": "Kool Moe Dee",
+            "character": "Lionel Hudd"
+        },
+        {
+            "actor": "Reggie Miller",
+            "character": "Self"
+        },
+        {
+            "actor": "David Paymer",
+            "character": "Elliot Goff"
+        },
+        {
+            "actor": "Brad Greenquist",
+            "character": "Richard Stein"
+        },
+        {
+            "actor": "James Handy",
+            "character": "Captain Henderson"
+        },
+        {
+            "actor": "Victor Love",
+            "character": "Hooper"
+        },
+        {
+            "actor": "Robert LaSardo",
+            "character": "Sarkasian"
+        },
+        {
+            "actor": "Perry Anzilotti",
+            "character": "Vic"
+        },
+        {
+            "actor": "Gregory Scott Cummins",
+            "character": "Clyde"
+        },
+        {
+            "actor": "Tommy Lister Jr.",
+            "character": "Cutless Supreme"
+        },
+        {
+            "actor": "Edward Edwards",
+            "character": "Sgt. Gardner"
+        }
+    ]
+}

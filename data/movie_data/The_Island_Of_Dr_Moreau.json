@@ -1,0 +1,956 @@
+{
+    "adult": false,
+    "backdrop_path": "/5kAeJB8wR1Be0EFG7QjKdwFfHx7.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 9306,
+    "imdb_id": "tt0116654",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Island of Dr. Moreau",
+    "overview": "A shipwrecked sailor stumbles upon a mysterious island and is shocked to discover that a brilliant scientist and his lab assistant have found a way to combine human and animal DNA—with horrific results.",
+    "popularity": 22.459,
+    "poster_path": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-08-23",
+    "revenue": 49627779,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The gates of hell are unlocked.",
+    "title": "The Island of Dr. Moreau",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 496,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3084,
+                "known_for_department": "Acting",
+                "name": "Marlon Brando",
+                "original_name": "Marlon Brando",
+                "popularity": 39.668,
+                "profile_path": "/5o8whyfLBWXLODEcMP8K45lPTjT.jpg",
+                "cast_id": 7,
+                "character": "Dr. Moreau",
+                "credit_id": "52fe44e5c3a36847f80b067d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5576,
+                "known_for_department": "Acting",
+                "name": "Val Kilmer",
+                "original_name": "Val Kilmer",
+                "popularity": 57.476,
+                "profile_path": "/szMi36EOoCuMYeYO9eYqRefEnKo.jpg",
+                "cast_id": 8,
+                "character": "Montgomery",
+                "credit_id": "52fe44e5c3a36847f80b0681",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11207,
+                "known_for_department": "Acting",
+                "name": "David Thewlis",
+                "original_name": "David Thewlis",
+                "popularity": 64.949,
+                "profile_path": "/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg",
+                "cast_id": 4,
+                "character": "Douglas",
+                "credit_id": "52fe44e5c3a36847f80b0671",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 826,
+                "known_for_department": "Acting",
+                "name": "Fairuza Balk",
+                "original_name": "Fairuza Balk",
+                "popularity": 68.778,
+                "profile_path": "/z5KnPiNLkWxBfYu4GRy1iz37bPX.jpg",
+                "cast_id": 5,
+                "character": "Aissa",
+                "credit_id": "52fe44e5c3a36847f80b0675",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141987,
+                "known_for_department": "Acting",
+                "name": "Daniel Rigney",
+                "original_name": "Daniel Rigney",
+                "popularity": 5.869,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Hyena-Swine",
+                "credit_id": "52fe44e5c3a36847f80b0693",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7242,
+                "known_for_department": "Acting",
+                "name": "Temuera Morrison",
+                "original_name": "Temuera Morrison",
+                "popularity": 44.806,
+                "profile_path": "/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg",
+                "cast_id": 16,
+                "character": "Azazello",
+                "credit_id": "56d3781dc3a3681e5000f135",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 590489,
+                "known_for_department": "Acting",
+                "name": "Nelson de la Rosa",
+                "original_name": "Nelson de la Rosa",
+                "popularity": 4.712,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Majai",
+                "credit_id": "52fe44e5c3a36847f80b0697",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 536274,
+                "known_for_department": "Acting",
+                "name": "Peter Elliott",
+                "original_name": "Peter Elliott",
+                "popularity": 7.501,
+                "profile_path": "/4e8mmFJ3BiMtcDFpbi3XQ2crB1G.jpg",
+                "cast_id": 11,
+                "character": "Assassimon",
+                "credit_id": "52fe44e5c3a36847f80b068f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18702,
+                "known_for_department": "Acting",
+                "name": "Mark Dacascos",
+                "original_name": "Mark Dacascos",
+                "popularity": 49.026,
+                "profile_path": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg",
+                "cast_id": 10,
+                "character": "Lo-Mai",
+                "credit_id": "52fe44e5c3a36847f80b068b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2372,
+                "known_for_department": "Acting",
+                "name": "Ron Perlman",
+                "original_name": "Ron Perlman",
+                "popularity": 70.661,
+                "profile_path": "/9riPBfsWpzEzh2y9ucxTW22iakI.jpg",
+                "cast_id": 6,
+                "character": "Sayer of the Law",
+                "credit_id": "52fe44e5c3a36847f80b0679",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23797,
+                "known_for_department": "Acting",
+                "name": "Marco Hofschneider",
+                "original_name": "Marco Hofschneider",
+                "popularity": 18.957,
+                "profile_path": "/8lsRPmvqkM1Qy5gf6713EYvC7GO.jpg",
+                "cast_id": 17,
+                "character": "M'Ling",
+                "credit_id": "56d3790ac3a3681e5000f14d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1488721,
+                "known_for_department": "Crew",
+                "name": "Miguel López",
+                "original_name": "Miguel López",
+                "popularity": 0.046,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Waggdi",
+                "credit_id": "56d3791dc3a3681e3600fe39",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 586796,
+                "known_for_department": "Acting",
+                "name": "Neil Young",
+                "original_name": "Neil Young",
+                "popularity": 0.847,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Boar Man",
+                "credit_id": "56d3794ec3a3681e3e0121e3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1062111,
+                "known_for_department": "Acting",
+                "name": "David Hudson",
+                "original_name": "David Hudson",
+                "popularity": 1.283,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Bison Man",
+                "credit_id": "56d3795fc3a3681e3e0121e5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53266,
+                "known_for_department": "Acting",
+                "name": "Clare Grant",
+                "original_name": "Clare Grant",
+                "popularity": 11.983,
+                "profile_path": "/uCPsHBUYuDAdOyTpDYDften00El.jpg",
+                "cast_id": 21,
+                "character": "Fox Lady",
+                "credit_id": "56d37972925141340200c218",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3414897,
+                "known_for_department": "Acting",
+                "name": "Kitty Silver",
+                "original_name": "Kitty Silver",
+                "popularity": 0.859,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Sow Lady #1",
+                "credit_id": "64655a692bcf67013892d708",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2580179,
+                "known_for_department": "Acting",
+                "name": "Fiona Mahl",
+                "original_name": "Fiona Mahl",
+                "popularity": 1.489,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Sow Lady #2",
+                "credit_id": "64655a7ac3514c00e5db9941",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 663,
+                "known_for_department": "Acting",
+                "name": "William Hootkins",
+                "original_name": "William Hootkins",
+                "popularity": 17.462,
+                "profile_path": "/dav2i86GN0UvYIyoTwQmGE8Nweg.jpg",
+                "cast_id": 15,
+                "character": "Kiril",
+                "credit_id": "52fe44e5c3a36847f80b069f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1192507,
+                "known_for_department": "Acting",
+                "name": "Agoes Widjaya Soedjarwo",
+                "original_name": "Agoes Widjaya Soedjarwo",
+                "popularity": 0.995,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Captain",
+                "credit_id": "64655b4ca5046e01474b4b09",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1425456,
+                "known_for_department": "Acting",
+                "name": "Ron Vreeken",
+                "original_name": "Ron Vreeken",
+                "popularity": 8.895,
+                "profile_path": "/aZ7PKHeIpkXhnFHyWXlw8J86dc7.jpg",
+                "cast_id": 41,
+                "character": "Soldier #1",
+                "credit_id": "64655b6c2bcf67013892d73c",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2561715,
+                "known_for_department": "Crew",
+                "name": "Lou Horvath",
+                "original_name": "Lou Horvath",
+                "popularity": 2.541,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Soldier #2",
+                "credit_id": "64655b782bcf6700fe5e822e",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2632038,
+                "known_for_department": "Acting",
+                "name": "Morgan Smallbone",
+                "original_name": "Morgan Smallbone",
+                "popularity": 3.643,
+                "profile_path": "/kZIUnRloPneTpV8N6EmWpQVA2AM.jpg",
+                "cast_id": 43,
+                "character": "Dog Man (uncredited)",
+                "credit_id": "64655b8633a37600e678d91e",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42175,
+                "known_for_department": "Directing",
+                "name": "Richard Stanley",
+                "original_name": "Richard Stanley",
+                "popularity": 12.795,
+                "profile_path": "/vI3tIvvqUdjC1v8uVtIaDnEDWX4.jpg",
+                "cast_id": 14,
+                "character": "Melting Bulldog (uncredited)",
+                "credit_id": "52fe44e5c3a36847f80b069b",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15831,
+                "known_for_department": "Acting",
+                "name": "Frank Welker",
+                "original_name": "Frank Welker",
+                "popularity": 39.832,
+                "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg",
+                "cast_id": 34,
+                "character": "Assassimon (voice) (uncredited)",
+                "credit_id": "5ab726f7925141395b015638",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11624,
+                "known_for_department": "Writing",
+                "name": "H.G. Wells",
+                "original_name": "H.G. Wells",
+                "popularity": 5.825,
+                "profile_path": "/3qON4KdxVvoyeiDML4CmGMtZf41.jpg",
+                "credit_id": "52fe44e5c3a36847f80b0687",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13776,
+                "known_for_department": "Directing",
+                "name": "John Frankenheimer",
+                "original_name": "John Frankenheimer",
+                "popularity": 21.444,
+                "profile_path": "/8a3qZrHQaj5JBG1uVv6NdCC7PK3.jpg",
+                "credit_id": "52fe44e5c3a36847f80b0667",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42175,
+                "known_for_department": "Directing",
+                "name": "Richard Stanley",
+                "original_name": "Richard Stanley",
+                "popularity": 12.795,
+                "profile_path": "/vI3tIvvqUdjC1v8uVtIaDnEDWX4.jpg",
+                "credit_id": "52fe44e5c3a36847f80b066d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12993,
+                "known_for_department": "Production",
+                "name": "Tim Zinnemann",
+                "original_name": "Tim Zinnemann",
+                "popularity": 16.121,
+                "profile_path": null,
+                "credit_id": "56d37a0c9251412c96007c2c",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 70052,
+                "known_for_department": "Production",
+                "name": "Claire Rudnick Polstein",
+                "original_name": "Claire Rudnick Polstein",
+                "popularity": 1.882,
+                "profile_path": null,
+                "credit_id": "56d37a01c3a3681e3600fe5a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 82152,
+                "known_for_department": "Editing",
+                "name": "Adam P. Scott",
+                "original_name": "Adam P. Scott",
+                "popularity": 0.774,
+                "profile_path": null,
+                "credit_id": "56d37a3ac3a3681e3c011d80",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62743,
+                "known_for_department": "Art",
+                "name": "Graham 'Grace' Walker",
+                "original_name": "Graham 'Grace' Walker",
+                "popularity": 6.279,
+                "profile_path": "/ksBw1nTpk4DKRL9hoGilq0BMN2f.jpg",
+                "credit_id": "56d37a52c3a3681e44011d9c",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 859,
+                "known_for_department": "Production",
+                "name": "Valerie McCaffrey",
+                "original_name": "Valerie McCaffrey",
+                "popularity": 15.17,
+                "profile_path": null,
+                "credit_id": "56d37a4592514154b60014dc",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12846,
+                "known_for_department": "Camera",
+                "name": "William A. Fraker",
+                "original_name": "William A. Fraker",
+                "popularity": 8.322,
+                "profile_path": "/3zKDy9IkeCmVmdyKI72a9TnRaOb.jpg",
+                "credit_id": "56d37a25925141340200c230",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68775,
+                "known_for_department": "Writing",
+                "name": "Ron Hutchinson",
+                "original_name": "Ron Hutchinson",
+                "popularity": 6.692,
+                "profile_path": null,
+                "credit_id": "56d379e9c3a3681e3900fe83",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32035,
+                "known_for_department": "Production",
+                "name": "Edward R. Pressman",
+                "original_name": "Edward R. Pressman",
+                "popularity": 3.612,
+                "profile_path": "/ik9ZfMpDb3cHpUW3SXCLYDeu6Yf.jpg",
+                "credit_id": "56d379f5c3a3681e5000f15f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40438,
+                "known_for_department": "Sound",
+                "name": "Gary Chang",
+                "original_name": "Gary Chang",
+                "popularity": 5.844,
+                "profile_path": "/ch4cPeQaBQBNPlochHxGGcgWqtW.jpg",
+                "credit_id": "56d37a19c3a3681e44011d94",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10816,
+                "known_for_department": "Editing",
+                "name": "Paul Rubell",
+                "original_name": "Paul Rubell",
+                "popularity": 4.904,
+                "profile_path": null,
+                "credit_id": "56d37a2ec3a3681e3e0121f5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33195,
+                "known_for_department": "Art",
+                "name": "Ian Gracie",
+                "original_name": "Ian Gracie",
+                "popularity": 7.641,
+                "profile_path": null,
+                "credit_id": "56d37a5cc3a3681e3e0121fa",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1403525,
+                "known_for_department": "Visual Effects",
+                "name": "Kevin Scott Mack",
+                "original_name": "Kevin Scott Mack",
+                "popularity": 3.157,
+                "profile_path": "/wsnhGz8PxiHKkXyp7jkOEbVH3LS.jpg",
+                "credit_id": "5c4e34fcc3a368477792faca",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1711549,
+                "known_for_department": "Sound",
+                "name": "David Lee",
+                "original_name": "David Lee",
+                "popularity": 4.052,
+                "profile_path": null,
+                "credit_id": "5dacdbd3c74eba0017137c95",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92303,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gary Archer",
+                "original_name": "Gary Archer",
+                "popularity": 9.132,
+                "profile_path": "/7cinROGhbaTpWPRrD12Za2XyZcV.jpg",
+                "credit_id": "62c8936e95665800fc18304b",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetics"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11266,
+                "known_for_department": "Directing",
+                "name": "James McTeigue",
+                "original_name": "James McTeigue",
+                "popularity": 11.913,
+                "profile_path": "/8aUklN9PpswTG8DnhVAY92koRMC.jpg",
+                "credit_id": "64655bd32bcf67011bf16b13",
+                "department": "Production",
+                "job": "Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17399,
+                "known_for_department": "Editing",
+                "name": "Thom Noble",
+                "original_name": "Thom Noble",
+                "popularity": 3.68,
+                "profile_path": null,
+                "credit_id": "64655c4ca5046e01246636f8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 138898,
+                "known_for_department": "Art",
+                "name": "Lesley Crawford",
+                "original_name": "Lesley Crawford",
+                "popularity": 1.656,
+                "profile_path": null,
+                "credit_id": "64655c82006b01010588809f",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2288299,
+                "known_for_department": "Art",
+                "name": "Beverley Dunn",
+                "original_name": "Beverley Dunn",
+                "popularity": 3.136,
+                "profile_path": null,
+                "credit_id": "64655c94a5046e0168356017",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59793,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Norma Moriceau",
+                "original_name": "Norma Moriceau",
+                "popularity": 6.815,
+                "profile_path": null,
+                "credit_id": "64655ca3006b010126f442d1",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 86194,
+                "known_for_department": "Directing",
+                "name": "James Sbardellati",
+                "original_name": "James Sbardellati",
+                "popularity": 7.736,
+                "profile_path": null,
+                "credit_id": "64655cc733a37600e678d982",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1635038,
+                "known_for_department": "Camera",
+                "name": "Ian Bird",
+                "original_name": "Ian Bird",
+                "popularity": 2.207,
+                "profile_path": null,
+                "credit_id": "64655cf5a5046e01893fd5da",
+                "department": "Camera",
+                "job": "Best Boy Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1411293,
+                "known_for_department": "Camera",
+                "name": "Peter Sorel",
+                "original_name": "Peter Sorel",
+                "popularity": 2.818,
+                "profile_path": null,
+                "credit_id": "64655d0d006b0100e6b2b3e0",
+                "department": "Camera",
+                "job": "Set Photographer"
+            }
+        ]
+    },
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-10-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1996-08-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "12+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-11-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-11-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-01-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-01-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "12A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-10-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-08-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Marlon Brando",
+            "character": "Dr. Moreau"
+        },
+        {
+            "actor": "Val Kilmer",
+            "character": "Montgomery"
+        },
+        {
+            "actor": "David Thewlis",
+            "character": "Douglas"
+        },
+        {
+            "actor": "Fairuza Balk",
+            "character": "Aissa"
+        },
+        {
+            "actor": "Daniel Rigney",
+            "character": "Hyena-Swine"
+        },
+        {
+            "actor": "Temuera Morrison",
+            "character": "Azazello"
+        },
+        {
+            "actor": "Nelson de la Rosa",
+            "character": "Majai"
+        },
+        {
+            "actor": "Peter Elliott",
+            "character": "Assassimon"
+        },
+        {
+            "actor": "Mark Dacascos",
+            "character": "Lo-Mai"
+        },
+        {
+            "actor": "Ron Perlman",
+            "character": "Sayer of the Law"
+        },
+        {
+            "actor": "Marco Hofschneider",
+            "character": "M'Ling"
+        },
+        {
+            "actor": "Miguel López",
+            "character": "Waggdi"
+        },
+        {
+            "actor": "Neil Young",
+            "character": "Boar Man"
+        },
+        {
+            "actor": "David Hudson",
+            "character": "Bison Man"
+        },
+        {
+            "actor": "Clare Grant",
+            "character": "Fox Lady"
+        },
+        {
+            "actor": "Kitty Silver",
+            "character": "Sow Lady #1"
+        },
+        {
+            "actor": "Fiona Mahl",
+            "character": "Sow Lady #2"
+        },
+        {
+            "actor": "William Hootkins",
+            "character": "Kiril"
+        },
+        {
+            "actor": "Agoes Widjaya Soedjarwo",
+            "character": "Captain"
+        },
+        {
+            "actor": "Ron Vreeken",
+            "character": "Soldier #1"
+        },
+        {
+            "actor": "Lou Horvath",
+            "character": "Soldier #2"
+        },
+        {
+            "actor": "Morgan Smallbone",
+            "character": "Dog Man (uncredited)"
+        },
+        {
+            "actor": "Richard Stanley",
+            "character": "Melting Bulldog (uncredited)"
+        },
+        {
+            "actor": "Frank Welker",
+            "character": "Assassimon (voice) (uncredited)"
+        }
+    ]
+}

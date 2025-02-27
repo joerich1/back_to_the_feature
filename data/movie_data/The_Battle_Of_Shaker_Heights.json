@@ -1,0 +1,598 @@
+{
+    "adult": false,
+    "backdrop_path": "/rsCrJYNPkdmz5NYtUzp4r2wsW82.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 21413,
+    "imdb_id": "tt0357470",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Battle of Shaker Heights",
+    "overview": "A quirky teen with a penchant for war reenactments, Kelly Ernswiler obsesses over military tactics with his buddy Bart. The school bully is one of Kelly's regular headaches, and he also has to deal with a frustrating situation at home, where his father is a recovering drug addict. Kelly's life gets even more complicated when he falls for Tabby, Bart's pretty and soon-to-be-wed older sister.",
+    "popularity": 9.695,
+    "poster_path": "/ba16bmfApo4psNcMHMQfFUghQ6y.jpg",
+    "production_companies": [
+        {
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+        },
+        {
+            "id": 7161,
+            "logo_path": null,
+            "name": "LivePlanet",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-08-22",
+    "revenue": 0,
+    "runtime": 79,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "When you're 17, every day is war.",
+    "title": "The Battle of Shaker Heights",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 51,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "TH",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2004-01-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2003-08-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10959,
+                "known_for_department": "Acting",
+                "name": "Shia LaBeouf",
+                "original_name": "Shia LaBeouf",
+                "popularity": 53.354,
+                "profile_path": "/egvlIdeizCkSkuHVoDuuduIThFA.jpg",
+                "cast_id": 1,
+                "character": "Kelly Ernswiler",
+                "credit_id": "52fe4418c3a368484e00f2ad",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20220,
+                "known_for_department": "Acting",
+                "name": "Elden Henson",
+                "original_name": "Elden Henson",
+                "popularity": 20.351,
+                "profile_path": "/f4oYBfzNTgZUbp8B15rkmYAzdy5.jpg",
+                "cast_id": 4,
+                "character": "Bart Bowland",
+                "credit_id": "54cb87edc3a368044800f0ad",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20189,
+                "known_for_department": "Acting",
+                "name": "Amy Smart",
+                "original_name": "Amy Smart",
+                "popularity": 54.03,
+                "profile_path": "/cGbVgcBDYeSqNWUrwCUKZZbVMje.jpg",
+                "cast_id": 5,
+                "character": "Tabby",
+                "credit_id": "54cb87fdc3a3687a65010215",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 177219,
+                "known_for_department": "Acting",
+                "name": "Billy Kay",
+                "original_name": "Billy Kay",
+                "popularity": 14.971,
+                "profile_path": "/mcNRANNfsOCnUoBQinFpkrpb78v.jpg",
+                "cast_id": 6,
+                "character": "Lance",
+                "credit_id": "54cb880dc3a36870900109cd",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8183,
+                "known_for_department": "Acting",
+                "name": "Kathleen Quinlan",
+                "original_name": "Kathleen Quinlan",
+                "popularity": 43.127,
+                "profile_path": "/lqcsQzS7cs3H58C1rzls575MN5x.jpg",
+                "cast_id": 8,
+                "character": "Eve",
+                "credit_id": "58cf406ac3a36850d702a073",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 50346,
+                "known_for_department": "Acting",
+                "name": "Shiri Appleby",
+                "original_name": "Shiri Appleby",
+                "popularity": 19.401,
+                "profile_path": "/nvH09LMnA8vBmmxHBmf79MtKHsc.jpg",
+                "cast_id": 9,
+                "character": "Sarah",
+                "credit_id": "58cf4072c3a368510402a731",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6573,
+                "known_for_department": "Acting",
+                "name": "William Sadler",
+                "original_name": "William Sadler",
+                "popularity": 41.867,
+                "profile_path": "/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg",
+                "cast_id": 10,
+                "character": "Abe",
+                "credit_id": "58cf407fc3a368510e02a517",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6719,
+                "known_for_department": "Acting",
+                "name": "Ray Wise",
+                "original_name": "Ray Wise",
+                "popularity": 27.842,
+                "profile_path": "/qUGDdBfPkDQYZR46wuNxMO1UM2K.jpg",
+                "cast_id": 11,
+                "character": "Harrison",
+                "credit_id": "58cf4088c3a36850d702a08e",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 168872,
+                "known_for_department": "Acting",
+                "name": "Jesse Heiman",
+                "original_name": "Jesse Heiman",
+                "popularity": 7.87,
+                "profile_path": "/kzpEjCcrXpwFozTEBC8xPcYkU7l.jpg",
+                "cast_id": 17,
+                "character": "(uncredited)",
+                "credit_id": "59fc0a8cc3a3681acd023eb0",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1212104,
+                "known_for_department": "Acting",
+                "name": "Philipp Karner",
+                "original_name": "Philipp Karner",
+                "popularity": 17.73,
+                "profile_path": "/ubw2BP4sxr2EOnATeG7O7jG2bx5.jpg",
+                "cast_id": 19,
+                "character": "Maurice / German Soldier",
+                "credit_id": "5fae60d7e263bb003f91e25d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56675,
+                "known_for_department": "Acting",
+                "name": "Anson Mount",
+                "original_name": "Anson Mount",
+                "popularity": 27.334,
+                "profile_path": "/qU6GGvUqwFMbfK2Bk7Gg7dK1KD6.jpg",
+                "cast_id": 20,
+                "character": "Miner Weber",
+                "credit_id": "5fae60f9db4ed60040b10acb",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8316,
+                "known_for_department": "Acting",
+                "name": "Michael McShane",
+                "original_name": "Michael McShane",
+                "popularity": 14.393,
+                "profile_path": "/xGd7WMiumvnsGttbBXVRsrhos7X.jpg",
+                "cast_id": 21,
+                "character": "Mr. Norway",
+                "credit_id": "5fae6115c613ce00402160a0",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1212688,
+                "known_for_department": "Acting",
+                "name": "Hattie Winston",
+                "original_name": "Hattie Winston",
+                "popularity": 16.589,
+                "profile_path": "/9YzeJ3enfznE9rOfXbwxUwWUYPq.jpg",
+                "cast_id": 22,
+                "character": "Principal Holmstead",
+                "credit_id": "5fae6123e86017003b923e82",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51977,
+                "known_for_department": "Acting",
+                "name": "Rick Cramer",
+                "original_name": "Rick Cramer",
+                "popularity": 10.813,
+                "profile_path": "/ntGXu7QGCLk9EdYJprF8OjPqV20.jpg",
+                "cast_id": 23,
+                "character": "German Officer / Mr. Thomas",
+                "credit_id": "5fae61358e8702003f9403a6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16096,
+                "known_for_department": "Acting",
+                "name": "France Nuyen",
+                "original_name": "France Nuyen",
+                "popularity": 24.224,
+                "profile_path": "/cHO99EWPsvylnn0HkZGZYccimRX.jpg",
+                "cast_id": 24,
+                "character": "Xiou-Xiou Ling",
+                "credit_id": "5fae6149b686b9003f880cbc",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2648016,
+                "known_for_department": "Acting",
+                "name": "Kate Hendrickson",
+                "original_name": "Kate Hendrickson",
+                "popularity": 1.465,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "A.D.",
+                "credit_id": "5fae61538e870200409429c9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1219510,
+                "known_for_department": "Acting",
+                "name": "Ellis E. Williams",
+                "original_name": "Ellis E. Williams",
+                "popularity": 6.523,
+                "profile_path": "/jturKMtsFwSgC9ESE4JzPlN9sSp.jpg",
+                "cast_id": 26,
+                "character": "Charlie Hayes",
+                "credit_id": "5fae616bc86b3a004168869e",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58866,
+                "known_for_department": "Acting",
+                "name": "Dana Wheeler-Nicholson",
+                "original_name": "Dana Wheeler-Nicholson",
+                "popularity": 19.033,
+                "profile_path": "/o0K0IcFTpcl8TwTEziXmW2fX4Wv.jpg",
+                "cast_id": 27,
+                "character": "Mathilda",
+                "credit_id": "5fae6185e86017003e9298b8",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 88832,
+                "known_for_department": "Directing",
+                "name": "Kyle Rankin",
+                "original_name": "Kyle Rankin",
+                "popularity": 12.31,
+                "profile_path": "/9i81Q6zekobbIvD5p3JwUvm6esj.jpg",
+                "credit_id": "52fe4418c3a368484e00f2b3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 998842,
+                "known_for_department": "Directing",
+                "name": "Efram Potelle",
+                "original_name": "Efram Potelle",
+                "popularity": 2.086,
+                "profile_path": null,
+                "credit_id": "52fe4418c3a368484e00f2b9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1420608,
+                "known_for_department": "Writing",
+                "name": "Erica Beeney",
+                "original_name": "Erica Beeney",
+                "popularity": 3.773,
+                "profile_path": null,
+                "credit_id": "54cb8820c3a36874ac01473c",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 880,
+                "known_for_department": "Acting",
+                "name": "Ben Affleck",
+                "original_name": "Ben Affleck",
+                "popularity": 96.571,
+                "profile_path": "/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg",
+                "credit_id": "58cf40a7c3a36850e9029f44",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1892,
+                "known_for_department": "Acting",
+                "name": "Matt Damon",
+                "original_name": "Matt Damon",
+                "popularity": 103.428,
+                "profile_path": "/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg",
+                "credit_id": "58cf40b7c3a36850fb02abbf",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6627,
+                "known_for_department": "Production",
+                "name": "Chris Moore",
+                "original_name": "Chris Moore",
+                "popularity": 10.158,
+                "profile_path": "/v9zmIUV5hul3BPySFd5qjJTdunx.jpg",
+                "credit_id": "58cf40cd9251415a7402d4a4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150208,
+                "known_for_department": "Production",
+                "name": "Jeff Balis",
+                "original_name": "Jeff Balis",
+                "popularity": 2.566,
+                "profile_path": null,
+                "credit_id": "58cf40dd9251415a4502c1c0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11371,
+                "known_for_department": "Camera",
+                "name": "Thomas E. Ackerman",
+                "original_name": "Thomas E. Ackerman",
+                "popularity": 4.105,
+                "profile_path": null,
+                "credit_id": "5910c9a79251414e800370e6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1648134,
+                "known_for_department": "Art",
+                "name": "Dan Perri",
+                "original_name": "Dan Perri",
+                "popularity": 6.137,
+                "profile_path": "/mA9uK61agktxuupVxOBiq13L9OL.jpg",
+                "credit_id": "5c1531e0c3a36866cc36c6bf",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53291,
+                "known_for_department": "Editing",
+                "name": "Richard Nord",
+                "original_name": "Richard Nord",
+                "popularity": 6.684,
+                "profile_path": null,
+                "credit_id": "5fae6206344a8e003e468c3a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1397725,
+                "known_for_department": "Art",
+                "name": "Lisa K. Sessions",
+                "original_name": "Lisa K. Sessions",
+                "popularity": 2.607,
+                "profile_path": null,
+                "credit_id": "5fae6212a2d2e9003e145794",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1792874,
+                "known_for_department": "Art",
+                "name": "Lisa Penaranda",
+                "original_name": "Lisa Penaranda",
+                "popularity": 2.734,
+                "profile_path": null,
+                "credit_id": "5fae621be263bb0042923d62",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1076340,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bega Metzner",
+                "original_name": "Bega Metzner",
+                "popularity": 1.981,
+                "profile_path": null,
+                "credit_id": "5fae62248e8702003e946d7f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Shia LaBeouf",
+            "character": "Kelly Ernswiler"
+        },
+        {
+            "actor": "Elden Henson",
+            "character": "Bart Bowland"
+        },
+        {
+            "actor": "Amy Smart",
+            "character": "Tabby"
+        },
+        {
+            "actor": "Billy Kay",
+            "character": "Lance"
+        },
+        {
+            "actor": "Kathleen Quinlan",
+            "character": "Eve"
+        },
+        {
+            "actor": "Shiri Appleby",
+            "character": "Sarah"
+        },
+        {
+            "actor": "William Sadler",
+            "character": "Abe"
+        },
+        {
+            "actor": "Ray Wise",
+            "character": "Harrison"
+        },
+        {
+            "actor": "Jesse Heiman",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Philipp Karner",
+            "character": "Maurice / German Soldier"
+        },
+        {
+            "actor": "Anson Mount",
+            "character": "Miner Weber"
+        },
+        {
+            "actor": "Michael McShane",
+            "character": "Mr. Norway"
+        },
+        {
+            "actor": "Hattie Winston",
+            "character": "Principal Holmstead"
+        },
+        {
+            "actor": "Rick Cramer",
+            "character": "German Officer / Mr. Thomas"
+        },
+        {
+            "actor": "France Nuyen",
+            "character": "Xiou-Xiou Ling"
+        },
+        {
+            "actor": "Kate Hendrickson",
+            "character": "A.D."
+        },
+        {
+            "actor": "Ellis E. Williams",
+            "character": "Charlie Hayes"
+        },
+        {
+            "actor": "Dana Wheeler-Nicholson",
+            "character": "Mathilda"
+        }
+    ]
+}

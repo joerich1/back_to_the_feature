@@ -1,0 +1,155 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 1252161,
+    "imdb_id": "tt8045758",
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Stuntman",
+    "overview": "The story of two brothers who both become stuntmen.",
+    "popularity": 5.79,
+    "poster_path": null,
+    "production_companies": [
+        {
+            "id": 5374,
+            "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+            "name": "Marv",
+            "origin_country": "GB"
+        },
+        {
+            "id": 222131,
+            "logo_path": null,
+            "name": "Zebbo Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-09-05",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "The Stuntman",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Toronto International film festival ",
+                        "release_date": "2024-09-05T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1228915,
+                "known_for_department": "Acting",
+                "name": "Matt Passmore",
+                "original_name": "Matt Passmore",
+                "popularity": 16.857,
+                "profile_path": "/wpEuBfFMvL6dAOFFQsZW2JtcYTj.jpg",
+                "cast_id": 3,
+                "character": "",
+                "credit_id": "6646483ca0f7144e4491e3b8",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587020,
+                "known_for_department": "Acting",
+                "name": "Theo James",
+                "original_name": "Theo James",
+                "popularity": 99.925,
+                "profile_path": "/lSC4cMhcQeCjPFkK6qCjSGDSeR3.jpg",
+                "cast_id": 4,
+                "character": "",
+                "credit_id": "6646485b3f44dc5e37783d17",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 957,
+                "known_for_department": "Production",
+                "name": "Matthew Vaughn",
+                "original_name": "Matthew Vaughn",
+                "popularity": 34.266,
+                "profile_path": "/Dnbz3B7yy4u0abixuD5LakZgsy.jpg",
+                "credit_id": "65e0a71d51f99a0162566291",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1205740,
+                "known_for_department": "Directing",
+                "name": "Damien Walters",
+                "original_name": "Damien Walters",
+                "popularity": 11.238,
+                "profile_path": "/sQ72u2WqvUtEvHYDT1iz5KSgSvY.jpg",
+                "credit_id": "65e0a728a39d0b0186087ed2",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Matt Passmore",
+            "character": ""
+        },
+        {
+            "actor": "Theo James",
+            "character": ""
+        }
+    ]
+}

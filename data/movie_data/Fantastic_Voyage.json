@@ -1,0 +1,883 @@
+{
+    "adult": false,
+    "backdrop_path": "/mXMoQjJjoAhLl51uVDZlSGMPb9S.jpg",
+    "belongs_to_collection": null,
+    "budget": 5115000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 2161,
+    "imdb_id": "tt0060397",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fantastic Voyage",
+    "overview": "In order to save an assassinated scientist, a submarine and its crew are shrunk to microscopic size and injected into his bloodstream.",
+    "popularity": 20.195,
+    "poster_path": "/dbwr0hGmJs2Rwh5zXbYEGBFVYTt.jpg",
+    "production_companies": [
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1966-08-24",
+    "revenue": 12000000,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A Fantastic and Spectacular Voyage... Through the Human Body... Into the Brain.",
+    "title": "Fantastic Voyage",
+    "video": false,
+    "vote_average": 6.679,
+    "vote_count": 417,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10020,
+                "known_for_department": "Acting",
+                "name": "Stephen Boyd",
+                "original_name": "Stephen Boyd",
+                "popularity": 22.976,
+                "profile_path": "/64KLW9XGjGLUl3RbtjfMRPFEDYu.jpg",
+                "cast_id": 11,
+                "character": "Grant",
+                "credit_id": "52fe433cc3a36847f8044a97",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21462,
+                "known_for_department": "Acting",
+                "name": "Raquel Welch",
+                "original_name": "Raquel Welch",
+                "popularity": 34.428,
+                "profile_path": "/qhHOG9Dleg3RTWqC6o8EU2sV5GG.jpg",
+                "cast_id": 12,
+                "character": "Cora",
+                "credit_id": "52fe433cc3a36847f8044a9b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8254,
+                "known_for_department": "Acting",
+                "name": "Edmond O'Brien",
+                "original_name": "Edmond O'Brien",
+                "popularity": 18.23,
+                "profile_path": "/wnB6xci7TzrEHwDYMvLSgY76qie.jpg",
+                "cast_id": 19,
+                "character": "General Carter",
+                "credit_id": "52fe433cc3a36847f8044ab7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9221,
+                "known_for_department": "Acting",
+                "name": "Donald Pleasence",
+                "original_name": "Donald Pleasence",
+                "popularity": 28.655,
+                "profile_path": "/eVJGFCd8ikP6w0XjkuiTbsm65eD.jpg",
+                "cast_id": 13,
+                "character": "Dr. Michaels",
+                "credit_id": "52fe433cc3a36847f8044a9f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 857,
+                "known_for_department": "Acting",
+                "name": "Arthur O'Connell",
+                "original_name": "Arthur O'Connell",
+                "popularity": 15.122,
+                "profile_path": "/jJh2FxbrpIm5GzIMP8uA0cWNQdc.jpg",
+                "cast_id": 18,
+                "character": "Col. Donald Reid",
+                "credit_id": "52fe433cc3a36847f8044ab3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7072,
+                "known_for_department": "Acting",
+                "name": "William Redfield",
+                "original_name": "William Redfield",
+                "popularity": 11.638,
+                "profile_path": "/6w7BRi6bTRZq263Bxkfogy4ekLB.jpg",
+                "cast_id": 15,
+                "character": "Capt. Bill Owens",
+                "credit_id": "52fe433cc3a36847f8044aa7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11128,
+                "known_for_department": "Acting",
+                "name": "Arthur Kennedy",
+                "original_name": "Arthur Kennedy",
+                "popularity": 27.548,
+                "profile_path": "/fDbTcQYSLDjfGetwF1mEwdFLSnG.jpg",
+                "cast_id": 14,
+                "character": "Dr. Duval",
+                "credit_id": "52fe433cc3a36847f8044aa3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22099,
+                "known_for_department": "Acting",
+                "name": "Jean Del Val",
+                "original_name": "Jean Del Val",
+                "popularity": 10.525,
+                "profile_path": "/3JyToN4VZ4Gwcoia9MpeF1MTFmR.jpg",
+                "cast_id": 16,
+                "character": "Jan Benes",
+                "credit_id": "52fe433cc3a36847f8044aab",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16199,
+                "known_for_department": "Acting",
+                "name": "Barry Coe",
+                "original_name": "Barry Coe",
+                "popularity": 9.643,
+                "profile_path": "/uGJpcRxCWmx1WkngkBU5o1wBxOH.jpg",
+                "cast_id": 23,
+                "character": "Communications Aide",
+                "credit_id": "578be2b4c3a3685acb002ce3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151525,
+                "known_for_department": "Acting",
+                "name": "Ken Scott",
+                "original_name": "Ken Scott",
+                "popularity": 12.191,
+                "profile_path": "/sYqT0AVc52LkSokMXZ2MxYpIRse.jpg",
+                "cast_id": 24,
+                "character": "Secret Service",
+                "credit_id": "578be331c3a3685ace002a2c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91255,
+                "known_for_department": "Acting",
+                "name": "Shelby Grant",
+                "original_name": "Shelby Grant",
+                "popularity": 10.914,
+                "profile_path": "/93uODTdwC76gwfw1QsaWzNm7MkK.jpg",
+                "cast_id": 25,
+                "character": "Nurse",
+                "credit_id": "578be349c3a3685acb002d13",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9274,
+                "known_for_department": "Acting",
+                "name": "James Brolin",
+                "original_name": "James Brolin",
+                "popularity": 43.571,
+                "profile_path": "/mdkmgcWySHNNQRJcPhtKqH9hCIE.jpg",
+                "cast_id": 17,
+                "character": "Technician",
+                "credit_id": "52fe433cc3a36847f8044aaf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1652370,
+                "known_for_department": "Acting",
+                "name": "Brendan Fitzgerald",
+                "original_name": "Brendan Fitzgerald",
+                "popularity": 0.738,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Wireless Operator",
+                "credit_id": "578be393c3a3682bb200ae51",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 165704,
+                "known_for_department": "Acting",
+                "name": "Brendon Boone",
+                "original_name": "Brendon Boone",
+                "popularity": 14.585,
+                "profile_path": "/7NnhLaflOpczOPxq7VD5QPWSDlF.jpg",
+                "cast_id": 42,
+                "character": "Military Policeman (uncredited)",
+                "credit_id": "63f52add9bcd0f008d2d819b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1751,
+                "known_for_department": "Acting",
+                "name": "James Doohan",
+                "original_name": "James Doohan",
+                "popularity": 26.12,
+                "profile_path": "/lsI15wIkmcKVTM8qu8ooukaLShi.jpg",
+                "cast_id": 43,
+                "character": "Dr. Sawyer (Hypothermia technician) (uncredited)",
+                "credit_id": "63f52aef992fe6008117f348",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103357,
+                "known_for_department": "Acting",
+                "name": "Kenneth MacDonald",
+                "original_name": "Kenneth MacDonald",
+                "popularity": 11.162,
+                "profile_path": "/hnCiqF8FIr8hm090HI56cwqLLcI.jpg",
+                "cast_id": 44,
+                "character": "Henry - Heart Monitoring (uncredited)",
+                "credit_id": "63f52aff1d1bf4009600816e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1240845,
+                "known_for_department": "Acting",
+                "name": "Christopher Riordan",
+                "original_name": "Christopher Riordan",
+                "popularity": 6.374,
+                "profile_path": "/zbcjLAR9zyWg8tABpbqIkUm8V8G.jpg",
+                "cast_id": 45,
+                "character": "Young Scientist (uncredited)",
+                "credit_id": "63f52b1d9bcd0f00d45f11ed",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9103,
+                "known_for_department": "Camera",
+                "name": "Ernest Laszlo",
+                "original_name": "Ernest Laszlo",
+                "popularity": 9.75,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044a75",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9061,
+                "known_for_department": "Art",
+                "name": "Jack Martin Smith",
+                "original_name": "Jack Martin Smith",
+                "popularity": 5.812,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044a87",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9799,
+                "known_for_department": "Art",
+                "name": "Stuart A. Reiss",
+                "original_name": "Stuart A. Reiss",
+                "popularity": 3.043,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044a8d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 960115,
+                "known_for_department": "Writing",
+                "name": "Otto Klement",
+                "original_name": "Otto Klement",
+                "popularity": 5.983,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044ac3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2027,
+                "known_for_department": "Sound",
+                "name": "Leonard Rosenman",
+                "original_name": "Leonard Rosenman",
+                "popularity": 5.123,
+                "profile_path": "/f3hxgLgST2hfFkjkiP9hdCcWkj9.jpg",
+                "credit_id": "52fe433cc3a36847f8044a6f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9587,
+                "known_for_department": "Art",
+                "name": "Walter M. Scott",
+                "original_name": "Walter M. Scott",
+                "popularity": 5.823,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044a93",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21870,
+                "known_for_department": "Writing",
+                "name": "David Duncan",
+                "original_name": "David Duncan",
+                "popularity": 7.407,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044abd",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2087,
+                "known_for_department": "Directing",
+                "name": "Richard Fleischer",
+                "original_name": "Richard Fleischer",
+                "popularity": 13.319,
+                "profile_path": "/vAPv1aa28u12zcq8YMvuwZu1hhC.jpg",
+                "credit_id": "52fe433cc3a36847f8044a5d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22095,
+                "known_for_department": "Production",
+                "name": "Saul David",
+                "original_name": "Saul David",
+                "popularity": 3.681,
+                "profile_path": "/hdkmcckPfLfkWf0GmeI1qwbtvtH.jpg",
+                "credit_id": "52fe433cc3a36847f8044a69",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22096,
+                "known_for_department": "Editing",
+                "name": "William B. Murphy",
+                "original_name": "William B. Murphy",
+                "popularity": 0.931,
+                "profile_path": null,
+                "credit_id": "52fe433cc3a36847f8044a7b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15951,
+                "known_for_department": "Writing",
+                "name": "Jerome Bixby",
+                "original_name": "Jerome Bixby",
+                "popularity": 4.309,
+                "profile_path": "/1ucm7jiIS1VmMe3dtTSqXXydYWr.jpg",
+                "credit_id": "52fe433cc3a36847f8044ac9",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14779,
+                "known_for_department": "Art",
+                "name": "Dale Hennesy",
+                "original_name": "Dale Hennesy",
+                "popularity": 3.206,
+                "profile_path": "/7xoQHtSae8jHjFTFe2IU1Qt9xxC.jpg",
+                "credit_id": "52fe433cc3a36847f8044a81",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14053,
+                "known_for_department": "Writing",
+                "name": "Harry Kleiner",
+                "original_name": "Harry Kleiner",
+                "popularity": 15.413,
+                "profile_path": null,
+                "credit_id": "578be4659251417c0700aacb",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91232,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Margaret Donovan",
+                "original_name": "Margaret Donovan",
+                "popularity": 5.659,
+                "profile_path": null,
+                "credit_id": "578be4fb92514132c3009dc7",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91234,
+                "known_for_department": "Production",
+                "name": "Eric Stacey",
+                "original_name": "Eric Stacey",
+                "popularity": 3.17,
+                "profile_path": null,
+                "credit_id": "578be5719251413f74002c65",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26175,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ben Nye",
+                "original_name": "Ben Nye",
+                "popularity": 9.117,
+                "profile_path": "/4U831O7rCN0izppXknOS6aPsUoX.jpg",
+                "credit_id": "578be54592514132c3009de2",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 9803,
+                "known_for_department": "Sound",
+                "name": "Bernard Freericks",
+                "original_name": "Bernard Freericks",
+                "popularity": 5.396,
+                "profile_path": null,
+                "credit_id": "5ce199c6c3a3684c1c1f52d4",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 18639,
+                "known_for_department": "Visual Effects",
+                "name": "Art Cruickshank",
+                "original_name": "Art Cruickshank",
+                "popularity": 4.256,
+                "profile_path": null,
+                "credit_id": "5ce1a2699251412d00bc2751",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2110,
+                "known_for_department": "Acting",
+                "name": "Harper Goff",
+                "original_name": "Harper Goff",
+                "popularity": 6.336,
+                "profile_path": "/sT8pXE4wuph0g27OxTDht9YiU7q.jpg",
+                "credit_id": "5ce1a2ea0e0a26381cc9bfc2",
+                "department": "Production",
+                "job": "Researcher"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91240,
+                "known_for_department": "Visual Effects",
+                "name": "Emil Kosa Jr.",
+                "original_name": "Emil Kosa Jr.",
+                "popularity": 1.459,
+                "profile_path": null,
+                "credit_id": "5ce1a2770e0a266f7ccddc8e",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2316583,
+                "known_for_department": "Crew",
+                "name": "Peter Foy",
+                "original_name": "Peter Foy",
+                "popularity": 1.075,
+                "profile_path": null,
+                "credit_id": "5ce1a352c3a36823c5219a19",
+                "department": "Crew",
+                "job": "Aerial Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29281,
+                "known_for_department": "Directing",
+                "name": "Ad Schaumer",
+                "original_name": "Ad Schaumer",
+                "popularity": 3.916,
+                "profile_path": null,
+                "credit_id": "5ce1998f0e0a26381cc9ae62",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 184662,
+                "known_for_department": "Acting",
+                "name": "Fred Zendar",
+                "original_name": "Fred Zendar",
+                "popularity": 3.933,
+                "profile_path": null,
+                "credit_id": "5ce1a32092514150a1bbc544",
+                "department": "Crew",
+                "job": "Technical Advisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18638,
+                "known_for_department": "Visual Effects",
+                "name": "L.B. Abbott",
+                "original_name": "L.B. Abbott",
+                "popularity": 4.944,
+                "profile_path": null,
+                "credit_id": "5ce1a2590e0a26278ecb226a",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91247,
+                "known_for_department": "Crew",
+                "name": "Richard Kuhn",
+                "original_name": "Richard Kuhn",
+                "popularity": 3.388,
+                "profile_path": null,
+                "credit_id": "5ce1a387c3a36811ee1df68b",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9591,
+                "known_for_department": "Sound",
+                "name": "David Dockendorf",
+                "original_name": "David Dockendorf",
+                "popularity": 8.252,
+                "profile_path": null,
+                "credit_id": "5ce199d892514150a1bbb4d1",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4550607,
+                "known_for_department": "Sound",
+                "name": "Walter Rossi",
+                "original_name": "Walter Rossi",
+                "popularity": 1.031,
+                "profile_path": null,
+                "credit_id": "65d6d328e6d3cc017bc1cd1b",
+                "department": "Sound",
+                "job": "Sound Effects"
+            }
+        ]
+    },
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1966-09-30T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "L",
+                        "descriptors": [],
+                        "iso_639_1": "pt",
+                        "note": "Fox",
+                        "release_date": "2003-12-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1966-12-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1966-11-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1967-01-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1966-10-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "T",
+                        "descriptors": [],
+                        "iso_639_1": "it",
+                        "note": "",
+                        "release_date": "1966-10-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1967-01-23T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD release",
+                        "release_date": "2005-01-12T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-ray release",
+                        "release_date": "2013-10-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1966-08-24T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Voyage to the Bottom of the Sea / Fantastic Voyage DVD Double Feature",
+                        "release_date": "2000-09-05T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD Release",
+                        "release_date": "2007-06-05T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray Release",
+                        "release_date": "2013-10-08T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Stephen Boyd",
+            "character": "Grant"
+        },
+        {
+            "actor": "Raquel Welch",
+            "character": "Cora"
+        },
+        {
+            "actor": "Edmond O'Brien",
+            "character": "General Carter"
+        },
+        {
+            "actor": "Donald Pleasence",
+            "character": "Dr. Michaels"
+        },
+        {
+            "actor": "Arthur O'Connell",
+            "character": "Col. Donald Reid"
+        },
+        {
+            "actor": "William Redfield",
+            "character": "Capt. Bill Owens"
+        },
+        {
+            "actor": "Arthur Kennedy",
+            "character": "Dr. Duval"
+        },
+        {
+            "actor": "Jean Del Val",
+            "character": "Jan Benes"
+        },
+        {
+            "actor": "Barry Coe",
+            "character": "Communications Aide"
+        },
+        {
+            "actor": "Ken Scott",
+            "character": "Secret Service"
+        },
+        {
+            "actor": "Shelby Grant",
+            "character": "Nurse"
+        },
+        {
+            "actor": "James Brolin",
+            "character": "Technician"
+        },
+        {
+            "actor": "Brendan Fitzgerald",
+            "character": "Wireless Operator"
+        },
+        {
+            "actor": "Brendon Boone",
+            "character": "Military Policeman (uncredited)"
+        },
+        {
+            "actor": "James Doohan",
+            "character": "Dr. Sawyer (Hypothermia technician) (uncredited)"
+        },
+        {
+            "actor": "Kenneth MacDonald",
+            "character": "Henry - Heart Monitoring (uncredited)"
+        },
+        {
+            "actor": "Christopher Riordan",
+            "character": "Young Scientist (uncredited)"
+        }
+    ]
+}

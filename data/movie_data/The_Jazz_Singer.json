@@ -1,0 +1,765 @@
+{
+    "adult": false,
+    "backdrop_path": "/oBNJAxtRdqa7xfhRc6LRk7AMnaa.jpg",
+    "belongs_to_collection": null,
+    "budget": 422000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 939,
+    "imdb_id": "tt0018037",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Jazz Singer",
+    "overview": "A young Jewish man is torn between tradition and individuality when his old-fashioned family objects to his career as a jazz singer. This is the first full length feature film to use synchronized sound, and is the original film musical.",
+    "popularity": 18.035,
+    "poster_path": "/wr8Pt1GO87cwB3210TO3JTNDsUc.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 9329,
+            "logo_path": "/aue5pVfj9TcjYEOufkcuCbAL5hE.png",
+            "name": "The Vitaphone Corporation",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1927-10-06",
+    "revenue": 2600000,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Yiddish",
+            "iso_639_1": "yi",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hear him sing Mammy, Toot Toot Tootsie, My Gal Sal, Mother I Still Have You.",
+    "title": "The Jazz Singer",
+    "video": false,
+    "vote_average": 6.131,
+    "vote_count": 202,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "New York City, New York",
+                        "release_date": "1927-10-06T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14286,
+                "known_for_department": "Acting",
+                "name": "Al Jolson",
+                "original_name": "Al Jolson",
+                "popularity": 11.525,
+                "profile_path": "/d4AcDb0feqJ2tq5udfka8EYm2hO.jpg",
+                "cast_id": 7,
+                "character": "Jakie Rabinowitz",
+                "credit_id": "52fe4290c3a36847f80289d7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14287,
+                "known_for_department": "Acting",
+                "name": "May McAvoy",
+                "original_name": "May McAvoy",
+                "popularity": 13.493,
+                "profile_path": "/r1twk0uEppt3dhuZqi4Zx7Nq0NP.jpg",
+                "cast_id": 8,
+                "character": "Mary Dale",
+                "credit_id": "52fe4290c3a36847f80289db",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13342,
+                "known_for_department": "Acting",
+                "name": "Warner Oland",
+                "original_name": "Warner Oland",
+                "popularity": 8.592,
+                "profile_path": "/1WZmRVQsfjK8hwzbnaIy6WK41fr.jpg",
+                "cast_id": 9,
+                "character": "Cantor Rabinowitz",
+                "credit_id": "52fe4290c3a36847f80289df",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14288,
+                "known_for_department": "Acting",
+                "name": "Eugenie Besserer",
+                "original_name": "Eugenie Besserer",
+                "popularity": 13.325,
+                "profile_path": "/fcej4GbVD6SSlwbmDotLlv68Nbt.jpg",
+                "cast_id": 10,
+                "character": "Sara Rabinowitz",
+                "credit_id": "52fe4290c3a36847f80289e3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14289,
+                "known_for_department": "Acting",
+                "name": "Otto Lederer",
+                "original_name": "Otto Lederer",
+                "popularity": 8.207,
+                "profile_path": "/gGgM7wZZbc2wiuUz9uisrnaf3Iy.jpg",
+                "cast_id": 11,
+                "character": "Moisha Yudelson",
+                "credit_id": "52fe4290c3a36847f80289e7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9643,
+                "known_for_department": "Directing",
+                "name": "Robert Gordon",
+                "original_name": "Robert Gordon",
+                "popularity": 11.933,
+                "profile_path": "/qLRW26gst9P5yesphdLLzhHtsgD.jpg",
+                "cast_id": 19,
+                "character": "Young Jakie Rabinowitz",
+                "credit_id": "59832b3ac3a36833b300ffba",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14290,
+                "known_for_department": "Acting",
+                "name": "Richard Tucker",
+                "original_name": "Richard Tucker",
+                "popularity": 14.615,
+                "profile_path": "/hMHZdVgcSOyhONnAbXNVSKHDwhh.jpg",
+                "cast_id": 13,
+                "character": "Harry Lee",
+                "credit_id": "52fe4290c3a36847f80289eb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2596207,
+                "known_for_department": "Acting",
+                "name": "Yossele Rosenblatt",
+                "original_name": "Yossele Rosenblatt",
+                "popularity": 0.964,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Cantor Rosenblatt",
+                "credit_id": "5e9024dfe640d600131eadd8",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21510,
+                "known_for_department": "Acting",
+                "name": "William Demarest",
+                "original_name": "William Demarest",
+                "popularity": 15.082,
+                "profile_path": "/yNr9tzg17nMsrfxqriaWg7PEBlV.jpg",
+                "cast_id": 16,
+                "character": "Buster Billings (uncredited)",
+                "credit_id": "55c1af649251410f7800435c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90000,
+                "known_for_department": "Acting",
+                "name": "John Miljan",
+                "original_name": "John Miljan",
+                "popularity": 14.189,
+                "profile_path": "/A19E59RycvNdhUAEqLgMrzsCDmj.jpg",
+                "cast_id": 33,
+                "character": "Host (uncredited)",
+                "credit_id": "5e9025d0197de4001b06d09d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30157,
+                "known_for_department": "Acting",
+                "name": "Roscoe Karns",
+                "original_name": "Roscoe Karns",
+                "popularity": 20.622,
+                "profile_path": "/eDXhkieC1icm4lGnuDziIIl5nO8.jpg",
+                "cast_id": 17,
+                "character": "Agent (uncredited)",
+                "credit_id": "55c1af6f9251410f27004062",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141305,
+                "known_for_department": "Acting",
+                "name": "Anders Randolf",
+                "original_name": "Anders Randolf",
+                "popularity": 15.865,
+                "profile_path": "/huOktIxFNvOJEFe3KoBm2FretJr.jpg",
+                "cast_id": 36,
+                "character": "Dillings (uncredited)",
+                "credit_id": "5e9025f0cee4810012e045e2",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1765159,
+                "known_for_department": "Acting",
+                "name": "Walter Rodgers",
+                "original_name": "Walter Rodgers",
+                "popularity": 2.578,
+                "profile_path": "/zZCQMYn62Te0qSuNZyHov3X2euc.jpg",
+                "cast_id": 37,
+                "character": "Make-Up Man (uncredited)",
+                "credit_id": "5e9026204a4bf6001353c1ea",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148440,
+                "known_for_department": "Acting",
+                "name": "Will Walling",
+                "original_name": "Will Walling",
+                "popularity": 12.041,
+                "profile_path": "/dbuYzS5P981re0Sie1Btw5Vycnb.jpg",
+                "cast_id": 40,
+                "character": "Doctor (uncredited)",
+                "credit_id": "5e90264afdc1460018477d99",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1182925,
+                "known_for_department": "Acting",
+                "name": "Ena Gregory",
+                "original_name": "Ena Gregory",
+                "popularity": 4.904,
+                "profile_path": "/2FvqplTst19Sssbwx5MqpFXoajs.jpg",
+                "cast_id": 29,
+                "character": "(uncredited)",
+                "credit_id": "5e902579cee4810014e04162",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1030251,
+                "known_for_department": "Acting",
+                "name": "Nat Carr",
+                "original_name": "Nat Carr",
+                "popularity": 6.727,
+                "profile_path": "/dCTqrvtQWcsfWoBZRIO9SY3nncP.jpg",
+                "cast_id": 24,
+                "character": "Levi (uncredited)",
+                "credit_id": "5e90251537b3a9001389e14f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2596208,
+                "known_for_department": "Acting",
+                "name": "Ernest Belcher",
+                "original_name": "Ernest Belcher",
+                "popularity": 0.324,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Choreographer (uncredited)",
+                "credit_id": "5e90250200fb6b0013a0f1d3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1167509,
+                "known_for_department": "Acting",
+                "name": "Neely Edwards",
+                "original_name": "Neely Edwards",
+                "popularity": 5.137,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Dance Director (uncredited)",
+                "credit_id": "5e902544e640d6001b1ef583",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1329629,
+                "known_for_department": "Acting",
+                "name": "Audrey Ferris",
+                "original_name": "Audrey Ferris",
+                "popularity": 6.5,
+                "profile_path": "/5kFMR74mx9qMCxTF8BUvZqMhOhm.jpg",
+                "cast_id": 27,
+                "character": "Chorus Girl (uncredited)",
+                "credit_id": "5e90254f37b3a9001389e181",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1275112,
+                "known_for_department": "Acting",
+                "name": "Leon Holmes",
+                "original_name": "Leon Holmes",
+                "popularity": 4.556,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Moey (uncredited)",
+                "credit_id": "5e9025864a4bf6001353c10e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13577,
+                "known_for_department": "Acting",
+                "name": "Myrna Loy",
+                "original_name": "Myrna Loy",
+                "popularity": 22.578,
+                "profile_path": "/rNzjcOeTmJkyE8LMHdF3iYUCkPz.jpg",
+                "cast_id": 43,
+                "character": "Chorus Girl (uncredited)",
+                "credit_id": "64822a05e27260010720f73b",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3223118,
+                "known_for_department": "Acting",
+                "name": "Jane Arden",
+                "original_name": "Jane Arden",
+                "popularity": 0.014,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Small Part (uncredited)",
+                "credit_id": "6134924a1b72940042d36d4c",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2430736,
+                "known_for_department": "Acting",
+                "name": "Ty Parvis",
+                "original_name": "Ty Parvis",
+                "popularity": 0.096,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Boy Singer (uncredited)",
+                "credit_id": "5e9025e437b3a900158981a9",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121889,
+                "known_for_department": "Acting",
+                "name": "Fred Warren",
+                "original_name": "Fred Warren",
+                "popularity": 7.746,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Pianist (uncredited)",
+                "credit_id": "5e9026564a4bf6001353c2ed",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1329655,
+                "known_for_department": "Acting",
+                "name": "Carolynne Snowden",
+                "original_name": "Carolynne Snowden",
+                "popularity": 3.015,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Backstage Maid (uncredited)",
+                "credit_id": "5e90262b37b3a9001389e27a",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1487953,
+                "known_for_department": "Acting",
+                "name": "Violet Bird",
+                "original_name": "Violet Bird",
+                "popularity": 3.788,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "(uncredited)",
+                "credit_id": "5e90250b4a4bf6001553d64a",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183894,
+                "known_for_department": "Directing",
+                "name": "Joseph Green",
+                "original_name": "Joseph Green",
+                "popularity": 1.76,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "(uncredited)",
+                "credit_id": "5e902566197de4001506cb44",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2596209,
+                "known_for_department": "Acting",
+                "name": "Claire Delmar",
+                "original_name": "Claire Delmar",
+                "popularity": 0.074,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "(uncredited)",
+                "credit_id": "5e902520d35dea001374df6a",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1432565,
+                "known_for_department": "Acting",
+                "name": "Seymour Kupper",
+                "original_name": "Seymour Kupper",
+                "popularity": 0.547,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "(uncredited)",
+                "credit_id": "5e9025a200fb6b001aa0e7fc",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2596210,
+                "known_for_department": "Acting",
+                "name": "Mary Grace Larsen",
+                "original_name": "Mary Grace Larsen",
+                "popularity": 0.074,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "(uncredited)",
+                "credit_id": "5e9025affdc146001147719f",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1323027,
+                "known_for_department": "Acting",
+                "name": "Margaret Oliver",
+                "original_name": "Margaret Oliver",
+                "popularity": 0.878,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "(uncredited)",
+                "credit_id": "5e9025da15959f0019ed5bb9",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2596213,
+                "known_for_department": "Acting",
+                "name": "Marie Stapleton",
+                "original_name": "Marie Stapleton",
+                "popularity": 0.496,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "(uncredited)",
+                "credit_id": "5e90264137b3a900158981d8",
+                "order": 31
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14281,
+                "known_for_department": "Directing",
+                "name": "Alan Crosland",
+                "original_name": "Alan Crosland",
+                "popularity": 13.609,
+                "profile_path": "/jqvqh7gg871bgsQxaZH0pJqtkue.jpg",
+                "credit_id": "52fe4290c3a36847f80289b5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14283,
+                "known_for_department": "Sound",
+                "name": "Louis Silvers",
+                "original_name": "Louis Silvers",
+                "popularity": 8.295,
+                "profile_path": "/qXDjVQyeLQkqsn1BmFb55ooJUDE.jpg",
+                "credit_id": "52fe4290c3a36847f80289c7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14284,
+                "known_for_department": "Camera",
+                "name": "Hal Mohr",
+                "original_name": "Hal Mohr",
+                "popularity": 4.746,
+                "profile_path": null,
+                "credit_id": "52fe4290c3a36847f80289cd",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14285,
+                "known_for_department": "Editing",
+                "name": "Harold McCord",
+                "original_name": "Harold McCord",
+                "popularity": 1.205,
+                "profile_path": null,
+                "credit_id": "52fe4290c3a36847f80289d3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2432,
+                "known_for_department": "Writing",
+                "name": "Samson Raphaelson",
+                "original_name": "Samson Raphaelson",
+                "popularity": 11.318,
+                "profile_path": "/2aSJN6POL0aPh9nMPHG8EcXMwfO.jpg",
+                "credit_id": "6623736f87e63e016572fecb",
+                "department": "Writing",
+                "job": "Theatre Play"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14282,
+                "known_for_department": "Writing",
+                "name": "Alfred A. Cohn",
+                "original_name": "Alfred A. Cohn",
+                "popularity": 5.565,
+                "profile_path": null,
+                "credit_id": "6623766fcb6db50149ad07c2",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1102133,
+                "known_for_department": "Production",
+                "name": "Gordon Hollingshead",
+                "original_name": "Gordon Hollingshead",
+                "popularity": 3.803,
+                "profile_path": null,
+                "credit_id": "662376cd63d937014a710ff3",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Al Jolson",
+            "character": "Jakie Rabinowitz"
+        },
+        {
+            "actor": "May McAvoy",
+            "character": "Mary Dale"
+        },
+        {
+            "actor": "Warner Oland",
+            "character": "Cantor Rabinowitz"
+        },
+        {
+            "actor": "Eugenie Besserer",
+            "character": "Sara Rabinowitz"
+        },
+        {
+            "actor": "Otto Lederer",
+            "character": "Moisha Yudelson"
+        },
+        {
+            "actor": "Robert Gordon",
+            "character": "Young Jakie Rabinowitz"
+        },
+        {
+            "actor": "Richard Tucker",
+            "character": "Harry Lee"
+        },
+        {
+            "actor": "Yossele Rosenblatt",
+            "character": "Cantor Rosenblatt"
+        },
+        {
+            "actor": "William Demarest",
+            "character": "Buster Billings (uncredited)"
+        },
+        {
+            "actor": "John Miljan",
+            "character": "Host (uncredited)"
+        },
+        {
+            "actor": "Roscoe Karns",
+            "character": "Agent (uncredited)"
+        },
+        {
+            "actor": "Anders Randolf",
+            "character": "Dillings (uncredited)"
+        },
+        {
+            "actor": "Walter Rodgers",
+            "character": "Make-Up Man (uncredited)"
+        },
+        {
+            "actor": "Will Walling",
+            "character": "Doctor (uncredited)"
+        },
+        {
+            "actor": "Ena Gregory",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Nat Carr",
+            "character": "Levi (uncredited)"
+        },
+        {
+            "actor": "Ernest Belcher",
+            "character": "Choreographer (uncredited)"
+        },
+        {
+            "actor": "Neely Edwards",
+            "character": "Dance Director (uncredited)"
+        },
+        {
+            "actor": "Audrey Ferris",
+            "character": "Chorus Girl (uncredited)"
+        },
+        {
+            "actor": "Leon Holmes",
+            "character": "Moey (uncredited)"
+        },
+        {
+            "actor": "Myrna Loy",
+            "character": "Chorus Girl (uncredited)"
+        },
+        {
+            "actor": "Jane Arden",
+            "character": "Small Part (uncredited)"
+        },
+        {
+            "actor": "Ty Parvis",
+            "character": "Boy Singer (uncredited)"
+        },
+        {
+            "actor": "Fred Warren",
+            "character": "Pianist (uncredited)"
+        },
+        {
+            "actor": "Carolynne Snowden",
+            "character": "Backstage Maid (uncredited)"
+        },
+        {
+            "actor": "Violet Bird",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Joseph Green",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Claire Delmar",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Seymour Kupper",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Mary Grace Larsen",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Margaret Oliver",
+            "character": "(uncredited)"
+        },
+        {
+            "actor": "Marie Stapleton",
+            "character": "(uncredited)"
+        }
+    ]
+}

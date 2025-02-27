@@ -1,0 +1,128 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        }
+    ],
+    "homepage": "",
+    "id": 35555,
+    "imdb_id": "tt0436864",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Unknown White Male",
+    "overview": "The true story of Doug Bruce who woke up on Coney Island with total amnesia. This documentary follows him as he rediscovers himself and the world around him.",
+    "popularity": 1.301,
+    "poster_path": "/hsFJ2DACY37jwb2huAvyQ9BFVj4.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2005-06-01",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Unknown White Male",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 13,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2005-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 932362,
+                "known_for_department": "Acting",
+                "name": "Doug Bruce",
+                "original_name": "Doug Bruce",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "",
+                "credit_id": "52fe45a89251416c91039e0f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113807,
+                "known_for_department": "Directing",
+                "name": "Rupert Murray",
+                "original_name": "Rupert Murray",
+                "popularity": 3.124,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "",
+                "credit_id": "52fe45a89251416c91039e13",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113807,
+                "known_for_department": "Directing",
+                "name": "Rupert Murray",
+                "original_name": "Rupert Murray",
+                "popularity": 3.124,
+                "profile_path": null,
+                "credit_id": "52fe45a89251416c91039e19",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113807,
+                "known_for_department": "Directing",
+                "name": "Rupert Murray",
+                "original_name": "Rupert Murray",
+                "popularity": 3.124,
+                "profile_path": null,
+                "credit_id": "52fe45a89251416c91039e0b",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Doug Bruce",
+            "character": ""
+        },
+        {
+            "actor": "Rupert Murray",
+            "character": ""
+        }
+    ]
+}

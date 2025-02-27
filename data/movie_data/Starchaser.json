@@ -1,0 +1,694 @@
+{
+    "adult": false,
+    "backdrop_path": "/xHevyXac9J6J8Nf2suqAF9hZaq.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 32147,
+    "imdb_id": "tt0090065",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Starchaser: The Legend of Orin",
+    "overview": "Set on the subterranean Mine-World, a band of human worker are treated like slaves under the power of the evil overlord Zygon until one, Orin, unearths the hilt of a mythical sword that only he can master. Escaping the planet, he runs into the rogue smuggler Dagg and a pair of helpful droids and the princess, who all team up to return to the Mine-World with a plan to defeat Zygon and free Orin's enslaved people.",
+    "popularity": 5.86,
+    "poster_path": "/zC5OU1G1eeIN1xTnXPWibolYrf6.jpg",
+    "production_companies": [
+        {
+            "id": 80488,
+            "logo_path": null,
+            "name": "Kim Young-Sun Production",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1985-05-17",
+    "revenue": 3360800,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He alone has the power",
+    "title": "Starchaser: The Legend of Orin",
+    "video": false,
+    "vote_average": 6.17,
+    "vote_count": 44,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-08-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Source: IMDB (Cannes)",
+                        "release_date": "1985-05-11T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1985-11-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Source: IMDB",
+                        "release_date": "1985-05-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 122510,
+                "known_for_department": "Acting",
+                "name": "Joe Colligan",
+                "original_name": "Joe Colligan",
+                "popularity": 10.571,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Orin (voice)",
+                "credit_id": "52fe44c09251416c9101b997",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 28413,
+                "known_for_department": "Acting",
+                "name": "Carmen Argenziano",
+                "original_name": "Carmen Argenziano",
+                "popularity": 15.657,
+                "profile_path": "/aiHWJmsVn7iWuohSg6lzF23XYVr.jpg",
+                "cast_id": 4,
+                "character": "Dagg (voice)",
+                "credit_id": "52fe44c09251416c9101b98b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52466,
+                "known_for_department": "Acting",
+                "name": "Noelle North",
+                "original_name": "Noelle North",
+                "popularity": 7.385,
+                "profile_path": "/y1pTR6uChDpvMlW6D4uI3Epoi3G.jpg",
+                "cast_id": 9,
+                "character": "Elan / Aviana",
+                "credit_id": "627748ddf90b19006bb5c51e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52903,
+                "known_for_department": "Acting",
+                "name": "Anthony De Longis",
+                "original_name": "Anthony De Longis",
+                "popularity": 15.64,
+                "profile_path": "/diSeADBcychtSiDsXlrpdth5u7f.jpg",
+                "cast_id": 10,
+                "character": "Zygon",
+                "credit_id": "6277491695665811eca48772",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 122509,
+                "known_for_department": "Acting",
+                "name": "Tyke Caravelli",
+                "original_name": "Tyke Caravelli",
+                "popularity": 2.981,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Silica (voice)",
+                "credit_id": "52fe44c09251416c9101b993",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2648,
+                "known_for_department": "Acting",
+                "name": "Les Tremayne",
+                "original_name": "Les Tremayne",
+                "popularity": 14.346,
+                "profile_path": "/85FK5hDizjXArLjYMv6v1jEpnb0.jpg",
+                "cast_id": 11,
+                "character": "Arthur",
+                "credit_id": "62774935323eba13385a148b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77482,
+                "known_for_department": "Acting",
+                "name": "Ken Sansom",
+                "original_name": "Ken Sansom",
+                "popularity": 14.302,
+                "profile_path": "/2pvv1gFv5V0IlLY6rBz0Y4YLMyc.jpg",
+                "cast_id": 12,
+                "character": "Magreb",
+                "credit_id": "627749463af9290050947d3c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224519,
+                "known_for_department": "Acting",
+                "name": "John Moschitta Jr.",
+                "original_name": "John Moschitta Jr.",
+                "popularity": 6.072,
+                "profile_path": "/o5BGJDlLzy00oQiEUMYk78JGSRe.jpg",
+                "cast_id": 13,
+                "character": "Z'Gork",
+                "credit_id": "627749599979d214825f9f6f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 122508,
+                "known_for_department": "Acting",
+                "name": "Daryl Bartley",
+                "original_name": "Daryl Bartley",
+                "popularity": 0.347,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Kallie (voice)",
+                "credit_id": "52fe44c09251416c9101b98f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 122507,
+                "known_for_department": "Acting",
+                "name": "Dennis Alwood",
+                "original_name": "Dennis Alwood",
+                "popularity": 4.682,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Shooter (voice)",
+                "credit_id": "52fe44c09251416c9101b987",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141372,
+                "known_for_department": "Acting",
+                "name": "John Garwood",
+                "original_name": "John Garwood",
+                "popularity": 5.971,
+                "profile_path": "/2OSaCTrkT52jNEKLxQAZGoqcRV6.jpg",
+                "cast_id": 14,
+                "character": "",
+                "credit_id": "627749b172d8551308d59ca9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134614,
+                "known_for_department": "Acting",
+                "name": "Herb Vigran",
+                "original_name": "Herb Vigran",
+                "popularity": 20.115,
+                "profile_path": "/2CG32FVQmmbgDDNBmUN85sEza4f.jpg",
+                "cast_id": 15,
+                "character": "Hopps",
+                "credit_id": "627749c0389da100a31ee468",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14672,
+                "known_for_department": "Acting",
+                "name": "Michael Winslow",
+                "original_name": "Michael Winslow",
+                "popularity": 23.176,
+                "profile_path": "/uSRS2MOI1fNFAdvUgrhatBvfsvv.jpg",
+                "cast_id": 16,
+                "character": "",
+                "credit_id": "627749caa8023614126e9efa",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109065,
+                "known_for_department": "Acting",
+                "name": "Tina Romanus",
+                "original_name": "Tina Romanus",
+                "popularity": 3.813,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Aunt Bella",
+                "credit_id": "627749e7724de10050428f43",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1581646,
+                "known_for_department": "Acting",
+                "name": "Joseph Della Sorte",
+                "original_name": "Joseph Della Sorte",
+                "popularity": 3.957,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "627749f3713ea610d8bbd812",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16000,
+                "known_for_department": "Acting",
+                "name": "Mickey Morton",
+                "original_name": "Mickey Morton",
+                "popularity": 5.062,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Minemaster",
+                "credit_id": "62774a1295665811eca48b97",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111466,
+                "known_for_department": "Acting",
+                "name": "Mona Marshall",
+                "original_name": "Mona Marshall",
+                "popularity": 13.147,
+                "profile_path": "/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg",
+                "cast_id": 20,
+                "character": "Kallie",
+                "credit_id": "62774a1f67e0f70051a0c47f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1194339,
+                "known_for_department": "Acting",
+                "name": "Ryan MacDonald",
+                "original_name": "Ryan MacDonald",
+                "popularity": 6.916,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "62774a3803bf840066cdad13",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 613123,
+                "known_for_department": "Acting",
+                "name": "Philip L. Clarke",
+                "original_name": "Philip L. Clarke",
+                "popularity": 5.835,
+                "profile_path": "/lfCpXBpkHKOdtkXFBTwIvHh6xCx.jpg",
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "62774a42e48860006693e4d5",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1216942,
+                "known_for_department": "Acting",
+                "name": "Rosanna Huffman",
+                "original_name": "Rosanna Huffman",
+                "popularity": 10.885,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "62774a4d394a8700a18c422a",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1596338,
+                "known_for_department": "Acting",
+                "name": "Doris Hess",
+                "original_name": "Doris Hess",
+                "popularity": 3.915,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "62774a549979d214825fa42b",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1218899,
+                "known_for_department": "Acting",
+                "name": "Marilyn Schreffler",
+                "original_name": "Marilyn Schreffler",
+                "popularity": 10.898,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "62774a5dd7a70a009c826bf6",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 64948,
+                "known_for_department": "Acting",
+                "name": "Cathy Cavadini",
+                "original_name": "Cathy Cavadini",
+                "popularity": 7.865,
+                "profile_path": "/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg",
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "62774a67176a9400504a18a5",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 949895,
+                "known_for_department": "Acting",
+                "name": "Judi M. Durand",
+                "original_name": "Judi M. Durand",
+                "popularity": 4.348,
+                "profile_path": "/c6BBWqnfZoFhT1KpwOuMnBF0kNh.jpg",
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "62774a6f713ea610d8bbda4b",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1212737,
+                "known_for_department": "Acting",
+                "name": "Susan Silo",
+                "original_name": "Susan Silo",
+                "popularity": 9.591,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "62774a77e7c09700663e2daf",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30029,
+                "known_for_department": "Acting",
+                "name": "Greg Finley",
+                "original_name": "Greg Finley",
+                "popularity": 10.468,
+                "profile_path": "/A3WR1ovXuAbUuCncVZRpwPKLllF.jpg",
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "62774a8f470ead00669778a4",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 952996,
+                "known_for_department": "Acting",
+                "name": "David McCharen",
+                "original_name": "David McCharen",
+                "popularity": 10.532,
+                "profile_path": "/5FthGLGF65pWkdoH1Oux0lzXGwv.jpg",
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "62774a9be7868700677015b0",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 157626,
+                "known_for_department": "Acting",
+                "name": "Jan Rabson",
+                "original_name": "Jan Rabson",
+                "popularity": 15.442,
+                "profile_path": "/8IBFupx53arTqxOYhGkGwyVSaOn.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "62774aa4e48860006693e668",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96310,
+                "known_for_department": "Acting",
+                "name": "Daamen J. Krall",
+                "original_name": "Daamen J. Krall",
+                "popularity": 6.069,
+                "profile_path": "/wGgizLHd7opgsSp5vEOMRbXqPLn.jpg",
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "62774aade7868700677015f5",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 122506,
+                "known_for_department": "Directing",
+                "name": "Steven Hahn",
+                "original_name": "Steven Hahn",
+                "popularity": 3.553,
+                "profile_path": null,
+                "credit_id": "52fe44c09251416c9101b97d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107029,
+                "known_for_department": "Writing",
+                "name": "Jeffrey Scott",
+                "original_name": "Jeffrey Scott",
+                "popularity": 5.2,
+                "profile_path": null,
+                "credit_id": "52fe44c09251416c9101b983",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60250,
+                "known_for_department": "Art",
+                "name": "Barry E. Jackson",
+                "original_name": "Barry E. Jackson",
+                "popularity": 1.333,
+                "profile_path": null,
+                "credit_id": "55614b229251417008000a4c",
+                "department": "Art",
+                "job": "Background Designer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Joe Colligan",
+            "character": "Orin (voice)"
+        },
+        {
+            "actor": "Carmen Argenziano",
+            "character": "Dagg (voice)"
+        },
+        {
+            "actor": "Noelle North",
+            "character": "Elan / Aviana"
+        },
+        {
+            "actor": "Anthony De Longis",
+            "character": "Zygon"
+        },
+        {
+            "actor": "Tyke Caravelli",
+            "character": "Silica (voice)"
+        },
+        {
+            "actor": "Les Tremayne",
+            "character": "Arthur"
+        },
+        {
+            "actor": "Ken Sansom",
+            "character": "Magreb"
+        },
+        {
+            "actor": "John Moschitta Jr.",
+            "character": "Z'Gork"
+        },
+        {
+            "actor": "Daryl Bartley",
+            "character": "Kallie (voice)"
+        },
+        {
+            "actor": "Dennis Alwood",
+            "character": "Shooter (voice)"
+        },
+        {
+            "actor": "John Garwood",
+            "character": ""
+        },
+        {
+            "actor": "Herb Vigran",
+            "character": "Hopps"
+        },
+        {
+            "actor": "Michael Winslow",
+            "character": ""
+        },
+        {
+            "actor": "Tina Romanus",
+            "character": "Aunt Bella"
+        },
+        {
+            "actor": "Joseph Della Sorte",
+            "character": ""
+        },
+        {
+            "actor": "Mickey Morton",
+            "character": "Minemaster"
+        },
+        {
+            "actor": "Mona Marshall",
+            "character": "Kallie"
+        },
+        {
+            "actor": "Ryan MacDonald",
+            "character": ""
+        },
+        {
+            "actor": "Philip L. Clarke",
+            "character": ""
+        },
+        {
+            "actor": "Rosanna Huffman",
+            "character": ""
+        },
+        {
+            "actor": "Doris Hess",
+            "character": ""
+        },
+        {
+            "actor": "Marilyn Schreffler",
+            "character": ""
+        },
+        {
+            "actor": "Cathy Cavadini",
+            "character": ""
+        },
+        {
+            "actor": "Judi M. Durand",
+            "character": ""
+        },
+        {
+            "actor": "Susan Silo",
+            "character": ""
+        },
+        {
+            "actor": "Greg Finley",
+            "character": ""
+        },
+        {
+            "actor": "David McCharen",
+            "character": ""
+        },
+        {
+            "actor": "Jan Rabson",
+            "character": ""
+        },
+        {
+            "actor": "Daamen J. Krall",
+            "character": ""
+        }
+    ]
+}

@@ -1,0 +1,776 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 476656,
+    "imdb_id": "tt5881892",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Elizabeth Blue",
+    "overview": "A young woman, recently released from a mental hospital, is coping with ongoing episodes of schizophrenia.",
+    "popularity": 10.535,
+    "poster_path": "/jyUOB2lRvrY0q9Fi97ilZPM4Zsa.jpg",
+    "production_companies": [
+        {
+            "id": 95147,
+            "logo_path": null,
+            "name": "Global Digital Releasing",
+            "origin_country": ""
+        },
+        {
+            "id": 146854,
+            "logo_path": null,
+            "name": "Nittle Baby Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2017-09-22",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "True love can't be broken by anything, including mental illness.",
+    "title": "Elizabeth Blue",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 4,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Hollywood Reel Independent Film Festival)",
+                        "release_date": "2017-02-16T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2017-09-22T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 984582,
+                "known_for_department": "Acting",
+                "name": "Anna Schafer",
+                "original_name": "Anna Schafer",
+                "popularity": 14.138,
+                "profile_path": "/AtpZOzp7t6ybvB1bJrSwTJfWTyZ.jpg",
+                "cast_id": 0,
+                "character": "Elizabeth",
+                "credit_id": "59c168419251417317001ef2",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1841398,
+                "known_for_department": "Acting",
+                "name": "Ryan Vincent",
+                "original_name": "Ryan Vincent",
+                "popularity": 4.376,
+                "profile_path": "/yqVEOYrLUrB2x5k2s4KgtIYc7Fr.jpg",
+                "cast_id": 1,
+                "character": "Grant",
+                "credit_id": "59c1684ac3a36806d70020fe",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31164,
+                "known_for_department": "Acting",
+                "name": "Adewale Akinnuoye-Agbaje",
+                "original_name": "Adewale Akinnuoye-Agbaje",
+                "popularity": 27.822,
+                "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
+                "cast_id": 2,
+                "character": "Dr. Bowman",
+                "credit_id": "59c16853c3a368067a001e5a",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8183,
+                "known_for_department": "Acting",
+                "name": "Kathleen Quinlan",
+                "original_name": "Kathleen Quinlan",
+                "popularity": 43.127,
+                "profile_path": "/lqcsQzS7cs3H58C1rzls575MN5x.jpg",
+                "cast_id": 3,
+                "character": "Carol",
+                "credit_id": "59c1685bc3a368067a001e65",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2651389,
+                "known_for_department": "Acting",
+                "name": "Christopher Ashman",
+                "original_name": "Christopher Ashman",
+                "popularity": 3.276,
+                "profile_path": "/1UHRc4JdsI53gCzTkLF3XfX5rk1.jpg",
+                "cast_id": 40,
+                "character": "Tim",
+                "credit_id": "5ff496868e20c5003fc0891e",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1446823,
+                "known_for_department": "Acting",
+                "name": "Inger Tudor",
+                "original_name": "Inger Tudor",
+                "popularity": 10.717,
+                "profile_path": "/2nkrYwvqWAqRuYICo2RIKNOq0PB.jpg",
+                "cast_id": 41,
+                "character": "Head Nurse Regina",
+                "credit_id": "5ff496942cde982d7171734c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 109503,
+                "known_for_department": "Acting",
+                "name": "Nicola Lambo",
+                "original_name": "Nicola Lambo",
+                "popularity": 9.078,
+                "profile_path": "/xwpLr3fsEAMe2OdqbvaTajilXmG.jpg",
+                "cast_id": 42,
+                "character": "Jane",
+                "credit_id": "5ff496ed81140f0041f96ce6",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2924337,
+                "known_for_department": "Acting",
+                "name": "Sarai Jimenez",
+                "original_name": "Sarai Jimenez",
+                "popularity": 1.194,
+                "profile_path": "/kaJk2u5BRVevDoA0UZUtySvYRVX.jpg",
+                "cast_id": 43,
+                "character": "Mary",
+                "credit_id": "5ff496fb67e0f7003f2d67e6",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2924346,
+                "known_for_department": "Acting",
+                "name": "Sarah Clingenpeel",
+                "original_name": "Sarah Clingenpeel",
+                "popularity": 0.586,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Receptionist",
+                "credit_id": "5ff4976e41ad8d003e29eeeb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2807181,
+                "known_for_department": "Acting",
+                "name": "Nathlye Abraham",
+                "original_name": "Nathlye Abraham",
+                "popularity": 0.754,
+                "profile_path": "/9temZRDrIqsBr7OhAXx6LCtQsTu.jpg",
+                "cast_id": 45,
+                "character": "Receptionist",
+                "credit_id": "5ff4979ba44d09003e07f931",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2924356,
+                "known_for_department": "Acting",
+                "name": "Farida Amer",
+                "original_name": "Farida Amer",
+                "popularity": 0.683,
+                "profile_path": "/a9QE5Sp3frlcNflUnjEq3lQJdNJ.jpg",
+                "cast_id": 46,
+                "character": "Hospital Patient",
+                "credit_id": "5ff497d867e0f7003f2d692e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2924363,
+                "known_for_department": "Acting",
+                "name": "Tyler Vess",
+                "original_name": "Tyler Vess",
+                "popularity": 1.256,
+                "profile_path": "/efEKe7fCM6FUcBM3K7vL7991ZHS.jpg",
+                "cast_id": 47,
+                "character": "Hospital Patient",
+                "credit_id": "5ff4983239a45d00408a12c1",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1891251,
+                "known_for_department": "Writing",
+                "name": "Vincent Sabella",
+                "original_name": "Vincent Sabella",
+                "popularity": 2.213,
+                "profile_path": null,
+                "credit_id": "59c16869c3a3680721001fe4",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1891251,
+                "known_for_department": "Writing",
+                "name": "Vincent Sabella",
+                "original_name": "Vincent Sabella",
+                "popularity": 2.213,
+                "profile_path": null,
+                "credit_id": "59c1686e925141734d001e35",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1891252,
+                "known_for_department": "Writing",
+                "name": "Alfred D. Huffington",
+                "original_name": "Alfred D. Huffington",
+                "popularity": 0.711,
+                "profile_path": null,
+                "credit_id": "59c16876c3a36806b5001d62",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2924240,
+                "known_for_department": "Production",
+                "name": "Jenna Pfefferle",
+                "original_name": "Jenna Pfefferle",
+                "popularity": 1.418,
+                "profile_path": null,
+                "credit_id": "5ff490fb41ad8d003d2a3a03",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1940361,
+                "known_for_department": "Camera",
+                "name": "Joel Marsh",
+                "original_name": "Joel Marsh",
+                "popularity": 2.661,
+                "profile_path": null,
+                "credit_id": "5ff4913181140f003ef961be",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 555669,
+                "known_for_department": "Production",
+                "name": "Elliot Abbott",
+                "original_name": "Elliot Abbott",
+                "popularity": 1.71,
+                "profile_path": null,
+                "credit_id": "5ff4917839a45d00418a7e79",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31164,
+                "known_for_department": "Acting",
+                "name": "Adewale Akinnuoye-Agbaje",
+                "original_name": "Adewale Akinnuoye-Agbaje",
+                "popularity": 27.822,
+                "profile_path": "/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg",
+                "credit_id": "5ff49183549dda00409bdad7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63185,
+                "known_for_department": "Acting",
+                "name": "Joe Dain",
+                "original_name": "Joe Dain",
+                "popularity": 8.327,
+                "profile_path": null,
+                "credit_id": "5ff4918f7ef381003fd9438f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77751,
+                "known_for_department": "Production",
+                "name": "Mykel Denis",
+                "original_name": "Mykel Denis",
+                "popularity": 5.474,
+                "profile_path": null,
+                "credit_id": "5ff49199d94035003dbacb49",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 99818,
+                "known_for_department": "Acting",
+                "name": "Nicholas Lanier",
+                "original_name": "Nicholas Lanier",
+                "popularity": 1.831,
+                "profile_path": null,
+                "credit_id": "5ff491aa549dda00409bdb03",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1758030,
+                "known_for_department": "Editing",
+                "name": "Brad Geiszler",
+                "original_name": "Brad Geiszler",
+                "popularity": 1.482,
+                "profile_path": "/8u8lqr4mLtN2lDGRIT5hrVnQRMZ.jpg",
+                "credit_id": "5ff491b718864b003cc7ab95",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 99818,
+                "known_for_department": "Acting",
+                "name": "Nicholas Lanier",
+                "original_name": "Nicholas Lanier",
+                "popularity": 1.831,
+                "profile_path": null,
+                "credit_id": "5ff491bfc99826003d847c6a",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36052,
+                "known_for_department": "Art",
+                "name": "Robert Hummel",
+                "original_name": "Robert Hummel",
+                "popularity": 5.829,
+                "profile_path": null,
+                "credit_id": "5ff491d641ad8d003d2a3abc",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21857,
+                "known_for_department": "Art",
+                "name": "Chris Davis",
+                "original_name": "Chris Davis",
+                "popularity": 3.691,
+                "profile_path": null,
+                "credit_id": "5ff491ef956658003dbacef4",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1096342,
+                "known_for_department": "Art",
+                "name": "Carol Hummel",
+                "original_name": "Carol Hummel",
+                "popularity": 1.268,
+                "profile_path": null,
+                "credit_id": "5ff491fb140bad0040a44f6a",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1333076,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Isabel Mandujano",
+                "original_name": "Isabel Mandujano",
+                "popularity": 2.484,
+                "profile_path": null,
+                "credit_id": "5ff4920c29c626003faefd9c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2660685,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cyndi Welch",
+                "original_name": "Cyndi Welch",
+                "popularity": 1.85,
+                "profile_path": null,
+                "credit_id": "5ff4921881140f003ef96279",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1423833,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Janeen York",
+                "original_name": "Janeen York",
+                "popularity": 1.315,
+                "profile_path": null,
+                "credit_id": "5ff49225d94035003fbac504",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77751,
+                "known_for_department": "Production",
+                "name": "Mykel Denis",
+                "original_name": "Mykel Denis",
+                "popularity": 5.474,
+                "profile_path": null,
+                "credit_id": "5ff49232a44d090040086b92",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1634494,
+                "known_for_department": "Directing",
+                "name": "Richard Lee Dalton",
+                "original_name": "Richard Lee Dalton",
+                "popularity": 1.793,
+                "profile_path": null,
+                "credit_id": "5ff4923f67e0f7003f2d60b1",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2802460,
+                "known_for_department": "Directing",
+                "name": "Mark Jopling",
+                "original_name": "Mark Jopling",
+                "popularity": 1.038,
+                "profile_path": null,
+                "credit_id": "5ff4924e18864b003ec76ead",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2924302,
+                "known_for_department": "Directing",
+                "name": "Benjamin Pinaire",
+                "original_name": "Benjamin Pinaire",
+                "popularity": 0.729,
+                "profile_path": null,
+                "credit_id": "5ff4925b956658003bbac967",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837342,
+                "known_for_department": "Art",
+                "name": "Arnie Rabano",
+                "original_name": "Arnie Rabano",
+                "popularity": 3.29,
+                "profile_path": null,
+                "credit_id": "5ff4927d81140f0040f95bd7",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2096743,
+                "known_for_department": "Acting",
+                "name": "James DeVore",
+                "original_name": "James DeVore",
+                "popularity": 3.925,
+                "profile_path": null,
+                "credit_id": "5ff4928fa58902003cf3b42f",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2264009,
+                "known_for_department": "Camera",
+                "name": "Jessie Alexander Flores",
+                "original_name": "Jessie Alexander Flores",
+                "popularity": 0.107,
+                "profile_path": null,
+                "credit_id": "5ff492a57ef381003fd94692",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2654927,
+                "known_for_department": "Sound",
+                "name": "Jason Stare",
+                "original_name": "Jason Stare",
+                "popularity": 0.475,
+                "profile_path": null,
+                "credit_id": "5ff492b1b3f6f50045b1bb60",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404192,
+                "known_for_department": "Visual Effects",
+                "name": "May Satsuki Asai",
+                "original_name": "May Satsuki Asai",
+                "popularity": 1.656,
+                "profile_path": null,
+                "credit_id": "5ff492c8549dda003f9bcabf",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2552695,
+                "known_for_department": "Editing",
+                "name": "Casey Bohrnell",
+                "original_name": "Casey Bohrnell",
+                "popularity": 0.761,
+                "profile_path": null,
+                "credit_id": "5ff493097ef3810041d8f34a",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2686596,
+                "known_for_department": "Camera",
+                "name": "Octavio Estrada",
+                "original_name": "Octavio Estrada",
+                "popularity": 1.222,
+                "profile_path": null,
+                "credit_id": "5ff4931267e0f7003f2d610f",
+                "department": "Camera",
+                "job": "Second Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1455716,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Daniella Cartun",
+                "original_name": "Daniella Cartun",
+                "popularity": 3.056,
+                "profile_path": null,
+                "credit_id": "5ff4933429c6262a03ae51c6",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1412191,
+                "known_for_department": "Editing",
+                "name": "Jeremy Brunson",
+                "original_name": "Jeremy Brunson",
+                "popularity": 1.086,
+                "profile_path": "/mlHr5uW0XXC9ILKqThUkVHM1ftF.jpg",
+                "credit_id": "5ff4940bb3f6f5003fb171d7",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1966721,
+                "known_for_department": "Camera",
+                "name": "Alex Ojeda",
+                "original_name": "Alex Ojeda",
+                "popularity": 0.534,
+                "profile_path": null,
+                "credit_id": "5ff49523d94035003dbad006",
+                "department": "Lighting",
+                "job": "Best Boy Electric"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1181371,
+                "known_for_department": "Editing",
+                "name": "Taylor Mahony",
+                "original_name": "Taylor Mahony",
+                "popularity": 1.755,
+                "profile_path": null,
+                "credit_id": "5ff4953618864b003ec771cc",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1287927,
+                "known_for_department": "Acting",
+                "name": "August Roads",
+                "original_name": "August Roads",
+                "popularity": 8.371,
+                "profile_path": "/ydbzCL5aXceQ6iI8t6EBBmJRyAt.jpg",
+                "credit_id": "5ff4954981140f003ef96836",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1919224,
+                "known_for_department": "Directing",
+                "name": "Nora Glasner",
+                "original_name": "Nora Glasner",
+                "popularity": 0.772,
+                "profile_path": null,
+                "credit_id": "5ff4955e8e20c50045c0b707",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2017787,
+                "known_for_department": "Acting",
+                "name": "André Van Driessche",
+                "original_name": "André Van Driessche",
+                "popularity": 0.353,
+                "profile_path": null,
+                "credit_id": "5ff49571647654003f5f355e",
+                "department": "Production",
+                "job": "Production Assistant"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Anna Schafer",
+            "character": "Elizabeth"
+        },
+        {
+            "actor": "Ryan Vincent",
+            "character": "Grant"
+        },
+        {
+            "actor": "Adewale Akinnuoye-Agbaje",
+            "character": "Dr. Bowman"
+        },
+        {
+            "actor": "Kathleen Quinlan",
+            "character": "Carol"
+        },
+        {
+            "actor": "Christopher Ashman",
+            "character": "Tim"
+        },
+        {
+            "actor": "Inger Tudor",
+            "character": "Head Nurse Regina"
+        },
+        {
+            "actor": "Nicola Lambo",
+            "character": "Jane"
+        },
+        {
+            "actor": "Sarai Jimenez",
+            "character": "Mary"
+        },
+        {
+            "actor": "Sarah Clingenpeel",
+            "character": "Receptionist"
+        },
+        {
+            "actor": "Nathlye Abraham",
+            "character": "Receptionist"
+        },
+        {
+            "actor": "Farida Amer",
+            "character": "Hospital Patient"
+        },
+        {
+            "actor": "Tyler Vess",
+            "character": "Hospital Patient"
+        }
+    ]
+}

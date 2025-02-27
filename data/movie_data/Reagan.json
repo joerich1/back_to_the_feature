@@ -1,0 +1,1123 @@
+{
+    "adult": false,
+    "backdrop_path": "/7ieOBkZufrg0rYth1zdmb4y5umH.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 647245,
+    "imdb_id": "tt1723808",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Reagan",
+    "overview": "A drama based on the life of Ronald Reagan, from his childhood to his time in the oval office.",
+    "popularity": 19.492,
+    "poster_path": "/eWraIbYVrpLK7ELjbUkeCzG8mNX.jpg",
+    "production_companies": [
+        {
+            "id": 143537,
+            "logo_path": null,
+            "name": "Rawhide Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-08-30",
+    "revenue": 0,
+    "runtime": 0,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "In Production",
+    "tagline": "",
+    "title": "Reagan",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-08-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6065,
+                "known_for_department": "Acting",
+                "name": "Dennis Quaid",
+                "original_name": "Dennis Quaid",
+                "popularity": 69.553,
+                "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+                "cast_id": 1,
+                "character": "Ronald Reagan",
+                "credit_id": "5dc9c7f36c0e4f00153cd480",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95136,
+                "known_for_department": "Acting",
+                "name": "David Henrie",
+                "original_name": "David Henrie",
+                "popularity": 24.401,
+                "profile_path": "/1NuD0ltILDRRCMfmLPHM8bSfzhb.jpg",
+                "cast_id": 8,
+                "character": "Young Adult Reagan",
+                "credit_id": "5fabe2051d019100427d64cf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2055,
+                "known_for_department": "Acting",
+                "name": "Robert Davi",
+                "original_name": "Robert Davi",
+                "popularity": 41.684,
+                "profile_path": "/yizOUAKs59CwKM6pU30gIP9gTup.jpg",
+                "cast_id": 3,
+                "character": "Leonid Brezhnev",
+                "credit_id": "5dc9c851470ead0015996ee9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11398,
+                "known_for_department": "Acting",
+                "name": "Cary-Hiroyuki Tagawa",
+                "original_name": "Cary-Hiroyuki Tagawa",
+                "popularity": 23.968,
+                "profile_path": "/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg",
+                "cast_id": 4,
+                "character": "Prime Minister Yasuhiro Nakasone",
+                "credit_id": "5dc9c86bab1bc700130775fe",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8211,
+                "known_for_department": "Acting",
+                "name": "Mena Suvari",
+                "original_name": "Mena Suvari",
+                "popularity": 56.423,
+                "profile_path": "/2hRoibF2WkPyML3PD0ijmJo2OKE.jpg",
+                "cast_id": 6,
+                "character": "Jane Wyman",
+                "credit_id": "5fabe1771c0435003d3ae7bb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10127,
+                "known_for_department": "Acting",
+                "name": "Jon Voight",
+                "original_name": "Jon Voight",
+                "popularity": 54.293,
+                "profile_path": "/nuiTfACxhKRE2D2FWbK93m5MgSS.jpg",
+                "cast_id": 2,
+                "character": "Viktor Novikov",
+                "credit_id": "5dc9c82d470ead0018990f3c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14698,
+                "known_for_department": "Acting",
+                "name": "Penelope Ann Miller",
+                "original_name": "Penelope Ann Miller",
+                "popularity": 28.833,
+                "profile_path": "/iDQCkKWi49Z8KWnUWVeOb6vn8L7.jpg",
+                "cast_id": 7,
+                "character": "Nancy Reagan",
+                "credit_id": "5fabe1e8b6abc4003ef53a69",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63941,
+                "known_for_department": "Acting",
+                "name": "Marshall R. Teague",
+                "original_name": "Marshall R. Teague",
+                "popularity": 16.645,
+                "profile_path": "/yOlxb4cz9qzp6vDAE248VXH6lTK.jpg",
+                "cast_id": 9,
+                "character": "Eduard Shevardnadze",
+                "credit_id": "5fabe21041a5610041a3d4e8",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84841,
+                "known_for_department": "Acting",
+                "name": "Randy Wayne",
+                "original_name": "Randy Wayne",
+                "popularity": 10.615,
+                "profile_path": "/p0SENcEiSxd3uy31ekcFF4xXvJP.jpg",
+                "cast_id": 10,
+                "character": "Tony Dolan",
+                "credit_id": "5fabe219f48e0d003ff2c05e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109441,
+                "known_for_department": "Acting",
+                "name": "Chris Massoglia",
+                "original_name": "Chris Massoglia",
+                "popularity": 16.591,
+                "profile_path": "/b0o6IWVRpgt1h81VXAEOy6geX5E.jpg",
+                "cast_id": 11,
+                "character": "Pat Boone",
+                "credit_id": "5fabe227bf31f2003ee2f02b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 193946,
+                "known_for_department": "Crew",
+                "name": "Mark Kubr",
+                "original_name": "Mark Kubr",
+                "popularity": 16.226,
+                "profile_path": "/cKirtLhuKfYWgb0HHUO2yLIdyxZ.jpg",
+                "cast_id": 12,
+                "character": "Herb Sorrell",
+                "credit_id": "5fabe236960cde00439366e4",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1217939,
+                "known_for_department": "Acting",
+                "name": "Robert Peters",
+                "original_name": "Robert Peters",
+                "popularity": 9.051,
+                "profile_path": "/ub1u7ydCng5T71w1gtHfH3KC2Hl.jpg",
+                "cast_id": 13,
+                "character": "Agent Jerry Parr",
+                "credit_id": "5fabe25b1d019100417deee0",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1133460,
+                "known_for_department": "Acting",
+                "name": "Paul T. Taylor",
+                "original_name": "Paul T. Taylor",
+                "popularity": 5.468,
+                "profile_path": "/tqTzRxsmt1LgBxBGMmEAIfKpsKo.jpg",
+                "cast_id": 14,
+                "character": "Dr. Benjamin Aaron",
+                "credit_id": "5fabe264126ec300427c9906",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 132470,
+                "known_for_department": "Acting",
+                "name": "Casey Graf",
+                "original_name": "Casey Graf",
+                "popularity": 4.697,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Fred Baird",
+                "credit_id": "5fabe43341a5610041a3d760",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1850474,
+                "known_for_department": "Acting",
+                "name": "James Healy Jr.",
+                "original_name": "James Healy Jr.",
+                "popularity": 6.599,
+                "profile_path": "/m2mdOWVXSpqaa1WFe0RiFFzYR7N.jpg",
+                "cast_id": 16,
+                "character": "Air Force General",
+                "credit_id": "5fabe440e1faed0040474349",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2852277,
+                "known_for_department": "Acting",
+                "name": "Jake Washburn",
+                "original_name": "Jake Washburn",
+                "popularity": 1.787,
+                "profile_path": "/wP8LzgOaVzqW4ahRuPQjcwiFKcn.jpg",
+                "cast_id": 17,
+                "character": "Secret Service Agent",
+                "credit_id": "5fabe44d8de0ae0043bb22ab",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1497306,
+                "known_for_department": "Acting",
+                "name": "Brooks Ryan",
+                "original_name": "Brooks Ryan",
+                "popularity": 6.185,
+                "profile_path": "/oxJcqb9SNGCfIAWZcP2nwRVesNV.jpg",
+                "cast_id": 18,
+                "character": "Handsome Leading Man",
+                "credit_id": "5fabe4bf875d1a003f0cc55b",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 158231,
+                "known_for_department": "Acting",
+                "name": "Will Wallace",
+                "original_name": "Will Wallace",
+                "popularity": 5.787,
+                "profile_path": "/n6AI0SA91DV2bubLxAtfKuSERRy.jpg",
+                "cast_id": 19,
+                "character": "Edwin Meese",
+                "credit_id": "5fabe4e05f2b8d00418d548a",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2852278,
+                "known_for_department": "Acting",
+                "name": "Mindy Fay Parks",
+                "original_name": "Mindy Fay Parks",
+                "popularity": 1.236,
+                "profile_path": "/c8PvNZjlHCMGtnaONHTp8iSZKEC.jpg",
+                "cast_id": 20,
+                "character": "Nurse",
+                "credit_id": "5fabe4ee41a5610044a432ca",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2852281,
+                "known_for_department": "Acting",
+                "name": "Jim Henry",
+                "original_name": "Jim Henry",
+                "popularity": 0.266,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "CSU Thug #1",
+                "credit_id": "5fabe5abd6d64d004079cbe1",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2796100,
+                "known_for_department": "Acting",
+                "name": "Dustin Wilson",
+                "original_name": "Dustin Wilson",
+                "popularity": 3.073,
+                "profile_path": "/twwuRhi6ColvcR9U02MIry28XB9.jpg",
+                "cast_id": 22,
+                "character": "IA Picketer",
+                "credit_id": "5fabe5ba1c0435003f3a7f51",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1973813,
+                "known_for_department": "Acting",
+                "name": "Bryan Whorton",
+                "original_name": "Bryan Whorton",
+                "popularity": 1.197,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Dr. Price",
+                "credit_id": "5fabe5e7c048a900404bb0e0",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1410855,
+                "known_for_department": "Acting",
+                "name": "Sean Hankinson",
+                "original_name": "Sean Hankinson",
+                "popularity": 7.183,
+                "profile_path": "/eKwvrnPrzu6o9AGrLB8pq2t7Jt0.jpg",
+                "cast_id": 24,
+                "character": "Dalton Trumbo",
+                "credit_id": "5fabe681b6abc4003df4f9ff",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2852287,
+                "known_for_department": "Acting",
+                "name": "Ty Clifton",
+                "original_name": "Ty Clifton",
+                "popularity": 0.476,
+                "profile_path": "/6QiZoetTpQtrchBLqXGl8ixaFI7.jpg",
+                "cast_id": 25,
+                "character": "Secret Service Agent",
+                "credit_id": "5fabe69453866e0043176944",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2080778,
+                "known_for_department": "Acting",
+                "name": "Butch Bradley",
+                "original_name": "Butch Bradley",
+                "popularity": 0.714,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Continental Funny Guy",
+                "credit_id": "5fabe6f08de0ae0040bb1362",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2618665,
+                "known_for_department": "Acting",
+                "name": "Lisandro Boccacci",
+                "original_name": "Lisandro Boccacci",
+                "popularity": 3.887,
+                "profile_path": "/zmX8zEN1owhrBWo854kGsZ9fIO1.jpg",
+                "cast_id": 27,
+                "character": "Capital Aide",
+                "credit_id": "5fabe6fd960cde004192c3e4",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2852290,
+                "known_for_department": "Acting",
+                "name": "Chris Dry",
+                "original_name": "Chris Dry",
+                "popularity": 0.676,
+                "profile_path": "/nu0Hi01kVlgft2m9bip3avnHnZI.jpg",
+                "cast_id": 28,
+                "character": "Club Patron",
+                "credit_id": "5fabe720b6abc4003ff46434",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2101745,
+                "known_for_department": "Acting",
+                "name": "Stephen Sherman",
+                "original_name": "Stephen Sherman",
+                "popularity": 0.503,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Eddie Albert",
+                "credit_id": "5fabe76b1d019100417df503",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 57189,
+                "known_for_department": "Acting",
+                "name": "Ryan Whitney Newman",
+                "original_name": "Ryan Whitney Newman",
+                "popularity": 31.12,
+                "profile_path": "/jAmt37HUk0Q2mzaLrNTA9EhSxl9.jpg",
+                "cast_id": 54,
+                "character": "Margaret \"Mugs\" Cleaver",
+                "credit_id": "61a5e40e383df20045917ea4",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2852296,
+                "known_for_department": "Acting",
+                "name": "Barbie Bailey",
+                "original_name": "Barbie Bailey",
+                "popularity": 0.226,
+                "profile_path": "/aQufTpJxsSFG43w5r78eNlOk2ko.jpg",
+                "cast_id": 30,
+                "character": "Stage Dignitary",
+                "credit_id": "5fabe7788de0ae0043bb25e9",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1080859,
+                "known_for_department": "Acting",
+                "name": "Jordan Matlock",
+                "original_name": "Jordan Matlock",
+                "popularity": 6.975,
+                "profile_path": "/3JoZpwQrY3zz4l9avkBnbafhitB.jpg",
+                "cast_id": 31,
+                "character": "Bill Holden",
+                "credit_id": "5fabe820871b340040be47b6",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2618591,
+                "known_for_department": "Acting",
+                "name": "Skip Schwink",
+                "original_name": "Skip Schwink",
+                "popularity": 3.556,
+                "profile_path": "/vDiicDZwb82JE8rzy9gCJeXHyuG.jpg",
+                "cast_id": 32,
+                "character": "Jimmy Carter",
+                "credit_id": "5fabe8405f2b8d00408d9137",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2852303,
+                "known_for_department": "Acting",
+                "name": "Lena Harmon",
+                "original_name": "Lena Harmon",
+                "popularity": 5.818,
+                "profile_path": "/unDwa9xQrCU628ks2m3rz2n0yyH.jpg",
+                "cast_id": 33,
+                "character": "Stage Dignitary",
+                "credit_id": "5fabe84c85c0a2003fdce6f9",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 997845,
+                "known_for_department": "Acting",
+                "name": "Brian Shoop",
+                "original_name": "Brian Shoop",
+                "popularity": 3.678,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Mock Moderator",
+                "credit_id": "5fabe8dabf31f20040e33227",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2852310,
+                "known_for_department": "Acting",
+                "name": "Dathan Smith",
+                "original_name": "Dathan Smith",
+                "popularity": 1.388,
+                "profile_path": "/5YQZcFFhbkzoDwCq4UH6xDGqoD8.jpg",
+                "cast_id": 35,
+                "character": "The Continentals",
+                "credit_id": "5fabe8e4c048a900404bb462",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2852316,
+                "known_for_department": "Acting",
+                "name": "Garrett O'Brien",
+                "original_name": "Garrett O'Brien",
+                "popularity": 2.151,
+                "profile_path": "/NyZba4qRheMOsa9JVqAN4gyQwM.jpg",
+                "cast_id": 37,
+                "character": "KGB Operative",
+                "credit_id": "5fabe9d2875d1a00400c7160",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6863,
+                "known_for_department": "Acting",
+                "name": "Kevin Dillon",
+                "original_name": "Kevin Dillon",
+                "popularity": 37.444,
+                "profile_path": "/wfBEjFfkJt1dORR0mKPu89qCcJK.jpg",
+                "cast_id": 43,
+                "character": "Jack L. Warner",
+                "credit_id": "5fb41873c15f89003e878c6e",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024948,
+                "known_for_department": "Acting",
+                "name": "Alex Sparrow",
+                "original_name": "Алексей Воробьёв",
+                "popularity": 17.452,
+                "profile_path": "/58ZRgaeYQLTBHWF8WUbLdGGnHTH.jpg",
+                "cast_id": 44,
+                "character": "Andrey Novikov",
+                "credit_id": "5fce0267e32943003f402663",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1231773,
+                "known_for_department": "Acting",
+                "name": "Scott Stapp",
+                "original_name": "Scott Stapp",
+                "popularity": 9.862,
+                "profile_path": "/zuMfcCBybzV6sW6S0B7vwHDjNy6.jpg",
+                "cast_id": 45,
+                "character": "Frank Sinatra",
+                "credit_id": "5fe2dafceb79c2003d442508",
+                "order": 38
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3315959,
+                "known_for_department": "Acting",
+                "name": "Keri Jenae Garrett",
+                "original_name": "Keri Jenae Garrett",
+                "popularity": 0.115,
+                "profile_path": null,
+                "cast_id": 47,
+                "character": "Surgical Nurse",
+                "credit_id": "61973690bc2cb3006426e647",
+                "order": 39
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3315939,
+                "known_for_department": "Acting",
+                "name": "Bobby Ray Thompson III",
+                "original_name": "Bobby Ray Thompson III",
+                "popularity": 0.232,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Palmer",
+                "credit_id": "619739525c071b0042787e8b",
+                "order": 40
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2542673,
+                "known_for_department": "Acting",
+                "name": "Ed Spinelli",
+                "original_name": "Ed Spinelli",
+                "popularity": 4.831,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Naval Commander Sr. Advisor",
+                "credit_id": "61973a7aae38430061742267",
+                "order": 41
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2367751,
+                "known_for_department": "Acting",
+                "name": "Aaron J. Brooks",
+                "original_name": "Aaron J. Brooks",
+                "popularity": 3.648,
+                "profile_path": "/mZW38mcR8eKbZLPRzLNkHQU8bSO.jpg",
+                "cast_id": 50,
+                "character": "Stage Dignitary",
+                "credit_id": "61973d8beb14fa00443a8e31",
+                "order": 42
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3315952,
+                "known_for_department": "Acting",
+                "name": "Brenda Williams",
+                "original_name": "Brenda Williams",
+                "popularity": 1.31,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "Reporter",
+                "credit_id": "61974c265c071b0065f14387",
+                "order": 43
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3076220,
+                "known_for_department": "Acting",
+                "name": "Kenda Henthorn",
+                "original_name": "Kenda Henthorn",
+                "popularity": 2.238,
+                "profile_path": "/52HuZs0gzTSIPy6kSwHENrwGTYd.jpg",
+                "cast_id": 52,
+                "character": "Church Goer",
+                "credit_id": "619e14ffbc2cb300643077e8",
+                "order": 44
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2237933,
+                "known_for_department": "Acting",
+                "name": "Ben Richardson",
+                "original_name": "Ben Richardson",
+                "popularity": 4.37,
+                "profile_path": "/vQpJ2Sm8QFIE9LRLUFnpZnZtvwk.jpg",
+                "cast_id": 53,
+                "character": "Continental",
+                "credit_id": "61a5e37fbe4b360045d5a875",
+                "order": 45
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3315935,
+                "known_for_department": "Acting",
+                "name": "Alex Atkinson",
+                "original_name": "Alex Atkinson",
+                "popularity": 4.826,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "Delahanty",
+                "credit_id": "61aa62d90486380091acac1d",
+                "order": 46
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1411401,
+                "known_for_department": "Acting",
+                "name": "Collin Place",
+                "original_name": "Collin Place",
+                "popularity": 3.279,
+                "profile_path": "/tOXWngmxdIPeRIHvluqyFFhNqy3.jpg",
+                "cast_id": 61,
+                "character": "Young Viktor",
+                "credit_id": "62ad06f341429100921127ff",
+                "order": 47
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3668942,
+                "known_for_department": "Acting",
+                "name": "Douglas K Harrison",
+                "original_name": "Douglas K Harrison",
+                "popularity": 0.197,
+                "profile_path": null,
+                "cast_id": 63,
+                "character": "Yuri Andropov",
+                "credit_id": "62ff3b67d6819b007d3b94c7",
+                "order": 48
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4203229,
+                "known_for_department": "Acting",
+                "name": "Ben van Diepen",
+                "original_name": "Ben van Diepen",
+                "popularity": 1.119,
+                "profile_path": "/sR6QWwiu7CzPafuhXmtLWnCRbc7.jpg",
+                "cast_id": 64,
+                "character": "Russian Fighter Pilot",
+                "credit_id": "658cc2610f21c63df3cbd185",
+                "order": 49
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1913854,
+                "known_for_department": "Acting",
+                "name": "Greg Williams",
+                "original_name": "Greg Williams",
+                "popularity": 3.514,
+                "profile_path": null,
+                "cast_id": 66,
+                "character": "Navy Admiral",
+                "credit_id": "6628ff5a39549a0189018ce0",
+                "order": 50
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129952,
+                "known_for_department": "Directing",
+                "name": "Sean McNamara",
+                "original_name": "Sean McNamara",
+                "popularity": 20.033,
+                "profile_path": "/iJLRIBB2P3LXsPBvzdYhf06Lful.jpg",
+                "credit_id": "5dc9c88e470ead0013991014",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44065,
+                "known_for_department": "Writing",
+                "name": "Howard Klausner",
+                "original_name": "Howard Klausner",
+                "popularity": 6.791,
+                "profile_path": null,
+                "credit_id": "5fabee965f2b8d003f8de718",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 166469,
+                "known_for_department": "Writing",
+                "name": "Jonas McCord",
+                "original_name": "Jonas McCord",
+                "popularity": 8.508,
+                "profile_path": null,
+                "credit_id": "5fabeea172c13e003f790ad5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4020,
+                "known_for_department": "Camera",
+                "name": "Christian Sebaldt",
+                "original_name": "Christian Sebaldt",
+                "popularity": 7.449,
+                "profile_path": null,
+                "credit_id": "5fabeece126ec300417c1bf0",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59563,
+                "known_for_department": "Editing",
+                "name": "Jeff Canavan",
+                "original_name": "Jeff Canavan",
+                "popularity": 8.395,
+                "profile_path": null,
+                "credit_id": "5fabeed82a09bc003f902393",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1997781,
+                "known_for_department": "Production",
+                "name": "Mark Joseph",
+                "original_name": "Mark Joseph",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "606db33512c6040040c8cf6d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3329892,
+                "known_for_department": "Writing",
+                "name": "Paul Kengor",
+                "original_name": "Paul Kengor",
+                "popularity": 2.608,
+                "profile_path": null,
+                "credit_id": "61a5e4762495ab002a0c27a5",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92303,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gary Archer",
+                "original_name": "Gary Archer",
+                "popularity": 9.132,
+                "profile_path": "/7cinROGhbaTpWPRrD12Za2XyZcV.jpg",
+                "credit_id": "62c3370bf6fd18004ce236ff",
+                "department": "Costume & Make-Up",
+                "job": "Prosthetics"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4519959,
+                "known_for_department": "Directing",
+                "name": "Jordan Roby",
+                "original_name": "Jordan Roby",
+                "popularity": 4.31,
+                "profile_path": "/cGv0hJ3kLzctrw1HDlaAZJfaBIE.jpg",
+                "credit_id": "65ea9e3094d8a8017b8f2063",
+                "department": "Production",
+                "job": "Production Assistant"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Dennis Quaid",
+            "character": "Ronald Reagan"
+        },
+        {
+            "actor": "David Henrie",
+            "character": "Young Adult Reagan"
+        },
+        {
+            "actor": "Robert Davi",
+            "character": "Leonid Brezhnev"
+        },
+        {
+            "actor": "Cary-Hiroyuki Tagawa",
+            "character": "Prime Minister Yasuhiro Nakasone"
+        },
+        {
+            "actor": "Mena Suvari",
+            "character": "Jane Wyman"
+        },
+        {
+            "actor": "Jon Voight",
+            "character": "Viktor Novikov"
+        },
+        {
+            "actor": "Penelope Ann Miller",
+            "character": "Nancy Reagan"
+        },
+        {
+            "actor": "Marshall R. Teague",
+            "character": "Eduard Shevardnadze"
+        },
+        {
+            "actor": "Randy Wayne",
+            "character": "Tony Dolan"
+        },
+        {
+            "actor": "Chris Massoglia",
+            "character": "Pat Boone"
+        },
+        {
+            "actor": "Mark Kubr",
+            "character": "Herb Sorrell"
+        },
+        {
+            "actor": "Robert Peters",
+            "character": "Agent Jerry Parr"
+        },
+        {
+            "actor": "Paul T. Taylor",
+            "character": "Dr. Benjamin Aaron"
+        },
+        {
+            "actor": "Casey Graf",
+            "character": "Fred Baird"
+        },
+        {
+            "actor": "James Healy Jr.",
+            "character": "Air Force General"
+        },
+        {
+            "actor": "Jake Washburn",
+            "character": "Secret Service Agent"
+        },
+        {
+            "actor": "Brooks Ryan",
+            "character": "Handsome Leading Man"
+        },
+        {
+            "actor": "Will Wallace",
+            "character": "Edwin Meese"
+        },
+        {
+            "actor": "Mindy Fay Parks",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Jim Henry",
+            "character": "CSU Thug #1"
+        },
+        {
+            "actor": "Dustin Wilson",
+            "character": "IA Picketer"
+        },
+        {
+            "actor": "Bryan Whorton",
+            "character": "Dr. Price"
+        },
+        {
+            "actor": "Sean Hankinson",
+            "character": "Dalton Trumbo"
+        },
+        {
+            "actor": "Ty Clifton",
+            "character": "Secret Service Agent"
+        },
+        {
+            "actor": "Butch Bradley",
+            "character": "Continental Funny Guy"
+        },
+        {
+            "actor": "Lisandro Boccacci",
+            "character": "Capital Aide"
+        },
+        {
+            "actor": "Chris Dry",
+            "character": "Club Patron"
+        },
+        {
+            "actor": "Stephen Sherman",
+            "character": "Eddie Albert"
+        },
+        {
+            "actor": "Ryan Whitney Newman",
+            "character": "Margaret \"Mugs\" Cleaver"
+        },
+        {
+            "actor": "Barbie Bailey",
+            "character": "Stage Dignitary"
+        },
+        {
+            "actor": "Jordan Matlock",
+            "character": "Bill Holden"
+        },
+        {
+            "actor": "Skip Schwink",
+            "character": "Jimmy Carter"
+        },
+        {
+            "actor": "Lena Harmon",
+            "character": "Stage Dignitary"
+        },
+        {
+            "actor": "Brian Shoop",
+            "character": "Mock Moderator"
+        },
+        {
+            "actor": "Dathan Smith",
+            "character": "The Continentals"
+        },
+        {
+            "actor": "Garrett O'Brien",
+            "character": "KGB Operative"
+        },
+        {
+            "actor": "Kevin Dillon",
+            "character": "Jack L. Warner"
+        },
+        {
+            "actor": "Alex Sparrow",
+            "character": "Andrey Novikov"
+        },
+        {
+            "actor": "Scott Stapp",
+            "character": "Frank Sinatra"
+        },
+        {
+            "actor": "Keri Jenae Garrett",
+            "character": "Surgical Nurse"
+        },
+        {
+            "actor": "Bobby Ray Thompson III",
+            "character": "Palmer"
+        },
+        {
+            "actor": "Ed Spinelli",
+            "character": "Naval Commander Sr. Advisor"
+        },
+        {
+            "actor": "Aaron J. Brooks",
+            "character": "Stage Dignitary"
+        },
+        {
+            "actor": "Brenda Williams",
+            "character": "Reporter"
+        },
+        {
+            "actor": "Kenda Henthorn",
+            "character": "Church Goer"
+        },
+        {
+            "actor": "Ben Richardson",
+            "character": "Continental"
+        },
+        {
+            "actor": "Alex Atkinson",
+            "character": "Delahanty"
+        },
+        {
+            "actor": "Collin Place",
+            "character": "Young Viktor"
+        },
+        {
+            "actor": "Douglas K Harrison",
+            "character": "Yuri Andropov"
+        },
+        {
+            "actor": "Ben van Diepen",
+            "character": "Russian Fighter Pilot"
+        },
+        {
+            "actor": "Greg Williams",
+            "character": "Navy Admiral"
+        }
+    ]
+}

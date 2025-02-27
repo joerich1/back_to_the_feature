@@ -1,0 +1,860 @@
+{
+    "adult": false,
+    "backdrop_path": "/9WRhl49xB7NkdL7tdMR9CLMf5FQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "http://www.magnetreleasing.com/tuckeranddalevsevil/",
+    "id": 46838,
+    "imdb_id": "tt1465522",
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tucker and Dale vs. Evil",
+    "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+    "popularity": 31.901,
+    "poster_path": "/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+    "production_companies": [
+        {
+            "id": 2273,
+            "logo_path": null,
+            "name": "Eden Rock Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 31741,
+            "logo_path": null,
+            "name": "Gynormous Pictures",
+            "origin_country": "CA"
+        },
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-01-22",
+    "revenue": 5224938,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Evil just messed with the wrong hillbillies.",
+    "title": "Tucker and Dale vs. Evil",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 2621,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-07-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "14A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-07-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-02-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-04-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-02-01T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-07-04T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-09-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-09-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-02-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-06-29T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KZ",
+                "release_dates": [
+                    {
+                        "certification": "Е16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-12-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-01-13T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD, Blu ray",
+                        "release_date": "2011-07-27T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Veronica",
+                        "release_date": "2014-11-02T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-01-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "DVD & Blu-ray release",
+                        "release_date": "2011-06-08T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-01-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21088,
+                "known_for_department": "Acting",
+                "name": "Alan Tudyk",
+                "original_name": "Alan Tudyk",
+                "popularity": 37.685,
+                "profile_path": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg",
+                "cast_id": 1,
+                "character": "Tucker",
+                "credit_id": "52fe470fc3a36847f8121399",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51383,
+                "known_for_department": "Acting",
+                "name": "Tyler Labine",
+                "original_name": "Tyler Labine",
+                "popularity": 21.727,
+                "profile_path": "/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg",
+                "cast_id": 2,
+                "character": "Dale",
+                "credit_id": "52fe470fc3a36847f812139d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 74618,
+                "known_for_department": "Acting",
+                "name": "Katrina Bowden",
+                "original_name": "Katrina Bowden",
+                "popularity": 27.948,
+                "profile_path": "/ykdL2JKteaBexfDiS9jp9Msyori.jpg",
+                "cast_id": 3,
+                "character": "Allison",
+                "credit_id": "52fe470fc3a36847f81213a1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64670,
+                "known_for_department": "Acting",
+                "name": "Philip Granger",
+                "original_name": "Philip Granger",
+                "popularity": 18.638,
+                "profile_path": "/yUo0EbJlWnEl56cYXXkITVFbcVU.jpg",
+                "cast_id": 11,
+                "character": "Sheriff",
+                "credit_id": "52fe470fc3a36847f81213c1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59926,
+                "known_for_department": "Acting",
+                "name": "Jesse Moss",
+                "original_name": "Jesse Moss",
+                "popularity": 15.326,
+                "profile_path": "/ki9S8rLqvhde9nYaUqrMisCSqwq.jpg",
+                "cast_id": 4,
+                "character": "Chad",
+                "credit_id": "52fe470fc3a36847f81213a5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236707,
+                "known_for_department": "Acting",
+                "name": "Bill Baksa",
+                "original_name": "Bill Baksa",
+                "popularity": 5.025,
+                "profile_path": "/1oQFNaTiomZSGMzTUFLspnzoPq0.jpg",
+                "cast_id": 21,
+                "character": "BJ Hillbilly",
+                "credit_id": "52fe470fc3a36847f81213e9",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 168554,
+                "known_for_department": "Acting",
+                "name": "Christie Laing",
+                "original_name": "Christie Laing",
+                "popularity": 17.034,
+                "profile_path": "/wmyje5oGIo9HJP6oST9CfsG3jYC.jpg",
+                "cast_id": 13,
+                "character": "Naomi",
+                "credit_id": "52fe470fc3a36847f81213c9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27775,
+                "known_for_department": "Acting",
+                "name": "Chelan Simmons",
+                "original_name": "Chelan Simmons",
+                "popularity": 30.062,
+                "profile_path": "/fFExrhQ4tnJmjsb54mFiURgAMQz.jpg",
+                "cast_id": 14,
+                "character": "Chloe",
+                "credit_id": "52fe470fc3a36847f81213cd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58371,
+                "known_for_department": "Acting",
+                "name": "Brandon Jay McLaren",
+                "original_name": "Brandon Jay McLaren",
+                "popularity": 18.263,
+                "profile_path": "/jZKb3ziBI3r8I6Yd8m1zUWl2G4O.jpg",
+                "cast_id": 12,
+                "character": "Jason",
+                "credit_id": "52fe470fc3a36847f81213c5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236702,
+                "known_for_department": "Acting",
+                "name": "Travis Nelson",
+                "original_name": "Travis Nelson",
+                "popularity": 18.905,
+                "profile_path": "/y5aSsFzlsW21qjXb2gxdla8rsKc.jpg",
+                "cast_id": 15,
+                "character": "Chuck",
+                "credit_id": "52fe470fc3a36847f81213d1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 212952,
+                "known_for_department": "Acting",
+                "name": "Alex Arsenault",
+                "original_name": "Alex Arsenault",
+                "popularity": 9.469,
+                "profile_path": "/g5TwlkXAgEVJQ5PFCYJBHFMduPq.jpg",
+                "cast_id": 16,
+                "character": "Todd",
+                "credit_id": "52fe470fc3a36847f81213d5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236703,
+                "known_for_department": "Acting",
+                "name": "Adam Beauchesne",
+                "original_name": "Adam Beauchesne",
+                "popularity": 10.982,
+                "profile_path": "/kspAirq1jX0k2zFx47j8397Wr9N.jpg",
+                "cast_id": 17,
+                "character": "Mitch",
+                "credit_id": "52fe470fc3a36847f81213d9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236704,
+                "known_for_department": "Acting",
+                "name": "Joseph Allan Sutherland",
+                "original_name": "Joseph Allan Sutherland",
+                "popularity": 3.789,
+                "profile_path": "/noPrzbkCwp00EVY2j8aTS3uH9w5.jpg",
+                "cast_id": 18,
+                "character": "Mike",
+                "credit_id": "52fe470fc3a36847f81213dd",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 236705,
+                "known_for_department": "Acting",
+                "name": "Karen Reigh",
+                "original_name": "Karen Reigh",
+                "popularity": 2.376,
+                "profile_path": "/yzWDq509HlYUvvpmvTYmc4RWYxs.jpg",
+                "cast_id": 19,
+                "character": "Cheryl",
+                "credit_id": "52fe470fc3a36847f81213e1",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 236706,
+                "known_for_department": "Acting",
+                "name": "Tye Evans",
+                "original_name": "Tye Evans",
+                "popularity": 6.212,
+                "profile_path": "/lMDbnDWS3obpEkBuO1fUo8ozetL.jpg",
+                "cast_id": 20,
+                "character": "Chad's Dad",
+                "credit_id": "52fe470fc3a36847f81213e5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1345768,
+                "known_for_department": "Acting",
+                "name": "Mitchell Verigin",
+                "original_name": "Mitchell Verigin",
+                "popularity": 5.047,
+                "profile_path": "/dtgeNdVPx0HHnHt3pgjAndcJhYe.jpg",
+                "cast_id": 34,
+                "character": "College Kid #1",
+                "credit_id": "5c585bde0e0a265e19d7280f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2234621,
+                "known_for_department": "Acting",
+                "name": "Angela DeCorte",
+                "original_name": "Angela DeCorte",
+                "popularity": 1.626,
+                "profile_path": "/44Hajd30HU82AlBJO0lQL41tckW.jpg",
+                "cast_id": 35,
+                "character": "College Kid #2",
+                "credit_id": "5c585beec3a3680b5789b875",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 190856,
+                "known_for_department": "Acting",
+                "name": "Myles Pollard",
+                "original_name": "Myles Pollard",
+                "popularity": 25.043,
+                "profile_path": "/11UQ8KKxWJxTaRsXDrNEIyEwnoh.jpg",
+                "cast_id": 36,
+                "character": "Hillbilly Kid",
+                "credit_id": "5c585c950e0a26494de417d5",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52479,
+                "known_for_department": "Writing",
+                "name": "Eli Craig",
+                "original_name": "Eli Craig",
+                "popularity": 9.985,
+                "profile_path": "/gW41IAZ9OmntD7EFezcMWr1Ym6Y.jpg",
+                "cast_id": 37,
+                "character": "Cameraman",
+                "credit_id": "5c585cd6c3a368478ca34f8f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 39174,
+                "known_for_department": "Acting",
+                "name": "Sasha Williams",
+                "original_name": "Sasha Williams",
+                "popularity": 14.084,
+                "profile_path": "/AthV1Mw9LYdSBojYyfdMshYQyhz.jpg",
+                "cast_id": 38,
+                "character": "News Reporter",
+                "credit_id": "5c585dc10e0a260506caeede",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 137482,
+                "known_for_department": "Writing",
+                "name": "Morgan Jurgenson",
+                "original_name": "Morgan Jurgenson",
+                "popularity": 1.499,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81213ef",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52479,
+                "known_for_department": "Writing",
+                "name": "Eli Craig",
+                "original_name": "Eli Craig",
+                "popularity": 9.985,
+                "profile_path": "/gW41IAZ9OmntD7EFezcMWr1Ym6Y.jpg",
+                "credit_id": "52fe470fc3a36847f81213b1",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6223,
+                "known_for_department": "Production",
+                "name": "Deepak Nayar",
+                "original_name": "Deepak Nayar",
+                "popularity": 2.909,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121401",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 137482,
+                "known_for_department": "Writing",
+                "name": "Morgan Jurgenson",
+                "original_name": "Morgan Jurgenson",
+                "popularity": 1.499,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81213b7",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 455575,
+                "known_for_department": "Editing",
+                "name": "Bridget Durnford",
+                "original_name": "Bridget Durnford",
+                "popularity": 4.362,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121419",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59939,
+                "known_for_department": "Sound",
+                "name": "Mike Shields",
+                "original_name": "Mike Shields",
+                "popularity": 6.716,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121407",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 936269,
+                "known_for_department": "Production",
+                "name": "Rosanne Milliken",
+                "original_name": "Rosanne Milliken",
+                "popularity": 4.075,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81213fb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 936268,
+                "known_for_department": "Production",
+                "name": "Albert Klychak",
+                "original_name": "Albert Klychak",
+                "popularity": 1.126,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81213f5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52479,
+                "known_for_department": "Writing",
+                "name": "Eli Craig",
+                "original_name": "Eli Craig",
+                "popularity": 9.985,
+                "profile_path": "/gW41IAZ9OmntD7EFezcMWr1Ym6Y.jpg",
+                "credit_id": "52fe470fc3a36847f81213ab",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31906,
+                "known_for_department": "Camera",
+                "name": "David Geddes",
+                "original_name": "David Geddes",
+                "popularity": 7.099,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81213bd",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57366,
+                "known_for_department": "Production",
+                "name": "Thomas Augsberger",
+                "original_name": "Thomas Augsberger",
+                "popularity": 6.93,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f812140d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2021895,
+                "known_for_department": "Sound",
+                "name": "Brad Lindberg",
+                "original_name": "Brad Lindberg",
+                "popularity": 1.589,
+                "profile_path": null,
+                "credit_id": "5acfd1ef0e0a267498001e6a",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 229831,
+                "known_for_department": "Sound",
+                "name": "Dario DiSanto",
+                "original_name": "Dario DiSanto",
+                "popularity": 2.79,
+                "profile_path": null,
+                "credit_id": "5ae6e30ac3a368135500e022",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2714450,
+                "known_for_department": "Production",
+                "name": "Mark Ryan",
+                "original_name": "Mark Ryan",
+                "popularity": 0.29,
+                "profile_path": null,
+                "credit_id": "5f10dd855545ca0035f69f68",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1288830,
+                "known_for_department": "Crew",
+                "name": "Crystal Dalman",
+                "original_name": "Crystal Dalman",
+                "popularity": 4.885,
+                "profile_path": "/3xapSBLyiaVfpLPBRoxRXOZ9HfO.jpg",
+                "credit_id": "6485e3c8c9dbf90100cbfe66",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1810412,
+                "known_for_department": "Crew",
+                "name": "Jodi Stecyk",
+                "original_name": "Jodi Stecyk",
+                "popularity": 4.249,
+                "profile_path": "/Gvx7uP5NKNgl9wfsNK2q8Z7XYZ.jpg",
+                "credit_id": "655dfafcfab3fa01387a7943",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Alan Tudyk",
+            "character": "Tucker"
+        },
+        {
+            "actor": "Tyler Labine",
+            "character": "Dale"
+        },
+        {
+            "actor": "Katrina Bowden",
+            "character": "Allison"
+        },
+        {
+            "actor": "Philip Granger",
+            "character": "Sheriff"
+        },
+        {
+            "actor": "Jesse Moss",
+            "character": "Chad"
+        },
+        {
+            "actor": "Bill Baksa",
+            "character": "BJ Hillbilly"
+        },
+        {
+            "actor": "Christie Laing",
+            "character": "Naomi"
+        },
+        {
+            "actor": "Chelan Simmons",
+            "character": "Chloe"
+        },
+        {
+            "actor": "Brandon Jay McLaren",
+            "character": "Jason"
+        },
+        {
+            "actor": "Travis Nelson",
+            "character": "Chuck"
+        },
+        {
+            "actor": "Alex Arsenault",
+            "character": "Todd"
+        },
+        {
+            "actor": "Adam Beauchesne",
+            "character": "Mitch"
+        },
+        {
+            "actor": "Joseph Allan Sutherland",
+            "character": "Mike"
+        },
+        {
+            "actor": "Karen Reigh",
+            "character": "Cheryl"
+        },
+        {
+            "actor": "Tye Evans",
+            "character": "Chad's Dad"
+        },
+        {
+            "actor": "Mitchell Verigin",
+            "character": "College Kid #1"
+        },
+        {
+            "actor": "Angela DeCorte",
+            "character": "College Kid #2"
+        },
+        {
+            "actor": "Myles Pollard",
+            "character": "Hillbilly Kid"
+        },
+        {
+            "actor": "Eli Craig",
+            "character": "Cameraman"
+        },
+        {
+            "actor": "Sasha Williams",
+            "character": "News Reporter"
+        }
+    ]
+}

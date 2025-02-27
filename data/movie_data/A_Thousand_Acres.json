@@ -1,0 +1,902 @@
+{
+    "adult": false,
+    "backdrop_path": "/opYMZxuPnwxjuObBqlFYS7bvFzF.jpg",
+    "belongs_to_collection": null,
+    "budget": 28000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 66588,
+    "imdb_id": "tt0120323",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Thousand Acres",
+    "overview": "The lives of an Iowa farmer's three daughters are shattered when he suddenly decides to bequeath them the family's fertile farm.",
+    "popularity": 11.901,
+    "poster_path": "/p7tsW4oUi7hHbpNtFZdMQEBj42g.jpg",
+    "production_companies": [
+        {
+            "id": 9195,
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 278,
+            "logo_path": "/r3Aya3Sy7f24t6Waaug3mQn6ew7.png",
+            "name": "Propaganda Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 919,
+            "logo_path": null,
+            "name": "Beacon Communications",
+            "origin_country": ""
+        },
+        {
+            "id": 10103,
+            "logo_path": null,
+            "name": "Via Rosa Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 14745,
+            "logo_path": null,
+            "name": "Prairie Films",
+            "origin_country": ""
+        },
+        {
+            "id": 1382,
+            "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1997-09-19",
+    "revenue": 7936780,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Best friends. Bitter rivals. Sisters.",
+    "title": "A Thousand Acres",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 62,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1998-09-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1998-05-13T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2014-07-28T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2006-05-23T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2023-06-13T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-09-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1160,
+                "known_for_department": "Acting",
+                "name": "Michelle Pfeiffer",
+                "original_name": "Michelle Pfeiffer",
+                "popularity": 48.412,
+                "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg",
+                "cast_id": 1,
+                "character": "Rose Cook Lewis",
+                "credit_id": "52fe4742c3a368484e0bd639",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4431,
+                "known_for_department": "Acting",
+                "name": "Jessica Lange",
+                "original_name": "Jessica Lange",
+                "popularity": 43.16,
+                "profile_path": "/8pJ1eCqVwGJQjt5HYkzR0ZJpxEb.jpg",
+                "cast_id": 2,
+                "character": "Ginny Cook Smith",
+                "credit_id": "52fe4742c3a368484e0bd63d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4765,
+                "known_for_department": "Acting",
+                "name": "Jason Robards",
+                "original_name": "Jason Robards",
+                "popularity": 49.192,
+                "profile_path": "/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg",
+                "cast_id": 3,
+                "character": "Larry Cook",
+                "credit_id": "52fe4742c3a368484e0bd641",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10431,
+                "known_for_department": "Acting",
+                "name": "Jennifer Jason Leigh",
+                "original_name": "Jennifer Jason Leigh",
+                "popularity": 52.446,
+                "profile_path": "/9nT2mbQ9P8UpCXirssDxDT75jlm.jpg",
+                "cast_id": 4,
+                "character": "Caroline Cook",
+                "credit_id": "52fe4742c3a368484e0bd645",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5472,
+                "known_for_department": "Acting",
+                "name": "Colin Firth",
+                "original_name": "Colin Firth",
+                "popularity": 38.554,
+                "profile_path": "/4VBeYEUQbfhnivdkqInM36u5fda.jpg",
+                "cast_id": 5,
+                "character": "Jess Clark",
+                "credit_id": "52fe4742c3a368484e0bd649",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30613,
+                "known_for_department": "Acting",
+                "name": "Keith Carradine",
+                "original_name": "Keith Carradine",
+                "popularity": 49.424,
+                "profile_path": "/5gayZWGqjTAVJXr1bXovk3oqOxW.jpg",
+                "cast_id": 6,
+                "character": "Ty Smith",
+                "credit_id": "52fe4742c3a368484e0bd64d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51805,
+                "known_for_department": "Acting",
+                "name": "Kevin Anderson",
+                "original_name": "Kevin Anderson",
+                "popularity": 13.273,
+                "profile_path": "/5Y1ozTcXk02wTXmyvZnJlaxE82T.jpg",
+                "cast_id": 12,
+                "character": "Peter Lewis",
+                "credit_id": "52fe4742c3a368484e0bd66b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3798,
+                "known_for_department": "Acting",
+                "name": "Pat Hingle",
+                "original_name": "Pat Hingle",
+                "popularity": 17.735,
+                "profile_path": "/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg",
+                "cast_id": 13,
+                "character": "Harold Clark",
+                "credit_id": "52fe4742c3a368484e0bd66f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3911,
+                "known_for_department": "Acting",
+                "name": "John Carroll Lynch",
+                "original_name": "John Carroll Lynch",
+                "popularity": 14.351,
+                "profile_path": "/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg",
+                "cast_id": 14,
+                "character": "Ken LaSalle",
+                "credit_id": "52fe4742c3a368484e0bd673",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 38691,
+                "known_for_department": "Acting",
+                "name": "Anne Pitoniak",
+                "original_name": "Anne Pitoniak",
+                "popularity": 9.896,
+                "profile_path": "/xlKHdNrBCfCL7xJtmjFkWtoibkm.jpg",
+                "cast_id": 15,
+                "character": "Mary Livingstone",
+                "credit_id": "52fe4742c3a368484e0bd677",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61216,
+                "known_for_department": "Acting",
+                "name": "Vyto Ruginis",
+                "original_name": "Vyto Ruginis",
+                "popularity": 22.66,
+                "profile_path": "/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg",
+                "cast_id": 16,
+                "character": "Charles Carter",
+                "credit_id": "52fe4742c3a368484e0bd67b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1812,
+                "known_for_department": "Acting",
+                "name": "Michelle Williams",
+                "original_name": "Michelle Williams",
+                "popularity": 43.844,
+                "profile_path": "/b6mHfqOsf7zS7HzQL6dOfzbdmy7.jpg",
+                "cast_id": 7,
+                "character": "Pammy",
+                "credit_id": "52fe4742c3a368484e0bd651",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32798,
+                "known_for_department": "Acting",
+                "name": "Elisabeth Moss",
+                "original_name": "Elisabeth Moss",
+                "popularity": 33.126,
+                "profile_path": "/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg",
+                "cast_id": 8,
+                "character": "Linda",
+                "credit_id": "52fe4742c3a368484e0bd655",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1178247,
+                "known_for_department": "Acting",
+                "name": "Ray Toler",
+                "original_name": "Ray Toler",
+                "popularity": 5.535,
+                "profile_path": "/yqIADehEoHrS0pUvSH3b19MCk4x.jpg",
+                "cast_id": 18,
+                "character": "Marv Carson",
+                "credit_id": "52fe4742c3a368484e0bd683",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87128,
+                "known_for_department": "Acting",
+                "name": "Kenneth Tigar",
+                "original_name": "Kenneth Tigar",
+                "popularity": 24.43,
+                "profile_path": "/jgM0z7LUX5fOYkbKjZ1UVM6hcUb.jpg",
+                "cast_id": 19,
+                "character": "Doctor",
+                "credit_id": "52fe4742c3a368484e0bd687",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1178248,
+                "known_for_department": "Acting",
+                "name": "Steve Key",
+                "original_name": "Steve Key",
+                "popularity": 5.639,
+                "profile_path": "/v9JN2NtjsrrhOrHoXzolConTtSo.jpg",
+                "cast_id": 20,
+                "character": "Loren Clark",
+                "credit_id": "52fe4742c3a368484e0bd68b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 940929,
+                "known_for_department": "Acting",
+                "name": "Dan Conway",
+                "original_name": "Dan Conway",
+                "popularity": 5.013,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Henry Dodge",
+                "credit_id": "52fe4742c3a368484e0bd68f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161904,
+                "known_for_department": "Acting",
+                "name": "Stan Cahill",
+                "original_name": "Stan Cahill",
+                "popularity": 3.547,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Frank",
+                "credit_id": "52fe4742c3a368484e0bd693",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12889,
+                "known_for_department": "Acting",
+                "name": "Ray Baker",
+                "original_name": "Ray Baker",
+                "popularity": 22.558,
+                "profile_path": "/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg",
+                "cast_id": 23,
+                "character": "Wallace Crockett",
+                "credit_id": "52fe4742c3a368484e0bd697",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5151,
+                "known_for_department": "Acting",
+                "name": "Beth Grant",
+                "original_name": "Beth Grant",
+                "popularity": 16.551,
+                "profile_path": "/6THLoPYhIu422TqUmQDgnQRfYxA.jpg",
+                "cast_id": 24,
+                "character": "Roberta",
+                "credit_id": "52fe4742c3a368484e0bd69b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1178249,
+                "known_for_department": "Acting",
+                "name": "Andrea Nittoli",
+                "original_name": "Andrea Nittoli",
+                "popularity": 1.761,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Waitress",
+                "credit_id": "52fe4742c3a368484e0bd69f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4029,
+                "known_for_department": "Acting",
+                "name": "Bob Gunton",
+                "original_name": "Bob Gunton",
+                "popularity": 51.593,
+                "profile_path": "/ulbVvuBToBN3aCGcV028hwO0MOP.jpg",
+                "cast_id": 26,
+                "character": "Judge (uncredited)",
+                "credit_id": "52fe4742c3a368484e0bd6a3",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3047,
+                "known_for_department": "Directing",
+                "name": "Jocelyn Moorhouse",
+                "original_name": "Jocelyn Moorhouse",
+                "popularity": 8.135,
+                "profile_path": "/wnpwdXnwolCP6de6hRKOcOTrFm.jpg",
+                "credit_id": "52fe4742c3a368484e0bd65b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1178245,
+                "known_for_department": "Writing",
+                "name": "Jane Smiley",
+                "original_name": "Jane Smiley",
+                "popularity": 0.879,
+                "profile_path": null,
+                "credit_id": "52fe4742c3a368484e0bd661",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 65035,
+                "known_for_department": "Writing",
+                "name": "Laura Jones",
+                "original_name": "Laura Jones",
+                "popularity": 6.23,
+                "profile_path": null,
+                "credit_id": "52fe4742c3a368484e0bd667",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6590,
+                "known_for_department": "Production",
+                "name": "Sigurjón Sighvatsson",
+                "original_name": "Sigurjón Sighvatsson",
+                "popularity": 3.23,
+                "profile_path": "/3flA6EUiOxnwnNnao61b0pRSXFu.jpg",
+                "credit_id": "5c6c26ba0e0a262c999dbc50",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39023,
+                "known_for_department": "Sound",
+                "name": "Richard Hartley",
+                "original_name": "Richard Hartley",
+                "popularity": 4.081,
+                "profile_path": null,
+                "credit_id": "5c6c271ac3a3684f97e96054",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15219,
+                "known_for_department": "Production",
+                "name": "Marc Abraham",
+                "original_name": "Marc Abraham",
+                "popularity": 8.837,
+                "profile_path": "/qLpywh8N8UWyo2APUle3Ep1GiQA.jpg",
+                "credit_id": "5c6c26c60e0a261aaf9d63ee",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10426,
+                "known_for_department": "Production",
+                "name": "Diana Pokorny",
+                "original_name": "Diana Pokorny",
+                "popularity": 3.139,
+                "profile_path": "/9fjYNnhnNJWf51poGc6ida8nTR7.jpg",
+                "credit_id": "5c6c270d92514129a20186bd",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41587,
+                "known_for_department": "Production",
+                "name": "Armyan Bernstein",
+                "original_name": "Armyan Bernstein",
+                "popularity": 5.356,
+                "profile_path": "/8zJR5pHnTPwAshoK8ZrBYgtRCJm.jpg",
+                "credit_id": "5c6c26f8c3a368745eeab7ef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58846,
+                "known_for_department": "Production",
+                "name": "Thomas A. Bliss",
+                "original_name": "Thomas A. Bliss",
+                "popularity": 1.463,
+                "profile_path": null,
+                "credit_id": "5c6c2703c3a36843c6e7e25a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 322,
+                "known_for_department": "Production",
+                "name": "Steve Golin",
+                "original_name": "Steve Golin",
+                "popularity": 14.601,
+                "profile_path": "/yBx6smzYjn2sbWYgaftZI0iclE3.jpg",
+                "credit_id": "5c6c26dac3a368745eeab7b8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15349,
+                "known_for_department": "Editing",
+                "name": "Maryann Brandon",
+                "original_name": "Maryann Brandon",
+                "popularity": 6.924,
+                "profile_path": "/iO29og3UgVa9Sn4jZG1KpcTBq0a.jpg",
+                "credit_id": "5c6c272a0e0a266daca9d82a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21138,
+                "known_for_department": "Production",
+                "name": "Kate Guinzburg",
+                "original_name": "Kate Guinzburg",
+                "popularity": 6.756,
+                "profile_path": "/3GAiXTrdaMqYQTJh0IRIjX6mQ9O.jpg",
+                "credit_id": "5c6c26e20e0a2617779d6a66",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2245836,
+                "known_for_department": "Production",
+                "name": "Lynn Arost",
+                "original_name": "Lynn Arost",
+                "popularity": 0.108,
+                "profile_path": null,
+                "credit_id": "5c6c26d0c3a3685cbddd15c4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16300,
+                "known_for_department": "Camera",
+                "name": "Tak Fujimoto",
+                "original_name": "Tak Fujimoto",
+                "popularity": 7.879,
+                "profile_path": "/xXuDkPrRjxdJao0QgXkb9DI9N7h.jpg",
+                "credit_id": "5c6c2721c3a36848f1dd943b",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1160,
+                "known_for_department": "Acting",
+                "name": "Michelle Pfeiffer",
+                "original_name": "Michelle Pfeiffer",
+                "popularity": 48.412,
+                "profile_path": "/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg",
+                "credit_id": "5c6c26eec3a368745eeab7d8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23759,
+                "known_for_department": "Art",
+                "name": "Dan Davis",
+                "original_name": "Dan Davis",
+                "popularity": 4.228,
+                "profile_path": null,
+                "credit_id": "5ff15a821fb94f0040f57a37",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10837,
+                "known_for_department": "Art",
+                "name": "James F. Truesdale",
+                "original_name": "James F. Truesdale",
+                "popularity": 3.787,
+                "profile_path": null,
+                "credit_id": "5ff15a8e414291003f504415",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1273002,
+                "known_for_department": "Art",
+                "name": "Andrea Mae Fenton",
+                "original_name": "Andrea Mae Fenton",
+                "popularity": 2.198,
+                "profile_path": null,
+                "credit_id": "5ff15a9a46e75f003ed219f8",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19310,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ruth Myers",
+                "original_name": "Ruth Myers",
+                "popularity": 9.736,
+                "profile_path": null,
+                "credit_id": "5ff15aa50c4c160040a41547",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1308069,
+                "known_for_department": "Production",
+                "name": "Franklyn Warren",
+                "original_name": "Franklyn Warren",
+                "popularity": 4.436,
+                "profile_path": null,
+                "credit_id": "62c6003012c604004f12be13",
+                "department": "Production",
+                "job": "Extras Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2964627,
+                "known_for_department": "Production",
+                "name": "Mark A. Ridge",
+                "original_name": "Mark A. Ridge",
+                "popularity": 0.374,
+                "profile_path": null,
+                "credit_id": "62c6004b956658004fb56d1f",
+                "department": "Production",
+                "job": "Extras Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 62546,
+                "known_for_department": "Production",
+                "name": "Elizabeth Marx",
+                "original_name": "Elizabeth Marx",
+                "popularity": 1.399,
+                "profile_path": null,
+                "credit_id": "62c60065d266a2004ea70d39",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1585153,
+                "known_for_department": "Production",
+                "name": "Tracy Kaplan",
+                "original_name": "Tracy Kaplan",
+                "popularity": 0.554,
+                "profile_path": null,
+                "credit_id": "62c6007cd207f3004c8aa822",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1327404,
+                "known_for_department": "Crew",
+                "name": "Rick LeFevour",
+                "original_name": "Rick LeFevour",
+                "popularity": 5.382,
+                "profile_path": "/3cJvjp0dN0IiY8ztkV4hKoHRqKf.jpg",
+                "credit_id": "62c6009f12c604004f12be39",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1870611,
+                "known_for_department": "Crew",
+                "name": "James Fierro",
+                "original_name": "James Fierro",
+                "popularity": 5.642,
+                "profile_path": "/35aSfehvNKjTSntcRgpdQG6TZzy.jpg",
+                "credit_id": "62c600b195665800670b71e6",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3693835,
+                "known_for_department": "Crew",
+                "name": "Martin Becker",
+                "original_name": "Martin Becker",
+                "popularity": 1.01,
+                "profile_path": null,
+                "credit_id": "6492ff484ba522011cf4a5bf",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Michelle Pfeiffer",
+            "character": "Rose Cook Lewis"
+        },
+        {
+            "actor": "Jessica Lange",
+            "character": "Ginny Cook Smith"
+        },
+        {
+            "actor": "Jason Robards",
+            "character": "Larry Cook"
+        },
+        {
+            "actor": "Jennifer Jason Leigh",
+            "character": "Caroline Cook"
+        },
+        {
+            "actor": "Colin Firth",
+            "character": "Jess Clark"
+        },
+        {
+            "actor": "Keith Carradine",
+            "character": "Ty Smith"
+        },
+        {
+            "actor": "Kevin Anderson",
+            "character": "Peter Lewis"
+        },
+        {
+            "actor": "Pat Hingle",
+            "character": "Harold Clark"
+        },
+        {
+            "actor": "John Carroll Lynch",
+            "character": "Ken LaSalle"
+        },
+        {
+            "actor": "Anne Pitoniak",
+            "character": "Mary Livingstone"
+        },
+        {
+            "actor": "Vyto Ruginis",
+            "character": "Charles Carter"
+        },
+        {
+            "actor": "Michelle Williams",
+            "character": "Pammy"
+        },
+        {
+            "actor": "Elisabeth Moss",
+            "character": "Linda"
+        },
+        {
+            "actor": "Ray Toler",
+            "character": "Marv Carson"
+        },
+        {
+            "actor": "Kenneth Tigar",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Steve Key",
+            "character": "Loren Clark"
+        },
+        {
+            "actor": "Dan Conway",
+            "character": "Henry Dodge"
+        },
+        {
+            "actor": "Stan Cahill",
+            "character": "Frank"
+        },
+        {
+            "actor": "Ray Baker",
+            "character": "Wallace Crockett"
+        },
+        {
+            "actor": "Beth Grant",
+            "character": "Roberta"
+        },
+        {
+            "actor": "Andrea Nittoli",
+            "character": "Waitress"
+        },
+        {
+            "actor": "Bob Gunton",
+            "character": "Judge (uncredited)"
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 200000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 1290563,
+    "imdb_id": "tt1227926",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dr. Horrible's Sing-Along Blog",
+    "overview": "Dr. Horrible's Sing-Along Blog is a 42-minute tragicomic musical in three acts, each released separately. It tells the story of Dr. Horrible, an aspiring supervillain, Captain Hammer, his superhero nemesis, and Penny, their mutual love interest. The movie was written by writer/director Joss Whedon, his brothers Zack Whedon and Jed Whedon, and Jed's then fiancée, actress Maurissa Tancharoen. The writing team penned the musical during the WGA strike. The idea was to create something small and inexpensive, yet professionally done, in a way that would circumvent the issues that were being protested during the strike.",
+    "popularity": 3.174,
+    "poster_path": "/Ag9FEOTyldtvhOo9qCmb2jqgbhY.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2008-07-15",
+    "revenue": 3000000,
+    "runtime": 42,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Freeze ray. Tell your friends.",
+    "title": "Dr. Horrible's Sing-Along Blog",
+    "video": true,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2008-07-15T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41686,
+                "known_for_department": "Acting",
+                "name": "Neil Patrick Harris",
+                "original_name": "Neil Patrick Harris",
+                "popularity": 25.217,
+                "profile_path": "/lZpyUk4savnwZylvrCPM0MvMXiY.jpg",
+                "cast_id": 1,
+                "character": "Doctor Horrible",
+                "credit_id": "664400337a0a95323aec0f9f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51797,
+                "known_for_department": "Acting",
+                "name": "Nathan Fillion",
+                "original_name": "Nathan Fillion",
+                "popularity": 68.874,
+                "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+                "cast_id": 2,
+                "character": "Captain Hammer",
+                "credit_id": "6644004af2d19144f2cf62e1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 76527,
+                "known_for_department": "Acting",
+                "name": "Felicia Day",
+                "original_name": "Felicia Day",
+                "popularity": 28.154,
+                "profile_path": "/9jXzLt34ibmmmTakiZXn7Eotdeh.jpg",
+                "cast_id": 3,
+                "character": "Penny",
+                "credit_id": "6644005764e340818f77c50b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53863,
+                "known_for_department": "Acting",
+                "name": "Simon Helberg",
+                "original_name": "Simon Helberg",
+                "popularity": 59.34,
+                "profile_path": "/zGrQSfQEw0vO6otWdSXiBHfwv7S.jpg",
+                "cast_id": 4,
+                "character": "Moist",
+                "credit_id": "66440065a8faaaac103cfef8",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 76531,
+                "known_for_department": "Writing",
+                "name": "Nick Towne",
+                "original_name": "Nick Towne",
+                "popularity": 3.843,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Bad Horse Chorus #1",
+                "credit_id": "66440078184f82627323eb7a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76532,
+                "known_for_department": "Writing",
+                "name": "Jed Whedon",
+                "original_name": "Jed Whedon",
+                "popularity": 7.911,
+                "profile_path": "/zfdpxYfwe2xRkzrd0ObezjcZhgV.jpg",
+                "cast_id": 6,
+                "character": "Bad Horse Chorus #2",
+                "credit_id": "6644008abf8c7451f38e3759",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76533,
+                "known_for_department": "Acting",
+                "name": "Rob Reinis",
+                "original_name": "Rob Reinis",
+                "popularity": 13.726,
+                "profile_path": "/f0nTbqqYxhCfq4hi8TGAkwTPz0w.jpg",
+                "cast_id": 7,
+                "character": "Bad Horse Chorus #3",
+                "credit_id": "6644009a3f00a3a89b5ba465",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76534,
+                "known_for_department": "Acting",
+                "name": "Otto Michael Penzato",
+                "original_name": "Otto Michael Penzato",
+                "popularity": 2.871,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Driver",
+                "credit_id": "664400a94c1796a2c623f015",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4714650,
+                "known_for_department": "Acting",
+                "name": "Richard Partlow",
+                "original_name": "Richard Partlow",
+                "popularity": 0.272,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Mayor",
+                "credit_id": "664400cc0140c1ef13c50958",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1223883,
+                "known_for_department": "Acting",
+                "name": "Maurissa Tancharoen",
+                "original_name": "Maurissa Tancharoen",
+                "popularity": 7.989,
+                "profile_path": "/jeh7WGZlBpSv7jukKfwE0WtuNYw.jpg",
+                "cast_id": 10,
+                "character": "Groupie #1",
+                "credit_id": "664400e244a0918ade3a8a97",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1130787,
+                "known_for_department": "Acting",
+                "name": "Stacy Shirk",
+                "original_name": "Stacy Shirk",
+                "popularity": 2.64,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Groupie #2",
+                "credit_id": "664400f288821f7e162e970e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 206311,
+                "known_for_department": "Acting",
+                "name": "Steve Berg",
+                "original_name": "Steve Berg",
+                "popularity": 6.997,
+                "profile_path": "/rXYD0Zqx4lqz7c3XWwA6TG75AzB.jpg",
+                "cast_id": 12,
+                "character": "Groupie #1",
+                "credit_id": "664401044ed040b3922d404c",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 149520,
+                "known_for_department": "Writing",
+                "name": "David Fury",
+                "original_name": "David Fury",
+                "popularity": 9.75,
+                "profile_path": "/4V371yAWCJ1s2cVCamX5eYjMNVc.jpg",
+                "cast_id": 13,
+                "character": "Newsman",
+                "credit_id": "66440115ee8cab60d777c316",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 149495,
+                "known_for_department": "Production",
+                "name": "Marti Noxon",
+                "original_name": "Marti Noxon",
+                "popularity": 19.811,
+                "profile_path": "/1kjzpwkPmXuB86sxZhDRfyrFgYt.jpg",
+                "cast_id": 14,
+                "character": "Newswoman",
+                "credit_id": "6644012573cdb44bbf2e9427",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1757176,
+                "known_for_department": "Production",
+                "name": "Michael Boretz",
+                "original_name": "Michael Boretz",
+                "popularity": 3.59,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Other Moving Guy",
+                "credit_id": "664401336def23f99b23ed35",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76535,
+                "known_for_department": "Directing",
+                "name": "Lance Lanfear",
+                "original_name": "Lance Lanfear",
+                "popularity": 2.047,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Hawaiian Shirt Guy",
+                "credit_id": "66440148d66d3d96238e383e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2795006,
+                "known_for_department": "Acting",
+                "name": "Michael G. Canaan",
+                "original_name": "Michael G. Canaan",
+                "popularity": 3.926,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Pink Pummeler",
+                "credit_id": "6644015e21e9cc56928e33a3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2504214,
+                "known_for_department": "Acting",
+                "name": "Jonathan O'Reilly",
+                "original_name": "Jonathan O'Reilly",
+                "popularity": 3.013,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Purple Pimp",
+                "credit_id": "66440170781c4b29fb77c9c2",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12891,
+                "known_for_department": "Writing",
+                "name": "Joss Whedon",
+                "original_name": "Joss Whedon",
+                "popularity": 21.483,
+                "profile_path": "/mVvpZnKYKSCtkOQixQnOonV5kv3.jpg",
+                "credit_id": "664401978ee7f81e2d917dc2",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Neil Patrick Harris",
+            "character": "Doctor Horrible"
+        },
+        {
+            "actor": "Nathan Fillion",
+            "character": "Captain Hammer"
+        },
+        {
+            "actor": "Felicia Day",
+            "character": "Penny"
+        },
+        {
+            "actor": "Simon Helberg",
+            "character": "Moist"
+        },
+        {
+            "actor": "Nick Towne",
+            "character": "Bad Horse Chorus #1"
+        },
+        {
+            "actor": "Jed Whedon",
+            "character": "Bad Horse Chorus #2"
+        },
+        {
+            "actor": "Rob Reinis",
+            "character": "Bad Horse Chorus #3"
+        },
+        {
+            "actor": "Otto Michael Penzato",
+            "character": "Driver"
+        },
+        {
+            "actor": "Richard Partlow",
+            "character": "Mayor"
+        },
+        {
+            "actor": "Maurissa Tancharoen",
+            "character": "Groupie #1"
+        },
+        {
+            "actor": "Stacy Shirk",
+            "character": "Groupie #2"
+        },
+        {
+            "actor": "Steve Berg",
+            "character": "Groupie #1"
+        },
+        {
+            "actor": "David Fury",
+            "character": "Newsman"
+        },
+        {
+            "actor": "Marti Noxon",
+            "character": "Newswoman"
+        },
+        {
+            "actor": "Michael Boretz",
+            "character": "Other Moving Guy"
+        },
+        {
+            "actor": "Lance Lanfear",
+            "character": "Hawaiian Shirt Guy"
+        },
+        {
+            "actor": "Michael G. Canaan",
+            "character": "Pink Pummeler"
+        },
+        {
+            "actor": "Jonathan O'Reilly",
+            "character": "Purple Pimp"
+        }
+    ]
+}

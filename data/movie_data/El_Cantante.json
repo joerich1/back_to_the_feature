@@ -1,0 +1,612 @@
+{
+    "adult": false,
+    "backdrop_path": "/HaxU2x4sFvDunHntu3BNSryhia.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 36,
+            "name": "History"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 15934,
+    "imdb_id": "tt0458522",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "El cantante",
+    "overview": "The rise and fall of salsa singer, Héctor Lavoe (1946-1993), as told from the perspective of his wife Puchi, who looks back from 2002.",
+    "popularity": 19.939,
+    "poster_path": "/sm4E66pPhJTP8fAdZKOMRDz4BSR.jpg",
+    "production_companies": [
+        {
+            "id": 35443,
+            "logo_path": null,
+            "name": "R-Caro Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 1620,
+            "logo_path": null,
+            "name": "Nuyorican Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2006-09-12",
+    "revenue": 0,
+    "runtime": 116,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Based on the true story of the King of Salsa, Hector Lavoe",
+    "title": "El Cantante",
+    "video": false,
+    "vote_average": 7.098,
+    "vote_count": 102,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2006-09-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-08-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47775,
+                "known_for_department": "Acting",
+                "name": "Marc Anthony",
+                "original_name": "Marc Anthony",
+                "popularity": 26.698,
+                "profile_path": "/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg",
+                "cast_id": 1,
+                "character": "Hector Lavoe",
+                "credit_id": "52fe468c9251416c7507bcb7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16866,
+                "known_for_department": "Acting",
+                "name": "Jennifer Lopez",
+                "original_name": "Jennifer Lopez",
+                "popularity": 49.326,
+                "profile_path": "/sgT7Drlz6q9sAhImLhaRGqWmaUU.jpg",
+                "cast_id": 2,
+                "character": "Puchi",
+                "credit_id": "52fe468c9251416c7507bcbb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40543,
+                "known_for_department": "Acting",
+                "name": "John Ortiz",
+                "original_name": "John Ortiz",
+                "popularity": 32.117,
+                "profile_path": "/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg",
+                "cast_id": 4,
+                "character": "Willie Colon",
+                "credit_id": "52fe468c9251416c7507bcc5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72983,
+                "known_for_department": "Acting",
+                "name": "Manny Pérez",
+                "original_name": "Manny Pérez",
+                "popularity": 17.812,
+                "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg",
+                "cast_id": 5,
+                "character": "Eddie",
+                "credit_id": "52fe468c9251416c7507bcc9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1983,
+                "known_for_department": "Acting",
+                "name": "Vincent Laresca",
+                "original_name": "Vincent Laresca",
+                "popularity": 23.274,
+                "profile_path": "/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg",
+                "cast_id": 6,
+                "character": "Ralph",
+                "credit_id": "52fe468c9251416c7507bccd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53940,
+                "known_for_department": "Acting",
+                "name": "Federico Castelluccio",
+                "original_name": "Federico Castelluccio",
+                "popularity": 9.289,
+                "profile_path": "/8wmjXWKGJHLvrrLSrIf9431VJDi.jpg",
+                "cast_id": 7,
+                "character": "Jerry Masucci",
+                "credit_id": "52fe468c9251416c7507bcd1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 222487,
+                "known_for_department": "Acting",
+                "name": "Nelson Vasquez",
+                "original_name": "Nelson Vasquez",
+                "popularity": 16.367,
+                "profile_path": "/eu42g5XCAgO7LOHxDBRd7U2zjJj.jpg",
+                "cast_id": 8,
+                "character": "Johnny Pacheco",
+                "credit_id": "52fe468c9251416c7507bcd5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4204,
+                "known_for_department": "Acting",
+                "name": "Antone Pagán",
+                "original_name": "Antone Pagán",
+                "popularity": 19.484,
+                "profile_path": "/NJWuKdhtWU4xzGkLeoWOSox1I4.jpg",
+                "cast_id": 9,
+                "character": "Papo",
+                "credit_id": "52fe468c9251416c7507bcd9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 176724,
+                "known_for_department": "Acting",
+                "name": "Romi Dias",
+                "original_name": "Romi Dias",
+                "popularity": 10.297,
+                "profile_path": "/taiSNVHpI7FXdlrRI96jXpJ1TCI.jpg",
+                "cast_id": 10,
+                "character": "Priscilla",
+                "credit_id": "52fe468c9251416c7507bcdd",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 210826,
+                "known_for_department": "Acting",
+                "name": "Andrea Navedo",
+                "original_name": "Andrea Navedo",
+                "popularity": 14.537,
+                "profile_path": "/jTEuBC4T3lQiN0Uc8SOxc9rcxvo.jpg",
+                "cast_id": 11,
+                "character": "Zaida",
+                "credit_id": "52fe468c9251416c7507bce1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84519,
+                "known_for_department": "Acting",
+                "name": "Santiago Douglas",
+                "original_name": "Santiago Douglas",
+                "popularity": 6.005,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "575eef839251415fe40001d3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1636954,
+                "known_for_department": "Acting",
+                "name": "Ana Isabelle",
+                "original_name": "Ana Isabelle",
+                "popularity": 3.855,
+                "profile_path": "/7Nxp17PyLleWns6iiKfD1bEk7Ei.jpg",
+                "cast_id": 31,
+                "character": "Puchi's Friend",
+                "credit_id": "5762fb3c9251415b830001df",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78997,
+                "known_for_department": "Directing",
+                "name": "Leon Ichaso",
+                "original_name": "Leon Ichaso",
+                "popularity": 10.381,
+                "profile_path": "/pJwhgEZQjrgeHIK2yiW9U1vn30H.jpg",
+                "credit_id": "52fe468c9251416c7507bcc1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1374607,
+                "known_for_department": "Acting",
+                "name": "David Darmstaeder",
+                "original_name": "David Darmstaeder",
+                "popularity": 3.129,
+                "profile_path": "/cpKpQjeRXue5PSIrVKBYvCXZTCD.jpg",
+                "credit_id": "543ff51e0e0a26027300007e",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1142381,
+                "known_for_department": "Production",
+                "name": "Ellyn Long Marshall",
+                "original_name": "Ellyn Long Marshall",
+                "popularity": 1.263,
+                "profile_path": null,
+                "credit_id": "543ff587c3a368054c00009b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 60870,
+                "known_for_department": "Art",
+                "name": "Sharon Lomofsky",
+                "original_name": "Sharon Lomofsky",
+                "popularity": 8.774,
+                "profile_path": null,
+                "credit_id": "543ff5990e0a260273000098",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27040,
+                "known_for_department": "Art",
+                "name": "Nicholas Lundy",
+                "original_name": "Nicholas Lundy",
+                "popularity": 6.182,
+                "profile_path": "/fLiVv2wyXBeUCGcinRD1hc4Vo31.jpg",
+                "credit_id": "543ff5a10e0a260262000087",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16866,
+                "known_for_department": "Acting",
+                "name": "Jennifer Lopez",
+                "original_name": "Jennifer Lopez",
+                "popularity": 49.326,
+                "profile_path": "/sgT7Drlz6q9sAhImLhaRGqWmaUU.jpg",
+                "credit_id": "543ff54f0e0a26025c000093",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 56515,
+                "known_for_department": "Production",
+                "name": "Julio Caro",
+                "original_name": "Julio Caro",
+                "popularity": 0.944,
+                "profile_path": null,
+                "credit_id": "543ff53ec3a3680544000081",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 145227,
+                "known_for_department": "Sound",
+                "name": "Andrés Levin",
+                "original_name": "Andrés Levin",
+                "popularity": 5.148,
+                "profile_path": null,
+                "credit_id": "543ff56f0e0a260273000090",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1374608,
+                "known_for_department": "Writing",
+                "name": "Todd Bello",
+                "original_name": "Todd Bello",
+                "popularity": 1.598,
+                "profile_path": null,
+                "credit_id": "543ff5270e0a260262000076",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1374609,
+                "known_for_department": "Art",
+                "name": "Jennifer Greenberg",
+                "original_name": "Jennifer Greenberg",
+                "popularity": 1.675,
+                "profile_path": null,
+                "credit_id": "543ff5acc3a36805510000a0",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78997,
+                "known_for_department": "Directing",
+                "name": "Leon Ichaso",
+                "original_name": "Leon Ichaso",
+                "popularity": 10.381,
+                "profile_path": "/pJwhgEZQjrgeHIK2yiW9U1vn30H.jpg",
+                "credit_id": "543ff5310e0a26025f000073",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1327175,
+                "known_for_department": "Acting",
+                "name": "David Maldonado",
+                "original_name": "David Maldonado",
+                "popularity": 8.553,
+                "profile_path": "/uF6uk6YtCRWAfsGZM2GG7aaHWwO.jpg",
+                "credit_id": "543ff557c3a368055c000090",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36615,
+                "known_for_department": "Production",
+                "name": "Simon Fields",
+                "original_name": "Simon Fields",
+                "popularity": 4.361,
+                "profile_path": null,
+                "credit_id": "543ff546c3a3680558000083",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1137532,
+                "known_for_department": "Production",
+                "name": "Margo Myers",
+                "original_name": "Margo Myers",
+                "popularity": 5.515,
+                "profile_path": null,
+                "credit_id": "543ff55fc3a368055c000093",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90340,
+                "known_for_department": "Acting",
+                "name": "Willie Colón",
+                "original_name": "Willie Colón",
+                "popularity": 4.903,
+                "profile_path": null,
+                "credit_id": "543ff5670e0a26027300008d",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53395,
+                "known_for_department": "Editing",
+                "name": "David Tedeschi",
+                "original_name": "David Tedeschi",
+                "popularity": 5.256,
+                "profile_path": "/lxXylx59erh0OZqixet26rBdLEQ.jpg",
+                "credit_id": "543ff57fc3a368055800008f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1142383,
+                "known_for_department": "Production",
+                "name": "Maria E. Nelson",
+                "original_name": "Maria E. Nelson",
+                "popularity": 1.165,
+                "profile_path": null,
+                "credit_id": "543ff58fc3a36805550000a9",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27041,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sandra Hernandez",
+                "original_name": "Sandra Hernandez",
+                "popularity": 3.5,
+                "profile_path": null,
+                "credit_id": "543ff5b50e0a26026f00007b",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1618901,
+                "known_for_department": "Crew",
+                "name": "José R. Varona",
+                "original_name": "José R. Varona",
+                "popularity": 2.268,
+                "profile_path": null,
+                "credit_id": "57b9485e9251413f65003c92",
+                "department": "Crew",
+                "job": "Set Medic"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 72110,
+                "known_for_department": "Production",
+                "name": "Ines Mongil-Echandi",
+                "original_name": "Ines Mongil-Echandi",
+                "popularity": 1.567,
+                "profile_path": null,
+                "credit_id": "57e96a0d9251411099001261",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76804,
+                "known_for_department": "Camera",
+                "name": "Claudio Chea",
+                "original_name": "Claudio Chea",
+                "popularity": 3.597,
+                "profile_path": null,
+                "credit_id": "5a9997f2c3a3680b2d00bd9d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1844580,
+                "known_for_department": "Production",
+                "name": "Zoraida Sanjurjo López",
+                "original_name": "Zoraida Sanjurjo López",
+                "popularity": 3.396,
+                "profile_path": "/vll73ODKg6QufbQhNZYiukdiMjq.jpg",
+                "credit_id": "6386bfa6a410c800d00d641f",
+                "department": "Production",
+                "job": "Casting Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Marc Anthony",
+            "character": "Hector Lavoe"
+        },
+        {
+            "actor": "Jennifer Lopez",
+            "character": "Puchi"
+        },
+        {
+            "actor": "John Ortiz",
+            "character": "Willie Colon"
+        },
+        {
+            "actor": "Manny Pérez",
+            "character": "Eddie"
+        },
+        {
+            "actor": "Vincent Laresca",
+            "character": "Ralph"
+        },
+        {
+            "actor": "Federico Castelluccio",
+            "character": "Jerry Masucci"
+        },
+        {
+            "actor": "Nelson Vasquez",
+            "character": "Johnny Pacheco"
+        },
+        {
+            "actor": "Antone Pagán",
+            "character": "Papo"
+        },
+        {
+            "actor": "Romi Dias",
+            "character": "Priscilla"
+        },
+        {
+            "actor": "Andrea Navedo",
+            "character": "Zaida"
+        },
+        {
+            "actor": "Santiago Douglas",
+            "character": ""
+        },
+        {
+            "actor": "Ana Isabelle",
+            "character": "Puchi's Friend"
+        }
+    ]
+}

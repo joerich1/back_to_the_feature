@@ -1,0 +1,570 @@
+{
+    "adult": false,
+    "backdrop_path": "/y5P41PHMbdv2YkS5fP8nqpRjcCm.jpg",
+    "belongs_to_collection": {
+        "id": 759300,
+        "name": "Fear of Clowns Collection",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10113,
+    "imdb_id": "tt0362636",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fear of Clowns",
+    "overview": "An artist who purges her fears through painting is terrified to discover that her nightmarish creations have taken on a life of their own.",
+    "popularity": 1.43,
+    "poster_path": "/euwrmHRchFIn6FDfqE3EUJG0EQj.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2004-10-28",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Your Fear is Justified",
+    "title": "Fear of Clowns",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 13,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2004-10-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63628,
+                "known_for_department": "Acting",
+                "name": "Darla Albornoz",
+                "original_name": "Darla Albornoz",
+                "popularity": 3.792,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Mediator",
+                "credit_id": "52fe432a9251416c75005f4d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63626,
+                "known_for_department": "Acting",
+                "name": "Mark Lassise",
+                "original_name": "Mark Lassise",
+                "popularity": 3.612,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Shivers the Clown",
+                "credit_id": "52fe432a9251416c75005f51",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63625,
+                "known_for_department": "Acting",
+                "name": "Jacky Reres",
+                "original_name": "Jacky Reres",
+                "popularity": 0.425,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Lynn Blodgett",
+                "credit_id": "52fe432a9251416c75005f55",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63629,
+                "known_for_department": "Acting",
+                "name": "John Patrick Barry",
+                "original_name": "John Patrick Barry",
+                "popularity": 1.303,
+                "profile_path": "/zuYd4J5c4BC1pF2gJtpHL3LxKOu.jpg",
+                "cast_id": 15,
+                "character": "Officer Patrick",
+                "credit_id": "52fe432a9251416c75005f59",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63630,
+                "known_for_department": "Crew",
+                "name": "Steve Carson",
+                "original_name": "Steve Carson",
+                "popularity": 0.373,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Cop with children",
+                "credit_id": "52fe432a9251416c75005f5d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63631,
+                "known_for_department": "Acting",
+                "name": "Jed Duvall",
+                "original_name": "Jed Duvall",
+                "popularity": 0.107,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Happy Clown",
+                "credit_id": "52fe432a9251416c75005f61",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63632,
+                "known_for_department": "Acting",
+                "name": "Judith Furlow",
+                "original_name": "Judith Furlow",
+                "popularity": 0.325,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Gale",
+                "credit_id": "52fe432a9251416c75005f65",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63634,
+                "known_for_department": "Acting",
+                "name": "Rich Henn",
+                "original_name": "Rich Henn",
+                "popularity": 0.876,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Cop 3",
+                "credit_id": "52fe432a9251416c75005f69",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63636,
+                "known_for_department": "Acting",
+                "name": "Frank Lama",
+                "original_name": "Frank Lama",
+                "popularity": 2.515,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Detective Peters",
+                "credit_id": "52fe432a9251416c75005f6d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63633,
+                "known_for_department": "Acting",
+                "name": "Steven Gleich",
+                "original_name": "Steven Gleich",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Marty",
+                "credit_id": "52fe432a9251416c75005f75",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63635,
+                "known_for_department": "Acting",
+                "name": "Paul C. Kangas",
+                "original_name": "Paul C. Kangas",
+                "popularity": 0.526,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Sean",
+                "credit_id": "52fe432a9251416c75005f71",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63637,
+                "known_for_department": "Acting",
+                "name": "Patrick T. McGowan",
+                "original_name": "Patrick T. McGowan",
+                "popularity": 0.571,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Mr. Parrish",
+                "credit_id": "52fe432a9251416c75005f79",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63638,
+                "known_for_department": "Acting",
+                "name": "Lauren Pellegrino",
+                "original_name": "Lauren Pellegrino",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Amanda",
+                "credit_id": "52fe432a9251416c75005f7d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63640,
+                "known_for_department": "Acting",
+                "name": "Christopher Lee Philips",
+                "original_name": "Christopher Lee Philips",
+                "popularity": 2.445,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Osbourne",
+                "credit_id": "52fe432a9251416c75005f89",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63639,
+                "known_for_department": "Acting",
+                "name": "Jack Porter",
+                "original_name": "Jack Porter",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Nicholas",
+                "credit_id": "52fe432a9251416c75005f85",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63644,
+                "known_for_department": "Acting",
+                "name": "Andrew Schneider",
+                "original_name": "Andrew Schneider",
+                "popularity": 0.638,
+                "profile_path": "/nv6KpoSyuujG3XF39z2xhB7oobG.jpg",
+                "cast_id": 25,
+                "character": "Phillip",
+                "credit_id": "52fe432a9251416c75005f81",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63642,
+                "known_for_department": "Acting",
+                "name": "Bill Stull",
+                "original_name": "Bill Stull",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Veteran Police Officer",
+                "credit_id": "52fe432a9251416c75005f95",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63643,
+                "known_for_department": "Acting",
+                "name": "Ted Taylor",
+                "original_name": "Ted Taylor",
+                "popularity": 3.468,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Heston",
+                "credit_id": "52fe432a9251416c75005f91",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63641,
+                "known_for_department": "Acting",
+                "name": "Carl Randolph",
+                "original_name": "Carl Randolph",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Bert",
+                "credit_id": "52fe432a9251416c75005f8d",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63619,
+                "known_for_department": "Acting",
+                "name": "Rick Ganz",
+                "original_name": "Rick Ganz",
+                "popularity": 2.481,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Tuck Reed",
+                "credit_id": "52fe432a9251416c75005f9f",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63617,
+                "known_for_department": "Production",
+                "name": "Michelle Baker",
+                "original_name": "Michelle Baker",
+                "popularity": 0.045,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f13",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63616,
+                "known_for_department": "Production",
+                "name": "Joel Baker",
+                "original_name": "Joel Baker",
+                "popularity": 0.02,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f1f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63618,
+                "known_for_department": "Directing",
+                "name": "Kevin Kangas",
+                "original_name": "Kevin Kangas",
+                "popularity": 3.309,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f2b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63619,
+                "known_for_department": "Acting",
+                "name": "Rick Ganz",
+                "original_name": "Rick Ganz",
+                "popularity": 2.481,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f31",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63622,
+                "known_for_department": "Editing",
+                "name": "Harvey Glatman",
+                "original_name": "Harvey Glatman",
+                "popularity": 1.117,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f37",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63620,
+                "known_for_department": "Production",
+                "name": "Jeff Kipers",
+                "original_name": "Jeff Kipers",
+                "popularity": 2.162,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f3d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63623,
+                "known_for_department": "Camera",
+                "name": "David Mun",
+                "original_name": "David Mun",
+                "popularity": 1.192,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f43",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63624,
+                "known_for_department": "Production",
+                "name": "Jane Toppan",
+                "original_name": "Jane Toppan",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f49",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63645,
+                "known_for_department": "Sound",
+                "name": "Chad Seiter",
+                "original_name": "Chad Seiter",
+                "popularity": 0.41,
+                "profile_path": null,
+                "credit_id": "52fe432a9251416c75005f9b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63618,
+                "known_for_department": "Directing",
+                "name": "Kevin Kangas",
+                "original_name": "Kevin Kangas",
+                "popularity": 3.309,
+                "profile_path": null,
+                "credit_id": "61c90d34aaec7100402a3d26",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Darla Albornoz",
+            "character": "Mediator"
+        },
+        {
+            "actor": "Mark Lassise",
+            "character": "Shivers the Clown"
+        },
+        {
+            "actor": "Jacky Reres",
+            "character": "Lynn Blodgett"
+        },
+        {
+            "actor": "John Patrick Barry",
+            "character": "Officer Patrick"
+        },
+        {
+            "actor": "Steve Carson",
+            "character": "Cop with children"
+        },
+        {
+            "actor": "Jed Duvall",
+            "character": "Happy Clown"
+        },
+        {
+            "actor": "Judith Furlow",
+            "character": "Gale"
+        },
+        {
+            "actor": "Rich Henn",
+            "character": "Cop 3"
+        },
+        {
+            "actor": "Frank Lama",
+            "character": "Detective Peters"
+        },
+        {
+            "actor": "Steven Gleich",
+            "character": "Marty"
+        },
+        {
+            "actor": "Paul C. Kangas",
+            "character": "Sean"
+        },
+        {
+            "actor": "Patrick T. McGowan",
+            "character": "Mr. Parrish"
+        },
+        {
+            "actor": "Lauren Pellegrino",
+            "character": "Amanda"
+        },
+        {
+            "actor": "Christopher Lee Philips",
+            "character": "Osbourne"
+        },
+        {
+            "actor": "Jack Porter",
+            "character": "Nicholas"
+        },
+        {
+            "actor": "Andrew Schneider",
+            "character": "Phillip"
+        },
+        {
+            "actor": "Bill Stull",
+            "character": "Veteran Police Officer"
+        },
+        {
+            "actor": "Ted Taylor",
+            "character": "Heston"
+        },
+        {
+            "actor": "Carl Randolph",
+            "character": "Bert"
+        },
+        {
+            "actor": "Rick Ganz",
+            "character": "Tuck Reed"
+        }
+    ]
+}

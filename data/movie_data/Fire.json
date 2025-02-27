@@ -1,0 +1,710 @@
+{
+    "adult": false,
+    "backdrop_path": "/iENMRivdhoPhEBEs9qX9DyOhtg4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 513,
+    "imdb_id": "tt0116308",
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fire",
+    "overview": "In a barren, arranged marriage to an amateur swami who seeks enlightenment through celibacy, Radha's life takes an irresistible turn when her beautiful young sister-in-law seeks to free herself from the confines of her own loveless marriage.",
+    "popularity": 15.841,
+    "poster_path": "/jDUCcZ7bBkqhbZ8R0vml3YUd4GG.jpg",
+    "production_companies": [
+        {
+            "id": 2141,
+            "logo_path": null,
+            "name": "Kaleidoscope Entertainment",
+            "origin_country": "IN"
+        },
+        {
+            "id": 2142,
+            "logo_path": "/gWRfbuOJ7oKohyqIzOijhCaFpQq.png",
+            "name": "Trial by Fire Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "1997-08-22",
+    "revenue": 501533,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Beneath the surface lies a burning secret.",
+    "title": "Fire",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 61,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Toronto International Film Festival",
+                        "release_date": "1996-09-06T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IN",
+                "release_dates": [
+                    {
+                        "certification": "A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1998-11-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Tokyo International Lesbian & Gay Film Festival",
+                        "release_date": "1999-07-17T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-08-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53372,
+                "known_for_department": "Acting",
+                "name": "Nandita Das",
+                "original_name": "Nandita Das",
+                "popularity": 23.342,
+                "profile_path": "/8MiMH0am4MwJS0OZNXcGNB6sMRt.jpg",
+                "cast_id": 3,
+                "character": "Sita",
+                "credit_id": "52fe424cc3a36847f8013757",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 85672,
+                "known_for_department": "Acting",
+                "name": "Shabana Azmi",
+                "original_name": "शबाना आज़मी",
+                "popularity": 44.301,
+                "profile_path": "/oZIL1OPo7163tOpyRUapyRDejT1.jpg",
+                "cast_id": 4,
+                "character": "Radha",
+                "credit_id": "52fe424cc3a36847f801375b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86086,
+                "known_for_department": "Acting",
+                "name": "Javed Jaffrey",
+                "original_name": "Javed Jaffrey",
+                "popularity": 8.486,
+                "profile_path": "/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg",
+                "cast_id": 5,
+                "character": "Jatin",
+                "credit_id": "52fe424cc3a36847f801375f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53377,
+                "known_for_department": "Acting",
+                "name": "Kulbhushan Kharbanda",
+                "original_name": "Kulbhushan Kharbanda",
+                "popularity": 16.034,
+                "profile_path": "/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+                "cast_id": 6,
+                "character": "Ashok",
+                "credit_id": "52fe424cc3a36847f8013763",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 575881,
+                "known_for_department": "Acting",
+                "name": "Kushal Rekhi",
+                "original_name": "Kushal Rekhi",
+                "popularity": 5.866,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Biji",
+                "credit_id": "52fe424cc3a36847f8013767",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106461,
+                "known_for_department": "Acting",
+                "name": "Ranjit Chowdhry",
+                "original_name": "Ranjit Chowdhry",
+                "popularity": 11.33,
+                "profile_path": "/mVGR3pTvzBHUogZE7ZIwfF2FdK5.jpg",
+                "cast_id": 8,
+                "character": "Mundu",
+                "credit_id": "52fe424cc3a36847f801376b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761464,
+                "known_for_department": "Acting",
+                "name": "Karishma Jhalani",
+                "original_name": "Karishma Jhalani",
+                "popularity": 4.004,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Young Radha",
+                "credit_id": "58aa1272c3a368689f00066f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1470303,
+                "known_for_department": "Acting",
+                "name": "Alice Poon",
+                "original_name": "Alice Poon",
+                "popularity": 5.927,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Julie",
+                "credit_id": "58aa12d3c3a368688f0007a0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1192817,
+                "known_for_department": "Acting",
+                "name": "Ram Gopal Bajaj",
+                "original_name": "Ram Gopal Bajaj",
+                "popularity": 8.283,
+                "profile_path": "/ilYs1QIQ1VypTaK1MucvOVQI1jS.jpg",
+                "cast_id": 11,
+                "character": "Swamiji",
+                "credit_id": "58aa12ef9251416f81000784",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43416,
+                "known_for_department": "Acting",
+                "name": "Vinay Pathak",
+                "original_name": "Vinay Pathak",
+                "popularity": 14.987,
+                "profile_path": "/nt4MvHjHq5sF1aPrLyFO1YizD8y.jpg",
+                "cast_id": 12,
+                "character": "Guide at Taj Mahal",
+                "credit_id": "58aa135b9251416fbb0007d1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 554929,
+                "known_for_department": "Directing",
+                "name": "Dilip Mehta",
+                "original_name": "Dilip Mehta",
+                "popularity": 4.049,
+                "profile_path": "/aOB7vIJV052XDSKiFIOg8nhTW23.jpg",
+                "cast_id": 13,
+                "character": "Young Radha's father",
+                "credit_id": "58aa139dc3a36868af000841",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761470,
+                "known_for_department": "Acting",
+                "name": "Ramanjeet Kaur",
+                "original_name": "Ramanjeet Kaur",
+                "popularity": 0.935,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Young Radha's mother",
+                "credit_id": "58aa13ad9251416f7d000907",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1120775,
+                "known_for_department": "Acting",
+                "name": "Avijit Dutt",
+                "original_name": "Avijit Dutt",
+                "popularity": 4.336,
+                "profile_path": "/5pNmHClvtaieNjTTrT4tjkWQYrw.jpg",
+                "cast_id": 15,
+                "character": "Julie's father",
+                "credit_id": "58aa13e9c3a368684f00088e",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761471,
+                "known_for_department": "Acting",
+                "name": "Shasea Bahadur",
+                "original_name": "Shasea Bahadur",
+                "popularity": 0.972,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Julie's brother",
+                "credit_id": "58aa13f7c3a36868c300075b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317805,
+                "known_for_department": "Acting",
+                "name": "Ravinder Happy",
+                "original_name": "Ravinder Happy",
+                "popularity": 0.552,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Oily man in video shop",
+                "credit_id": "5ce3a3f09251412cecbeb6dc",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317806,
+                "known_for_department": "Acting",
+                "name": "Devyani Saltzman",
+                "original_name": "Devyani Saltzman",
+                "popularity": 1.978,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Girl in video shop",
+                "credit_id": "5ce3a3fd0e0a266f89d11254",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 6505,
+                "known_for_department": "Art",
+                "name": "Sunil Chabra",
+                "original_name": "Sunil Chabra",
+                "popularity": 2.962,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Milkman on bicycle",
+                "credit_id": "5ce3a40cc3a3684511225286",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317807,
+                "known_for_department": "Acting",
+                "name": "Meher Chand",
+                "original_name": "Meher Chand",
+                "popularity": 0.394,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Goddess Sita",
+                "credit_id": "5ce3a43a9251414bbab8a2e4",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317808,
+                "known_for_department": "Acting",
+                "name": "Bahadur Chand",
+                "original_name": "Bahadur Chand",
+                "popularity": 1.009,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "God Ram",
+                "credit_id": "5ce3a44bc3a36823c524fd8b",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317809,
+                "known_for_department": "Acting",
+                "name": "Kabir Chowdhury",
+                "original_name": "Kabir Chowdhury",
+                "popularity": 1.45,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Boy in video shop",
+                "credit_id": "5ce3a45d0e0a265256d07bc1",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 24558,
+                "known_for_department": "Acting",
+                "name": "Laurence Côte",
+                "original_name": "Laurence Côte",
+                "popularity": 7.798,
+                "profile_path": "/9Ze7vTkIm2X5TU48itFgRj4HWFO.jpg",
+                "cast_id": 33,
+                "character": "French tourist at the Taj Mahal",
+                "credit_id": "5ce3a46b9251412cecbeb748",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4760,
+                "known_for_department": "Directing",
+                "name": "Deepa Mehta",
+                "original_name": "Deepa Mehta",
+                "popularity": 7.444,
+                "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+                "credit_id": "52fe424cc3a36847f801374d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761476,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anju Rekhi",
+                "original_name": "Anju Rekhi",
+                "popularity": 1.048,
+                "profile_path": null,
+                "credit_id": "58aa15339251416fab000909",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761474,
+                "known_for_department": "Editing",
+                "name": "Barry Farrell",
+                "original_name": "Barry Farrell",
+                "popularity": 0.878,
+                "profile_path": null,
+                "credit_id": "58aa14e29251416f9200090e",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 38807,
+                "known_for_department": "Art",
+                "name": "Aradhana Seth",
+                "original_name": "Aradhana Seth",
+                "popularity": 5.509,
+                "profile_path": "/qABmXG9Q9mnwyvLpuKCrlqTkXnn.jpg",
+                "credit_id": "58aa1514c3a36868b700081f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761475,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Neelam Mansingh Chowdhury",
+                "original_name": "Neelam Mansingh Chowdhury",
+                "popularity": 1.012,
+                "profile_path": null,
+                "credit_id": "58aa15289251416f77000963",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4760,
+                "known_for_department": "Directing",
+                "name": "Deepa Mehta",
+                "original_name": "Deepa Mehta",
+                "popularity": 7.444,
+                "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+                "credit_id": "58aa1441c3a368684f0008de",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 6505,
+                "known_for_department": "Art",
+                "name": "Sunil Chabra",
+                "original_name": "Sunil Chabra",
+                "popularity": 2.962,
+                "profile_path": null,
+                "credit_id": "58aa1554c3a368684f0009d7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 131892,
+                "known_for_department": "Production",
+                "name": "Bobby Bedi",
+                "original_name": "Bobby Bedi",
+                "popularity": 2.447,
+                "profile_path": null,
+                "credit_id": "58aa1477c3a36868d5000967",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5288,
+                "known_for_department": "Sound",
+                "name": "A.R. Rahman",
+                "original_name": "A.R. Rahman",
+                "popularity": 12.925,
+                "profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+                "credit_id": "5a7eb5880e0a262aa6007dbd",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317817,
+                "known_for_department": "Sound",
+                "name": "Miraj Ahmed",
+                "original_name": "Miraj Ahmed",
+                "popularity": 0.74,
+                "profile_path": null,
+                "credit_id": "5ce3a6a90e0a26522aca20f7",
+                "department": "Sound",
+                "job": "Playback Singer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3079,
+                "known_for_department": "Camera",
+                "name": "Giles Nuttgens",
+                "original_name": "Giles Nuttgens",
+                "popularity": 3.449,
+                "profile_path": "/jz40SpwgZtAshuVWq2ThsGpxObs.jpg",
+                "credit_id": "5ce3a540c3a36809ec210b23",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4760,
+                "known_for_department": "Directing",
+                "name": "Deepa Mehta",
+                "original_name": "Deepa Mehta",
+                "popularity": 7.444,
+                "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+                "credit_id": "5ce3a51d0e0a26381cccc22d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4760,
+                "known_for_department": "Directing",
+                "name": "Deepa Mehta",
+                "original_name": "Deepa Mehta",
+                "popularity": 7.444,
+                "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+                "credit_id": "5ce3a5260e0a26522aca1f4a",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2317817,
+                "known_for_department": "Sound",
+                "name": "Miraj Ahmed",
+                "original_name": "Miraj Ahmed",
+                "popularity": 0.74,
+                "profile_path": null,
+                "credit_id": "5ce3a6b6925141479bb8ac9e",
+                "department": "Writing",
+                "job": "Lyricist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5288,
+                "known_for_department": "Sound",
+                "name": "A.R. Rahman",
+                "original_name": "A.R. Rahman",
+                "popularity": 12.925,
+                "profile_path": "/3po8IwdtONY72BuXr7ZhZZ0ugxQ.jpg",
+                "credit_id": "5ce3a69ac3a36863d91e6e1a",
+                "department": "Sound",
+                "job": "Playback Singer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Nandita Das",
+            "character": "Sita"
+        },
+        {
+            "actor": "Shabana Azmi",
+            "character": "Radha"
+        },
+        {
+            "actor": "Javed Jaffrey",
+            "character": "Jatin"
+        },
+        {
+            "actor": "Kulbhushan Kharbanda",
+            "character": "Ashok"
+        },
+        {
+            "actor": "Kushal Rekhi",
+            "character": "Biji"
+        },
+        {
+            "actor": "Ranjit Chowdhry",
+            "character": "Mundu"
+        },
+        {
+            "actor": "Karishma Jhalani",
+            "character": "Young Radha"
+        },
+        {
+            "actor": "Alice Poon",
+            "character": "Julie"
+        },
+        {
+            "actor": "Ram Gopal Bajaj",
+            "character": "Swamiji"
+        },
+        {
+            "actor": "Vinay Pathak",
+            "character": "Guide at Taj Mahal"
+        },
+        {
+            "actor": "Dilip Mehta",
+            "character": "Young Radha's father"
+        },
+        {
+            "actor": "Ramanjeet Kaur",
+            "character": "Young Radha's mother"
+        },
+        {
+            "actor": "Avijit Dutt",
+            "character": "Julie's father"
+        },
+        {
+            "actor": "Shasea Bahadur",
+            "character": "Julie's brother"
+        },
+        {
+            "actor": "Ravinder Happy",
+            "character": "Oily man in video shop"
+        },
+        {
+            "actor": "Devyani Saltzman",
+            "character": "Girl in video shop"
+        },
+        {
+            "actor": "Sunil Chabra",
+            "character": "Milkman on bicycle"
+        },
+        {
+            "actor": "Meher Chand",
+            "character": "Goddess Sita"
+        },
+        {
+            "actor": "Bahadur Chand",
+            "character": "God Ram"
+        },
+        {
+            "actor": "Kabir Chowdhury",
+            "character": "Boy in video shop"
+        },
+        {
+            "actor": "Laurence Côte",
+            "character": "French tourist at the Taj Mahal"
+        }
+    ]
+}

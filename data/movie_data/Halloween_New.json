@@ -1,0 +1,664 @@
+{
+    "adult": false,
+    "backdrop_path": "/uuXqH1CSYVWV3qbRyyaLJ74IN44.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        }
+    ],
+    "homepage": "",
+    "id": 107596,
+    "imdb_id": "tt0126771",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Halloween with the New Addams Family",
+    "overview": "The original TV Addams Family members prepare for Halloween.",
+    "popularity": 9.272,
+    "poster_path": "/dhNZVG0gw3CeSvQUgHLLYXdSoYr.jpg",
+    "production_companies": [
+        {
+            "id": 19683,
+            "logo_path": null,
+            "name": "Charles Fries Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1977-10-30",
+    "revenue": 0,
+    "runtime": 74,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Original cast reunited in comedy special!",
+    "title": "Halloween with the New Addams Family",
+    "video": false,
+    "vote_average": 5.983,
+    "vote_count": 30,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1977-10-30T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41230,
+                "known_for_department": "Acting",
+                "name": "John Astin",
+                "original_name": "John Astin",
+                "popularity": 35.913,
+                "profile_path": "/xczlYoJJblfyoOudcn7riLqsbXW.jpg",
+                "cast_id": 0,
+                "character": "Gomez Addams",
+                "credit_id": "56b67fb09251414c4500467b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19109,
+                "known_for_department": "Acting",
+                "name": "Carolyn Jones",
+                "original_name": "Carolyn Jones",
+                "popularity": 46.675,
+                "profile_path": "/2BKqeVQqEYdV3Xqu2PYsPwDtMsc.jpg",
+                "cast_id": 1,
+                "character": "Morticia Addams/Ophelia Frump",
+                "credit_id": "56b67fc3c3a36806fc009e1d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19426,
+                "known_for_department": "Acting",
+                "name": "Jackie Coogan",
+                "original_name": "Jackie Coogan",
+                "popularity": 27.864,
+                "profile_path": "/nTyszFKR1OCzEDs0kmUtz1g2msq.jpg",
+                "cast_id": 2,
+                "character": "Uncle Fester",
+                "credit_id": "577fc0719251415dc0000022",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44686,
+                "known_for_department": "Acting",
+                "name": "Henry Darrow",
+                "original_name": "Henry Darrow",
+                "popularity": 18.078,
+                "profile_path": "/nN31ROoQKhXEt4CAlALE9qld285.jpg",
+                "cast_id": 3,
+                "character": "Pancho Addams",
+                "credit_id": "577fc0bb9251415dbb000036",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111167,
+                "known_for_department": "Acting",
+                "name": "Jane Rose",
+                "original_name": "Jane Rose",
+                "popularity": 13.222,
+                "profile_path": "/uti7Bfb8YLFNeOMoHFeBHDWf7ry.jpg",
+                "cast_id": 4,
+                "character": "Grandmama Addams",
+                "credit_id": "577fc0dbc3a3682e22000051",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1949,
+                "known_for_department": "Acting",
+                "name": "Elvia Allman",
+                "original_name": "Elvia Allman",
+                "popularity": 17.462,
+                "profile_path": "/r8MDamNJNwi83TXXn4lt41PtmTD.jpg",
+                "cast_id": 5,
+                "character": "Mother Frump",
+                "credit_id": "577fc0f59251415db5000060",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9600,
+                "known_for_department": "Acting",
+                "name": "Ted Cassidy",
+                "original_name": "Ted Cassidy",
+                "popularity": 34.297,
+                "profile_path": "/wGl9g8LgfJRGcCy1qv9AZwsfOrK.jpg",
+                "cast_id": 23,
+                "character": "Lurch",
+                "credit_id": "577fc4bf9251415dbe00016c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 193734,
+                "known_for_department": "Acting",
+                "name": "Lisa Loring",
+                "original_name": "Lisa Loring",
+                "popularity": 13.043,
+                "profile_path": "/d9muuK0aWF1DGh4COWwTKdqhXca.jpg",
+                "cast_id": 14,
+                "character": "Wednesday Addams Sr",
+                "credit_id": "577fc346c3a3682e1d0000f9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1244262,
+                "known_for_department": "Acting",
+                "name": "Ken Weatherwax",
+                "original_name": "Ken Weatherwax",
+                "popularity": 8.462,
+                "profile_path": "/l1tQEaGeATbTyyoxXFkU3UwAwWG.jpg",
+                "cast_id": 16,
+                "character": "Pugsley Addams Sr/Dr. Addams",
+                "credit_id": "577fc36f9251415dac000129",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86369,
+                "known_for_department": "Acting",
+                "name": "Parley Baer",
+                "original_name": "Parley Baer",
+                "popularity": 21.403,
+                "profile_path": "/a6b9pONRmi03ggBpHpevyGokxgJ.jpg",
+                "cast_id": 8,
+                "character": "Bones Lafferty/John Quincy Addams/Boss Crook",
+                "credit_id": "577fc1e49251415db800009b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82779,
+                "known_for_department": "Acting",
+                "name": "Vito Scotti",
+                "original_name": "Vito Scotti",
+                "popularity": 18.44,
+                "profile_path": "/zDGtXkASxpo3DzMNz6OI3NOp9v0.jpg",
+                "cast_id": 9,
+                "character": "Mikey/Mr. Grimm",
+                "credit_id": "577fc1f09251415dbb000087",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51765,
+                "known_for_department": "Acting",
+                "name": "Patrick Campbell",
+                "original_name": "Patrick Campbell",
+                "popularity": 10.686,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Louie The Lard/Little Bo Peep",
+                "credit_id": "577fc2729251415dac0000dc",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647137,
+                "known_for_department": "Acting",
+                "name": "Dean Sothern",
+                "original_name": "Dean Sothern",
+                "popularity": 0.023,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Fake Gomez",
+                "credit_id": "577fc292c3a3682e220000e6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647138,
+                "known_for_department": "Acting",
+                "name": "Terry Miller",
+                "original_name": "Terry Miller",
+                "popularity": 0.02,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Fake Morticia",
+                "credit_id": "577fc301c3a3682e2f00010e",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33853,
+                "known_for_department": "Acting",
+                "name": "Felix Silla",
+                "original_name": "Felix Silla",
+                "popularity": 19.12,
+                "profile_path": "/bfbGYUWNSNShe582wfKNBNEB313.jpg",
+                "cast_id": 13,
+                "character": "Cousin Itt",
+                "credit_id": "577fc318c3a3682e350000bb",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647139,
+                "known_for_department": "Acting",
+                "name": "Jennifer Surprenant",
+                "original_name": "Jennifer Surprenant",
+                "popularity": 3.216,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Wednesday Addams Jr",
+                "credit_id": "577fc38dc3a3682e2200013b",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647140,
+                "known_for_department": "Acting",
+                "name": "Ken Marquis",
+                "original_name": "Ken Marquis",
+                "popularity": 1.609,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Pugsley Addams Jr",
+                "credit_id": "577fc3a2c3a3682e26000151",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1647141,
+                "known_for_department": "Acting",
+                "name": "David B. Johns",
+                "original_name": "David B. Johns",
+                "popularity": 0.078,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Hercules",
+                "credit_id": "577fc3cec3a3682e1a00013c",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647142,
+                "known_for_department": "Acting",
+                "name": "Clinton Beyerle",
+                "original_name": "Clinton Beyerle",
+                "popularity": 0.149,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Atlas",
+                "credit_id": "577fc3eec3a3682e16000163",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1647143,
+                "known_for_department": "Acting",
+                "name": "George Ranito Jordan",
+                "original_name": "George Ranito Jordan",
+                "popularity": 2.419,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "First Cop",
+                "credit_id": "577fc40c9251415db2000146",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647148,
+                "known_for_department": "Acting",
+                "name": "Suzanne Krarna",
+                "original_name": "Suzanne Krarna",
+                "popularity": 0.215,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Countess Dracula",
+                "credit_id": "577fc57e9251415dac0001b5",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1647152,
+                "known_for_department": "Acting",
+                "name": "Alice Fries",
+                "original_name": "Alice Fries",
+                "popularity": 0.052,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Witch Kid in Party Scene",
+                "credit_id": "577fc5a3c3a3682e16000201",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2814776,
+                "known_for_department": "Production",
+                "name": "Linda Sohy",
+                "original_name": "Linda Sohy",
+                "popularity": 0.046,
+                "profile_path": null,
+                "credit_id": "5f86b6aca275020036c7fa4a",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2814768,
+                "known_for_department": "Writing",
+                "name": "George Tibbles",
+                "original_name": "George Tibbles",
+                "popularity": 0.737,
+                "profile_path": null,
+                "credit_id": "5f86b4d5a275020036c7f9db",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 48806,
+                "known_for_department": "Production",
+                "name": "Charles W. Fries",
+                "original_name": "Charles W. Fries",
+                "popularity": 3.48,
+                "profile_path": null,
+                "credit_id": "5f86b53569eb90003bc70d7d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1837438,
+                "known_for_department": "Production",
+                "name": "William P. Owens",
+                "original_name": "William P. Owens",
+                "popularity": 0.861,
+                "profile_path": null,
+                "credit_id": "5f86b6995a46900038efaa33",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2814775,
+                "known_for_department": "Art",
+                "name": "Bill Ross",
+                "original_name": "Bill Ross",
+                "popularity": 1.223,
+                "profile_path": null,
+                "credit_id": "5f86b67fa1a9ba003649c0fb",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1030309,
+                "known_for_department": "Production",
+                "name": "Malcolm Stuart",
+                "original_name": "Malcolm Stuart",
+                "popularity": 2.372,
+                "profile_path": null,
+                "credit_id": "5f86b6c1d4b9d900382518de",
+                "department": "Production",
+                "job": "Executive In Charge Of Production"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2814774,
+                "known_for_department": "Editing",
+                "name": "Ken Baker",
+                "original_name": "Ken Baker",
+                "popularity": 0.515,
+                "profile_path": null,
+                "credit_id": "5f86b619a1c59d0037107882",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 16516,
+                "known_for_department": "Production",
+                "name": "Caro Jones",
+                "original_name": "Caro Jones",
+                "popularity": 9.625,
+                "profile_path": null,
+                "credit_id": "5f86b63eafe22400351af155",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2814771,
+                "known_for_department": "Production",
+                "name": "Paul Pieratt",
+                "original_name": "Paul Pieratt",
+                "popularity": 0.095,
+                "profile_path": null,
+                "credit_id": "5f86b56b2d8ef30038b8aea6",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40392,
+                "known_for_department": "Camera",
+                "name": "Jacques R. Marquette",
+                "original_name": "Jacques R. Marquette",
+                "popularity": 2.931,
+                "profile_path": null,
+                "credit_id": "5f86b5b5a199a60036de8f9b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69660,
+                "known_for_department": "Writing",
+                "name": "Charles Addams",
+                "original_name": "Charles Addams",
+                "popularity": 16.994,
+                "profile_path": null,
+                "credit_id": "5f86b4eda275020036c7f9e5",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1503109,
+                "known_for_department": "Creator",
+                "name": "David Levy",
+                "original_name": "David Levy",
+                "popularity": 2.465,
+                "profile_path": null,
+                "credit_id": "5f86b5542d8ef30037bb7736",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31052,
+                "known_for_department": "Sound",
+                "name": "Vic Mizzy",
+                "original_name": "Vic Mizzy",
+                "popularity": 3.591,
+                "profile_path": null,
+                "credit_id": "5f86b58f69eb90003bc70dd9",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 280809,
+                "known_for_department": "Directing",
+                "name": "Dennis Steinmetz",
+                "original_name": "Dennis Steinmetz",
+                "popularity": 3.958,
+                "profile_path": null,
+                "credit_id": "617f8008d236e60043420261",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "John Astin",
+            "character": "Gomez Addams"
+        },
+        {
+            "actor": "Carolyn Jones",
+            "character": "Morticia Addams/Ophelia Frump"
+        },
+        {
+            "actor": "Jackie Coogan",
+            "character": "Uncle Fester"
+        },
+        {
+            "actor": "Henry Darrow",
+            "character": "Pancho Addams"
+        },
+        {
+            "actor": "Jane Rose",
+            "character": "Grandmama Addams"
+        },
+        {
+            "actor": "Elvia Allman",
+            "character": "Mother Frump"
+        },
+        {
+            "actor": "Ted Cassidy",
+            "character": "Lurch"
+        },
+        {
+            "actor": "Lisa Loring",
+            "character": "Wednesday Addams Sr"
+        },
+        {
+            "actor": "Ken Weatherwax",
+            "character": "Pugsley Addams Sr/Dr. Addams"
+        },
+        {
+            "actor": "Parley Baer",
+            "character": "Bones Lafferty/John Quincy Addams/Boss Crook"
+        },
+        {
+            "actor": "Vito Scotti",
+            "character": "Mikey/Mr. Grimm"
+        },
+        {
+            "actor": "Patrick Campbell",
+            "character": "Louie The Lard/Little Bo Peep"
+        },
+        {
+            "actor": "Dean Sothern",
+            "character": "Fake Gomez"
+        },
+        {
+            "actor": "Terry Miller",
+            "character": "Fake Morticia"
+        },
+        {
+            "actor": "Felix Silla",
+            "character": "Cousin Itt"
+        },
+        {
+            "actor": "Jennifer Surprenant",
+            "character": "Wednesday Addams Jr"
+        },
+        {
+            "actor": "Ken Marquis",
+            "character": "Pugsley Addams Jr"
+        },
+        {
+            "actor": "David B. Johns",
+            "character": "Hercules"
+        },
+        {
+            "actor": "Clinton Beyerle",
+            "character": "Atlas"
+        },
+        {
+            "actor": "George Ranito Jordan",
+            "character": "First Cop"
+        },
+        {
+            "actor": "Suzanne Krarna",
+            "character": "Countess Dracula"
+        },
+        {
+            "actor": "Alice Fries",
+            "character": "Witch Kid in Party Scene"
+        }
+    ]
+}

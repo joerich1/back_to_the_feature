@@ -1,0 +1,538 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 10770,
+            "name": "TV Movie"
+        }
+    ],
+    "homepage": "",
+    "id": 41422,
+    "imdb_id": "tt0318181",
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Water's Edge",
+    "overview": "Robert wanted an escape from the big city. He thought a small town by the water's edge would give him a new start. He couldn't have been more wrong. This little town has dirty secrets, and Robert just found the worst of them...",
+    "popularity": 4.613,
+    "poster_path": "/ornxzcScz0tOpWMpecb6d5XbGXT.jpg",
+    "production_companies": [
+        {
+            "id": 3958,
+            "logo_path": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+            "name": "Front Street Pictures",
+            "origin_country": "CA"
+        },
+        {
+            "id": 1450,
+            "logo_path": null,
+            "name": "Front Street Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2003-10-09",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "In a small town, it's shocking what washes up.",
+    "title": "Water's Edge",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 12,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2003-10-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2004-01-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51797,
+                "known_for_department": "Acting",
+                "name": "Nathan Fillion",
+                "original_name": "Nathan Fillion",
+                "popularity": 68.874,
+                "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+                "cast_id": 2,
+                "character": "Robert Graves",
+                "credit_id": "52fe45c8c3a36847f80da389",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 54634,
+                "known_for_department": "Acting",
+                "name": "Chandra West",
+                "original_name": "Chandra West",
+                "popularity": 26.877,
+                "profile_path": "/354CJGIdaKsGvNm2KyTb2TonFoV.jpg",
+                "cast_id": 3,
+                "character": "Molly Graves",
+                "credit_id": "52fe45c8c3a36847f80da38d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2684,
+                "known_for_department": "Acting",
+                "name": "Emmanuelle Vaugier",
+                "original_name": "Emmanuelle Vaugier",
+                "popularity": 46.749,
+                "profile_path": "/3wGefsb5WrQPPXVM6egqIKOwfIq.jpg",
+                "cast_id": 4,
+                "character": "Rae Baines",
+                "credit_id": "52fe45c8c3a36847f80da391",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24516,
+                "known_for_department": "Acting",
+                "name": "Daniel Baldwin",
+                "original_name": "Daniel Baldwin",
+                "popularity": 21.571,
+                "profile_path": "/8dp3G3EvnQrp3awh4gc1nNsI60j.jpg",
+                "cast_id": 5,
+                "character": "Mayor Block",
+                "credit_id": "52fe45c8c3a36847f80da395",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61161,
+                "known_for_department": "Acting",
+                "name": "Ralph Alderman",
+                "original_name": "Ralph Alderman",
+                "popularity": 9.477,
+                "profile_path": "/cwhyblIX4r8V5Mmrm6u4r9v4Etw.jpg",
+                "cast_id": 9,
+                "character": "Byron Kester",
+                "credit_id": "6064c7866e938a0029afa744",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 182946,
+                "known_for_department": "Acting",
+                "name": "Douglas O'Keeffe",
+                "original_name": "Douglas O'Keeffe",
+                "popularity": 7.834,
+                "profile_path": "/figN49HgZDTA7S63Z9Lc5ruXM4T.jpg",
+                "cast_id": 10,
+                "character": "Officer Campbell",
+                "credit_id": "6064c792a7e363003fc38b48",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51801,
+                "known_for_department": "Acting",
+                "name": "William MacDonald",
+                "original_name": "William MacDonald",
+                "popularity": 21.485,
+                "profile_path": "/1eLETdGqGW1b26lhn4l57dlSgJA.jpg",
+                "cast_id": 11,
+                "character": "T. Wallace",
+                "credit_id": "6064c79dc616ac002ada3778",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1237422,
+                "known_for_department": "Acting",
+                "name": "Daryl Shuttleworth",
+                "original_name": "Daryl Shuttleworth",
+                "popularity": 5.722,
+                "profile_path": "/a7YSS7dLyiy0YijoBKF2Pca7V05.jpg",
+                "cast_id": 12,
+                "character": "Sheriff Dodd",
+                "credit_id": "6064c7aabefd910058dc5535",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62867,
+                "known_for_department": "Acting",
+                "name": "Andrew Moxham",
+                "original_name": "Andrew Moxham",
+                "popularity": 9.274,
+                "profile_path": "/1Sc4ZzGnuwGQ57qjFTbMJoumfzw.jpg",
+                "cast_id": 13,
+                "character": "Robbie Butler",
+                "credit_id": "6064c7b66e938a00585eeec0",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1915192,
+                "known_for_department": "Acting",
+                "name": "Mark Baur",
+                "original_name": "Mark Baur",
+                "popularity": 2.36,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Joe Riley",
+                "credit_id": "6064c7c00143250058027418",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1226858,
+                "known_for_department": "Acting",
+                "name": "Donna White",
+                "original_name": "Donna White",
+                "popularity": 6.63,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Ruth Kester",
+                "credit_id": "6064c7ca0f2ae1007ab53239",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32733,
+                "known_for_department": "Production",
+                "name": "Harvey Kahn",
+                "original_name": "Harvey Kahn",
+                "popularity": 15.606,
+                "profile_path": "/ubVjGFqrhZ3ksVgIDhNBQXgrGq6.jpg",
+                "credit_id": "52fe45c8c3a36847f80da39b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53267,
+                "known_for_department": "Writing",
+                "name": "Craig Brewer",
+                "original_name": "Craig Brewer",
+                "popularity": 5.38,
+                "profile_path": "/Cbsn9TlW7vKOxHUodKVNPtLrlq.jpg",
+                "credit_id": "60418e8d3429ff0044b0eaca",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32733,
+                "known_for_department": "Production",
+                "name": "Harvey Kahn",
+                "original_name": "Harvey Kahn",
+                "popularity": 15.606,
+                "profile_path": "/ubVjGFqrhZ3ksVgIDhNBQXgrGq6.jpg",
+                "credit_id": "60418e9d7cffda0059911662",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 32734,
+                "known_for_department": "Production",
+                "name": "Carole Curb Nemoy",
+                "original_name": "Carole Curb Nemoy",
+                "popularity": 0.997,
+                "profile_path": null,
+                "credit_id": "615694181c635b002a19b6c7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 64657,
+                "known_for_department": "Production",
+                "name": "Ruth Epstein",
+                "original_name": "Ruth Epstein",
+                "popularity": 2.646,
+                "profile_path": null,
+                "credit_id": "61569423156cc7004566431b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64665,
+                "known_for_department": "Production",
+                "name": "Ken Lawson",
+                "original_name": "Ken Lawson",
+                "popularity": 1.37,
+                "profile_path": null,
+                "credit_id": "6156946567dcc90043e81985",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 960370,
+                "known_for_department": "Sound",
+                "name": "Terry Frewer",
+                "original_name": "Terry Frewer",
+                "popularity": 2.551,
+                "profile_path": null,
+                "credit_id": "6156946f4d6791002ce08b44",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 417754,
+                "known_for_department": "Camera",
+                "name": "David Pelletier",
+                "original_name": "David Pelletier",
+                "popularity": 5.522,
+                "profile_path": null,
+                "credit_id": "61569478a4af8f008e9850ce",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63957,
+                "known_for_department": "Editing",
+                "name": "Garry M.B. Smith",
+                "original_name": "Garry M.B. Smith",
+                "popularity": 0.706,
+                "profile_path": null,
+                "credit_id": "615694801c6329002c02bc02",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1302166,
+                "known_for_department": "Art",
+                "name": "Randy Chodak",
+                "original_name": "Randy Chodak",
+                "popularity": 3.13,
+                "profile_path": null,
+                "credit_id": "61569489d2147c0044e09d22",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1322007,
+                "known_for_department": "Art",
+                "name": "Joanna Dunn",
+                "original_name": "Joanna Dunn",
+                "popularity": 3.129,
+                "profile_path": null,
+                "credit_id": "61569491eb14fa002a6e10c9",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2327,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Katia Stano",
+                "original_name": "Katia Stano",
+                "popularity": 7.034,
+                "profile_path": null,
+                "credit_id": "6156949a41465c0062c7efeb",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1869072,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alla Kornilov",
+                "original_name": "Alla Kornilov",
+                "popularity": 0.444,
+                "profile_path": null,
+                "credit_id": "615694a3904f6d004319c75f",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1029806,
+                "known_for_department": "Crew",
+                "name": "Brett Armstrong",
+                "original_name": "Brett Armstrong",
+                "popularity": 7.943,
+                "profile_path": "/pVT5ogjvyb2WWBC3oQgcI4ywSUP.jpg",
+                "credit_id": "64f66b188e20c50cd7f31eb6",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41654,
+                "known_for_department": "Production",
+                "name": "Lindsay Chag",
+                "original_name": "Lindsay Chag",
+                "popularity": 4.661,
+                "profile_path": null,
+                "credit_id": "651cb99d967cc734295e5d0b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85543,
+                "known_for_department": "Acting",
+                "name": "Gerald Paetz",
+                "original_name": "Gerald Paetz",
+                "popularity": 8.903,
+                "profile_path": "/y7hDzHWprfuAFTYWj5h7mfUl1Zb.jpg",
+                "credit_id": "651cb9a8ea84c7010c14ad5b",
+                "department": "Crew",
+                "job": "Stunt Driver"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1460586,
+                "known_for_department": "Crew",
+                "name": "Cara E. Anderson",
+                "original_name": "Cara E. Anderson",
+                "popularity": 0.335,
+                "profile_path": null,
+                "credit_id": "651cb9b007216600ff377a9b",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1397174,
+                "known_for_department": "Crew",
+                "name": "Rory Cutler",
+                "original_name": "Rory Cutler",
+                "popularity": 1.976,
+                "profile_path": null,
+                "credit_id": "651cb9bac50ad2012c1aea37",
+                "department": "Crew",
+                "job": "Special Effects"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Nathan Fillion",
+            "character": "Robert Graves"
+        },
+        {
+            "actor": "Chandra West",
+            "character": "Molly Graves"
+        },
+        {
+            "actor": "Emmanuelle Vaugier",
+            "character": "Rae Baines"
+        },
+        {
+            "actor": "Daniel Baldwin",
+            "character": "Mayor Block"
+        },
+        {
+            "actor": "Ralph Alderman",
+            "character": "Byron Kester"
+        },
+        {
+            "actor": "Douglas O'Keeffe",
+            "character": "Officer Campbell"
+        },
+        {
+            "actor": "William MacDonald",
+            "character": "T. Wallace"
+        },
+        {
+            "actor": "Daryl Shuttleworth",
+            "character": "Sheriff Dodd"
+        },
+        {
+            "actor": "Andrew Moxham",
+            "character": "Robbie Butler"
+        },
+        {
+            "actor": "Mark Baur",
+            "character": "Joe Riley"
+        },
+        {
+            "actor": "Donna White",
+            "character": "Ruth Kester"
+        }
+    ]
+}
