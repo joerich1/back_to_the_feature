@@ -1,0 +1,1329 @@
+[
+    {
+        "title": "Action",
+        "description": "The action genre features fast-paced, thrilling, and intense sequences of physical feats, combat, and excitement. The characters of these stories are involved in daring and often dangerous situations, requiring them to rely on their physical prowess, skills, and quick thinking to overcome challenges and adversaries.",
+        "type": "Genre",
+        "category": "Action",
+        "required_genre": "Action",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Action Epic",
+        "description": "The action epic subgenre features fast-paced action with a grand and sweeping narrative scope, often spanning across vast landscapes, historical eras, and larger-than-life characters and conflicts. Classically, an epic tells the heroic journey and deeds of a single person, or group of persons, upon which the fate of many people depends.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "epic-action"
+    },
+    {
+        "title": "Adult Animation",
+        "description": "The adult animation subgenre is aimed at mature audiences, typically consisting of content that explores complex themes, mature storytelling, and may include explicit language, violence, sexual content, or other adult-oriented elements. Unlike traditional animation that is often associated with family-friendly or children's content, adult animation caters to grown-up viewers who appreciate more sophisticated and often darker narratives.",
+        "type": "Subgenre",
+        "category": "Animation",
+        "required_genre": "Animation",
+        "required_keyword": "for-grown-ups-animation"
+    },
+    {
+        "title": "Adventure",
+        "description": "The adventure genre features exciting journeys, quests, or expeditions undertaken by characters who often face challenges, obstacles, and risks in pursuit of a goal. Adventures can take place in a wide range of settings, from exotic and fantastical locations to historical or even everyday environments.",
+        "type": "Genre",
+        "category": "Adventure",
+        "required_genre": "Adventure",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Adventure Epic",
+        "description": "The adventure epic subgenre features grand scope, sweeping landscapes, heroic journeys, and often historical or mythological elements. Epic adventure stories transport audiences to different worlds, eras, or fantastical realms, immersing them in narratives that encompass vast territories and significant challenges.",
+        "type": "Subgenre",
+        "category": "Adventure",
+        "required_genre": "None",
+        "required_keyword": "epic-adventure"
+    },
+    {
+        "title": "Alien Invasion",
+        "description": "The alien invasion subgenre features extraterrestrial beings invading Earth. These stories typically depict the arrival of advanced alien civilizations to our planet, often with hostile intentions. The subgenre explores themes of humanity's response to a sudden and unprecedented threat, as well as the potential consequences of interacting with beings from other worlds.",
+        "type": "Subgenre",
+        "category": "Sci-Fi",
+        "required_genre": "Sci-Fi",
+        "required_keyword": "alien-invasion-sci-fi"
+    },
+    {
+        "title": "Animal Adventure",
+        "description": "The animal adventure subgenre features stories where animals are the central characters and protagonists in children's and family-oriented content. These stories often follow the animals as they embark on journeys, face challenges, and experience adventures in various settings.",
+        "type": "Subgenre",
+        "category": "Family",
+        "required_genre": "Family",
+        "required_keyword": "animals-family"
+    },
+    {
+        "title": "Animation",
+        "description": "Animation is a form of visual storytelling that involves creating visual art and motion through the use of various techniques and technologies. In animation, images are manipulated to create the illusion of movement, bringing characters, objects, and environments to life. Animation can encompass a wide range of styles, themes, and intended audiences, making it a diverse and versatile form of storytelling.",
+        "type": "Form",
+        "category": "Animation",
+        "required_genre": "Animation",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Anime",
+        "description": "Anime is a style of Japanese animation that has gained significant popularity outside of Japan. It is often characterized by its use of flat design and limited animation, with characters characterized by large expressive eyes, exaggerated facial expressions, and defined lines. These stories are produced for audiences of all ages, with specific subgenres catering to different age groups.",
+        "type": "Style",
+        "category": "Animation",
+        "required_genre": "Animation",
+        "required_keyword": "anime-animation"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "description": "The artificial intelligence, or A.I., subgenre features the concept of artificial intelligence and its impact on society, humanity, and the future. These stories often focus on the creation, development, and interactions of intelligent machines and raises questions about the ethical, moral, and existential implications of a future where AI plays a significant role.",
+        "type": "Subgenre",
+        "category": "Sci-Fi",
+        "required_genre": "Sci-Fi",
+        "required_keyword": "artificial-intelligence-sci-fi"
+    },
+    {
+        "title": "B-Action",
+        "description": "The B-action subgenre features lower budgets, simpler plots, and lower production values compared to bigger budget mainstream action titles. Originally used in a derogatory manner, the subgenre has evolved to describe a specific type of filmmaking with its own unique charm and appeal. The \"B\" designation originally referred to the second feature in a double feature presentation, with the \"A\" film being the main attraction. Over time, \"B-movies\" became associated with low-budget and less prestigious productions.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "b-action"
+    },
+    {
+        "title": "Baseball",
+        "description": "The baseball subgenre features the sport of baseball, the players' experiences, the challenges they face, and the impact of baseball on their lives. Baseball stories capture the excitement of the sport, the camaraderie among teammates, and the personal journeys of players, coaches, and fans.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "baseball-sport"
+    },
+    {
+        "title": "Basketball",
+        "description": "The basketball subgenre features the sport of basketball, the lives of players, coaches, and the impact of basketball on their personal journeys. Basketball stories capture the excitement of the sport, the challenges faced by athletes, and the camaraderie among teammates.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "basketball-sport"
+    },
+    {
+        "title": "Beauty Competition",
+        "description": "The beauty competition subgenre features TV series with contestants participating in various challenges and competitions related to beauty, talent, and sometimes intelligence or personality.",
+        "type": "Subgenre",
+        "category": "Game Show",
+        "required_genre": "Game-Show",
+        "required_keyword": "beauty-game-show"
+    },
+    {
+        "title": "Beauty Makeover",
+        "description": "The beauty makeover TV series subgenre features transforming individuals' appearances through various beauty treatments, makeovers, and lifestyle changes. These shows typically feature participants who are seeking to enhance their physical appearance, boost their confidence, or undergo a significant transformation.",
+        "type": "Subgenre",
+        "category": "Lifestyle",
+        "required_genre": "None",
+        "required_keyword": "beauty-makeover-reality-tv"
+    },
+    {
+        "title": "B-Horror",
+        "description": "The b-horror subgenre features modest production values, simple plots, and reliance on certain horror tropes and clichés. The stories are often low-budget, low-quality, and sometimes intentionally campy or cheesy. The \"B\" designation originally referred to the second feature in a double feature presentation, with the \"A\" film being the main attraction. Over time, \"B-movies\" became associated with low-budget and less prestigious productions.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "b-horror"
+    },
+    {
+        "title": "Biography",
+        "description": "The biography, or \"biopic\", is a genre that portrays the life story of a real person, often a notable individual or historical figure. They aim to provide a depiction of the subject's personal history, achievements, challenges, and impact on society.",
+        "type": "Genre",
+        "category": "Drama",
+        "required_genre": "Biography",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Body Horror",
+        "description": "The body horror subgenre features the physical and psychological transformation, deformation, or degradation of the human body. In body horror stories, the human body itself becomes a source of fear, anxiety, and disgust, often through graphic and disturbing depictions of bodily changes, mutilation, or alteration.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "body-horror"
+    },
+    {
+        "title": "Body Swap Comedy",
+        "description": "The body swap comedy features characters' minds or consciousnesses being switched between different bodies, often leading to humorous and sometimes insightful situations. In these stories, characters find themselves in unfamiliar physical forms, which can result in comedic misunderstandings, identity crises, and role reversals. Body swap comedies explore themes of empathy, personal growth, and the comedic potential of being in someone else's shoes, quite literally.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "body-swap-comedy"
+    },
+    {
+        "title": "Boxing",
+        "description": "The boxing subgenre features the sport of boxing and the physical and emotional challenges faced by boxers, their personal journeys, and the impact of the sport on their lives. Boxing stories often highlight the determination, grit, and resilience required to excel in the ring.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "boxing-sport"
+    },
+    {
+        "title": "Buddy Comedy",
+        "description": "The buddy comedy features interactions, misadventures, and camaraderie between two main characters who are often opposites in personality, background, or circumstances. The comedic dynamic arises from their contrasting traits, resulting in humorous situations and often leading to personal growth and deepened friendship. Buddy comedies are known for their witty banter, odd-couple dynamics, and the chemistry between the central characters. These stories are similar to, but distinct from, romantic comedies and buddy cop comedies.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "buddy-comedy"
+    },
+    {
+        "title": "Buddy Cop",
+        "description": "The buddy cop subgenre features two main characters, typically police officers, detectives, or agents with contrasting personalities, who are forced to work together to solve a crime or achieve a common goal. The interactions and dynamics between the two characters, often from different backgrounds or with conflicting approaches to police work, create both humor and tension, resulting in entertaining and action-packed narratives.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "buddy-cop-comedy"
+    },
+    {
+        "title": "Bumbling Detective",
+        "description": "The bumbling detective subgenre features a detective or amateur detective who is notably inept, clumsy, or unskilled in solving crimes. Humor in these stories arises from the detective's missteps, blunders, and comical misunderstandings, often juxtaposed with the seriousness of the crimes they are attempting to solve.",
+        "type": "Subgenre",
+        "category": "Mystery",
+        "required_genre": "None",
+        "required_keyword": "bumbling-detective-mystery"
+    },
+    {
+        "title": "Business Reality TV",
+        "description": "The business reality TV subgenre features the world of business, entrepreneurship, and professional competition. These shows often showcase individuals or teams navigating challenges, making strategic decisions, and working toward achieving business-related goals.",
+        "type": "Subgenre",
+        "category": "Reality TV",
+        "required_genre": "None",
+        "required_keyword": "business-and-occupation-reality-tv"
+    },
+    {
+        "title": "Caper",
+        "description": "The caper subgenre features the planning and execution of one or more crimes, such as thefts, cons, or kidnappings, by a team of characters, each with specific skills. Caper stories are distinguished by their emphasis of humor, adventure, and the unusual cleverness or audacity of the crime.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "caper-crime"
+    },
+    {
+        "title": "Car Action",
+        "description": "The car action subgenre features high-speed car chases, daring stunts, and intense vehicular action sequences. Automobiles take on a central role as characters engage in thrilling pursuits, races, and confrontations involving cars, motorcycles, trucks, and other vehicles.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "car-action"
+    },
+    {
+        "title": "Classic Musical",
+        "description": "The classic musical subgenre feature lavish production values, elaborate dance numbers, and catchy songs that have since become popular hits. These musicals were produced from the Golden Age of Hollywood to the late 1960s.",
+        "type": "Subgenre",
+        "category": "Musical",
+        "required_genre": "Musical",
+        "required_keyword": "classic-musical"
+    },
+    {
+        "title": "Classical Western",
+        "description": "The classical Western subgenre features a portrayal of the American Old West in a romanticized and often idealized manner. These stories typically feature iconic elements of the Wild West, including cowboys, gunfights, rugged landscapes, and themes of honor, justice, and individualism. These films were produced from the early days of cinema up until the late 1960s.",
+        "type": "Subgenre",
+        "category": "Western",
+        "required_genre": "Western",
+        "required_keyword": "classical-western"
+    },
+    {
+        "title": "Comedy",
+        "description": "The comedy genre refers to a category of entertainment that aims to amuse and entertain audiences by using humor, wit, and comedic situations. Comedies are created with the primary intention of eliciting laughter and providing lighthearted enjoyment. They encompass a wide range of styles, tones, and themes, appealing to various tastes and audiences.",
+        "type": "Genre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Coming-of-Age",
+        "description": "The coming-of-age subgenre features personal growth, maturation, and self-discovery of a young protagonist as they navigate the challenges and transitions of adolescence into adulthood. These stories often revolve around characters experiencing pivotal moments, gaining new insights, and learning valuable life lessons as they transition from childhood to maturity.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "coming-of-age-drama"
+    },
+    {
+        "title": "Computer Animation",
+        "description": "Computer animation is a technique in which computers are used to generate animated sequences digitally. Unlike traditional hand-drawn animation, which involves creating individual frames by hand, computer animation relies on digital processes to generate scenery, character models, lighting, and movement.",
+        "type": "Technique",
+        "category": "Animation",
+        "required_genre": "Animation",
+        "required_keyword": "cg-animation"
+    },
+    {
+        "title": "Concert",
+        "description": "The concert music subgenre features live musical performances and events, including recordings of musical artists or bands performing their music in front of a live audience.",
+        "type": "Subgenre",
+        "category": "Music",
+        "required_genre": "Music",
+        "required_keyword": "concert-music"
+    },
+    {
+        "title": "Conspiracy Thriller",
+        "description": "The conspiracy thriller subgenre features complex plots involving secret schemes, hidden agendas, and intricate conspiracies. These stories combine elements of suspense, mystery, and intrigue to create narratives where characters uncover and attempt to expose hidden truths or sinister plots that are often orchestrated by powerful organizations or individuals.",
+        "type": "Subgenre",
+        "category": "Thriller",
+        "required_genre": "Thriller",
+        "required_keyword": "conspiracy-thriller"
+    },
+    {
+        "title": "Contemporary Western",
+        "description": "The contemporary Western subgenre features traditional elements of the classic Western genre in a modern or contemporary setting. These stories often update the Western themes and motifs to address contemporary issues, while still incorporating the iconic elements that define the Western genre, such as landscapes, characters, and themes of morality and justice.",
+        "type": "Subgenre",
+        "category": "Western",
+        "required_genre": "None",
+        "required_keyword": "contemporary-western"
+    },
+    {
+        "title": "Cooking & Food",
+        "description": "The cooking & food lifestyle TV series subgenre features cooking, culinary experiences, and tasks that center around cooking techniques, recipes, culinary exploration, and the culture surrounding food.",
+        "type": "Subgenre",
+        "category": "Lifestyle",
+        "required_genre": "None",
+        "required_keyword": "cooking-reality-tv"
+    },
+    {
+        "title": "Cooking Competition",
+        "description": "The cooking competition subgenre features TV series with professional chefs, amateur cooks, or culinary enthusiasts competing against each other in a series of cooking challenges. These challenges often test the contestants' culinary skills, creativity, teamwork, and ability to work under pressure.",
+        "type": "Subgenre",
+        "category": "Game Show",
+        "required_genre": "Game-Show",
+        "required_keyword": "cookery-game-show"
+    },
+    {
+        "title": "Cop Drama",
+        "description": "The cop drama subgenre features law enforcement officers, their work, and the challenges they face while investigating crimes, maintaining order, and upholding the law. Cop dramas often provide a glimpse into the daily lives, moral dilemmas, and personal struggles of police officers as they navigate the complexities of their profession.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "cop-drama"
+    },
+    {
+        "title": "Costume Drama",
+        "description": "The costume drama subgenre is set in a particular historical period and emphasizes the accurate depiction of the era's clothing, customs, settings, and social norms. These productions transport audiences to the past through visual and cultural elements of a bygone time.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "costume-drama"
+    },
+    {
+        "title": "Cozy Mystery",
+        "description": "The cozy mystery subgenre, also known as \"cozies\", features a light-hearted and often charming approach to crime-solving that focuses on puzzle-solving rather than graphic violence or intense suspense. Cozy mysteries typically feature amateur detectives, often in small, close-knit communities or quaint settings, who investigate crimes while maintaining a cozy and comfortable atmosphere.",
+        "type": "Subgenre",
+        "category": "Mystery",
+        "required_genre": "Mystery",
+        "required_keyword": "cozy-mystery"
+    },
+    {
+        "title": "Crime",
+        "description": "The crime genre features criminal activities, investigations, law enforcement, crimes, and the pursuit of justice. Crime stories often revolve around the planning, execution, and consequences of criminal acts, as well as the efforts to solve and prevent such acts. They explore various aspects of criminal behavior, motives, and the moral dilemmas faced by both perpetrators and those seeking to uphold the law.",
+        "type": "Genre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "crime-documentary"
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes."
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes."
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes."
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes."
+    },
+    {
+        "title": "Crime Documentary",
+        "description": "The crime documentary features real-life criminal cases, investigations, trials, and related events. Crime documentaries present factual information and often incorporate interviews with law enforcement officials, legal experts, witnesses, victims, and sometimes even the individuals involved in the crimes."
+    },
+    {
+        "title": "Dark Romance",
+        "description": "The dark romance subgenre features themes of love, desire, and relationships within a context that is often intense, mysterious, and sometimes unsettling. Dark romance stories typically delve into darker aspects of human emotions, psychology, and relationships, often incorporating elements of danger and suspense.",
+        "type": "Subgenre",
+        "category": "Romance",
+        "required_genre": "Romance",
+        "required_keyword": "dark-romance"
+    },
+    {
+        "title": "Dating Reality TV",
+        "description": "The dating reality TV subgenre features dating, romance, and relationships. These shows typically feature a group of participants who are looking for love or companionship and engage in various dating-related activities and challenges.",
+        "type": "Subgenre",
+        "category": "Reality TV",
+        "required_genre": "None",
+        "required_keyword": "dating-and-romance-reality-tv"
+    },
+    {
+        "title": "Desert Adventure",
+        "description": "The desert adventure subgenre features stories set in arid and often unforgiving desert landscapes. In these stories, characters embark on journeys through sandy dunes, harsh environments, and arid wastelands, facing challenges unique to desert conditions.",
+        "type": "Subgenre",
+        "category": "Adventure",
+        "required_genre": "None",
+        "required_keyword": "desert-adventure"
+    },
+    {
+        "title": "Dinosaur Adventure",
+        "description": "The dinosaur adventure subgenre features dinosaurs as central elements of the story. These stories typically transport viewers to prehistoric times or depict scenarios where dinosaurs coexist with humans or are rediscovered in the modern world.",
+        "type": "Subgenre",
+        "category": "Adventure",
+        "required_genre": "None",
+        "required_keyword": "dinosaur-adventure"
+    },
+    {
+        "title": "Disaster",
+        "description": "The disaster subgenre features narratives where characters must confront and survive catastrophic and often life-threatening events. These events can range from natural disasters like earthquakes, tsunamis, and hurricanes to man-made disasters like terrorist attacks, nuclear accidents, and plane crashes.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "disaster-action"
+    },
+    {
+        "title": "Docudrama",
+        "description": "The docudrama subgenre features dramatized re-enactments of actual events, often from recent history. Docudramas aim to provide a compelling and engaging portrayal of real-life situations while maintaining some of the narrative and emotional elements found in fictional dramas.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "docudrama"
+    },
+    {
+        "title": "Documentary",
+        "description": "The documentary is a form of non-fiction storytelling that aims to present factual information, insights, and perspectives on real-world subjects, events, issues, or people. Documentaries can cover a wide range of topics, including history, science, culture, social issues, nature, biographies, and more.",
+        "type": "Form",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Docuseries",
+        "description": "The docuseries, short for documentary series, is a TV series that consists of multiple episodes, each focusing on a specific aspect of a larger subject or theme. Docuseries present factual information, insights, and perspectives on real-world subjects, events, issues, or individuals, and offer an in-depth exploration by dedicating multiple episodes to various aspects of the subject.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "docuseries-documentary"
+    },
+    {
+        "title": "Docusoap Reality TV",
+        "description": "The docusoap reality TV subgenre, derived from combining the words \"documentary\" and \"soap opera\", features elements of documentary-style storytelling and the format of a soap opera. These shows depict the lives and experiences of real people, often in unscripted or semi-scripted situations, with an emphasis on personal drama, emotions, and interpersonal relationships.",
+        "type": "Subgenre",
+        "category": "Reality TV",
+        "required_genre": "None",
+        "required_keyword": "docusoap-reality-tv"
+    },
+    {
+        "title": "Drama",
+        "description": "The drama genre is a broad category that features stories portraying human experiences, emotions, conflicts, and relationships in a realistic and emotionally impactful way. Dramas delve into the complexities of human life, often exploring themes of love, loss, morality, societal issues, personal growth, with the aim to evoke an emotional response from the audience by presenting relatable and thought-provoking stories.",
+        "type": "Genre",
+        "category": "Drama",
+        "required_genre": "Drama",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Drug Crime",
+        "description": "The drug crime subgenre features criminal activities related to illegal drugs, drug trafficking, drug abuse, and the efforts of law enforcement to combat the drug trade. These narratives often explore the consequences of drug-related criminal behavior, the impact on individuals and communities, and the challenges faced by those seeking to bring criminals to justice.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "drug-crime"
+    },
+    {
+        "title": "Dystopian Sci-Fi",
+        "description": "The dystopian sci-fi subgenre features worlds characterized by extreme social, political, and environmental challenges and focuses on the negative aspects of humanity's future. In these stories, societies have deteriorated into oppressive, nightmarish, or dysfunctional states.",
+        "type": "Subgenre",
+        "category": "Sci-Fi",
+        "required_genre": "Sci-Fi",
+        "required_keyword": "dystopian-sci-fi"
+    },
+    {
+        "title": "Epic",
+        "description": "The epic subgenre features grand and sweeping stories often set against significant historical, cultural, or societal backdrops. Epic dramas are characterized by their scope, scale, and often lengthy runtime, as they aim to capture the grandeur of human experiences, events, and emotions.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "epic-drama"
+    },
+    {
+        "title": "Erotic Thriller",
+        "description": "The erotic thriller subgenre features elements of sexual desire, romantic relationships, and sexual intrigue while incorporating elements of danger, or crime to create tension and suspense. The erotic thriller genre typically features adult themes and explicit sexual scenes. Viewers should make informed decisions based on their preferences and comfort levels.",
+        "type": "Subgenre",
+        "category": "Thriller",
+        "required_genre": "Thriller",
+        "required_keyword": "erotic-thriller"
+    },
+    {
+        "title": "Extreme Sport",
+        "description": "The extreme sport subgenre features high-intensity and adrenaline-pumping sports and activities that often involve a high degree of risk, physical skill, and daring feats. These stories capture the excitement, challenges, and thrill-seeking nature of extreme sports and outdoor adventures.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "extreme-sport"
+    },
+    {
+        "title": "Fairy Tale",
+        "description": "The fairy tale subgenre features narratives featuring magical and fantastical elements, often focusing on themes of morality, wonder, and the triumph of good over evil. Fairy tales are usually characterized by their timeless quality, enchanting settings, and archetypal characters.",
+        "type": "Subgenre",
+        "category": "Fantasy",
+        "required_genre": "Fantasy",
+        "required_keyword": "fairy-tale-fantasy"
+    },
+    {
+        "title": "Faith & Spirit Documentary",
+        "description": "The faith and spirituality documentary features topics related to religious beliefs, spirituality, faith practices, and the exploration of deeper existential and metaphysical questions. They aim to provide insights into various faith traditions, spiritual practices, and personal journeys of individuals who seek meaning, connection, and understanding in the context of their beliefs.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "religion-and-spirituality-documentary"
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together.",
+        "type": "Genre",
+        "category": "Family",
+        "required_genre": "Family",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Family",
+        "description": "The family genre features stories specifically created to be suitable for a wide range of age groups within a family. Family-oriented content is designed to be enjoyed by both children and adults, often providing entertainment that is wholesome, relatable, and appropriate for all members of a family to watch or experience together."
+    },
+    {
+        "title": "Hard-boiled Detective",
+        "description": "The hard-boiled detective subgenre features gritty, realistic, and often morally complex narratives centered around tough and cynical protagonists. These stories typically take place in urban settings and delve into the darker aspects of society, including crime, corruption, and moral ambiguity.",
+        "type": "Subgenre",
+        "category": "Mystery",
+        "required_genre": "Mystery",
+        "required_keyword": "hardboiled-mystery"
+    },
+    {
+        "title": "Heist",
+        "description": "The heist subgenre features meticulously planned and executed thefts, typically involving valuable objects, money, or high-stakes targets. Heist stories often center on a group of skilled individuals who collaborate to pull off a complex and often daring robbery, showcasing their expertise, strategy, and resourcefulness.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "heist-crime"
+    },
+    {
+        "title": "Hidden Camera",
+        "description": "The hidden camera reality TV subgenre features genuine reactions of unsuspecting individuals in various staged or contrived situations. The shows use hidden cameras to record people's reactions to humorous, shocking, or surprising scenarios, often resulting in entertaining and candid moments.",
+        "type": "Subgenre",
+        "category": "Reality TV",
+        "required_genre": "None",
+        "required_keyword": "hidden-camera-reality-tv"
+    },
+    {
+        "title": "High-Concept Comedy",
+        "description": "The high-concept comedy subgenre features a distinctive and easily understandable premise that grabs the audience's attention. High-concept comedies typically focus on \"what if...\" scenarios (e.g., what if a lawyer couldn't lie) or \"fish out of water\" situations (e.g., a tough cop must pose undercover as a kindergarten teacher).",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "high-concept-comedy"
+    },
+    {
+        "title": "Historical Epic",
+        "description": "The historical epic subgenre features grand and sweeping stories set around significant historical events, providing insight into how individuals were affected by or influenced those events. Historical epics aim to depict important events, eras, or figures from history in a larger-than-life manner.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "History",
+        "required_keyword": "epic-history"
+    },
+    {
+        "title": "History",
+        "description": "The history genre features recounting and analyzing past events, societies, cultures, and historical figures. This genre aims to provide insights into the development of civilizations, the causes and consequences of historical events, and the impact of individuals and ideas on the course of history.",
+        "type": "Genre",
+        "category": "Drama",
+        "required_genre": "History",
+        "required_keyword": "None"
+    },
+    {
+        "title": "History Documentary",
+        "description": "The history documentary features historical events, figures, periods, and cultural developments using visual storytelling techniques. These documentaries provide insights into the past, offering a detailed and often educational exploration of historical topics and aim to inform, educate, and engage audiences.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "history-documentary"
+    },
+    {
+        "title": "Holiday",
+        "description": "The holiday genre features winter holidays, such as Christmas, Thanksgiving, Hanukkah, New Year's Eve, or other cultural and religious celebrations. These stories often capture the spirit, traditions, and emotions associated with these special times, making them ideal for seasonal viewing. The holiday genre can further branch into subgenres like holiday comedy, holiday romance, and holiday family.",
+        "type": "Genre",
+        "category": "Seasonal",
+        "required_genre": "None",
+        "required_keyword": "holiday-season"
+    },
+    {
+        "title": "Holiday Animation",
+        "description": "The holiday animation subgenre features animated stories that focus on winter holiday themes, traditions, and celebrations. These stories use animation techniques including hand-drawn animation, computer animation, and stop motion animation to bring festive stories to life, often targeting audiences of all ages.",
+        "type": "Subgenre",
+        "category": "Seasonal",
+        "required_genre": "Animation",
+        "required_keyword": "holiday-animation"
+    },
+    {
+        "title": "Holiday Comedy",
+        "description": "The holiday comedy subgenre combines elements of humor with the festive spirit of the holiday season. These movies are typically light-hearted, often featuring comedic situations, humorously exaggerated characters, and amusing plots set against the backdrop of a holiday celebration, such as Christmas, Thanksgiving, Hanukkah, New Year's Eve, or other cultural and religious celebrations.",
+        "type": "Subgenre",
+        "category": "Seasonal",
+        "required_genre": "Comedy",
+        "required_keyword": "holiday-comedy"
+    },
+    {
+        "title": "Holiday Family",
+        "description": "The holiday family subgenre features themes related to the holidays, with a focus on family dynamics, cultural traditions, and the magic of the holiday season. These films are often heartwarming, light-hearted, and family-friendly as they capture the spirit of various winter holidays, such as Christmas, Thanksgiving, Hanukkah, New Year's Eve, or other cultural and religious celebrations.",
+        "type": "Subgenre",
+        "category": "Seasonal",
+        "required_genre": "Family",
+        "required_keyword": "holiday-family"
+    },
+    {
+        "title": "Holiday Romance",
+        "description": "The holiday romance subgenre combines elements of romantic storytelling with the festive atmosphere of the holidays. These movies often center around characters who experience love and romance during winter holiday seasons, such as Christmas, Thanksgiving, Hanukkah, New Year's Eve, or other cultural and religious celebrations. The plots typically involve themes of love, relationships, and the magic of the holiday season.",
+        "type": "Subgenre",
+        "category": "Seasonal",
+        "required_genre": "Romance",
+        "required_keyword": "holiday-romance"
+    },
+    {
+        "title": "Home Improvement",
+        "description": "The home improvement reality TV series subgenre features renovating, remodeling, and improving residential properties. These shows often follow homeowners, designers, contractors, and experts as they work on various home improvement projects, offering viewers insights into the design process, construction techniques, and creative transformations.",
+        "type": "Subgenre",
+        "category": "Lifestyle",
+        "required_genre": "None",
+        "required_keyword": "home-makeover-reality-tv"
+    },
+    {
+        "title": "Horror",
+        "description": "The horror genre features stories that aim to elicit fear, suspense, and a sense of dread in its audience. Horror stories often explore themes related to the unknown, the supernatural, and the macabre, and they frequently evoke strong emotional reactions such as anxiety, terror, and unease.",
+        "type": "Genre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests.",
+        "type": "Subgenre",
+        "category": "Anime",
+        "required_genre": "Animation",
+        "required_keyword": "isekai-anime-animation"
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "Isekai",
+        "description": "Isekai is a subgenre of Japanese animation that features characters who are transported from their ordinary lives into parallel worlds or alternate dimensions. These anime follow the characters' adventures as they navigate their new surroundings, encounter fantastical creatures, and embark on missions or quests."
+    },
+    {
+        "title": "News",
+        "description": "The news genre delivers timely and factual information about current events, developments, and issues of public interest. The primary purpose of news content is to inform the audience about what is happening in the world around them, providing them with essential facts, analysis, and context.",
+        "type": "Subgenre",
+        "category": "Lifestyle",
+        "required_genre": "News",
+        "required_keyword": "None"
+    },
+    {
+        "title": "One-Person-Army",
+        "description": "The one-person army subgenre features a single protagonist who takes on hordes of enemies all by themselves. These stories are characterized by adrenaline-pumping action, highly choreographed action sequences, memorable characters, and the sheer spectacle of watching a lone hero take on insurmountable odds.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "one-person-army-action"
+    },
+    {
+        "title": "Paranormal Reality TV",
+        "description": "The paranormal reality TV subgenre features people exploring supernatural, unexplained, and paranormal phenomena. These shows often feature investigators, experts, or individuals who seek to document, investigate, and sometimes interact with occurrences that defy conventional scientific explanations.",
+        "type": "Subgenre",
+        "category": "Reality TV",
+        "required_genre": "None"
+    },
+    {
+        "title": "Parody",
+        "description": "The parody subgenre imitates, exaggerates, and satirizes the style, themes, characters, or conventions of another work, genre, or cultural phenomenon. Parodies often involve taking well-known elements from the original source and presenting them in a humorous and exaggerated manner to create a comedic effect.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "parody-comedy"
+    },
+    {
+        "title": "Period Drama",
+        "description": "The period drama subgenre transports audiences to the past, immersing them in historical contexts and offering insights into the lives, relationships, and challenges of characters from different time periods.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "period-drama"
+    },
+    {
+        "title": "Police Procedural",
+        "description": "The police procedural subgenre features the detailed and realistic depiction of police work, investigative procedures, and the step-by-step process of solving crimes. Police procedural stories typically follow law enforcement officers or detectives as they methodically investigate crimes, gather evidence, interview witnesses and suspects, and work to solve cases.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "police-procedural-crime"
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "politics-documentary"
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Political Documentary",
+        "description": "The political documentary features political topics, issues, events, and the people involved in shaping political landscapes. These documentaries aim to provide insights into government structures, policies, ideologies, historical events, and the impact of political decisions on societies and individuals."
+    },
+    {
+        "title": "Sea Adventure",
+        "description": "The sea adventure subgenre features narratives set primarily on the sea or other bodies of water. Sea adventures often revolve around characters who embark on journeys, explorations, or quests involving ships, boats and capture the challenges, dangers, and discoveries that come with life at sea.",
+        "type": "Subgenre",
+        "category": "Adventure",
+        "required_genre": "None",
+        "required_keyword": "sea-adventure"
+    },
+    {
+        "title": "Seinen",
+        "description": "Seinen is a subgenre of Japanese animation that is intended for adult men. These anime often explore mature themes and complex narratives, such as psychological drama, crime, and existentialism.",
+        "type": "Subgenre",
+        "category": "Anime",
+        "required_genre": "Animation",
+        "required_keyword": "seinen-anime-animation"
+    },
+    {
+        "title": "Serial Killer",
+        "description": "The serial killer subgenre features stories involving serial killers - individuals who commit a series of murders over a period of time, often with a distinct modus operandi or pattern. These stories delve into the psychology of both the killer and the individuals or law enforcement officials attempting to apprehend them.",
+        "type": "Subgenre",
+        "category": "Thriller",
+        "required_genre": "Crime",
+        "required_keyword": "serial-killer-crime"
+    },
+    {
+        "title": "Shōjo",
+        "description": "Shōjo is a subgenre of Japanese animation that is intended for young female audiences. These anime typically focus on themes of romance, relationships, and personal growth, often featuring female characters navigating the complexities of love, friendship, and self-discovery.",
+        "type": "Subgenre",
+        "category": "Anime",
+        "required_genre": "Animation",
+        "required_keyword": "shojo-anime-animation"
+    },
+    {
+        "title": "Shōnen",
+        "description": "Shōnen is a subgenre of Japanese animation that is intended for young male audiences. These anime typically feature heroic, action-packed stories with themes of friendship, perseverance, and self-improvement.",
+        "type": "Subgenre",
+        "category": "Anime",
+        "required_genre": "Animation",
+        "required_keyword": "shonen-anime-animation"
+    },
+    {
+        "title": "Short",
+        "description": "The short form refers to creative works characterized by their brevity and concise storytelling. Unlike full-length feature films, short films have a running time of less than 45 minutes, while TV shorts have a running time of less than 22 minutes.",
+        "type": "Form",
+        "category": "Short",
+        "required_genre": "Short",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Showbiz Drama",
+        "description": "The showbiz drama subgenre features the challenges, successes, rivalries, and personal lives of individuals working in the entertainment industry, including film, television, theater, music, and other forms of media.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "showbiz-drama"
+    },
+    {
+        "title": "Sitcom",
+        "description": "The sitcom, short for \"situational comedy,\" is a subgenre of TV series that features a set of recurring characters, often occupying a shared environment such as a home or workspace, placed in humorous situations. Sitcoms are designed to entertain and make audiences laugh through comedic dialogue, situational humor, and often exaggerated or absurd scenarios.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "sitcom-comedy"
+    },
+    {
+        "title": "Sketch Comedy",
+        "description": "The sketch comedy subgenre consists of a series of short, self-contained scenes or sketches, often connected by a common theme, style, or recurring characters. Each sketch typically lasts a few minutes and presents a humorous situation, scenario, or interaction that delivers a punchline, comedic twist, or funny observation.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "sketch-comedy"
+    },
+    {
+        "title": "Slapstick",
+        "description": "The slapstick comedy subgenre, a term that originates from a type of wooden paddle with a hinged flap that was used in early comedic performances to create slapping noises during comedic actions, is a form of physical comedy characterized by exaggerated, boisterous, and often absurd actions, situations, and physical interactions. Slapstick humor relies on visual gags, physical stunts, and exaggerated movements to create laughs.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "slapstick-comedy"
+    },
+    {
+        "title": "Slasher Horror",
+        "description": "The slasher horror subgenre features a distinctive formula of violence, suspense, and a masked or anonymous killer who systematically stalks and murders victims. Slasher stories are known for their intense and graphic scenes of violence, particularly focused on the act of murder, and they often incorporate elements of mystery and survival.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "None",
+        "required_keyword": "slasher-horror"
+    },
+    {
+        "title": "Slice of Life",
+        "description": "Slice of life is a subgenre of Japanese animation that portrays everyday life, often without a central plot or overarching narrative. Instead, slice of life anime captures the ordinary experiences, interactions, and emotions of its characters, offering a glimpse into their daily routines and struggles.",
+        "type": "Subgenre",
+        "category": "Anime",
+        "required_genre": "Animation",
+        "required_keyword": "slice-of-life-anime-animation"
+    },
+    {
+        "title": "Soap Opera",
+        "description": "The soap opera, often referred to as a \"soap,\" is a TV series subgenre that features a melodramatic story of multiple interconnected storylines, with a focus on the lives, relationships, and conflicts of a diverse set of characters. The term \"soap opera\" originated from the early days of radio and television when soap manufacturers sponsored these dramas to promote their products.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "soap-opera-drama"
+    },
+    {
+        "title": "Soccer",
+        "description": "The soccer subgenre features the sport of soccer, known as football in many parts of the world. These stories center on the game itself, the lives of players, coaches, and the impact of soccer on their personal journeys. The soccer subgenre captures the passion of the sport, the camaraderie among teammates, and the challenges and triumphs faced by athletes.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "soccer-sport"
+    },
+    {
+        "title": "Space Sci-Fi",
+        "description": "The space sci-fi subgenre features stories set primarily in outer space or involving space travel, exploration, and interstellar adventures. Space sci-fi often emphasizes the wonders and challenges of space travel, as well as the exploration of unknown frontiers, advanced technology, and encounters with extraterrestrial life.",
+        "type": "Subgenre",
+        "category": "Sci-Fi",
+        "required_genre": "Sci-Fi",
+        "required_keyword": "space-sci-fi"
+    },
+    {
+        "title": "Spaghetti Western",
+        "description": "The spaghetti Western subgenre, primarily produced by Italian filmmakers and filmed in Europe in the mid-20th century, features a distinctive style and unique approach to the traditional Western genre. They are often characterized by their gritty and stylized visuals, unconventional storytelling, and use of Italian filmmakers, actors, and locations.",
+        "type": "Subgenre",
+        "category": "Western",
+        "required_genre": "Western",
+        "required_keyword": "spaghetti-western"
+    },
+    {
+        "title": "Splatter Horror",
+        "description": "The splatter horror subgenre, features extreme and graphic depictions of violence, gore, and bloodshed, showcasing visceral and shocking visual effects. Splatter stories are known for their over-the-top and often exaggerated scenes of bodily mutilation, dismemberment, and other gruesome forms of violence.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "splatter-horror"
+    },
+    {
+        "title": "Sport",
+        "description": "The sport genre features the world of sports, capturing the excitement, competition, and personal journeys of athletes, coaches, and teams. The stories cover a wide range of sports and activities, each with its own unique characteristics and themes.",
+        "type": "Genre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "sports-documentary"
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Sports Documentary",
+        "description": "The sports documentary features sports-related topics, athletes, teams, competitions, and the broader cultural significance of sports. These documentaries provide insights into the world of sports, showcasing athletes' journeys, triumphs, challenges, and the impact of sports on society."
+    },
+    {
+        "title": "Teen Comedy",
+        "description": "The teen comedy subgenre features comedy that is specifically targeted toward a teenage audience. These comedies typically revolve around the lives, experiences, and challenges of teenagers, often exploring themes related to high school, friendship, romance, identity, and the ups and downs of adolescence.",
+        "type": "Subgenre",
+        "category": "Comedy",
+        "required_genre": "Comedy",
+        "required_keyword": "teen-comedy"
+    },
+    {
+        "title": "Teen Drama",
+        "description": "The teen drama subgenre features stories specifically aimed at a teenage audience. These dramas typically focus on the lives, relationships, challenges, and experiences of teenagers and young adults. They often explore themes of identity, friendship, romance, family dynamics, and personal growth, catering to the interests and concerns of their target demographic.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "teen-drama"
+    },
+    {
+        "title": "Teen Fantasy",
+        "description": "The teen fantasy subgenre features fantastical elements with themes and issues that are relevant to adolescents, making them relatable and engaging for younger viewers. Teen fantasy often explores coming-of-age experiences, personal growth, identity, and the challenges of navigating both the real and the magical worlds.",
+        "type": "Subgenre",
+        "category": "Fantasy",
+        "required_genre": "Fantasy",
+        "required_keyword": "teen-fantasy"
+    },
+    {
+        "title": "Teen Horror",
+        "description": "The teen horror subgenre features young protagonists facing various forms of terror and supernatural threats. These stories are typically targeted toward a young adult audience and revolve around the traditional experiences and challenges of teenagers as they confront paranormal occurrences, monsters, killers, or other horror elements.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "teen-horror"
+    },
+    {
+        "title": "Teen Romance",
+        "description": "The teen romance subgenre features romantic relationships involving teenagers or young adults. These stories revolve around the romantic experiences, emotions, and challenges faced by young characters as they navigate the complexities of first love and relationships.",
+        "type": "Subgenre",
+        "category": "Romance",
+        "required_genre": "Romance",
+        "required_keyword": "teen-romance"
+    },
+    {
+        "title": "Telenovela",
+        "description": "The Telenovela subgenre features TV series that highlight the larger than life passion, drama and romance of Latin American soap operas. These stories often contain unsuspecting plot twists, love triangles and even murder.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "Drama",
+        "required_keyword": "telenovela-drama"
+    },
+    {
+        "title": "Thriller",
+        "description": "The thriller genre features suspense, tension, and excitement. These stories are known for keeping audiences on the edge of their seats and delivering intense emotional experiences by revolving around high-stakes situations, dangerous conflicts, and the constant anticipation of unexpected events.",
+        "type": "Genre",
+        "category": "Thriller",
+        "required_genre": "Thriller",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Time Travel",
+        "description": "The time travel subgenre features traveling backward or forward in time, often resulting in characters encountering alternate timelines, paradoxes, and the potential to alter history. These stories delve into the complexities of causality, the nature of reality, and the philosophical implications of manipulating time.",
+        "type": "Subgenre",
+        "category": "Sci-Fi",
+        "required_genre": "Sci-Fi",
+        "required_keyword": "time-travel-sci-fi"
+    },
+    {
+        "title": "Tragedy",
+        "description": "The tragedy subgenre features stories characterized by sorrowful events, unfortunate circumstances, and often a sense of inevitable and irreversible loss or downfall. They evoke deep emotions and can explore themes of human suffering, fate, moral dilemmas, and the complexity of human nature.",
+        "type": "Subgenre",
+        "category": "Drama",
+        "required_genre": "None",
+        "required_keyword": "tragedy-drama"
+    },
+    {
+        "title": "Tragic Romance",
+        "description": "The tragic romance subgenre features a romantic relationship that ends in sorrow, heartbreak, or tragedy. Unlike the typical romance stories with happy endings, tragic romances explore the darker aspects of love, often involving circumstances that prevent the main characters from being together or lead to their separation through death, sacrifice, or other unfortunate events.",
+        "type": "Subgenre",
+        "category": "Romance",
+        "required_genre": "Romance",
+        "required_keyword": "tragic-romance"
+    },
+    {
+        "title": "Travel",
+        "description": "The travel TV series subgenre features individuals or groups as they embark on journeys, explore new destinations, and experience different cultures and environments. These shows capture the participants' adventures, interactions with locals, and their reactions to various travel-related challenges and experiences.",
+        "type": "Subgenre",
+        "category": "Lifestyle",
+        "required_genre": "None",
+        "required_keyword": "travel-reality-tv"
+    },
+    {
+        "title": "Travel Documentary",
+        "description": "The travel documentary features individuals or groups as they journey to different locations, regions, or countries. These documentaries provide viewers with a visual and narrative exploration of various destinations, cultures, landscapes, and experiences.",
+        "type": "Subgenre",
+        "category": "Documentary",
+        "required_genre": "Documentary",
+        "required_keyword": "travel-documentary"
+    },
+    {
+        "title": "True Crime",
+        "description": "The true crime subgenre features real-life criminal cases, investigations, trials, and events. The stories are based on actual events and real individuals, often focusing on notorious crimes, criminal figures, and the justice system.",
+        "type": "Subgenre",
+        "category": "Crime",
+        "required_genre": "Crime",
+        "required_keyword": "true-crime"
+    },
+    {
+        "title": "Urban Adventure",
+        "description": "The urban adventure subgenre features narratives set in urban environments, typically cities and metropolitan areas. In these stories, characters navigate the challenges and dynamics of city life while engaging in adventures, often involving danger, mystery, and action. They combine elements of thrill, suspense, and exploration within the context of urban settings.",
+        "type": "Subgenre",
+        "category": "Adventure",
+        "required_genre": "Adventure",
+        "required_keyword": "urban-adventure"
+    },
+    {
+        "title": "Vampire Horror",
+        "description": "The vampire horror subgenre features the depiction of vampires, supernatural creatures who sustain themselves by consuming the blood of the living, as central figures of fear and fascination. Vampire horror can use vampirism as a metaphor for various themes, such as addiction, the fear of death, and the loss of humanity.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "vampire-horror"
+    },
+    {
+        "title": "War",
+        "description": "The war genre features armed conflicts, both historical and fictional, and the experiences of individuals and groups involved in warfare. This genre explores the physical, emotional, and moral challenges faced by soldiers, civilians, and others affected by war.",
+        "type": "Genre",
+        "category": "Action",
+        "required_genre": "War",
+        "required_keyword": "None"
+    },
+    {
+        "title": "War Epic",
+        "description": "The war epic subgenre features large-scale, sweeping narratives set against the backdrop of significant historical conflicts with a sense of historical or cultural importance. They often emphasize grandeur, scope, and the monumental impact of war on both individuals and societies.",
+        "type": "Subgenre",
+        "category": "Action",
+        "required_genre": "War",
+        "required_keyword": "epic-war"
+    },
+    {
+        "title": "Water Sport",
+        "description": "The water sport subgenre features sports and activities that take place in or on bodies of water. These stories capture the excitement, challenges, and adventurous spirit of water-based sports and activities, ranging from surfing and swimming to diving and sailing.",
+        "type": "Subgenre",
+        "category": "Sport",
+        "required_genre": "Sport",
+        "required_keyword": "aquatic-sport"
+    },
+    {
+        "title": "Werewolf Horror",
+        "description": "The werewolf horror subgenre features the depiction of werewolves as central figures of fear and terror. These mythical creatures transform from human to wolf-like forms. Werewolf horror stories typically explore the consequences of these transformations, as well as the violence and chaos that accompany them.",
+        "type": "Subgenre",
+        "category": "Horror",
+        "required_genre": "Horror",
+        "required_keyword": "werewolf-horror"
+    },
+    {
+        "title": "Western",
+        "description": "The Western genre features stories set primarily in the 19th-century American Old West and often depict the rugged frontier life, exploring themes of individualism, justice, morality, and the clash between civilization and the untamed wilderness. The genre has its roots in the historical context of westward expansion and the challenges faced by pioneers, settlers, outlaws, and lawmen.",
+        "type": "Genre",
+        "category": "Western",
+        "required_genre": "Western",
+        "required_keyword": "None"
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier.",
+        "type": "Subgenre",
+        "category": "Western",
+        "required_genre": "Western",
+        "required_keyword": "epic-western"
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier."
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier."
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier."
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier."
+    },
+    {
+        "title": "Western Epic",
+        "description": "The Western epic subgenre features grand storytelling, large-scale production, expansive landscapes, and often intricate narratives that span significant time periods. These stories capture the epic nature of historical events, characters, and themes associated with the American frontier."
+    }
+]
