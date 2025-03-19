@@ -1,0 +1,689 @@
+{
+    "adult": false,
+    "backdrop_path": "/xGyXNt6uI1rBl30NE3j854urOuJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 120632,
+    "imdb_id": "tt0071391",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Dark Places",
+    "overview": "A scheming couple plot to conceal a hidden cache of stolen money from its rightful owner. The only problem is that the house they plan to hide it in is haunted.",
+    "popularity": 0.988,
+    "poster_path": "/cdjzWGn8R2OsAyvgBM5KmqxoqFs.jpg",
+    "production_companies": [
+        {
+            "id": 107885,
+            "logo_path": null,
+            "name": "Glenbergh",
+            "origin_country": ""
+        },
+        {
+            "id": 107886,
+            "logo_path": null,
+            "name": "Sedgled",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1973-05-01",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There is more than death waiting for you in dark places.",
+    "title": "Dark Places",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 28,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-11-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Visa CNC 50004",
+                        "release_date": "1979-10-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-05-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-05-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113,
+                "known_for_department": "Acting",
+                "name": "Christopher Lee",
+                "original_name": "Christopher Lee",
+                "popularity": 0.073,
+                "profile_path": "/4zPu5YaRPbhrcp9aVjXQDjpfwPC.jpg",
+                "cast_id": 2,
+                "character": "Dr. Ian Mandeville",
+                "credit_id": "52fe4a4cc3a368484e14b611",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13637,
+                "known_for_department": "Acting",
+                "name": "Joan Collins",
+                "original_name": "Joan Collins",
+                "popularity": 0.068,
+                "profile_path": "/jmXqOnp2xBDl2EMuU5Rj39uHzUQ.jpg",
+                "cast_id": 3,
+                "character": "Sarah Mandeville",
+                "credit_id": "52fe4a4cc3a368484e14b615",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14503,
+                "known_for_department": "Acting",
+                "name": "Herbert Lom",
+                "original_name": "Herbert Lom",
+                "popularity": 0.032,
+                "profile_path": "/j5H9KKuVTosFLB2hLxNH9uEg5OV.jpg",
+                "cast_id": 4,
+                "character": "Prescot",
+                "credit_id": "52fe4a4cc3a368484e14b619",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15200,
+                "known_for_department": "Acting",
+                "name": "Jane Birkin",
+                "original_name": "Jane Birkin",
+                "popularity": 0.053,
+                "profile_path": "/wjYt9WdPVEm0BKF0sWi6RyZREOc.jpg",
+                "cast_id": 5,
+                "character": "Alta",
+                "credit_id": "52fe4a4cc3a368484e14b61d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23076,
+                "known_for_department": "Acting",
+                "name": "Robert Hardy",
+                "original_name": "Robert Hardy",
+                "popularity": 0.035,
+                "profile_path": "/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg",
+                "cast_id": 6,
+                "character": "Edward Foster / Andrew Marr",
+                "credit_id": "52fe4a4cc3a368484e14b621",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12657,
+                "known_for_department": "Acting",
+                "name": "Jean Marsh",
+                "original_name": "Jean Marsh",
+                "popularity": 0.045,
+                "profile_path": "/lt24lOmb2v9rHk9q4pCBJZJ5V5.jpg",
+                "cast_id": 7,
+                "character": "Victoria",
+                "credit_id": "52fe4a4cc3a368484e14b625",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 183834,
+                "known_for_department": "Acting",
+                "name": "Carleton Hobbs",
+                "original_name": "Carleton Hobbs",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Old Marr",
+                "credit_id": "52fe4a4cc3a368484e14b629",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 159057,
+                "known_for_department": "Acting",
+                "name": "Roy Evans",
+                "original_name": "Roy Evans",
+                "popularity": 0.016,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Baxter",
+                "credit_id": "52fe4a4cc3a368484e14b62d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221533,
+                "known_for_department": "Acting",
+                "name": "Martin Boddey",
+                "original_name": "Martin Boddey",
+                "popularity": 0.01,
+                "profile_path": "/gOZAT6LIUacAAxVQtG6lqUh4Tx8.jpg",
+                "cast_id": 11,
+                "character": "Sgt. Riley",
+                "credit_id": "54959dbe92514130fc002e3c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47009,
+                "known_for_department": "Acting",
+                "name": "John Glyn-Jones",
+                "original_name": "John Glyn-Jones",
+                "popularity": 0.013,
+                "profile_path": "/z1iUVJimfHI071cr9zo1DcFgTjy.jpg",
+                "cast_id": 16,
+                "character": "Bank Manager",
+                "credit_id": "641302f6323eba00844bac3c",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1226602,
+                "known_for_department": "Acting",
+                "name": "John Levene",
+                "original_name": "John Levene",
+                "popularity": 0.007,
+                "profile_path": "/4arGUI6C7gPHIVPq5vU8pV18nYX.jpg",
+                "cast_id": 17,
+                "character": "Doctor",
+                "credit_id": "64130320a6c104007906eaaa",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1251253,
+                "known_for_department": "Acting",
+                "name": "Jennifer Thanisch",
+                "original_name": "Jennifer Thanisch",
+                "popularity": 0.013,
+                "profile_path": "/dYALOLHYgXiNw3SFUti1TU6bqwq.jpg",
+                "cast_id": 18,
+                "character": "Jessica",
+                "credit_id": "6413032ce18e3f07ac53b2e7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1207143,
+                "known_for_department": "Acting",
+                "name": "Michael McVey",
+                "original_name": "Michael McVey",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Francis",
+                "credit_id": "64130339a6c104007906eabb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1567187,
+                "known_for_department": "Acting",
+                "name": "Barry Linehan",
+                "original_name": "Barry Linehan",
+                "popularity": 0.001,
+                "profile_path": "/7PDUtkexG7mOtWq9pDmWeP10yTI.jpg",
+                "cast_id": 20,
+                "character": "Asylum Gatekeeper",
+                "credit_id": "6413034da6c10400f76343cf",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 152741,
+                "known_for_department": "Acting",
+                "name": "Linda Gray",
+                "original_name": "Linda Gray",
+                "popularity": 0.026,
+                "profile_path": "/fHk1QyiIGOfC2c7RdyFt8h9R1Uo.jpg",
+                "cast_id": 21,
+                "character": "Woman on Hill",
+                "credit_id": "6413036e26677800d706c90c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2156518,
+                "known_for_department": "Acting",
+                "name": "Lysandre De La Haye",
+                "original_name": "Lysandre De La Haye",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Child on Hill",
+                "credit_id": "6413037de18e3f07e954ba66",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 982402,
+                "known_for_department": "Acting",
+                "name": "Earl Rhodes",
+                "original_name": "Earl Rhodes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Child on Hill",
+                "credit_id": "6413038cede1b0287fdbd31c",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101528,
+                "known_for_department": "Directing",
+                "name": "Don Sharp",
+                "original_name": "Don Sharp",
+                "popularity": 0.011,
+                "profile_path": "/dNLiJpyiQgC5ud95D7FvRSfs5TP.jpg",
+                "credit_id": "52fe4a4cc3a368484e14b60d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1505814,
+                "known_for_department": "Art",
+                "name": "Geoffrey Tozer",
+                "original_name": "Geoffrey Tozer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "641303e7b42242008a2fa486",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1826799,
+                "known_for_department": "Writing",
+                "name": "Joseph Van Winkle",
+                "original_name": "Joseph Van Winkle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130426266778007cbd448b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101528,
+                "known_for_department": "Directing",
+                "name": "Don Sharp",
+                "original_name": "Don Sharp",
+                "popularity": 0.011,
+                "profile_path": "/dNLiJpyiQgC5ud95D7FvRSfs5TP.jpg",
+                "credit_id": "64130440a6c10400c0c6a013",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1130479,
+                "known_for_department": "Sound",
+                "name": "Wilfred Josephs",
+                "original_name": "Wilfred Josephs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6413039da6c104009affb1cd",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1779794,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Helen Lennox",
+                "original_name": "Helen Lennox",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "641303d8a6c10400d8d8bdf9",
+                "department": "Costume & Make-Up",
+                "job": "Hairdresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3964890,
+                "known_for_department": "Production",
+                "name": "James Hannah Jr.",
+                "original_name": "James Hannah Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130407a6c10400f763442f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1377121,
+                "known_for_department": "Sound",
+                "name": "Paddy Cunningham",
+                "original_name": "Paddy Cunningham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130473a6c104007906eb3d",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1568527,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Basil Newall",
+                "original_name": "Basil Newall",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "641303cae18e3f07e954ba81",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121684,
+                "known_for_department": "Editing",
+                "name": "Teddy Darvas",
+                "original_name": "Teddy Darvas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "641303f8b42242007d72caab",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3964890,
+                "known_for_department": "Production",
+                "name": "James Hannah Jr.",
+                "original_name": "James Hannah Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130433b4224200b974507c",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21602,
+                "known_for_department": "Camera",
+                "name": "Ernest Steward",
+                "original_name": "Ernest Steward",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "641303aee18e3f07e954ba7a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 123775,
+                "known_for_department": "Production",
+                "name": "Frank Bevis",
+                "original_name": "Frank Bevis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130453b4224200b9745087",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1370843,
+                "known_for_department": "Sound",
+                "name": "Laurie Clarkson",
+                "original_name": "Laurie Clarkson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64130465a6c10400f7634447",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1089098,
+                "known_for_department": "Writing",
+                "name": "Edward Brennan",
+                "original_name": "Edward Brennan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b786cdb0e0a264734017985",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2225280,
+                "known_for_department": "Art",
+                "name": "Pamela Cornell",
+                "original_name": "Pamela Cornell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c49c2a89251410e2255cdd8",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2884,
+                "name": "asylum"
+            },
+            {
+                "id": 3358,
+                "name": "haunted house"
+            },
+            {
+                "id": 9712,
+                "name": "possession"
+            },
+            {
+                "id": 6956,
+                "name": "treasure hunt"
+            },
+            {
+                "id": 12545,
+                "name": "mansion"
+            },
+            {
+                "id": 14829,
+                "name": "strangulation"
+            },
+            {
+                "id": 15001,
+                "name": "demon"
+            },
+            {
+                "id": 41329,
+                "name": "mental illness"
+            },
+            {
+                "id": 156174,
+                "name": "occult"
+            },
+            {
+                "id": 162846,
+                "name": "ghost"
+            },
+            {
+                "id": 208278,
+                "name": "hidden treasure"
+            },
+            {
+                "id": 251513,
+                "name": "supernatural power"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Christopher Lee",
+            "character": "Dr. Ian Mandeville"
+        },
+        {
+            "actor": "Joan Collins",
+            "character": "Sarah Mandeville"
+        },
+        {
+            "actor": "Herbert Lom",
+            "character": "Prescot"
+        },
+        {
+            "actor": "Jane Birkin",
+            "character": "Alta"
+        },
+        {
+            "actor": "Robert Hardy",
+            "character": "Edward Foster / Andrew Marr"
+        },
+        {
+            "actor": "Jean Marsh",
+            "character": "Victoria"
+        },
+        {
+            "actor": "Carleton Hobbs",
+            "character": "Old Marr"
+        },
+        {
+            "actor": "Roy Evans",
+            "character": "Baxter"
+        },
+        {
+            "actor": "Martin Boddey",
+            "character": "Sgt. Riley"
+        },
+        {
+            "actor": "John Glyn-Jones",
+            "character": "Bank Manager"
+        },
+        {
+            "actor": "John Levene",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Jennifer Thanisch",
+            "character": "Jessica"
+        },
+        {
+            "actor": "Michael McVey",
+            "character": "Francis"
+        },
+        {
+            "actor": "Barry Linehan",
+            "character": "Asylum Gatekeeper"
+        },
+        {
+            "actor": "Linda Gray",
+            "character": "Woman on Hill"
+        },
+        {
+            "actor": "Lysandre De La Haye",
+            "character": "Child on Hill"
+        },
+        {
+            "actor": "Earl Rhodes",
+            "character": "Child on Hill"
+        }
+    ]
+}

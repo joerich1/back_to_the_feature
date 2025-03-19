@@ -1,0 +1,864 @@
+{
+    "adult": false,
+    "backdrop_path": "/72CkEmGZ7c2wDnWDKHTRJUVIjgs.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 40158,
+    "imdb_id": "tt0067419",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Mephisto Waltz",
+    "overview": "A frustrated pianist himself, music journalist Myles Clarkson is thrilled to interview virtuoso Duncan Ely. Duncan, however, is terminally ill and not much interested in Myles until noticing that Myles' hands are ideally suited for piano. Suddenly, he can't get enough of his new friend, and Myles' wife, Paula, becomes suspicious of Duncan's intentions. Her suspicions grow when Duncan dies and Myles mysteriously becomes a virtuoso overnight.",
+    "popularity": 2.153,
+    "poster_path": "/h2zyPibxcUtvcL9Fxxsh1RRkW49.jpg",
+    "production_companies": [
+        {
+            "id": 15696,
+            "logo_path": null,
+            "name": "Quinn Martin Productions (QM)",
+            "origin_country": "US"
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1971-04-09",
+    "revenue": 0,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "...The Sound of Terror",
+    "title": "The Mephisto Waltz",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 61,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-07-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-04-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21278,
+                "known_for_department": "Acting",
+                "name": "Alan Alda",
+                "original_name": "Alan Alda",
+                "popularity": 0.056,
+                "profile_path": "/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg",
+                "cast_id": 1,
+                "character": "Myles Clarkson",
+                "credit_id": "52fe4583c3a36847f80cb9dd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14061,
+                "known_for_department": "Acting",
+                "name": "Jacqueline Bisset",
+                "original_name": "Jacqueline Bisset",
+                "popularity": 0.097,
+                "profile_path": "/ilIBKvLu4dPMl5WOczXvt7DsIss.jpg",
+                "cast_id": 2,
+                "character": "Paula Clarkson",
+                "credit_id": "52fe4583c3a36847f80cb9e1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 30121,
+                "known_for_department": "Acting",
+                "name": "Barbara Parkins",
+                "original_name": "Barbara Parkins",
+                "popularity": 0.016,
+                "profile_path": "/rP3lWj18YxMjU4D1TJqxHwhbtEH.jpg",
+                "cast_id": 3,
+                "character": "Roxanne Delancey",
+                "credit_id": "52fe4583c3a36847f80cb9e5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18647,
+                "known_for_department": "Acting",
+                "name": "Bradford Dillman",
+                "original_name": "Bradford Dillman",
+                "popularity": 0.028,
+                "profile_path": "/o86FOgoC3gWy44KFMdyKb8G4O0F.jpg",
+                "cast_id": 6,
+                "character": "Bill Delancey",
+                "credit_id": "52fe4583c3a36847f80cb9ef",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8499,
+                "known_for_department": "Acting",
+                "name": "William Windom",
+                "original_name": "William Windom",
+                "popularity": 0.074,
+                "profile_path": "/jLKGf2gQR4cBDnUWFOsXY2y5Pui.jpg",
+                "cast_id": 7,
+                "character": "Dr. Roger West",
+                "credit_id": "52fe4583c3a36847f80cb9f3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10459,
+                "known_for_department": "Acting",
+                "name": "Curd Jürgens",
+                "original_name": "Curd Jürgens",
+                "popularity": 0.031,
+                "profile_path": "/ewM6Zh2XGxFuxQ2Ec8zBKJWn4Cq.jpg",
+                "cast_id": 8,
+                "character": "Duncan Mowbray",
+                "credit_id": "52fe4583c3a36847f80cb9f7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 155545,
+                "known_for_department": "Acting",
+                "name": "Kathleen Widdoes",
+                "original_name": "Kathleen Widdoes",
+                "popularity": 0.011,
+                "profile_path": "/6LCw0RSvXIA6VWEC2GuYcoPfSmN.jpg",
+                "cast_id": 9,
+                "character": "Maggie West",
+                "credit_id": "52fe4583c3a36847f80cb9fb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16059,
+                "known_for_department": "Acting",
+                "name": "Pamelyn Ferdin",
+                "original_name": "Pamelyn Ferdin",
+                "popularity": 0.023,
+                "profile_path": "/em0fOtLG6wU9CTCbnX4baLQ6O2s.jpg",
+                "cast_id": 19,
+                "character": "Abby Clarkson",
+                "credit_id": "566f4e71925141664f010513",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74506,
+                "known_for_department": "Acting",
+                "name": "Curt Lowens",
+                "original_name": "Curt Lowens",
+                "popularity": 0.025,
+                "profile_path": "/mYXwty2LAgEuhq6aSvxUInDzp61.jpg",
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "566f4eaa9251415ec5010517",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151489,
+                "known_for_department": "Acting",
+                "name": "Gregory Morton",
+                "original_name": "Gregory Morton",
+                "popularity": 0.005,
+                "profile_path": "/yr0f59gRs6rlXpxbiiu1IbpzDpy.jpg",
+                "cast_id": 21,
+                "character": "Conductor",
+                "credit_id": "566f4ebac3a3682e98010033",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1176365,
+                "known_for_department": "Acting",
+                "name": "Janee Michelle",
+                "original_name": "Janee Michelle",
+                "popularity": 0.001,
+                "profile_path": "/97COMoMmUkfIsu2i2I0BK37X4T5.jpg",
+                "cast_id": 22,
+                "character": "Agency Chief's Girlfriend",
+                "credit_id": "566f4ed3925141500100a91d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2072,
+                "known_for_department": "Acting",
+                "name": "Lilyan Chauvin",
+                "original_name": "Lilyan Chauvin",
+                "popularity": 0.035,
+                "profile_path": "/XUGyxAQHL52cteFsdDD7sMr0HU.jpg",
+                "cast_id": 23,
+                "character": "Woman Writer",
+                "credit_id": "566f4ee192514173ff01467b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14734,
+                "known_for_department": "Acting",
+                "name": "Khigh Dhiegh",
+                "original_name": "Khigh Dhiegh",
+                "popularity": 0.008,
+                "profile_path": "/udgegCpxP0atxUm9DX0yWfTlrUq.jpg",
+                "cast_id": 10,
+                "character": "Zanc Theun",
+                "credit_id": "52fe4583c3a36847f80cb9ff",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70939,
+                "known_for_department": "Acting",
+                "name": "Alberto Morin",
+                "original_name": "Alberto Morin",
+                "popularity": 0.023,
+                "profile_path": "/ml7oMdKvxZMSxVDT0vORlQ7S558.jpg",
+                "cast_id": 24,
+                "character": "Bennett",
+                "credit_id": "566f4ef1c3a3682647010364",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85988,
+                "known_for_department": "Acting",
+                "name": "Berry Kroeger",
+                "original_name": "Berry Kroeger",
+                "popularity": 0.02,
+                "profile_path": "/egarsq9nJe61ligHIhOsrCSnd9d.jpg",
+                "cast_id": 11,
+                "character": "Raymont",
+                "credit_id": "52fe4583c3a36847f80cba03",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15961,
+                "known_for_department": "Acting",
+                "name": "Antoinette Bower",
+                "original_name": "Antoinette Bower",
+                "popularity": 0.033,
+                "profile_path": "/r7Trtbz6KdstP4ukqOyHUaPQUla.jpg",
+                "cast_id": 26,
+                "character": "Member of Ely's Group (uncredited)",
+                "credit_id": "59d91c8bc3a368624d02a353",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94402,
+                "known_for_department": "Acting",
+                "name": "Walter Brooke",
+                "original_name": "Walter Brooke",
+                "popularity": 0.017,
+                "profile_path": "/wu9mt5ozFqHq1WJTABc76WDKvD9.jpg",
+                "cast_id": 27,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "59d91c9c92514124c902bb27",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 148605,
+                "known_for_department": "Acting",
+                "name": "Marta Kristen",
+                "original_name": "Marta Kristen",
+                "popularity": 0.028,
+                "profile_path": "/AuGTCrE9UqJ6QK9dmhbkMsLJTvj.jpg",
+                "cast_id": 28,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "59d91cadc3a36861ec02b85e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 159555,
+                "known_for_department": "Acting",
+                "name": "Frank Campanella",
+                "original_name": "Frank Campanella",
+                "popularity": 0.017,
+                "profile_path": "/aFKBOIqvarf31YnPlXn8H4OtzAd.jpg",
+                "cast_id": 29,
+                "character": "Detective (uncredited)",
+                "credit_id": "59d91cc1925141251f02c7ee",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1537729,
+                "known_for_department": "Acting",
+                "name": "Cosmo Sardo",
+                "original_name": "Cosmo Sardo",
+                "popularity": 0.012,
+                "profile_path": "/s1UjjN9YT6W8JYf8UB0UuK7lXeY.jpg",
+                "cast_id": 32,
+                "character": "Party Guest (uncredited)",
+                "credit_id": "634bf4a5414291007aa19ea7",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 233321,
+                "known_for_department": "Acting",
+                "name": "Harry Carter",
+                "original_name": "Harry Carter",
+                "popularity": 0.01,
+                "profile_path": "/fyeMHwDU9ZHmq8N07Dxdh9XOknM.jpg",
+                "cast_id": 50,
+                "character": "Pallbearer (uncredited)",
+                "credit_id": "6491f08b559d2200ff12b2aa",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4858856,
+                "known_for_department": "Acting",
+                "name": "Terrence Scammell",
+                "original_name": "Terrence Scammell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "Richard",
+                "credit_id": "66a98d2bd792dd03d4e0bf1a",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73150,
+                "known_for_department": "Directing",
+                "name": "Paul Wendkos",
+                "original_name": "Paul Wendkos",
+                "popularity": 0.008,
+                "profile_path": "/of7GbQ5klh8XLTuoqeXzLMxmveS.jpg",
+                "credit_id": "52fe4583c3a36847f80cb9eb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50961,
+                "known_for_department": "Writing",
+                "name": "Ben Maddow",
+                "original_name": "Ben Maddow",
+                "popularity": 0.006,
+                "profile_path": "/smg91alJryB5z0hojMSRHpTrn0M.jpg",
+                "credit_id": "5548400392514155fd000d95",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 554889,
+                "known_for_department": "Sound",
+                "name": "Jakob Gimpel",
+                "original_name": "Jakob Gimpel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61ab35cdcfe48f001d12254d",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1120147,
+                "known_for_department": "Camera",
+                "name": "William W. Spencer",
+                "original_name": "William W. Spencer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "566f4e32c3a3682647010349",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1518625,
+                "known_for_department": "Production",
+                "name": "Arthur Fellows",
+                "original_name": "Arthur Fellows",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "566f4dffc3a3682e9801001b",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 562221,
+                "known_for_department": "Editing",
+                "name": "Richard K. Brockway",
+                "original_name": "Richard K. Brockway",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "566f4e439251415ec5010501",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1019041,
+                "known_for_department": "Writing",
+                "name": "Fred Mustard Stewart",
+                "original_name": "Fred Mustard Stewart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "566f4de7c3a36833b600fc66",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1218861,
+                "known_for_department": "Production",
+                "name": "Quinn Martin",
+                "original_name": "Quinn Martin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "566f4e12c3a368535a011a90",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1760,
+                "known_for_department": "Sound",
+                "name": "Jerry Goldsmith",
+                "original_name": "Jerry Goldsmith",
+                "popularity": 0.043,
+                "profile_path": "/uf7jSAculrBbEwdWWAPu6Rs9bXz.jpg",
+                "credit_id": "571fb9b5c3a3682f5c000211",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1433505,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pat Abbott",
+                "original_name": "Pat Abbott",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca626075288007ea860ef",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14727,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Moss Mabry",
+                "original_name": "Moss Mabry",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca37c2f266b00b082138a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7513,
+                "known_for_department": "Art",
+                "name": "Raphael Bretton",
+                "original_name": "Raphael Bretton",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "639ca3ceaa789800b64cc895",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3833438,
+                "known_for_department": "Sound",
+                "name": "John A. Bonner",
+                "original_name": "John A. Bonner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca5a893db920093a9eec1",
+                "department": "Sound",
+                "job": "Sound Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14526,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Daniel C. Striepeke",
+                "original_name": "Daniel C. Striepeke",
+                "popularity": 0.012,
+                "profile_path": "/hZwRXmkWsOcHBte3MT6U00Lxb6E.jpg",
+                "credit_id": "639ca60793db92007f545d22",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9587,
+                "known_for_department": "Art",
+                "name": "Walter M. Scott",
+                "original_name": "Walter M. Scott",
+                "popularity": 0.013,
+                "profile_path": null,
+                "credit_id": "639ca3c0075288007ea86076",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1734662,
+                "known_for_department": "Art",
+                "name": "Phill Norman",
+                "original_name": "Phill Norman",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "639ca40d075288008c96c017",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3431858,
+                "known_for_department": "Camera",
+                "name": "Gene Evans",
+                "original_name": "Gene Evans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca4fed2b20900a0fa3de5",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1336289,
+                "known_for_department": "Directing",
+                "name": "William Eckhardt",
+                "original_name": "William Eckhardt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca47f9408ec0092879c5f",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91235,
+                "known_for_department": "Directing",
+                "name": "David Hall",
+                "original_name": "David Hall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca4b981a7fc00968a0da3",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1399139,
+                "known_for_department": "Art",
+                "name": "Sidney H. Greenwood",
+                "original_name": "Sidney H. Greenwood",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca3dd0752880084da2407",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338830,
+                "known_for_department": "Sound",
+                "name": "Don J. Bassman",
+                "original_name": "Don J. Bassman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "639ca5f6075288007ea860e3",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1972933,
+                "known_for_department": "Art",
+                "name": "Richard Y. Haman",
+                "original_name": "Richard Y. Haman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639ca39d81a7fc00f663f26e",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91245,
+                "known_for_department": "Sound",
+                "name": "Arthur Morton",
+                "original_name": "Arthur Morton",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "639ca4db81a7fc00f663f2be",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338830,
+                "known_for_department": "Sound",
+                "name": "Don J. Bassman",
+                "original_name": "Don J. Bassman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "639ca5e7aa7898008a9f479a",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1424032,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joe DiBella",
+                "original_name": "Joe DiBella",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "639ca61493db92007f545d27",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91243,
+                "known_for_department": "Crew",
+                "name": "Charlie Picerni",
+                "original_name": "Charlie Picerni",
+                "popularity": 0.048,
+                "profile_path": "/kRO5tGbhZOPnUH46keu01i5UYd.jpg",
+                "credit_id": "6441f32cd35dea0481faaae3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2203285,
+                "known_for_department": "Camera",
+                "name": "George Hurrell Sr.",
+                "original_name": "George Hurrell Sr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c261bc69251413ed715a616",
+                "department": "Camera",
+                "job": "Still Photographer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5545,
+                "name": "satanist"
+            },
+            {
+                "id": 14999,
+                "name": "devil"
+            },
+            {
+                "id": 33841,
+                "name": "incest"
+            },
+            {
+                "id": 156174,
+                "name": "occult"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Alan Alda",
+            "character": "Myles Clarkson"
+        },
+        {
+            "actor": "Jacqueline Bisset",
+            "character": "Paula Clarkson"
+        },
+        {
+            "actor": "Barbara Parkins",
+            "character": "Roxanne Delancey"
+        },
+        {
+            "actor": "Bradford Dillman",
+            "character": "Bill Delancey"
+        },
+        {
+            "actor": "William Windom",
+            "character": "Dr. Roger West"
+        },
+        {
+            "actor": "Curd Jürgens",
+            "character": "Duncan Mowbray"
+        },
+        {
+            "actor": "Kathleen Widdoes",
+            "character": "Maggie West"
+        },
+        {
+            "actor": "Pamelyn Ferdin",
+            "character": "Abby Clarkson"
+        },
+        {
+            "actor": "Curt Lowens",
+            "character": ""
+        },
+        {
+            "actor": "Gregory Morton",
+            "character": "Conductor"
+        },
+        {
+            "actor": "Janee Michelle",
+            "character": "Agency Chief's Girlfriend"
+        },
+        {
+            "actor": "Lilyan Chauvin",
+            "character": "Woman Writer"
+        },
+        {
+            "actor": "Khigh Dhiegh",
+            "character": "Zanc Theun"
+        },
+        {
+            "actor": "Alberto Morin",
+            "character": "Bennett"
+        },
+        {
+            "actor": "Berry Kroeger",
+            "character": "Raymont"
+        },
+        {
+            "actor": "Antoinette Bower",
+            "character": "Member of Ely's Group (uncredited)"
+        },
+        {
+            "actor": "Walter Brooke",
+            "character": "Party Guest (uncredited)"
+        },
+        {
+            "actor": "Marta Kristen",
+            "character": "Party Guest (uncredited)"
+        },
+        {
+            "actor": "Frank Campanella",
+            "character": "Detective (uncredited)"
+        },
+        {
+            "actor": "Cosmo Sardo",
+            "character": "Party Guest (uncredited)"
+        },
+        {
+            "actor": "Harry Carter",
+            "character": "Pallbearer (uncredited)"
+        },
+        {
+            "actor": "Terrence Scammell",
+            "character": "Richard"
+        }
+    ]
+}

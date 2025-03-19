@@ -1,0 +1,738 @@
+{
+    "adult": false,
+    "backdrop_path": "/gwH5rHDnlSLb3EjyLvQHQlwCPvr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 40064,
+    "imdb_id": "tt0075334",
+    "origin_country": [
+        "DE",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "To the Devil a Daughter",
+    "overview": "An American occult novelist battles to save the soul of a young girl from a group of Satanists, led by an excommunicated priest, who plan on using her as the representative of the Devil on Earth.",
+    "popularity": 3.53,
+    "poster_path": "/4rJQHeuhOxGqqT00uQ0tu0W6v51.jpg",
+    "production_companies": [
+        {
+            "id": 1314,
+            "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+            "name": "Hammer Film Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 619,
+            "logo_path": null,
+            "name": "Terra-Filmkunst",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1976-03-04",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "...and suddenly the screams of a baby born in Hell!",
+    "title": "To the Devil a Daughter",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 107,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-05-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-03-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-07-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12149,
+                "known_for_department": "Acting",
+                "name": "Richard Widmark",
+                "original_name": "Richard Widmark",
+                "popularity": 0.028,
+                "profile_path": "/fvR0fQcGTVzmHZUGfPocqT6pRgJ.jpg",
+                "cast_id": 2,
+                "character": "John Verney",
+                "credit_id": "52fe457dc3a36847f80ca8bf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113,
+                "known_for_department": "Acting",
+                "name": "Christopher Lee",
+                "original_name": "Christopher Lee",
+                "popularity": 0.073,
+                "profile_path": "/4zPu5YaRPbhrcp9aVjXQDjpfwPC.jpg",
+                "cast_id": 3,
+                "character": "Father Michael",
+                "credit_id": "52fe457dc3a36847f80ca8c3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2630,
+                "known_for_department": "Acting",
+                "name": "Nastassja Kinski",
+                "original_name": "Nastassja Kinski",
+                "popularity": 0.061,
+                "profile_path": "/svYrIUXH59Dd9wp9HBpS1ASvRAu.jpg",
+                "cast_id": 7,
+                "character": "Catherine",
+                "credit_id": "52fe457dc3a36847f80ca8d3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9907,
+                "known_for_department": "Acting",
+                "name": "Honor Blackman",
+                "original_name": "Honor Blackman",
+                "popularity": 0.041,
+                "profile_path": "/2AGVWf7orxXvgcssUWdonX1yKvm.jpg",
+                "cast_id": 4,
+                "character": "Anna",
+                "credit_id": "52fe457dc3a36847f80ca8c7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 656,
+                "known_for_department": "Acting",
+                "name": "Denholm Elliott",
+                "original_name": "Denholm Elliott",
+                "popularity": 0.039,
+                "profile_path": "/5gbt1mJEOSuKHqi0CWl1okXjkim.jpg",
+                "cast_id": 5,
+                "character": "Henry Beddows",
+                "credit_id": "52fe457dc3a36847f80ca8cb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78940,
+                "known_for_department": "Acting",
+                "name": "Michael Goodliffe",
+                "original_name": "Michael Goodliffe",
+                "popularity": 0.019,
+                "profile_path": "/aPDwK1N12VSUFAnIBob5orfucL6.jpg",
+                "cast_id": 6,
+                "character": "George de Grass",
+                "credit_id": "52fe457dc3a36847f80ca8cf",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 26247,
+                "known_for_department": "Acting",
+                "name": "Eva Maria Meineke",
+                "original_name": "Eva Maria Meineke",
+                "popularity": 0.02,
+                "profile_path": "/kbT7VxNlu88kL6Kpkuqp27qQc0s.jpg",
+                "cast_id": 11,
+                "character": "Eveline de Grass",
+                "credit_id": "52fe457ec3a36847f80ca8e9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107336,
+                "known_for_department": "Acting",
+                "name": "Anthony Valentine",
+                "original_name": "Anthony Valentine",
+                "popularity": 0.026,
+                "profile_path": "/mQGprkjT9Dq9OULmcTRdK7FDlpF.jpg",
+                "cast_id": 12,
+                "character": "David",
+                "credit_id": "52fe457ec3a36847f80ca8ed",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101529,
+                "known_for_department": "Acting",
+                "name": "Derek Francis",
+                "original_name": "Derek Francis",
+                "popularity": 0.01,
+                "profile_path": "/eE02sSKBJ5kgkS3f2tdtXoUpB68.jpg",
+                "cast_id": 13,
+                "character": "Bishop",
+                "credit_id": "52fe457ec3a36847f80ca8f1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32060,
+                "known_for_department": "Acting",
+                "name": "Izabella Telezynska",
+                "original_name": "Izabella Telezynska",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Margaret",
+                "credit_id": "52fe457ec3a36847f80ca8f5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27425,
+                "known_for_department": "Acting",
+                "name": "Constantine Gregory",
+                "original_name": "Constantine Gregory",
+                "popularity": 0.033,
+                "profile_path": "/Wu1DUqLi8ZclEcdLGgYgnNcPmw.jpg",
+                "cast_id": 15,
+                "character": "Kollde (as Constantine De Goguel)",
+                "credit_id": "52fe457ec3a36847f80ca8f9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1276663,
+                "known_for_department": "Acting",
+                "name": "Anna Bentinck",
+                "original_name": "Anna Bentinck",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Isabel",
+                "credit_id": "52fe457ec3a36847f80ca8fd",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 115067,
+                "known_for_department": "Acting",
+                "name": "Irene Prador",
+                "original_name": "Irene Prador",
+                "popularity": 0.002,
+                "profile_path": "/2cLtjD87PIVkoWghNkQu7jg0IYp.jpg",
+                "cast_id": 31,
+                "character": "German Matron",
+                "credit_id": "65039ef9db4ed610430a64de",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49998,
+                "known_for_department": "Acting",
+                "name": "Brian Wilde",
+                "original_name": "Brian Wilde",
+                "popularity": 0.034,
+                "profile_path": "/f4oY26Fx61ZnZQMee1yTf2Hr2cB.jpg",
+                "cast_id": 29,
+                "character": "Black Room Attendant",
+                "credit_id": "5e40246e0c2710001a7ecd68",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1300280,
+                "known_for_department": "Acting",
+                "name": "Petra Peters",
+                "original_name": "Petra Peters",
+                "popularity": 0.001,
+                "profile_path": "/d3rNKwXexe9JaaGY1gszN1rrZsR.jpg",
+                "cast_id": 26,
+                "character": "Sister Helle",
+                "credit_id": "5b9779420e0a2672780075f2",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2013045,
+                "known_for_department": "Acting",
+                "name": "William Ridoutt",
+                "original_name": "William Ridoutt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Airport Porter",
+                "credit_id": "65039f20ffc9de0ee20a8616",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30676,
+                "known_for_department": "Acting",
+                "name": "Howard Goorney",
+                "original_name": "Howard Goorney",
+                "popularity": 0.01,
+                "profile_path": "/vvhxKuBn9IsaHvXr7Qe8fmdTB2R.jpg",
+                "cast_id": 30,
+                "character": "Critic (Roger)",
+                "credit_id": "6503844d1bf26600c5d73ee2",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 47468,
+                "known_for_department": "Acting",
+                "name": "Frances de la Tour",
+                "original_name": "Frances de la Tour",
+                "popularity": 0.042,
+                "profile_path": "/aDSge7DWhUyMyA0rEXEZpGiZzGO.jpg",
+                "cast_id": 28,
+                "character": "Salvation Army Major",
+                "credit_id": "5e40243941465c001acc385a",
+                "order": 17
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 1607298,
+                "known_for_department": "Acting",
+                "name": "Zoe Hendry",
+                "original_name": "Zoe Hendry",
+                "popularity": 0.985,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "1st Girl",
+                "credit_id": "650599c9fa27f4014eb0ef5c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1549345,
+                "known_for_department": "Acting",
+                "name": "Lindy Benson",
+                "original_name": "Lindy Benson",
+                "popularity": 0.001,
+                "profile_path": "/uayT3gvzvp5PJ2EKGMRCAlmNrJk.jpg",
+                "cast_id": 34,
+                "character": "2nd Girl",
+                "credit_id": "65039f856a222701372e94b7",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4272472,
+                "known_for_department": "Acting",
+                "name": "Jo Peters",
+                "original_name": "Jo Peters",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "3rd Girl",
+                "credit_id": "65039fa71bf266013a766426",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1607686,
+                "known_for_department": "Acting",
+                "name": "Bobby Sparrow",
+                "original_name": "Bobby Sparrow",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "4th Girl",
+                "credit_id": "65039fbee0ca7f00cbebc174",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 130093,
+                "known_for_department": "Directing",
+                "name": "Peter Sykes",
+                "original_name": "Peter Sykes",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe457dc3a36847f80ca8bb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 18758,
+                "known_for_department": "Crew",
+                "name": "Les Bowie",
+                "original_name": "Les Bowie",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca933",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 20131,
+                "known_for_department": "Sound",
+                "name": "Paul Glass",
+                "original_name": "Paul Glass",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca909",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 74693,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Eric Allwright",
+                "original_name": "Eric Allwright",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca92d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 135998,
+                "known_for_department": "Writing",
+                "name": "Christopher Wicking",
+                "original_name": "Christopher Wicking",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca8d9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10639,
+                "known_for_department": "Camera",
+                "name": "David Watkin",
+                "original_name": "David Watkin",
+                "popularity": 0.002,
+                "profile_path": "/49ysHuguXUJMCxP1pNQNByKV90I.jpg",
+                "credit_id": "52fe457ec3a36847f80ca90f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1078791,
+                "known_for_department": "Writing",
+                "name": "Dennis Wheatley",
+                "original_name": "Dennis Wheatley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca8e5",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1035442,
+                "known_for_department": "Writing",
+                "name": "John Peacock",
+                "original_name": "John Peacock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca8df",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 30572,
+                "known_for_department": "Production",
+                "name": "Roy Skeggs",
+                "original_name": "Roy Skeggs",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca903",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1207585,
+                "known_for_department": "Art",
+                "name": "Don Picton",
+                "original_name": "Don Picton",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca921",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1276585,
+                "known_for_department": "Costume & Make-Up",
+                "name": "George Blackler",
+                "original_name": "George Blackler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca927",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32115,
+                "known_for_department": "Editing",
+                "name": "John Trumper",
+                "original_name": "John Trumper",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca915",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 390,
+                "known_for_department": "Production",
+                "name": "Irene Lamb",
+                "original_name": "Irene Lamb",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe457ec3a36847f80ca91b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2266335,
+                "known_for_department": "Camera",
+                "name": "Ray Hearne",
+                "original_name": "Ray Hearne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c9a1dab0e0a261ba2c1c66d",
+                "department": "Camera",
+                "job": "Still Photographer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4720,
+                "name": "ritual"
+            },
+            {
+                "id": 6152,
+                "name": "supernatural"
+            },
+            {
+                "id": 3099,
+                "name": "satanism"
+            },
+            {
+                "id": 6158,
+                "name": "cult"
+            },
+            {
+                "id": 5545,
+                "name": "satanist"
+            },
+            {
+                "id": 5810,
+                "name": "pact with the devil"
+            },
+            {
+                "id": 13028,
+                "name": "writer"
+            },
+            {
+                "id": 15001,
+                "name": "demon"
+            },
+            {
+                "id": 156174,
+                "name": "occult"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Richard Widmark",
+            "character": "John Verney"
+        },
+        {
+            "actor": "Christopher Lee",
+            "character": "Father Michael"
+        },
+        {
+            "actor": "Nastassja Kinski",
+            "character": "Catherine"
+        },
+        {
+            "actor": "Honor Blackman",
+            "character": "Anna"
+        },
+        {
+            "actor": "Denholm Elliott",
+            "character": "Henry Beddows"
+        },
+        {
+            "actor": "Michael Goodliffe",
+            "character": "George de Grass"
+        },
+        {
+            "actor": "Eva Maria Meineke",
+            "character": "Eveline de Grass"
+        },
+        {
+            "actor": "Anthony Valentine",
+            "character": "David"
+        },
+        {
+            "actor": "Derek Francis",
+            "character": "Bishop"
+        },
+        {
+            "actor": "Izabella Telezynska",
+            "character": "Margaret"
+        },
+        {
+            "actor": "Constantine Gregory",
+            "character": "Kollde (as Constantine De Goguel)"
+        },
+        {
+            "actor": "Anna Bentinck",
+            "character": "Isabel"
+        },
+        {
+            "actor": "Irene Prador",
+            "character": "German Matron"
+        },
+        {
+            "actor": "Brian Wilde",
+            "character": "Black Room Attendant"
+        },
+        {
+            "actor": "Petra Peters",
+            "character": "Sister Helle"
+        },
+        {
+            "actor": "William Ridoutt",
+            "character": "Airport Porter"
+        },
+        {
+            "actor": "Howard Goorney",
+            "character": "Critic (Roger)"
+        },
+        {
+            "actor": "Frances de la Tour",
+            "character": "Salvation Army Major"
+        },
+        {
+            "actor": "Zoe Hendry",
+            "character": "1st Girl"
+        },
+        {
+            "actor": "Lindy Benson",
+            "character": "2nd Girl"
+        },
+        {
+            "actor": "Jo Peters",
+            "character": "3rd Girl"
+        },
+        {
+            "actor": "Bobby Sparrow",
+            "character": "4th Girl"
+        }
+    ]
+}

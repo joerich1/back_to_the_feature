@@ -1,0 +1,762 @@
+{
+    "adult": false,
+    "backdrop_path": "/p0rYadLPppNlld0eFJHZN1BXBep.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 34213,
+    "imdb_id": "tt0095222",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Glitch!",
+    "overview": "Two thieves rob a large fancy house when the owner is away. But when a visitor mistakes them for the owner, and they find out about a casting party mis-scheduled for that day, they decide to stick around for the fun. There's only one small problem, a little glitch in their plan. The real owners owe some bad dudes a lot of money, and they show up to collect.",
+    "popularity": 0.177,
+    "poster_path": "/lT6Guz0DDXgfqeIVBWfdRcHF8gK.jpg",
+    "production_companies": [
+        {
+            "id": 8101,
+            "logo_path": null,
+            "name": "Omega Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [],
+    "release_date": "1988-11-01",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "It's all about breaking in, breaking through, and breaking even!",
+    "title": "Glitch!",
+    "video": false,
+    "vote_average": 2.4,
+    "vote_count": 5,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-11-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 553752,
+                "known_for_department": "Acting",
+                "name": "Will Egan",
+                "original_name": "Will Egan",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "T.C.",
+                "credit_id": "52fe455c9251416c9102fa6d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1286725,
+                "known_for_department": "Acting",
+                "name": "Steve Donmyer",
+                "original_name": "Steve Donmyer",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Bo",
+                "credit_id": "52fe455c9251416c9102fa71",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16578,
+                "known_for_department": "Acting",
+                "name": "Julia Nickson",
+                "original_name": "Julia Nickson",
+                "popularity": 0.041,
+                "profile_path": "/lLtwvseiNe9pIjhC293nPmyRAET.jpg",
+                "cast_id": 3,
+                "character": "Michelle Wong",
+                "credit_id": "52fe455c9251416c9102fa75",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 937883,
+                "known_for_department": "Acting",
+                "name": "Ji-Tu Cumbuka",
+                "original_name": "Ji-Tu Cumbuka",
+                "popularity": 0.022,
+                "profile_path": "/aPxkduleB0dlJXZRPvTW59kCadD.jpg",
+                "cast_id": 9,
+                "character": "Mookie",
+                "credit_id": "54567d540e0a2648d6007849",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1774027,
+                "known_for_department": "Acting",
+                "name": "Fernando Garzón",
+                "original_name": "Fernando Garzón",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Paco Galino",
+                "credit_id": "58c327ec9251417cab00016a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1162022,
+                "known_for_department": "Acting",
+                "name": "John Kreng",
+                "original_name": "John Kreng",
+                "popularity": 0.001,
+                "profile_path": "/7hu7JlklCaG3fdTu75mrV1gAP0e.jpg",
+                "cast_id": 10,
+                "character": "Lee",
+                "credit_id": "58c327c89251417ca4000188",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81846,
+                "known_for_department": "Acting",
+                "name": "Richard Gautier",
+                "original_name": "Richard Gautier",
+                "popularity": 0.026,
+                "profile_path": "/dEbmkkUJ22d4hD1rtwmLqVNxcsA.jpg",
+                "cast_id": 12,
+                "character": "Julius Lazar",
+                "credit_id": "58c327fac3a36837df00017b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1212804,
+                "known_for_department": "Acting",
+                "name": "Ted Lange",
+                "original_name": "Ted Lange",
+                "popularity": 0.017,
+                "profile_path": "/jzsJcz7ZtJat5SuID8IHfAaGaxS.jpg",
+                "cast_id": 5,
+                "character": "DuBois",
+                "credit_id": "52fe455c9251416c9102fa7d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99705,
+                "known_for_department": "Acting",
+                "name": "Amy Lyndon",
+                "original_name": "Amy Lyndon",
+                "popularity": 0.008,
+                "profile_path": "/YMD1fsL0H1eZxTk7givJcx1lvy.jpg",
+                "cast_id": 6,
+                "character": "Missy (as Lindsay Carr)",
+                "credit_id": "52fe455c9251416c9102fa81",
+                "order": 8
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 97725,
+                "known_for_department": "Acting",
+                "name": "Teri Weigel",
+                "original_name": "Teri Weigel",
+                "popularity": 6.802,
+                "profile_path": "/7sSSp3Z5WIYNlI0x9XLVxp9uLBG.jpg",
+                "cast_id": 13,
+                "character": "Lydia",
+                "credit_id": "58c328bbc3a36837c200024d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104917,
+                "known_for_department": "Acting",
+                "name": "Dan Speaker",
+                "original_name": "Dan Speaker",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Brucie",
+                "credit_id": "58c328c4c3a36837df00024a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 980281,
+                "known_for_department": "Acting",
+                "name": "Roxanna Michaels",
+                "original_name": "Roxanna Michaels",
+                "popularity": 0.015,
+                "profile_path": "/sEvJzg9qeL3IWKxpFdTCVj2veAz.jpg",
+                "cast_id": 15,
+                "character": "Coldreader #2",
+                "credit_id": "58c328d59251417c6d000249",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91535,
+                "known_for_department": "Acting",
+                "name": "Bunty Bailey",
+                "original_name": "Bunty Bailey",
+                "popularity": 0.005,
+                "profile_path": "/xmZJ7E5C5Padwt7yOBviHSu9yw5.jpg",
+                "cast_id": 16,
+                "character": "Bimbo",
+                "credit_id": "58c328e29251417c6d000255",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 106728,
+                "known_for_department": "Acting",
+                "name": "Marjean Holden",
+                "original_name": "Marjean Holden",
+                "popularity": 0.034,
+                "profile_path": "/psdSq3GOF0pxYu9K8IJD8JfI5q6.jpg",
+                "cast_id": 17,
+                "character": "Kathy",
+                "credit_id": "58c328ebc3a36837df000270",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 101715,
+                "known_for_department": "Acting",
+                "name": "Christina Cardan",
+                "original_name": "Christina Cardan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Non SAG Girl",
+                "credit_id": "58c328f69251417c6900027d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13443,
+                "known_for_department": "Acting",
+                "name": "Laura Albert",
+                "original_name": "Laura Albert",
+                "popularity": 0.03,
+                "profile_path": "/fl1wqLSHYXtj7DR8yVwvhpmdPxf.jpg",
+                "cast_id": 19,
+                "character": "Topless Girl",
+                "credit_id": "58c329039251417c8900027e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 104916,
+                "known_for_department": "Acting",
+                "name": "Heidi Paine",
+                "original_name": "Heidi Paine",
+                "popularity": 0.008,
+                "profile_path": "/jE8CQyLUhF2SmfyTuimKCAuXN77.jpg",
+                "cast_id": 20,
+                "character": "Cake Lady",
+                "credit_id": "58c3290dc3a36837df000291",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100487,
+                "known_for_department": "Acting",
+                "name": "Debra Lamb",
+                "original_name": "Debra Lamb",
+                "popularity": 0.012,
+                "profile_path": "/bvxEsYNIKSKMYaBOVgg5rzUQx4h.jpg",
+                "cast_id": 21,
+                "character": "Fire Eater",
+                "credit_id": "58c32916c3a368381600028d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 122456,
+                "known_for_department": "Art",
+                "name": "William Vail",
+                "original_name": "William Vail",
+                "popularity": 0.011,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Angry Valet",
+                "credit_id": "58c329239251417ca40002d7",
+                "order": 18
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 99089,
+                "known_for_department": "Acting",
+                "name": "Jasae",
+                "original_name": "Jasae",
+                "popularity": 2.569,
+                "profile_path": "/nnsGg4i1EzbkhDZLQOOwwIUZPaf.jpg",
+                "cast_id": 23,
+                "character": "Beauty",
+                "credit_id": "58c329419251417cb8000292",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 103969,
+                "known_for_department": "Acting",
+                "name": "Sheila Lussier",
+                "original_name": "Sheila Lussier",
+                "popularity": 0.001,
+                "profile_path": "/qRTUBISMwCsnAxzFxzWYsAjCJaN.jpg",
+                "cast_id": 24,
+                "character": "Beauty",
+                "credit_id": "58c3294ec3a36837c20002d8",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98572,
+                "known_for_department": "Acting",
+                "name": "Erika Nann",
+                "original_name": "Erika Nann",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Beauty (as Erica Mann)",
+                "credit_id": "58c3295bc3a36837f90002da",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 217449,
+                "known_for_department": "Acting",
+                "name": "Becky Mullen",
+                "original_name": "Becky Mullen",
+                "popularity": 0.007,
+                "profile_path": "/7gowlHQcbXX2P8fEMz0XvXfig57.jpg",
+                "cast_id": 26,
+                "character": "Beauty",
+                "credit_id": "58c32967c3a36837f10002ce",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1681938,
+                "known_for_department": "Acting",
+                "name": "Jacklyn Palmer",
+                "original_name": "Jacklyn Palmer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Beauty",
+                "credit_id": "58c32972c3a36837e7000285",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102938,
+                "known_for_department": "Acting",
+                "name": "Donna Spangler",
+                "original_name": "Donna Spangler",
+                "popularity": 0.007,
+                "profile_path": "/2IaI9mH3YfgatiRKbJbPMKyaZN.jpg",
+                "cast_id": 28,
+                "character": "Beauty",
+                "credit_id": "58c32983c3a36837df000303",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 97883,
+                "known_for_department": "Acting",
+                "name": "Athena Worthy",
+                "original_name": "Athena Worthy",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Beauty",
+                "credit_id": "58c329909251417c6d0002f0",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1200490,
+                "known_for_department": "Acting",
+                "name": "Gino Dentie",
+                "original_name": "Gino Dentie",
+                "popularity": 0.002,
+                "profile_path": "/eQLpGGxSlcFyttmUr7tWfH2JZ2D.jpg",
+                "cast_id": 30,
+                "character": "DuBois’ Heavy",
+                "credit_id": "66b65270d3593a82dc2707d6",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4890029,
+                "known_for_department": "Acting",
+                "name": "Nancy Serrano",
+                "original_name": "Nancy Serrano",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Beauty",
+                "credit_id": "66bfbf0b318253e530ad73ce",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107301,
+                "known_for_department": "Writing",
+                "name": "Nico Mastorakis",
+                "original_name": "Nico Mastorakis",
+                "popularity": 0.006,
+                "profile_path": "/84YDbLb6dKc7YcaYJEBQ6qDuUcH.jpg",
+                "credit_id": "52fe455c9251416c9102fa8d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107301,
+                "known_for_department": "Writing",
+                "name": "Nico Mastorakis",
+                "original_name": "Nico Mastorakis",
+                "popularity": 0.006,
+                "profile_path": "/84YDbLb6dKc7YcaYJEBQ6qDuUcH.jpg",
+                "credit_id": "52fe455c9251416c9102fa87",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1846702,
+                "known_for_department": "Editing",
+                "name": "George Rosenberg",
+                "original_name": "George Rosenberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c4128ecc8c54efb51acc6d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1307549,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Julia Schklair",
+                "original_name": "Julia Schklair",
+                "popularity": 0.001,
+                "profile_path": "/jYhzzIC99VxxWenwNyOXJKYzQCP.jpg",
+                "credit_id": "66c412ba64a897cbb57119af",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1429501,
+                "known_for_department": "Camera",
+                "name": "Peter Jensen",
+                "original_name": "Peter Jensen",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "66c4126ccc8c54efb51acc69",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107301,
+                "known_for_department": "Writing",
+                "name": "Nico Mastorakis",
+                "original_name": "Nico Mastorakis",
+                "popularity": 0.006,
+                "profile_path": "/84YDbLb6dKc7YcaYJEBQ6qDuUcH.jpg",
+                "credit_id": "66c4127ea6728906cf5695d3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2421001,
+                "known_for_department": "Art",
+                "name": "Gary T. New",
+                "original_name": "Gary T. New",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c4129b6572bbc8dd569847",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2421002,
+                "known_for_department": "Art",
+                "name": "Suzanne Shield-Polk",
+                "original_name": "Suzanne Shield-Polk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c412a72c4f97af9cc9b893",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2377823,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Laya Saul",
+                "original_name": "Laya Saul",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c412c7e5050946d11acc83",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107301,
+                "known_for_department": "Writing",
+                "name": "Nico Mastorakis",
+                "original_name": "Nico Mastorakis",
+                "popularity": 0.006,
+                "profile_path": "/84YDbLb6dKc7YcaYJEBQ6qDuUcH.jpg",
+                "credit_id": "66c4122d2445b67935569869",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1610503,
+                "known_for_department": "Production",
+                "name": "Isabelle Mastorakis",
+                "original_name": "Isabelle Mastorakis",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "66c412267cc2f07bf9c87f1b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1362908,
+                "known_for_department": "Production",
+                "name": "Perry Husman",
+                "original_name": "Perry Husman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c4120b412d66ceafadbcae",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3141710,
+                "known_for_department": "Sound",
+                "name": "Thomas Marolda",
+                "original_name": "Thomas Marolda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c4124d4b12fbe89cadba1d",
+                "department": "Sound",
+                "job": "Music"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3149,
+                "name": "gangster"
+            },
+            {
+                "id": 12090,
+                "name": "cross dressing"
+            },
+            {
+                "id": 197568,
+                "name": "spoof burgler"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Will Egan",
+            "character": "T.C."
+        },
+        {
+            "actor": "Steve Donmyer",
+            "character": "Bo"
+        },
+        {
+            "actor": "Julia Nickson",
+            "character": "Michelle Wong"
+        },
+        {
+            "actor": "Ji-Tu Cumbuka",
+            "character": "Mookie"
+        },
+        {
+            "actor": "Fernando Garzón",
+            "character": "Paco Galino"
+        },
+        {
+            "actor": "John Kreng",
+            "character": "Lee"
+        },
+        {
+            "actor": "Richard Gautier",
+            "character": "Julius Lazar"
+        },
+        {
+            "actor": "Ted Lange",
+            "character": "DuBois"
+        },
+        {
+            "actor": "Amy Lyndon",
+            "character": "Missy (as Lindsay Carr)"
+        },
+        {
+            "actor": "Teri Weigel",
+            "character": "Lydia"
+        },
+        {
+            "actor": "Dan Speaker",
+            "character": "Brucie"
+        },
+        {
+            "actor": "Roxanna Michaels",
+            "character": "Coldreader #2"
+        },
+        {
+            "actor": "Bunty Bailey",
+            "character": "Bimbo"
+        },
+        {
+            "actor": "Marjean Holden",
+            "character": "Kathy"
+        },
+        {
+            "actor": "Christina Cardan",
+            "character": "Non SAG Girl"
+        },
+        {
+            "actor": "Laura Albert",
+            "character": "Topless Girl"
+        },
+        {
+            "actor": "Heidi Paine",
+            "character": "Cake Lady"
+        },
+        {
+            "actor": "Debra Lamb",
+            "character": "Fire Eater"
+        },
+        {
+            "actor": "William Vail",
+            "character": "Angry Valet"
+        },
+        {
+            "actor": "Jasae",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Sheila Lussier",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Erika Nann",
+            "character": "Beauty (as Erica Mann)"
+        },
+        {
+            "actor": "Becky Mullen",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Jacklyn Palmer",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Donna Spangler",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Athena Worthy",
+            "character": "Beauty"
+        },
+        {
+            "actor": "Gino Dentie",
+            "character": "DuBois’ Heavy"
+        },
+        {
+            "actor": "Nancy Serrano",
+            "character": "Beauty"
+        }
+    ]
+}

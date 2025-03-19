@@ -1,0 +1,825 @@
+{
+    "adult": false,
+    "backdrop_path": "/hhZZrmm4eXVtLOyk03yuKYmss08.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 767401,
+    "imdb_id": "tt13487922",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "1UP",
+    "overview": "After Valerie Lee quits her college esports team, she quickly realizes that her decision comes at the cost of her scholarship. Valerie soon discovers a loophole to save her collegiate future, if she can find a coach and assemble a whole new varsity-caliber team capable of reaching the State Finals.",
+    "popularity": 1.293,
+    "poster_path": "/kqhLjoz3FGywYXUNTCPItfDY2N8.jpg",
+    "production_companies": [
+        {
+            "id": 125401,
+            "logo_path": "/zqK2m6vgqAOVyKCGWHkEpqf3GeE.png",
+            "name": "BuzzFeed Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+        },
+        {
+            "id": 139492,
+            "logo_path": "/h0mdxIapmlpreNlejW89hSoqXBE.png",
+            "name": "CR8IV DNA",
+            "origin_country": "CA"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-07-15",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "1UP",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 36,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-15T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-11-11T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2022-11-09T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2022-11-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-12-05T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-15T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NZ",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-18T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TH",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2022-07-15T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1512122,
+                "known_for_department": "Acting",
+                "name": "Paris Berelc",
+                "original_name": "Paris Berelc",
+                "popularity": 0.013,
+                "profile_path": "/qSXkKX421A8ppG1GGfKUP0VSjyc.jpg",
+                "cast_id": 2,
+                "character": "Valerie Lee",
+                "credit_id": "5fba89fe8ec4ab003f7a0bb3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1246972,
+                "known_for_department": "Acting",
+                "name": "Ruby Rose",
+                "original_name": "Ruby Rose",
+                "popularity": 0.087,
+                "profile_path": "/djhT0A2hZxpYKPnCeRtim8qUdPi.jpg",
+                "cast_id": 9,
+                "character": "Parker Nesby",
+                "credit_id": "6011bba3a31440003e2917d5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2648891,
+                "known_for_department": "Acting",
+                "name": "Taylor Zakhar Perez",
+                "original_name": "Taylor Zakhar Perez",
+                "popularity": 0.029,
+                "profile_path": "/o9Gp28NPgZA4HA4X9pXhPCkHWHV.jpg",
+                "cast_id": 10,
+                "character": "Dustin",
+                "credit_id": "6011bbaf7f1d8300406f4db5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1611609,
+                "known_for_department": "Acting",
+                "name": "Hari Nef",
+                "original_name": "Hari Nef",
+                "popularity": 0.017,
+                "profile_path": "/gbInNMRs3hL6JuFDX01cShL8fCo.jpg",
+                "cast_id": 11,
+                "character": "Sloane",
+                "credit_id": "6011bbb8ea84c7003bbb7b3b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1494865,
+                "known_for_department": "Acting",
+                "name": "Nicholas Coombe",
+                "original_name": "Nicholas Coombe",
+                "popularity": 0.01,
+                "profile_path": "/nQr4prhz80cIq0RUBtPRu5t8T2R.jpg",
+                "cast_id": 12,
+                "character": "",
+                "credit_id": "6011bbc27f1d8300406f4dc5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 64304,
+                "known_for_department": "Acting",
+                "name": "Jordan Madley",
+                "original_name": "Jordan Madley",
+                "popularity": 0.011,
+                "profile_path": "/jmpTYcuHgfatJ2Agh0H1LdTFxLs.jpg",
+                "cast_id": 13,
+                "character": "Mercedes Benz Rep",
+                "credit_id": "60215aa4dd2589003eb785c1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2575782,
+                "known_for_department": "Acting",
+                "name": "Robert Levey II",
+                "original_name": "Robert Levey II",
+                "popularity": 0.001,
+                "profile_path": "/z9qF4KNu6g60HtpVcPp6V2zVQZR.jpg",
+                "cast_id": 14,
+                "character": "Ace",
+                "credit_id": "60215aae95c0af003e500fa7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2969790,
+                "known_for_department": "Acting",
+                "name": "Lolita Milena",
+                "original_name": "Lolita Milena",
+                "popularity": 0.001,
+                "profile_path": "/oiCby6dtlN4SkuXFF8zqYRR0Nhm.jpg",
+                "cast_id": 15,
+                "character": "Jenna",
+                "credit_id": "60215abc87a27a00407a8943",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1773484,
+                "known_for_department": "Acting",
+                "name": "Jean-Michel Le Gal",
+                "original_name": "Jean-Michel Le Gal",
+                "popularity": 0.011,
+                "profile_path": "/5x2fzMQzdE1BOwmKjMgofGZjLgi.jpg",
+                "cast_id": 16,
+                "character": "Announcer",
+                "credit_id": "60215ad0ccde04003ff319f8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2373667,
+                "known_for_department": "Acting",
+                "name": "Ramis Khan",
+                "original_name": "Ramis Khan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Adi",
+                "credit_id": "60215ad987a27a003e792f43",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1816892,
+                "known_for_department": "Acting",
+                "name": "Elias Pressler",
+                "original_name": "Elias Pressler",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Helix",
+                "credit_id": "60215afa458199003ea83274",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2664890,
+                "known_for_department": "Acting",
+                "name": "Wayne Yuan",
+                "original_name": "Wayne Yuan",
+                "popularity": 0.001,
+                "profile_path": "/Rb6wE5bRHv6BdtpGDnVLaVNJ3L.jpg",
+                "cast_id": 19,
+                "character": "Geoff",
+                "credit_id": "60215b0b0e597b003da44204",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2969793,
+                "known_for_department": "Acting",
+                "name": "Darcy Williamson",
+                "original_name": "Darcy Williamson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "LARP Knight / Bartender",
+                "credit_id": "60215b1d9979d2003ee18f3f",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59843,
+                "known_for_department": "Acting",
+                "name": "Paul Scheer",
+                "original_name": "Paul Scheer",
+                "popularity": 0.041,
+                "profile_path": "/76c6ieidSECRslxVX4ZA5WBdz40.jpg",
+                "cast_id": 24,
+                "character": "Sexy Interviewee",
+                "credit_id": "62c87265076ce80056624ea0",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3877752,
+                "known_for_department": "Acting",
+                "name": "Eliott Ritter",
+                "original_name": "Eliott Ritter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Polygon captain",
+                "credit_id": "63c6cb346905fb007c000d51",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2360766,
+                "known_for_department": "Acting",
+                "name": "Naomi Kyle",
+                "original_name": "Naomi Kyle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Naomi Kyle",
+                "credit_id": "64981d9e6f43ec011c6280b6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4226012,
+                "known_for_department": "Acting",
+                "name": "Madison Baines",
+                "original_name": "Madison Baines",
+                "popularity": 0.004,
+                "profile_path": "/jFyAsvYnmOpZX3LsgERvOlPOjel.jpg",
+                "cast_id": 28,
+                "character": "Lilly",
+                "credit_id": "64e3212bda9ef248f0fb9acc",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4003892,
+                "known_for_department": "Acting",
+                "name": "D.J. Mausner",
+                "original_name": "D.J. Mausner",
+                "popularity": 0.001,
+                "profile_path": "/57HADzmAOJBK8f0pFWDbqGhNRFB.jpg",
+                "cast_id": 29,
+                "character": "Diane",
+                "credit_id": "64f3846297a4e600e1a41bc0",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5620,
+                "known_for_department": "Acting",
+                "name": "Kevin Farley",
+                "original_name": "Kevin Farley",
+                "popularity": 0.035,
+                "profile_path": "/jpXmfRfd3fzvyC0bBqEbw8R2Meu.jpg",
+                "cast_id": 30,
+                "character": "Dean Davis",
+                "credit_id": "64f384931f3319013a25d9d0",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65758,
+                "known_for_department": "Acting",
+                "name": "Stephen Joffe",
+                "original_name": "Stephen Joffe",
+                "popularity": 0.011,
+                "profile_path": "/j2zHgV5O4P8dz6Uh5kWBTiiJici.jpg",
+                "cast_id": 31,
+                "character": "Riccardo",
+                "credit_id": "64f384b75f2b8d011b4e0423",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1630362,
+                "known_for_department": "Acting",
+                "name": "Aviva Mongillo",
+                "original_name": "Aviva Mongillo",
+                "popularity": 0.008,
+                "profile_path": "/7vhVP0PEUX2cd6jZP6fnrhsMC1Y.jpg",
+                "cast_id": 32,
+                "character": "Indigo",
+                "credit_id": "64f384f897a4e600c487ef60",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2431619,
+                "known_for_department": "Acting",
+                "name": "Kataem O'Connor",
+                "original_name": "Kataem O'Connor",
+                "popularity": 0.007,
+                "profile_path": "/9OGFa2tehdHPUyACwYcCxJtvNXm.jpg",
+                "cast_id": 33,
+                "character": "Lance",
+                "credit_id": "64f3850be0ca7f00ec87fc89",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2354122,
+                "known_for_department": "Acting",
+                "name": "Daniel Williston",
+                "original_name": "Daniel Williston",
+                "popularity": 0.001,
+                "profile_path": "/n7k2OCpixF5pIwqnMuyC2CoOGgD.jpg",
+                "cast_id": 34,
+                "character": "Lewis",
+                "credit_id": "64f385175f2b8d00e12ba820",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2704242,
+                "known_for_department": "Production",
+                "name": "Kyla Musselman",
+                "original_name": "Kyla Musselman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Musical Theatre Girl",
+                "credit_id": "64f3853acaa508012b079cf4",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2389793,
+                "known_for_department": "Acting",
+                "name": "Matias Lucas",
+                "original_name": "Matias Lucas",
+                "popularity": 0.014,
+                "profile_path": "/hkBoU2Z1fHeB8vYq2LoBskUSrkU.jpg",
+                "cast_id": 39,
+                "character": "Newburn Captain",
+                "credit_id": "6781b181c5d2e96e267b5332",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74623,
+                "known_for_department": "Directing",
+                "name": "Kyle Newman",
+                "original_name": "Kyle Newman",
+                "popularity": 0.002,
+                "profile_path": "/mieIdxPhumlDRgkHUE4s9JUYoNd.jpg",
+                "cast_id": 37,
+                "character": "Kansas City Kong Coach",
+                "credit_id": "64f385709e458600ad7ec358",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2533430,
+                "known_for_department": "Acting",
+                "name": "Marko Vujicic",
+                "original_name": "Marko Vujicic",
+                "popularity": 0.001,
+                "profile_path": "/hL25WnQKYzgg1loa1eUy2cfAAdL.jpg",
+                "cast_id": 38,
+                "character": "Geeky Teen",
+                "credit_id": "6503cb6aefea7a00c398627d",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2875297,
+                "known_for_department": "Camera",
+                "name": "Kristofer Bonnell",
+                "original_name": "Kristofer Bonnell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "605abbf501e4d1005367a808",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2086231,
+                "known_for_department": "Editing",
+                "name": "Ryan Croft",
+                "original_name": "Ryan Croft",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "640ffb0eb4224200d865c904",
+                "department": "Editing",
+                "job": "Digital Intermediate Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74623,
+                "known_for_department": "Directing",
+                "name": "Kyle Newman",
+                "original_name": "Kyle Newman",
+                "popularity": 0.002,
+                "profile_path": "/mieIdxPhumlDRgkHUE4s9JUYoNd.jpg",
+                "credit_id": "5fba8a22a097dc003ef5deba",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 155042,
+                "known_for_department": "Acting",
+                "name": "Julia Yorks",
+                "original_name": "Julia Yorks",
+                "popularity": 0.011,
+                "profile_path": "/acUgJpmBuZYqhXpsAf8LG3OaQi2.jpg",
+                "credit_id": "5fba8a318ec4ab003d7a4457",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2205875,
+                "known_for_department": "Production",
+                "name": "Jason Moring",
+                "original_name": "Jason Moring",
+                "popularity": 0.001,
+                "profile_path": "/2uwqqtJt7AU4G8sg46Z1wmh77cH.jpg",
+                "credit_id": "5fba8a5f04b5960040f6447a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62209,
+                "known_for_department": "Production",
+                "name": "Michael Philip",
+                "original_name": "Michael Philip",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fba8a7d0792e1003f39f1c0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 984422,
+                "known_for_department": "Acting",
+                "name": "Richard Alan Reid",
+                "original_name": "Richard Alan Reid",
+                "popularity": 0.01,
+                "profile_path": "/wpbKPeIOFQtsk7nZz4kbAkeuDiY.jpg",
+                "credit_id": "5fba8aa98de0ae003f4b9fef",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1992667,
+                "known_for_department": "Art",
+                "name": "David Butler",
+                "original_name": "David Butler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60215b676dc507003ebe31f1",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 282,
+                "name": "video game"
+            },
+            {
+                "id": 10439,
+                "name": "gamer"
+            },
+            {
+                "id": 166939,
+                "name": "esports"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Paris Berelc",
+            "character": "Valerie Lee"
+        },
+        {
+            "actor": "Ruby Rose",
+            "character": "Parker Nesby"
+        },
+        {
+            "actor": "Taylor Zakhar Perez",
+            "character": "Dustin"
+        },
+        {
+            "actor": "Hari Nef",
+            "character": "Sloane"
+        },
+        {
+            "actor": "Nicholas Coombe",
+            "character": ""
+        },
+        {
+            "actor": "Jordan Madley",
+            "character": "Mercedes Benz Rep"
+        },
+        {
+            "actor": "Robert Levey II",
+            "character": "Ace"
+        },
+        {
+            "actor": "Lolita Milena",
+            "character": "Jenna"
+        },
+        {
+            "actor": "Jean-Michel Le Gal",
+            "character": "Announcer"
+        },
+        {
+            "actor": "Ramis Khan",
+            "character": "Adi"
+        },
+        {
+            "actor": "Elias Pressler",
+            "character": "Helix"
+        },
+        {
+            "actor": "Wayne Yuan",
+            "character": "Geoff"
+        },
+        {
+            "actor": "Darcy Williamson",
+            "character": "LARP Knight / Bartender"
+        },
+        {
+            "actor": "Paul Scheer",
+            "character": "Sexy Interviewee"
+        },
+        {
+            "actor": "Eliott Ritter",
+            "character": "Polygon captain"
+        },
+        {
+            "actor": "Naomi Kyle",
+            "character": "Naomi Kyle"
+        },
+        {
+            "actor": "Madison Baines",
+            "character": "Lilly"
+        },
+        {
+            "actor": "D.J. Mausner",
+            "character": "Diane"
+        },
+        {
+            "actor": "Kevin Farley",
+            "character": "Dean Davis"
+        },
+        {
+            "actor": "Stephen Joffe",
+            "character": "Riccardo"
+        },
+        {
+            "actor": "Aviva Mongillo",
+            "character": "Indigo"
+        },
+        {
+            "actor": "Kataem O'Connor",
+            "character": "Lance"
+        },
+        {
+            "actor": "Daniel Williston",
+            "character": "Lewis"
+        },
+        {
+            "actor": "Kyla Musselman",
+            "character": "Musical Theatre Girl"
+        },
+        {
+            "actor": "Matias Lucas",
+            "character": "Newburn Captain"
+        },
+        {
+            "actor": "Kyle Newman",
+            "character": "Kansas City Kong Coach"
+        },
+        {
+            "actor": "Marko Vujicic",
+            "character": "Geeky Teen"
+        }
+    ]
+}

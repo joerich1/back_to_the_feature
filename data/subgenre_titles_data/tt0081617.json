@@ -1,0 +1,827 @@
+{
+    "adult": false,
+    "backdrop_path": "/b3oaJRsVlvnXUAhkYEJOAfEKGdl.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 40969,
+    "imdb_id": "tt0081617",
+    "origin_country": [
+        "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Terror Train",
+    "overview": "A masked killer targets six college kids responsible for a prank gone wrong three years earlier and who are currently throwing a large New Year's Eve costume party aboard a moving train.",
+    "popularity": 3.828,
+    "poster_path": "/jeDVKkeCk9U75a0TZ4mezylXy3j.jpg",
+    "production_companies": [
+        {
+            "id": 5538,
+            "logo_path": null,
+            "name": "Sandy Howard Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 10313,
+            "logo_path": null,
+            "name": "Astral Bellevue Pathé",
+            "origin_country": "CA"
+        },
+        {
+            "id": 15758,
+            "logo_path": null,
+            "name": "Triple T Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "1980-10-03",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The boys and girls of Sigma Phi. Some will live. Some will die.",
+    "title": "Terror Train",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 280,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-10-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-06-18T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-06-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-01-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-10-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8944,
+                "known_for_department": "Acting",
+                "name": "Jamie Lee Curtis",
+                "original_name": "Jamie Lee Curtis",
+                "popularity": 0.118,
+                "profile_path": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg",
+                "cast_id": 1,
+                "character": "Alana Maxwell",
+                "credit_id": "52fe45adc3a36847f80d453d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8258,
+                "known_for_department": "Acting",
+                "name": "Ben Johnson",
+                "original_name": "Ben Johnson",
+                "popularity": 0.041,
+                "profile_path": "/VJYWJAOLcLE1WyG1v8W2h7TahA.jpg",
+                "cast_id": 3,
+                "character": "Carne",
+                "credit_id": "52fe45adc3a36847f80d4547",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7678,
+                "known_for_department": "Acting",
+                "name": "Hart Bochner",
+                "original_name": "Hart Bochner",
+                "popularity": 0.034,
+                "profile_path": "/nfC2ByTNS3xoygwYVbUYsx2Zae6.jpg",
+                "cast_id": 4,
+                "character": "Doc Manley",
+                "credit_id": "52fe45adc3a36847f80d454b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 189761,
+                "known_for_department": "Acting",
+                "name": "David Copperfield",
+                "original_name": "David Copperfield",
+                "popularity": 0.006,
+                "profile_path": "/9qECAXWe3vlHI5FKKceD9a1emek.jpg",
+                "cast_id": 11,
+                "character": "The Magician",
+                "credit_id": "559a753492514156770036cf",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1376700,
+                "known_for_department": "Acting",
+                "name": "Derek MacKinnon",
+                "original_name": "Derek MacKinnon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Kenny Hampson",
+                "credit_id": "544845130e0a26747c0002dd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1323932,
+                "known_for_department": "Acting",
+                "name": "Sandee Currie",
+                "original_name": "Sandee Currie",
+                "popularity": 0.001,
+                "profile_path": "/hQdWmcu18EneFUSpC5DVS3aCdAJ.jpg",
+                "cast_id": 8,
+                "character": "Mitchy",
+                "credit_id": "54484523c3a3680fb10002d5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53720,
+                "known_for_department": "Acting",
+                "name": "Timothy Webber",
+                "original_name": "Timothy Webber",
+                "popularity": 0.02,
+                "profile_path": "/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg",
+                "cast_id": 9,
+                "character": "Mo",
+                "credit_id": "54484531c3a3680fc300027b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62126,
+                "known_for_department": "Acting",
+                "name": "Anthony Sherwood",
+                "original_name": "Anthony Sherwood",
+                "popularity": 0.009,
+                "profile_path": "/lJhDCtTbEdC4FhRkVA3mbgj3OH7.jpg",
+                "cast_id": 10,
+                "character": "Jackson",
+                "credit_id": "54484543c3a3680fc3000280",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1477653,
+                "known_for_department": "Acting",
+                "name": "Howard Busgang",
+                "original_name": "Howard Busgang",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Ed",
+                "credit_id": "56d0cf80c3a3681e3c007d5f",
+                "order": 8
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 1111638,
+                "known_for_department": "Writing",
+                "name": "Steve Michaels",
+                "original_name": "Steve Michaels",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Brakeman",
+                "credit_id": "56d0cf8fc3a3681e3e007e64",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1193682,
+                "known_for_department": "Acting",
+                "name": "Greg Swanson",
+                "original_name": "Greg Swanson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Class President",
+                "credit_id": "56d0cf9dc3a3681e39006a9e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 45481,
+                "known_for_department": "Acting",
+                "name": "Vanity",
+                "original_name": "Vanity",
+                "popularity": 0.026,
+                "profile_path": "/h658FXl2lShOPmiOeuQPlQsuOS8.jpg",
+                "cast_id": 15,
+                "character": "Merry",
+                "credit_id": "56d0cfacc3a3681e3c007d67",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 57626,
+                "known_for_department": "Acting",
+                "name": "Joy Boushel",
+                "original_name": "Joy Boushel",
+                "popularity": 0.016,
+                "profile_path": "/8dRLwnJOQvcQRaRaCiN27MEn87T.jpg",
+                "cast_id": 16,
+                "character": "Pet",
+                "credit_id": "56d0cfb7c3a3681e57007054",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 198716,
+                "known_for_department": "Acting",
+                "name": "Victor Knight",
+                "original_name": "Victor Knight",
+                "popularity": 0.004,
+                "profile_path": "/i7sgjPe7jugLotBVdS2JqtF9Paz.jpg",
+                "cast_id": 17,
+                "character": "Engineer",
+                "credit_id": "56d0cfc49251413e5f006e8b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1204794,
+                "known_for_department": "Acting",
+                "name": "Donald Lamoreux",
+                "original_name": "Donald Lamoreux",
+                "popularity": 0.001,
+                "profile_path": "/qFcaSNTgyaf6fO86QKOhFXdftq0.jpg",
+                "cast_id": 18,
+                "character": "Shovel",
+                "credit_id": "56d0cfd3c3a3681e4a006aff",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1583336,
+                "known_for_department": "Acting",
+                "name": "Charles Biddle Sr.",
+                "original_name": "Charles Biddle Sr.",
+                "popularity": 0.001,
+                "profile_path": "/u7HOPkBbrMKh9yfsozGf8CDoWAT.jpg",
+                "cast_id": 19,
+                "character": "Chief Porter",
+                "credit_id": "56d0cfe19251413e59006eef",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583337,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Cholette",
+                "original_name": "Elizabeth Cholette",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Dispatcher",
+                "credit_id": "56d0cfee9251415ad90006db",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1049880,
+                "known_for_department": "Acting",
+                "name": "Thom Haverstock",
+                "original_name": "Thom Haverstock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Bill Chase",
+                "credit_id": "56d0cffcc3a3681e39006ab7",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583338,
+                "known_for_department": "Acting",
+                "name": "Peter Feingold",
+                "original_name": "Peter Feingold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Senior",
+                "credit_id": "56d0d008c3a3681e3e007e79",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583339,
+                "known_for_department": "Camera",
+                "name": "Richard Weinstein",
+                "original_name": "Richard Weinstein",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Pledge",
+                "credit_id": "56d0d015c3a3681e3c007d78",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583340,
+                "known_for_department": "Acting",
+                "name": "John Busby",
+                "original_name": "John Busby",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Pledge",
+                "credit_id": "56d0d0219251413e6d0071c8",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1392546,
+                "known_for_department": "Acting",
+                "name": "Roland Nincheri",
+                "original_name": "Roland Nincheri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Bus Driver",
+                "credit_id": "56d0d030c3a3681e36006c45",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 17611,
+                "known_for_department": "Production",
+                "name": "Andrea Kenyon",
+                "original_name": "Andrea Kenyon",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Bunny Girl",
+                "credit_id": "56d0d0439251415ad90006f1",
+                "order": 22
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1724,
+                "known_for_department": "Directing",
+                "name": "Roger Spottiswoode",
+                "original_name": "Roger Spottiswoode",
+                "popularity": 0.019,
+                "profile_path": "/ofSwHS4FtNtKO70LHqXdOgU67iP.jpg",
+                "credit_id": "52fe45adc3a36847f80d4543",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1193541,
+                "known_for_department": "Writing",
+                "name": "T.Y. Drake",
+                "original_name": "T.Y. Drake",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45adc3a36847f80d4555",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 66710,
+                "known_for_department": "Production",
+                "name": "Harold Greenberg",
+                "original_name": "Harold Greenberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d0689251413e5f006ead",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8303,
+                "known_for_department": "Production",
+                "name": "Don Carmody",
+                "original_name": "Don Carmody",
+                "popularity": 0.013,
+                "profile_path": "/bIeEh6XbUejG3yKeOAUWPbMAh1B.jpg",
+                "credit_id": "56d0d0749251413e5f006eb2",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66723,
+                "known_for_department": "Production",
+                "name": "Daniel Grodnik",
+                "original_name": "Daniel Grodnik",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "56d0d080c3a3681e5000643e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1065744,
+                "known_for_department": "Production",
+                "name": "Lamar Card",
+                "original_name": "Lamar Card",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d08c9251413e680071de",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106756,
+                "known_for_department": "Sound",
+                "name": "John Mills-Cockell",
+                "original_name": "John Mills-Cockell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d09fc3a3681e4a006b20",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2286,
+                "known_for_department": "Camera",
+                "name": "John Alcott",
+                "original_name": "John Alcott",
+                "popularity": 0.009,
+                "profile_path": "/vpWpMQirRnTpNwhVwgcXYWmFE54.jpg",
+                "credit_id": "56d0d0d19251413e6a0074e9",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583342,
+                "known_for_department": "Production",
+                "name": "Ingrid Fischer",
+                "original_name": "Ingrid Fischer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d0ea925141799e0043c5",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583343,
+                "known_for_department": "Production",
+                "name": "Anna St. Johns",
+                "original_name": "Anna St. Johns",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d0f5c3a3681e44007f54",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1199786,
+                "known_for_department": "Art",
+                "name": "Glenn Bydwell",
+                "original_name": "Glenn Bydwell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d1029251413e6a0074f2",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1341327,
+                "known_for_department": "Art",
+                "name": "Guy J. Comtois",
+                "original_name": "Guy J. Comtois",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0d1139251415ad9000710",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1716453,
+                "known_for_department": "Editing",
+                "name": "Anne Henderson",
+                "original_name": "Anne Henderson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "583f2503925141152100e86f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14192,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michèle Burke",
+                "original_name": "Michèle Burke",
+                "popularity": 0.007,
+                "profile_path": "/xwGIjwpJdr1PbKG0eb7ms3uwmI.jpg",
+                "credit_id": "5fee5054447f9c003dda0762",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1451458,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joan Isaacson",
+                "original_name": "Joan Isaacson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fee5066176a940045e45e6b",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21823,
+                "known_for_department": "Art",
+                "name": "Veronica Hadfield",
+                "original_name": "Veronica Hadfield",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fee50882e0697003ea2f2db",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1545393,
+                "known_for_department": "Sound",
+                "name": "David Appleby",
+                "original_name": "David Appleby",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "675b791d02a3d330c5ee4f91",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2546,
+                "name": "mask"
+            },
+            {
+                "id": 3616,
+                "name": "college"
+            },
+            {
+                "id": 4902,
+                "name": "surprise"
+            },
+            {
+                "id": 6844,
+                "name": "stalker"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 13008,
+                "name": "train"
+            },
+            {
+                "id": 15127,
+                "name": "killer"
+            },
+            {
+                "id": 176182,
+                "name": "psycho"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jamie Lee Curtis",
+            "character": "Alana Maxwell"
+        },
+        {
+            "actor": "Ben Johnson",
+            "character": "Carne"
+        },
+        {
+            "actor": "Hart Bochner",
+            "character": "Doc Manley"
+        },
+        {
+            "actor": "David Copperfield",
+            "character": "The Magician"
+        },
+        {
+            "actor": "Derek MacKinnon",
+            "character": "Kenny Hampson"
+        },
+        {
+            "actor": "Sandee Currie",
+            "character": "Mitchy"
+        },
+        {
+            "actor": "Timothy Webber",
+            "character": "Mo"
+        },
+        {
+            "actor": "Anthony Sherwood",
+            "character": "Jackson"
+        },
+        {
+            "actor": "Howard Busgang",
+            "character": "Ed"
+        },
+        {
+            "actor": "Steve Michaels",
+            "character": "Brakeman"
+        },
+        {
+            "actor": "Greg Swanson",
+            "character": "Class President"
+        },
+        {
+            "actor": "Vanity",
+            "character": "Merry"
+        },
+        {
+            "actor": "Joy Boushel",
+            "character": "Pet"
+        },
+        {
+            "actor": "Victor Knight",
+            "character": "Engineer"
+        },
+        {
+            "actor": "Donald Lamoreux",
+            "character": "Shovel"
+        },
+        {
+            "actor": "Charles Biddle Sr.",
+            "character": "Chief Porter"
+        },
+        {
+            "actor": "Elizabeth Cholette",
+            "character": "Dispatcher"
+        },
+        {
+            "actor": "Thom Haverstock",
+            "character": "Bill Chase"
+        },
+        {
+            "actor": "Peter Feingold",
+            "character": "Senior"
+        },
+        {
+            "actor": "Richard Weinstein",
+            "character": "Pledge"
+        },
+        {
+            "actor": "John Busby",
+            "character": "Pledge"
+        },
+        {
+            "actor": "Roland Nincheri",
+            "character": "Bus Driver"
+        },
+        {
+            "actor": "Andrea Kenyon",
+            "character": "Bunny Girl"
+        }
+    ]
+}

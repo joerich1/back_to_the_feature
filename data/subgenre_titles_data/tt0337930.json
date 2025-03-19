@@ -1,0 +1,543 @@
+{
+    "adult": false,
+    "backdrop_path": "/doUBcqc4dT4kJO5UHAj1jpwNHhr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 11556,
+    "imdb_id": "tt0337930",
+    "origin_country": [
+        "AR",
+        "MX",
+        "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Nicotina",
+    "overview": "A hacker who is spying on a pretty neighbour messes up his assignment to break into Swiss bank accounts for Russian mobsters.",
+    "popularity": 3.001,
+    "poster_path": "/Y5O3hU5DpH4Kz1wcPDumGjTkxb.jpg",
+    "production_companies": [
+        {
+            "id": 5084,
+            "logo_path": null,
+            "name": "Altavista Films",
+            "origin_country": "MX"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AR",
+            "name": "Argentina"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "release_date": "2003-10-03",
+    "revenue": 5751007,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A comedy with cigars, heartbreak and 20 diamonds.",
+    "title": "Nicotina",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 85,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2003-10-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2003-10-03T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "NatFilm Festival",
+                        "release_date": "2004-03-26T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2004-03-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MX",
+                "release_dates": [
+                    {
+                        "certification": "C",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2003-10-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Miami International Film Festival",
+                        "release_date": "2004-02-01T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2004-08-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8688,
+                "known_for_department": "Acting",
+                "name": "Diego Luna",
+                "original_name": "Diego Luna",
+                "popularity": 0.085,
+                "profile_path": "/ppMi7UJPmOdAZ8XerakDpikar0g.jpg",
+                "cast_id": 1,
+                "character": "Lolo",
+                "credit_id": "52fe44599251416c75031945",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69863,
+                "known_for_department": "Acting",
+                "name": "Lucas Crespi",
+                "original_name": "Lucas Crespi",
+                "popularity": 0.008,
+                "profile_path": "/mt5jo442deZhaCkiLP7D5RHIMFR.jpg",
+                "cast_id": 2,
+                "character": "Nene",
+                "credit_id": "52fe44599251416c75031949",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69864,
+                "known_for_department": "Acting",
+                "name": "Norman Sotolongo",
+                "original_name": "Norman Sotolongo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Svóboda",
+                "credit_id": "52fe44599251416c7503194d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 115051,
+                "known_for_department": "Acting",
+                "name": "Marta Belaustegui",
+                "original_name": "Marta Belaustegui",
+                "popularity": 0.005,
+                "profile_path": "/plmYXRcPU0ivlxYa9FWFdulnFgD.jpg",
+                "cast_id": 17,
+                "character": "Andrea",
+                "credit_id": "5be76819c3a36817460198a5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69865,
+                "known_for_department": "Acting",
+                "name": "Jesús Ochoa",
+                "original_name": "Jesús Ochoa",
+                "popularity": 0.028,
+                "profile_path": "/7q5cin3hrPIhMqRkPZ2sSyTrqlk.jpg",
+                "cast_id": 4,
+                "character": "Tomson",
+                "credit_id": "52fe44599251416c75031951",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 69866,
+                "known_for_department": "Acting",
+                "name": "Martha Tenorio",
+                "original_name": "Martha Tenorio",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Eulogia",
+                "credit_id": "52fe44599251416c75031955",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 268,
+                "known_for_department": "Acting",
+                "name": "Rosa María Bianchi",
+                "original_name": "Rosa María Bianchi",
+                "popularity": 0.006,
+                "profile_path": "/sTHKx5UvklFgF3uRqHDFmm3vUzz.jpg",
+                "cast_id": 18,
+                "character": "Carmen",
+                "credit_id": "5be768e192514143e201a53b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72128,
+                "known_for_department": "Acting",
+                "name": "José María Yázpik",
+                "original_name": "José María Yázpik",
+                "popularity": 0.011,
+                "profile_path": "/uqZE7oXEADJ1NTg7g7xRELw59Hy.jpg",
+                "cast_id": 19,
+                "character": "Joaquín",
+                "credit_id": "5be768f6925141582800cc9f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 104980,
+                "known_for_department": "Acting",
+                "name": "Rafael Inclán",
+                "original_name": "Rafael Inclán",
+                "popularity": 0.025,
+                "profile_path": "/tawm2P3QXgBpwAYiXQ18sxwm8FL.jpg",
+                "cast_id": 20,
+                "character": "Goyo",
+                "credit_id": "5be7698b92514143f501a087",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1603,
+                "known_for_department": "Acting",
+                "name": "Daniel Giménez Cacho",
+                "original_name": "Daniel Giménez Cacho",
+                "popularity": 0.024,
+                "profile_path": "/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg",
+                "cast_id": 21,
+                "character": "Beto",
+                "credit_id": "5be7699892514143ea01ba5f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1567579,
+                "known_for_department": "Acting",
+                "name": "Carmen Madrid",
+                "original_name": "Carmen Madrid",
+                "popularity": 0.006,
+                "profile_path": "/wzqrLKIL8vwwgoQJqjQkXsGKt8h.jpg",
+                "cast_id": 22,
+                "character": "Clara",
+                "credit_id": "643bd92146aed404c84f8d27",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69869,
+                "known_for_department": "Production",
+                "name": "Federico González Compeán",
+                "original_name": "Federico González Compeán",
+                "popularity": 0.001,
+                "profile_path": "/hekfKuYNPJEPRBn3vv2ZXzTHHyh.jpg",
+                "credit_id": "52fe44599251416c75031967",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69872,
+                "known_for_department": "Production",
+                "name": "Eckehardt Von Damm",
+                "original_name": "Eckehardt Von Damm",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c75031985",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 69871,
+                "known_for_department": "Production",
+                "name": "Martha Sosa Elizondo",
+                "original_name": "Martha Sosa Elizondo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c7503197f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69870,
+                "known_for_department": "Production",
+                "name": "Mónica Lozano",
+                "original_name": "Mónica Lozano",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c75031979",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 69873,
+                "known_for_department": "Sound",
+                "name": "Fernando Corona",
+                "original_name": "Fernando Corona",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c7503198b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7360,
+                "known_for_department": "Production",
+                "name": "Laura Imperiale",
+                "original_name": "Laura Imperiale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c75031973",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7360,
+                "known_for_department": "Production",
+                "name": "Laura Imperiale",
+                "original_name": "Laura Imperiale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c7503196d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69875,
+                "known_for_department": "Editing",
+                "name": "Alberto de Toro",
+                "original_name": "Alberto de Toro",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c75031997",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69874,
+                "known_for_department": "Camera",
+                "name": "Marcelo Iaccarino",
+                "original_name": "Marcelo Iaccarino",
+                "popularity": 0.001,
+                "profile_path": "/4NPx6tX0OL2epTnHO0tCkfivru3.jpg",
+                "credit_id": "52fe44599251416c75031991",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 69867,
+                "known_for_department": "Directing",
+                "name": "Hugo Rodríguez",
+                "original_name": "Hugo Rodríguez",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c7503195b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69868,
+                "known_for_department": "Writing",
+                "name": "Martín Salinas",
+                "original_name": "Martín Salinas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44599251416c75031961",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 534,
+                "name": "mexico"
+            },
+            {
+                "id": 2157,
+                "name": "hacker"
+            },
+            {
+                "id": 8045,
+                "name": "bratva (russian mafia)"
+            },
+            {
+                "id": 160488,
+                "name": "hoodlum"
+            },
+            {
+                "id": 178649,
+                "name": "voyeurism"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Diego Luna",
+            "character": "Lolo"
+        },
+        {
+            "actor": "Lucas Crespi",
+            "character": "Nene"
+        },
+        {
+            "actor": "Norman Sotolongo",
+            "character": "Svóboda"
+        },
+        {
+            "actor": "Marta Belaustegui",
+            "character": "Andrea"
+        },
+        {
+            "actor": "Jesús Ochoa",
+            "character": "Tomson"
+        },
+        {
+            "actor": "Martha Tenorio",
+            "character": "Eulogia"
+        },
+        {
+            "actor": "Rosa María Bianchi",
+            "character": "Carmen"
+        },
+        {
+            "actor": "José María Yázpik",
+            "character": "Joaquín"
+        },
+        {
+            "actor": "Rafael Inclán",
+            "character": "Goyo"
+        },
+        {
+            "actor": "Daniel Giménez Cacho",
+            "character": "Beto"
+        },
+        {
+            "actor": "Carmen Madrid",
+            "character": "Clara"
+        }
+    ]
+}

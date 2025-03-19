@@ -1,0 +1,641 @@
+{
+    "adult": false,
+    "backdrop_path": "/aS46Kr6DCqUAKdLW0k1mOO8xmle.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 30877,
+    "imdb_id": "tt0089338",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Inferno in diretta",
+    "overview": "A reporter and her cameraman connect a surviving Jonestown leader and a TV exec's missing son to a drug war where jungle installations are being massacred by an army of natives and a skilled white assassin.",
+    "popularity": 2.123,
+    "poster_path": "/nM79J0phqXnnXxR2rYBIk880gRv.jpg",
+    "production_companies": [
+        {
+            "id": 23985,
+            "logo_path": null,
+            "name": "Racing Pictures",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1985-08-08",
+    "revenue": 373530,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The one story you won't be seeing on the 6 o'clock news!",
+    "title": "Cut and Run",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 60,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1985-08-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "87-minute cut",
+                        "release_date": "1986-05-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27539,
+                "known_for_department": "Acting",
+                "name": "Lisa Blount",
+                "original_name": "Lisa Blount",
+                "popularity": 0.033,
+                "profile_path": "/9xsDgW83mQu33GEI8lUyVc74TWe.jpg",
+                "cast_id": 5,
+                "character": "Fran Hudson",
+                "credit_id": "52fe44469251416c9100b02d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107223,
+                "known_for_department": "Acting",
+                "name": "Leonard Mann",
+                "original_name": "Leonard Mann",
+                "popularity": 0.007,
+                "profile_path": "/bB1CIyXrmK276zsAnONYBxWwlwD.jpg",
+                "cast_id": 6,
+                "character": "Mark Ludman",
+                "credit_id": "52fe44469251416c9100b031",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97878,
+                "known_for_department": "Acting",
+                "name": "Richard Lynch",
+                "original_name": "Richard Lynch",
+                "popularity": 0.025,
+                "profile_path": "/f8DLv1pSSG85xEwqxOHIPQDa6t4.jpg",
+                "cast_id": 7,
+                "character": "Colonel Brian Horne",
+                "credit_id": "52fe44469251416c9100b035",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30051,
+                "known_for_department": "Acting",
+                "name": "Willie Aames",
+                "original_name": "Willie Aames",
+                "popularity": 0.047,
+                "profile_path": "/2169knKN6EkSj7AsBEmxz3x2M0o.jpg",
+                "cast_id": 8,
+                "character": "Tommy Allo",
+                "credit_id": "52fe44469251416c9100b039",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3174,
+                "known_for_department": "Acting",
+                "name": "Richard Bright",
+                "original_name": "Richard Bright",
+                "popularity": 0.037,
+                "profile_path": "/potMaJ2u5PRjXZb7qF9lSW1ldNZ.jpg",
+                "cast_id": 9,
+                "character": "Bob Allo",
+                "credit_id": "52fe44469251416c9100b03d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7073,
+                "known_for_department": "Acting",
+                "name": "Michael Berryman",
+                "original_name": "Michael Berryman",
+                "popularity": 0.027,
+                "profile_path": "/jnyXbS5NqYdfZyvRUX2PHeKuOg4.jpg",
+                "cast_id": 10,
+                "character": "Quecho",
+                "credit_id": "52fe44469251416c9100b041",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23628,
+                "known_for_department": "Acting",
+                "name": "Eriq La Salle",
+                "original_name": "Eriq La Salle",
+                "popularity": 0.036,
+                "profile_path": "/5tV56htJbF33uc1rOmsOxXFO808.jpg",
+                "cast_id": 11,
+                "character": "Fargas",
+                "credit_id": "52fe44469251416c9100b045",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31991,
+                "known_for_department": "Acting",
+                "name": "Gabriele Tinti",
+                "original_name": "Gabriele Tinti",
+                "popularity": 0.024,
+                "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
+                "cast_id": 12,
+                "character": "Manuel",
+                "credit_id": "52fe44469251416c9100b049",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107224,
+                "known_for_department": "Acting",
+                "name": "Valentina Forte",
+                "original_name": "Valentina Forte",
+                "popularity": 0.006,
+                "profile_path": "/96rG7mqgSn2iuITsUf9X2ZiKFdP.jpg",
+                "cast_id": 13,
+                "character": "Ana",
+                "credit_id": "52fe44469251416c9100b04d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26700,
+                "known_for_department": "Acting",
+                "name": "John Steiner",
+                "original_name": "John Steiner",
+                "popularity": 0.019,
+                "profile_path": "/esKMm8Izkba1PR2PMjLUcEdVdE3.jpg",
+                "cast_id": 14,
+                "character": "Vlado",
+                "credit_id": "52fe44469251416c9100b051",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8963,
+                "known_for_department": "Acting",
+                "name": "Karen Black",
+                "original_name": "Karen Black",
+                "popularity": 0.052,
+                "profile_path": "/ip0qMxkcUQeTArjqAH4PURWlGEd.jpg",
+                "cast_id": 15,
+                "character": "Karin",
+                "credit_id": "52fe44469251416c9100b055",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 94072,
+                "known_for_department": "Acting",
+                "name": "Barbara Magnolfi",
+                "original_name": "Barbara Magnolfi",
+                "popularity": 0.005,
+                "profile_path": "/6Em5SVd444vHGqYjUiNmO1NfW3F.jpg",
+                "cast_id": 16,
+                "character": "Rita",
+                "credit_id": "52fe44469251416c9100b059",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55650,
+                "known_for_department": "Acting",
+                "name": "Luca Barbareschi",
+                "original_name": "Luca Barbareschi",
+                "popularity": 0.01,
+                "profile_path": "/fREMNtoQqVWLA8hG3JbqD9ALxvP.jpg",
+                "cast_id": 17,
+                "character": "Bud",
+                "credit_id": "52fe44469251416c9100b05d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105327,
+                "known_for_department": "Acting",
+                "name": "Penny Brown",
+                "original_name": "Penny Brown",
+                "popularity": 0.002,
+                "profile_path": "/cqjSVdY6JW1yXSX21nWzmBO7ifc.jpg",
+                "cast_id": 18,
+                "character": "Lucy",
+                "credit_id": "52fe44469251416c9100b061",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68330,
+                "known_for_department": "Acting",
+                "name": "Ottaviano Dell'Acqua",
+                "original_name": "Ottaviano Dell'Acqua",
+                "popularity": 0.015,
+                "profile_path": "/tvx3Sl2qYAtaZSylS4NfkPuVg19.jpg",
+                "cast_id": 19,
+                "character": "Vlado's Man",
+                "credit_id": "52fe44469251416c9100b065",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55797,
+                "known_for_department": "Acting",
+                "name": "Carlos de Carvalho",
+                "original_name": "Carlos de Carvalho",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Tony Martina",
+                "credit_id": "594d2c69925141311f026525",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 931545,
+                "known_for_department": "Acting",
+                "name": "Edward Farrelly",
+                "original_name": "Edward Farrelly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Henchman",
+                "credit_id": "594d2c8a9251413155026ecf",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45572,
+                "known_for_department": "Directing",
+                "name": "Ruggero Deodato",
+                "original_name": "Ruggero Deodato",
+                "popularity": 0.025,
+                "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+                "credit_id": "52fe44469251416c9100b017",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107222,
+                "known_for_department": "Writing",
+                "name": "Cesare Frugoni",
+                "original_name": "Cesare Frugoni",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100b01d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44957,
+                "known_for_department": "Writing",
+                "name": "Dardano Sacchetti",
+                "original_name": "Dardano Sacchetti",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100b023",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44957,
+                "known_for_department": "Writing",
+                "name": "Dardano Sacchetti",
+                "original_name": "Dardano Sacchetti",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100b029",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107222,
+                "known_for_department": "Writing",
+                "name": "Cesare Frugoni",
+                "original_name": "Cesare Frugoni",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "58a5191a925141654b00238e",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 61924,
+                "known_for_department": "Production",
+                "name": "Alessandro Fracassi",
+                "original_name": "Alessandro Fracassi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58a51931c3a3684eb1002487",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15055,
+                "known_for_department": "Sound",
+                "name": "Claudio Simonetti",
+                "original_name": "Claudio Simonetti",
+                "popularity": 0.006,
+                "profile_path": "/gJxL4JXgOAANbAoXsHKP9Yc9bbY.jpg",
+                "credit_id": "58a51940925141654f002278",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 39014,
+                "known_for_department": "Camera",
+                "name": "Alberto Spagnoli",
+                "original_name": "Alberto Spagnoli",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58a5197c9251416541002430",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33790,
+                "known_for_department": "Editing",
+                "name": "Mario Morra",
+                "original_name": "Mario Morra",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58a51a15c3a3684f01002294",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1127652,
+                "known_for_department": "Art",
+                "name": "Claudio Cinini",
+                "original_name": "Claudio Cinini",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58a51a2ac3a3684f0100229d",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1758766,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Francesca Panicali",
+                "original_name": "Francesca Panicali",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58a51a45925141653d0026e6",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1758767,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alberto Blasi",
+                "original_name": "Alberto Blasi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58a51a57925141655f002313",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105344,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Maurizio Trani",
+                "original_name": "Maurizio Trani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58a51a6592514165470025b7",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1837941,
+                "known_for_department": "Production",
+                "name": "Maurizio Antico",
+                "original_name": "Maurizio Antico",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "594d2d1b925141310c026706",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 549,
+                "name": "prostitute"
+            },
+            {
+                "id": 570,
+                "name": "rape"
+            },
+            {
+                "id": 416,
+                "name": "miami, florida"
+            },
+            {
+                "id": 2150,
+                "name": "cocaine"
+            },
+            {
+                "id": 3688,
+                "name": "strip club"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10787,
+                "name": "jungle"
+            },
+            {
+                "id": 12193,
+                "name": "reporter"
+            },
+            {
+                "id": 14964,
+                "name": "drugs"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Lisa Blount",
+            "character": "Fran Hudson"
+        },
+        {
+            "actor": "Leonard Mann",
+            "character": "Mark Ludman"
+        },
+        {
+            "actor": "Richard Lynch",
+            "character": "Colonel Brian Horne"
+        },
+        {
+            "actor": "Willie Aames",
+            "character": "Tommy Allo"
+        },
+        {
+            "actor": "Richard Bright",
+            "character": "Bob Allo"
+        },
+        {
+            "actor": "Michael Berryman",
+            "character": "Quecho"
+        },
+        {
+            "actor": "Eriq La Salle",
+            "character": "Fargas"
+        },
+        {
+            "actor": "Gabriele Tinti",
+            "character": "Manuel"
+        },
+        {
+            "actor": "Valentina Forte",
+            "character": "Ana"
+        },
+        {
+            "actor": "John Steiner",
+            "character": "Vlado"
+        },
+        {
+            "actor": "Karen Black",
+            "character": "Karin"
+        },
+        {
+            "actor": "Barbara Magnolfi",
+            "character": "Rita"
+        },
+        {
+            "actor": "Luca Barbareschi",
+            "character": "Bud"
+        },
+        {
+            "actor": "Penny Brown",
+            "character": "Lucy"
+        },
+        {
+            "actor": "Ottaviano Dell'Acqua",
+            "character": "Vlado's Man"
+        },
+        {
+            "actor": "Carlos de Carvalho",
+            "character": "Tony Martina"
+        },
+        {
+            "actor": "Edward Farrelly",
+            "character": "Henchman"
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "adult": false,
+    "backdrop_path": "/kIZKwQtgMfIYT30kvbVY83bptoS.jpg",
+    "belongs_to_collection": {
+        "id": 309259,
+        "name": "Naked Collection",
+        "poster_path": "/8cdzu60RQ9owYFbjA5tKWOaKJQi.jpg",
+        "backdrop_path": "/zGDcNvc2gN9DZDG3YFgPFGDjYD2.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 26877,
+    "imdb_id": "tt0109412",
+    "origin_country": [
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "赤裸羔羊",
+    "overview": "A young woman is trained by a martial arts specialist to become a professional assassin.",
+    "popularity": 2.718,
+    "poster_path": "/d9V3lIqF0fyQfMe4CUl86N0nQfJ.jpg",
+    "production_companies": [
+        {
+            "id": 23480,
+            "logo_path": null,
+            "name": "Wong Jing's Workshop",
+            "origin_country": "HK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        }
+    ],
+    "release_date": "1992-12-03",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They're beautiful. They're perfect. They're to DIE for!",
+    "title": "Naked Killer",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 77,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-09-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2002-04-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "III",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-12-03T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "III",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2000-10-07T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2003-07-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 67222,
+                "known_for_department": "Acting",
+                "name": "Chingmy Yau Suk-Ching",
+                "original_name": "邱淑貞",
+                "popularity": 0.052,
+                "profile_path": "/8ZEk4Yc0GlC1xcF6U7cO8GUKPAl.jpg",
+                "cast_id": 1,
+                "character": "Kitty",
+                "credit_id": "52fe451ec3a368484e0498a3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20519,
+                "known_for_department": "Acting",
+                "name": "Simon Yam",
+                "original_name": "任達華",
+                "popularity": 0.055,
+                "profile_path": "/5Jss5TaxVWofhD5UYaVmPTw7vl.jpg",
+                "cast_id": 5,
+                "character": "Tinam",
+                "credit_id": "54361b7f0e0a264d7900179d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 109301,
+                "known_for_department": "Acting",
+                "name": "Carrie Ng Ka-Lai",
+                "original_name": "吳家麗",
+                "popularity": 0.036,
+                "profile_path": "/qLyGOZWhRCntGJDNYH9YErfPqec.jpg",
+                "cast_id": 2,
+                "character": "Princess",
+                "credit_id": "52fe451ec3a368484e0498a7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1402734,
+                "known_for_department": "Acting",
+                "name": "Yiu Wai",
+                "original_name": "Yiu Wai",
+                "popularity": 0.01,
+                "profile_path": "/gHGuf6gsQws8TIPrqqM3UaPL1pz.jpg",
+                "cast_id": 7,
+                "character": "Sister Cindy",
+                "credit_id": "54cd69a3925141474b0025a1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63582,
+                "known_for_department": "Acting",
+                "name": "Benz Hui Siu-Hung",
+                "original_name": "許紹雄",
+                "popularity": 0.022,
+                "profile_path": "/bgC8VLG8bBdbQTuiHQtjFlEXo6E.jpg",
+                "cast_id": 8,
+                "character": "Old Jerk",
+                "credit_id": "54cd69edc3a3687f8c00256c",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 132853,
+                "known_for_department": "Acting",
+                "name": "Madoka Sugawara",
+                "original_name": "菅原円",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Baby",
+                "credit_id": "52fe451ec3a368484e0498ab",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1421429,
+                "known_for_department": "Acting",
+                "name": "Dick Lau Tik-Chi",
+                "original_name": "劉的之",
+                "popularity": 0.016,
+                "profile_path": "/9kNJRgiIbegVfMq0turkzJmLs8C.jpg",
+                "cast_id": 15,
+                "character": "Kan Ti San",
+                "credit_id": "54cd6b52925141475500265b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70690,
+                "known_for_department": "Acting",
+                "name": "Ken Lo Wai-Kwong",
+                "original_name": "盧惠光",
+                "popularity": 0.044,
+                "profile_path": "/aecWmrSbnZTTnBJ8vgyNAaphOLp.jpg",
+                "cast_id": 16,
+                "character": "Bee",
+                "credit_id": "573d874e9251414bad000764",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1319278,
+                "known_for_department": "Acting",
+                "name": "Yu Kwok-Lok",
+                "original_name": "余國樂",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "David",
+                "credit_id": "573d875a9251414c1f00076c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 553867,
+                "known_for_department": "Acting",
+                "name": "Louis Roth",
+                "original_name": "Louis Roth",
+                "popularity": 0.008,
+                "profile_path": "/78TOFGf3eKndbsPrKI2mnxpQV1i.jpg",
+                "cast_id": 21,
+                "character": "Police Officer",
+                "credit_id": "666bd8130bd662e786b9727d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140480,
+                "known_for_department": "Acting",
+                "name": "Roderick Lam Chung-Kei",
+                "original_name": "林仲岐",
+                "popularity": 0.008,
+                "profile_path": "/xITqlbk452nw5frSjhVsPqHQ3O1.jpg",
+                "cast_id": 22,
+                "character": "1st victim of Princess",
+                "credit_id": "669de0f0c94730e586a88d5c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1641148,
+                "known_for_department": "Acting",
+                "name": "Esther Wan",
+                "original_name": "Esther Wan",
+                "popularity": 0.001,
+                "profile_path": "/wYcJjXHVy76J8OGIR1NMhkwULPM.jpg",
+                "cast_id": 23,
+                "character": "Tommy's Girlfriend",
+                "credit_id": "66adb049b8b1ddbcccb0a69b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41664,
+                "known_for_department": "Acting",
+                "name": "Chang Tseng",
+                "original_name": "張錚",
+                "popularity": 0.008,
+                "profile_path": "/7c8a1Bfjjxoltt7M9nBzClgoMfB.jpg",
+                "cast_id": 24,
+                "character": "Kitty's Father",
+                "credit_id": "66adb06bbb2f02dcfbf5525d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1624686,
+                "known_for_department": "Acting",
+                "name": "Patrick Hon Jun",
+                "original_name": "韓俊",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Killed at Start",
+                "credit_id": "66adb08a9d591ad040d30b66",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1414025,
+                "known_for_department": "Acting",
+                "name": "Sung Boon-Chung",
+                "original_name": "宋本中",
+                "popularity": 0.01,
+                "profile_path": "/39zGSW5WnfsFkHflv9Gw05inKlL.jpg",
+                "cast_id": 26,
+                "character": "3rd Witness",
+                "credit_id": "66adb0a3afdf5c3f97d30da7",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1265954,
+                "known_for_department": "Acting",
+                "name": "Ng Kwok-Kin",
+                "original_name": "Ng Kwok-Kin",
+                "popularity": 0.005,
+                "profile_path": "/2yobqdubbKIWZQd6Xs3Emkdz0mE.jpg",
+                "cast_id": 27,
+                "character": "Policeman",
+                "credit_id": "66adb0b5277cb549075228c8",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1517829,
+                "known_for_department": "Acting",
+                "name": "Jim James",
+                "original_name": "Jim James",
+                "popularity": 0.004,
+                "profile_path": "/AjTv7KUSZ3Lakvh4URXuUJFJXYN.jpg",
+                "cast_id": 28,
+                "character": "Senior Police Officer",
+                "credit_id": "66adb0d278e48634d5cda77c",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1629645,
+                "known_for_department": "Acting",
+                "name": "Kong Fu-Keung",
+                "original_name": "江富強",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Rapist/Thug",
+                "credit_id": "66adb0e2f5379e508cc04d41",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2760587,
+                "known_for_department": "Acting",
+                "name": "Lee Wah-Kon",
+                "original_name": "李華幹",
+                "popularity": 0.002,
+                "profile_path": "/nOYd6r2nrgzZbGsEKfZX7dF0HYc.jpg",
+                "cast_id": 30,
+                "character": "Man in Lift",
+                "credit_id": "66adb0f6b53d8675b70b673a",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1539924,
+                "known_for_department": "Acting",
+                "name": "Choi Kwok-Hing",
+                "original_name": "Choi Kwok-Hing",
+                "popularity": 0.01,
+                "profile_path": "/Lc4RyaubBFFECBumqeFRBlVZs.jpg",
+                "cast_id": 31,
+                "character": "Informer / Extra",
+                "credit_id": "66adb10b78e48634d5cda790",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548474,
+                "known_for_department": "Writing",
+                "name": "Wong Jing",
+                "original_name": "王晶",
+                "popularity": 0.048,
+                "profile_path": "/gMmaDRst3OwnY1wClKt541AmslD.jpg",
+                "credit_id": "5486457ec3a3681cf1000146",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 571526,
+                "known_for_department": "Acting",
+                "name": "Fang Ying",
+                "original_name": "Fang Ying",
+                "popularity": 0.006,
+                "profile_path": "/icRvOaZ0c7gaQEc11Qjtlh7oC3.jpg",
+                "credit_id": "54cd6a4fc3a3687f88002948",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548474,
+                "known_for_department": "Writing",
+                "name": "Wong Jing",
+                "original_name": "王晶",
+                "popularity": 0.048,
+                "profile_path": "/gMmaDRst3OwnY1wClKt541AmslD.jpg",
+                "credit_id": "54cd6a3892514147490024f2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1421425,
+                "known_for_department": "Directing",
+                "name": "Leung Baak-Kin",
+                "original_name": "Leung Baak-Kin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54cd6a9b9251414749002506",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1421426,
+                "known_for_department": "Directing",
+                "name": "Ching Shu-Ching",
+                "original_name": "Ching Shu-Ching",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54cd6abac3a3687f8f00266d",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1417004,
+                "known_for_department": "Crew",
+                "name": "William Yim Wai-Lun",
+                "original_name": "William Yim Wai-Lun",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5a0e64d992514138ea007a44",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1633,
+                "known_for_department": "Camera",
+                "name": "Peter Pau Tak-Hai",
+                "original_name": "鮑德熹",
+                "popularity": 0.007,
+                "profile_path": "/vdvsFeXGotoUVEFNWZf8w0q2XUC.jpg",
+                "credit_id": "5a0e64d292514138f0007ace",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 931778,
+                "known_for_department": "Directing",
+                "name": "Clarence Ford",
+                "original_name": "霍耀良",
+                "popularity": 0.02,
+                "profile_path": "/1AnldwOu1YgK5dpwJjzy0F5UjwB.jpg",
+                "credit_id": "5a82808d0e0a260841004da4",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 238973,
+                "known_for_department": "Acting",
+                "name": "Lowell Lo Koon-Ting",
+                "original_name": "Lowell Lo Koon-Ting",
+                "popularity": 0.013,
+                "profile_path": "/wrBsg1D6KCxwtBQWWhVXvpp3Jf3.jpg",
+                "credit_id": "676638ca0b2fbb9dea5e12d5",
+                "department": "Sound",
+                "job": "Songs"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 459,
+                "name": "sexual obsession"
+            },
+            {
+                "id": 3182,
+                "name": "seduction"
+            },
+            {
+                "id": 8015,
+                "name": "cop"
+            },
+            {
+                "id": 11322,
+                "name": "female protagonist"
+            },
+            {
+                "id": 12367,
+                "name": "female assassin"
+            },
+            {
+                "id": 157202,
+                "name": "one woman army"
+            },
+            {
+                "id": 157203,
+                "name": "woman vs woman fight"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chingmy Yau Suk-Ching",
+            "character": "Kitty"
+        },
+        {
+            "actor": "Simon Yam",
+            "character": "Tinam"
+        },
+        {
+            "actor": "Carrie Ng Ka-Lai",
+            "character": "Princess"
+        },
+        {
+            "actor": "Yiu Wai",
+            "character": "Sister Cindy"
+        },
+        {
+            "actor": "Benz Hui Siu-Hung",
+            "character": "Old Jerk"
+        },
+        {
+            "actor": "Madoka Sugawara",
+            "character": "Baby"
+        },
+        {
+            "actor": "Dick Lau Tik-Chi",
+            "character": "Kan Ti San"
+        },
+        {
+            "actor": "Ken Lo Wai-Kwong",
+            "character": "Bee"
+        },
+        {
+            "actor": "Yu Kwok-Lok",
+            "character": "David"
+        },
+        {
+            "actor": "Louis Roth",
+            "character": "Police Officer"
+        },
+        {
+            "actor": "Roderick Lam Chung-Kei",
+            "character": "1st victim of Princess"
+        },
+        {
+            "actor": "Esther Wan",
+            "character": "Tommy's Girlfriend"
+        },
+        {
+            "actor": "Chang Tseng",
+            "character": "Kitty's Father"
+        },
+        {
+            "actor": "Patrick Hon Jun",
+            "character": "Killed at Start"
+        },
+        {
+            "actor": "Sung Boon-Chung",
+            "character": "3rd Witness"
+        },
+        {
+            "actor": "Ng Kwok-Kin",
+            "character": "Policeman"
+        },
+        {
+            "actor": "Jim James",
+            "character": "Senior Police Officer"
+        },
+        {
+            "actor": "Kong Fu-Keung",
+            "character": "Rapist/Thug"
+        },
+        {
+            "actor": "Lee Wah-Kon",
+            "character": "Man in Lift"
+        },
+        {
+            "actor": "Choi Kwok-Hing",
+            "character": "Informer / Extra"
+        }
+    ]
+}

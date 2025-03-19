@@ -1,0 +1,927 @@
+{
+    "adult": false,
+    "backdrop_path": "/vTGbFAFh3cGAFeLaXS8M3l3sl9z.jpg",
+    "belongs_to_collection": {
+        "id": 87228,
+        "name": "Swamp Thing Collection",
+        "poster_path": "/7XtJVjsGUQOhyU4SQshjCFea9oe.jpg",
+        "backdrop_path": "/w0jv6vdKe3TGOLaCgPbZOu85gas.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 19142,
+    "imdb_id": "tt0098193",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Return of Swamp Thing",
+    "overview": "The Swamp Thing returns to battle the evil Dr. Arcane, who has a new science lab full of creatures transformed by genetic mutation, and chooses Heather Locklear as his new object of affection.",
+    "popularity": 3.535,
+    "poster_path": "/5sm1Yi1hgj805b9o2a1uC6BXhqw.jpg",
+    "production_companies": [
+        {
+            "id": 46328,
+            "logo_path": null,
+            "name": "Lightyear Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-05-11",
+    "revenue": 192816,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Why can't men be more like plants?",
+    "title": "The Return of Swamp Thing",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 242,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-06-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-05-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10508,
+                "known_for_department": "Acting",
+                "name": "Louis Jourdan",
+                "original_name": "Louis Jourdan",
+                "popularity": 0.034,
+                "profile_path": "/pHLHxUSvj1usU8jVAADGKDO5PZ7.jpg",
+                "cast_id": 2,
+                "character": "Dr. Anton Arcane",
+                "credit_id": "52fe47be9251416c750a3fcd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58691,
+                "known_for_department": "Acting",
+                "name": "Heather Locklear",
+                "original_name": "Heather Locklear",
+                "popularity": 0.046,
+                "profile_path": "/6l2mI19qopJPfk2Tl7GHgMpTNyT.jpg",
+                "cast_id": 3,
+                "character": "Abby Arcane",
+                "credit_id": "52fe47be9251416c750a3fd1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31364,
+                "known_for_department": "Acting",
+                "name": "Sarah Douglas",
+                "original_name": "Sarah Douglas",
+                "popularity": 0.046,
+                "profile_path": "/rITQHmOLnZK0TrTSaSrANCtqdRf.jpg",
+                "cast_id": 4,
+                "character": "Dr. Lana Zurrell",
+                "credit_id": "52fe47be9251416c750a3fd5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82507,
+                "known_for_department": "Acting",
+                "name": "Dick Durock",
+                "original_name": "Dick Durock",
+                "popularity": 0.034,
+                "profile_path": "/5hdL18WGSGGgjQMxSVZ9DOvFMza.jpg",
+                "cast_id": 5,
+                "character": "Swamp Thing",
+                "credit_id": "52fe47be9251416c750a3fd9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 589761,
+                "known_for_department": "Acting",
+                "name": "Joey Sagal",
+                "original_name": "Joey Sagal",
+                "popularity": 0.011,
+                "profile_path": "/2kxVqO7p4HuFngmUghvsI5CxcMH.jpg",
+                "cast_id": 6,
+                "character": "Gunn",
+                "credit_id": "52fe47be9251416c750a3fdd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101874,
+                "known_for_department": "Acting",
+                "name": "Ace Mask",
+                "original_name": "Ace Mask",
+                "popularity": 0.008,
+                "profile_path": "/cuMFRTPXpOoyueN92YBJpmEfgms.jpg",
+                "cast_id": 7,
+                "character": "Dr. Rochelle",
+                "credit_id": "52fe47be9251416c750a3fe1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44995,
+                "known_for_department": "Acting",
+                "name": "Monique Gabrielle",
+                "original_name": "Monique Gabrielle",
+                "popularity": 0.026,
+                "profile_path": "/yBXkvJZvBBWOQyPRY5RJAeteJ3N.jpg",
+                "cast_id": 8,
+                "character": "Miss Poinsettia",
+                "credit_id": "52fe47be9251416c750a3fe5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84209,
+                "known_for_department": "Acting",
+                "name": "RonReaco Lee",
+                "original_name": "RonReaco Lee",
+                "popularity": 0.022,
+                "profile_path": "/mFUvPvPpUZvRK3rnAFhKQlUt39d.jpg",
+                "cast_id": 9,
+                "character": "Omar",
+                "credit_id": "52fe47be9251416c750a3fe9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1180940,
+                "known_for_department": "Acting",
+                "name": "Daniel Emery Taylor",
+                "original_name": "Daniel Emery Taylor",
+                "popularity": 0.003,
+                "profile_path": "/zMYHgSniWn0yzuGDDIH2a3UhPSi.jpg",
+                "cast_id": 10,
+                "character": "Darryl Hallenbeck",
+                "credit_id": "52fe47be9251416c750a3fed",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1180942,
+                "known_for_department": "Acting",
+                "name": "Ralph Pace",
+                "original_name": "Ralph Pace",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Sheriff Beaumont",
+                "credit_id": "52fe47be9251416c750a3ff1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97598,
+                "known_for_department": "Acting",
+                "name": "Alex Van",
+                "original_name": "Alex Van",
+                "popularity": 0.011,
+                "profile_path": "/dmlJAVxxbTFru0LIXEqomKQlOk2.jpg",
+                "cast_id": 12,
+                "character": "Gurdell",
+                "credit_id": "52fe47be9251416c750a3ff5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1418031,
+                "known_for_department": "Crew",
+                "name": "Christopher Doyle",
+                "original_name": "Christopher Doyle",
+                "popularity": 0.017,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Leechman",
+                "credit_id": "5908252dc3a368583b008dfe",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1720933,
+                "known_for_department": "Acting",
+                "name": "Rex Pierson",
+                "original_name": "Rex Pierson",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Dr. Rochelle Mutation",
+                "credit_id": "5908259b9251416433009096",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1460999,
+                "known_for_department": "Acting",
+                "name": "Tony Sears",
+                "original_name": "Tony Sears",
+                "popularity": 0.006,
+                "profile_path": "/h42w87dEqFTFBypjTnqJCTAMxfM.jpg",
+                "cast_id": 17,
+                "character": "Harry Dugan",
+                "credit_id": "590825d292514164450090a3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1808566,
+                "known_for_department": "Acting",
+                "name": "Bill Eudaly",
+                "original_name": "Bill Eudaly",
+                "popularity": 0.003,
+                "profile_path": "/19Yd2quxUTCTQ9mW3TL9qYzIc87.jpg",
+                "cast_id": 18,
+                "character": "Withered Chuck",
+                "credit_id": "5908268f925141643b00935b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1545466,
+                "known_for_department": "Crew",
+                "name": "Anthony Cecere",
+                "original_name": "Anthony Cecere",
+                "popularity": 0.011,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Conkilin",
+                "credit_id": "59082711c3a36858a700948d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2407669,
+                "known_for_department": "Acting",
+                "name": "Timothy Birch",
+                "original_name": "Timothy Birch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Clyde",
+                "credit_id": "5d76e57439549a001395c5f5",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95941,
+                "known_for_department": "Acting",
+                "name": "J. Don Ferguson",
+                "original_name": "J. Don Ferguson",
+                "popularity": 0.007,
+                "profile_path": "/4uvAb0WNpkh7r4wYImNxF6WeVl.jpg",
+                "cast_id": 37,
+                "character": "Bob",
+                "credit_id": "5d76e58b069f0e000f314b5a",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41745,
+                "known_for_department": "Acting",
+                "name": "Jim Grimshaw",
+                "original_name": "Jim Grimshaw",
+                "popularity": 0.017,
+                "profile_path": "/mjOfyUmrD1GYzt9VUXWUaEs1gek.jpg",
+                "cast_id": 38,
+                "character": "Morty",
+                "credit_id": "5d76e59e39549a001295c77f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2351490,
+                "known_for_department": "Acting",
+                "name": "Albert B. Cooper IV",
+                "original_name": "Albert B. Cooper IV",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Taxi Driver",
+                "credit_id": "5d76e5a839549a000f95c6a8",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98132,
+                "known_for_department": "Directing",
+                "name": "Jim Wynorski",
+                "original_name": "Jim Wynorski",
+                "popularity": 0.029,
+                "profile_path": "/t0OGiUTL6vbFohfwI4dIUvoilSs.jpg",
+                "credit_id": "52fe47be9251416c750a3fc9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29750,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Steve Neill",
+                "original_name": "Steve Neill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "616ae2d16f53e10043436ca8",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10949,
+                "known_for_department": "Production",
+                "name": "Michael Uslan",
+                "original_name": "Michael Uslan",
+                "popularity": 0.021,
+                "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+                "credit_id": "570edee4c3a368536d000ff4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59648,
+                "known_for_department": "Writing",
+                "name": "Neil Cuthbert",
+                "original_name": "Neil Cuthbert",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "570edf09c3a368536d00100a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 136544,
+                "known_for_department": "Writing",
+                "name": "Grant Morris",
+                "original_name": "Grant Morris",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5908276f925141643300917f",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10951,
+                "known_for_department": "Production",
+                "name": "Benjamin Melniker",
+                "original_name": "Benjamin Melniker",
+                "popularity": 0.013,
+                "profile_path": null,
+                "credit_id": "590827aec3a36858a70094ff",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101869,
+                "known_for_department": "Camera",
+                "name": "Zoran Hochstätter",
+                "original_name": "Zoran Hochstätter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "590827f192514164330091cc",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1712995,
+                "known_for_department": "Editing",
+                "name": "Leslie Rosenthal",
+                "original_name": "Leslie Rosenthal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5908283cc3a36858a700954a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21640,
+                "known_for_department": "Art",
+                "name": "Robb Wilson King",
+                "original_name": "Robb Wilson King",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5908286e925141643300920b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1560275,
+                "known_for_department": "Art",
+                "name": "Frank Galline",
+                "original_name": "Frank Galline",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "590828c1c3a368583b008fde",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 22819,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vicki Graef",
+                "original_name": "Vicki Graef",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "590828e892514164920093b4",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1417014,
+                "known_for_department": "Sound",
+                "name": "Jim Bryan",
+                "original_name": "Jim Bryan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5908293ac3a36858b80089a6",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1338371,
+                "known_for_department": "Sound",
+                "name": "Robert Fitzgerald",
+                "original_name": "Robert Fitzgerald",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "590829c6c3a3685888008632",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1709192,
+                "known_for_department": "Sound",
+                "name": "Linda Moss",
+                "original_name": "Linda Moss",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "590829ee925141644a0094c1",
+                "department": "Editing",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150861,
+                "known_for_department": "Editing",
+                "name": "Peter Tomaszewicz",
+                "original_name": "Peter Tomaszewicz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59082a3bc3a36858b8008a1f",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15831,
+                "known_for_department": "Acting",
+                "name": "Frank Welker",
+                "original_name": "Frank Welker",
+                "popularity": 0.156,
+                "profile_path": "/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg",
+                "credit_id": "59082aea925141646c0092cd",
+                "department": "Crew",
+                "job": "Special Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1808568,
+                "known_for_department": "Sound",
+                "name": "Fred Wasser",
+                "original_name": "Fred Wasser",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59082b38c3a3685859008d13",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74783,
+                "known_for_department": "Crew",
+                "name": "Bob Shelley",
+                "original_name": "Bob Shelley",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "59082b73c3a36858dd0092e8",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1545466,
+                "known_for_department": "Crew",
+                "name": "Anthony Cecere",
+                "original_name": "Anthony Cecere",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "59082c52c3a368583b00919b",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98138,
+                "known_for_department": "Sound",
+                "name": "Chuck Cirino",
+                "original_name": "Chuck Cirino",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "59082ce1c3a3685859008de2",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2407677,
+                "known_for_department": "Production",
+                "name": "Annette Cirillo",
+                "original_name": "Annette Cirillo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e5ef39549a000f95c6f2",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 566919,
+                "known_for_department": "Production",
+                "name": "Tom Kuhn",
+                "original_name": "Tom Kuhn",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e5f939549a001195c5fb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2407680,
+                "known_for_department": "Production",
+                "name": "Charles Mitchell",
+                "original_name": "Charles Mitchell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e6125907de000f2bc8ee",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1835571,
+                "known_for_department": "Production",
+                "name": "Robert E. Warner",
+                "original_name": "Robert E. Warner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e61c5907de00132bc9dd",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1748470,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michael R. Jones",
+                "original_name": "Michael R. Jones",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e6435907de00122bca99",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 83063,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Coree Lear",
+                "original_name": "Coree Lear",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e65239549a001195c63c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2407687,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lorraine Watson",
+                "original_name": "Lorraine Watson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e682069f0e000f314bf1",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 108135,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gene Witham",
+                "original_name": "Gene Witham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76e68b5907de00122bcabf",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 173658,
+                "known_for_department": "Writing",
+                "name": "Len Wein",
+                "original_name": "Len Wein",
+                "popularity": 0.022,
+                "profile_path": "/jA38DskVXNIryKgPgc9Tc3GyaGH.jpg",
+                "credit_id": "5ef28a6c6beaea003552004f",
+                "department": "Writing",
+                "job": "Comic Book"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1501535,
+                "known_for_department": "Acting",
+                "name": "Bernie Wrightson",
+                "original_name": "Bernie Wrightson",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5ef28a8a62fcd30034cecde0",
+                "department": "Writing",
+                "job": "Comic Book"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 65907,
+                "known_for_department": "Acting",
+                "name": "Linda Kaye",
+                "original_name": "Linda Kaye",
+                "popularity": 0.013,
+                "profile_path": "/ftcHVQAFvaZPpAwZFI1uMmXUrlL.jpg",
+                "credit_id": "5ef28b26907f260035848611",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18265,
+                "known_for_department": "Camera",
+                "name": "Mauro Fiore",
+                "original_name": "Mauro Fiore",
+                "popularity": 0.01,
+                "profile_path": "/zWenMq5JMuHMU7Nx1Qaicy6fizC.jpg",
+                "credit_id": "66df8186919e4a20abba0da6",
+                "department": "Camera",
+                "job": "Dolly Grip"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4551,
+                "name": "swamp"
+            },
+            {
+                "id": 9717,
+                "name": "based on comic"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Louis Jourdan",
+            "character": "Dr. Anton Arcane"
+        },
+        {
+            "actor": "Heather Locklear",
+            "character": "Abby Arcane"
+        },
+        {
+            "actor": "Sarah Douglas",
+            "character": "Dr. Lana Zurrell"
+        },
+        {
+            "actor": "Dick Durock",
+            "character": "Swamp Thing"
+        },
+        {
+            "actor": "Joey Sagal",
+            "character": "Gunn"
+        },
+        {
+            "actor": "Ace Mask",
+            "character": "Dr. Rochelle"
+        },
+        {
+            "actor": "Monique Gabrielle",
+            "character": "Miss Poinsettia"
+        },
+        {
+            "actor": "RonReaco Lee",
+            "character": "Omar"
+        },
+        {
+            "actor": "Daniel Emery Taylor",
+            "character": "Darryl Hallenbeck"
+        },
+        {
+            "actor": "Ralph Pace",
+            "character": "Sheriff Beaumont"
+        },
+        {
+            "actor": "Alex Van",
+            "character": "Gurdell"
+        },
+        {
+            "actor": "Christopher Doyle",
+            "character": "Leechman"
+        },
+        {
+            "actor": "Rex Pierson",
+            "character": "Dr. Rochelle Mutation"
+        },
+        {
+            "actor": "Tony Sears",
+            "character": "Harry Dugan"
+        },
+        {
+            "actor": "Bill Eudaly",
+            "character": "Withered Chuck"
+        },
+        {
+            "actor": "Anthony Cecere",
+            "character": "Conkilin"
+        },
+        {
+            "actor": "Timothy Birch",
+            "character": "Clyde"
+        },
+        {
+            "actor": "J. Don Ferguson",
+            "character": "Bob"
+        },
+        {
+            "actor": "Jim Grimshaw",
+            "character": "Morty"
+        },
+        {
+            "actor": "Albert B. Cooper IV",
+            "character": "Taxi Driver"
+        }
+    ]
+}

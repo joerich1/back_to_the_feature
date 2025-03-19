@@ -1,0 +1,928 @@
+{
+    "adult": false,
+    "backdrop_path": "/zjubAYx9JABJ9seZw64tWGM6y18.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 9299,
+    "imdb_id": "tt0117883",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Tesis",
+    "overview": "While doing a thesis about violence, Ángela finds a snuff video where a girl is tortured to death. Soon she discovers that the girl was a former student at her college...",
+    "popularity": 3.567,
+    "poster_path": "/3d4CQ0l4izm0u0eOU1zMGbtrzV5.jpg",
+    "production_companies": [
+        {
+            "id": 11955,
+            "logo_path": "/ejsZYTo3EM5nAErdL2KNgK2bW4t.png",
+            "name": "Sogepaq",
+            "origin_country": "ES"
+        },
+        {
+            "id": 18332,
+            "logo_path": null,
+            "name": "Las Producciones del Escorpión S.L.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "1996-04-11",
+    "revenue": 2647055,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "My name is Ángela. They're going to kill me.",
+    "title": "Thesis",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 844,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2004-01-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2003-04-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-04-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-11-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-06-26T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2009-10-07T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 24976,
+                "known_for_department": "Acting",
+                "name": "Ana Torrent",
+                "original_name": "Ana Torrent",
+                "popularity": 0.038,
+                "profile_path": "/20fCWHV6CckcpwiSlAplJCSzBZj.jpg",
+                "cast_id": 1,
+                "character": "Ángela",
+                "credit_id": "52fe44e4c3a36847f80b02cb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1602,
+                "known_for_department": "Acting",
+                "name": "Fele Martínez",
+                "original_name": "Fele Martínez",
+                "popularity": 0.019,
+                "profile_path": "/pqMnhHR6q2ipZVI0TwPZjjDo056.jpg",
+                "cast_id": 2,
+                "character": "Chema",
+                "credit_id": "52fe44e4c3a36847f80b02cf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17093,
+                "known_for_department": "Acting",
+                "name": "Eduardo Noriega",
+                "original_name": "Eduardo Noriega",
+                "popularity": 0.023,
+                "profile_path": "/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg",
+                "cast_id": 3,
+                "character": "Bosco",
+                "credit_id": "52fe44e4c3a36847f80b02d3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30357,
+                "known_for_department": "Acting",
+                "name": "Xabier Elorriaga",
+                "original_name": "Xabier Elorriaga",
+                "popularity": 0.007,
+                "profile_path": "/rPxfRfhEanQh74uSnYeijlRezPf.jpg",
+                "cast_id": 4,
+                "character": "Castro",
+                "credit_id": "52fe44e4c3a36847f80b02d7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37842,
+                "known_for_department": "Acting",
+                "name": "Miguel Picazo",
+                "original_name": "Miguel Picazo",
+                "popularity": 0.004,
+                "profile_path": "/3cnMncz91UyL8wvLenVQpIeRgMM.jpg",
+                "cast_id": 5,
+                "character": "Figueroa",
+                "credit_id": "52fe44e4c3a36847f80b02db",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1136757,
+                "known_for_department": "Acting",
+                "name": "Nieves Herranz",
+                "original_name": "Nieves Herranz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Sena",
+                "credit_id": "55bb854592514123e7007bab",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1385897,
+                "known_for_department": "Acting",
+                "name": "Rosa Campillo",
+                "original_name": "Rosa Campillo",
+                "popularity": 0.003,
+                "profile_path": "/txOhqvmUVHjgQ2daUVPwKurhRBW.jpg",
+                "cast_id": 29,
+                "character": "Yolanda",
+                "credit_id": "55bb854ec3a3684aed0084b7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 936597,
+                "known_for_department": "Acting",
+                "name": "Paco Hernández",
+                "original_name": "Paco Hernández",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Ángela's Father",
+                "credit_id": "55bb855892514123df0081ed",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1384379,
+                "known_for_department": "Acting",
+                "name": "Rosa Ávila",
+                "original_name": "Rosa Ávila",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Ángela's Mother",
+                "credit_id": "55bb8565c3a3684af8007c65",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1492139,
+                "known_for_department": "Acting",
+                "name": "Teresa Castanedo",
+                "original_name": "Teresa Castanedo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "TV Presenter",
+                "credit_id": "55bb85a792514123df0081f5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1492140,
+                "known_for_department": "Acting",
+                "name": "José Miguel Caballero",
+                "original_name": "José Miguel Caballero",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Video Library Concierge",
+                "credit_id": "55bb860192514119cb0068ef",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3682,
+                "known_for_department": "Acting",
+                "name": "Joserra Cadiñanos",
+                "original_name": "Joserra Cadiñanos",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Vigilant",
+                "credit_id": "55bb860a92514123dd0081f0",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 141017,
+                "known_for_department": "Acting",
+                "name": "Julio Vélez",
+                "original_name": "Julio Vélez",
+                "popularity": 0.003,
+                "profile_path": "/8bNFJ6LlEnOOi32KTnRJTAdXcpD.jpg",
+                "cast_id": 35,
+                "character": "Train Attendant",
+                "credit_id": "55bb8616c3a3684af50076db",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1042773,
+                "known_for_department": "Acting",
+                "name": "Pilar Ortega",
+                "original_name": "Pilar Ortega",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Sales Manager",
+                "credit_id": "55bb862092514123d8008093",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1410091,
+                "known_for_department": "Acting",
+                "name": "Olga Margallo",
+                "original_name": "Olga Margallo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Vanessa",
+                "credit_id": "55bb8627c3a3684afb007c6c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19842,
+                "known_for_department": "Directing",
+                "name": "José Luis Cuerda",
+                "original_name": "José Luis Cuerda",
+                "popularity": 0.006,
+                "profile_path": "/ooTcZhVjJ1Bb4YipsgZzFLNtIUZ.jpg",
+                "cast_id": 38,
+                "character": "Professor 1",
+                "credit_id": "55bb8635c3a3684aed0084ce",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 19904,
+                "known_for_department": "Production",
+                "name": "Emiliano Otegui",
+                "original_name": "Emiliano Otegui",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Professor 2",
+                "credit_id": "55bb863dc3a3684af8007c77",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1492141,
+                "known_for_department": "Directing",
+                "name": "Walter Prieto",
+                "original_name": "Walter Prieto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Train Watchman",
+                "credit_id": "55bb864bc3a3684ae90082c1",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1492142,
+                "known_for_department": "Acting",
+                "name": "Florentino Sainz",
+                "original_name": "Florentino Sainz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Old Man",
+                "credit_id": "55bb865492514123d3007cd5",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1489223,
+                "known_for_department": "Acting",
+                "name": "Helena Castañeda",
+                "original_name": "Helena Castañeda",
+                "popularity": 0.001,
+                "profile_path": "/fSIyWLFsAKgXM1nsjgT7q3uZGrX.jpg",
+                "cast_id": 42,
+                "character": "(uncredited)",
+                "credit_id": "55bb8667c3a3684fc0004359",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19840,
+                "known_for_department": "Writing",
+                "name": "Alejandro Amenábar",
+                "original_name": "Alejandro Amenábar",
+                "popularity": 0.019,
+                "profile_path": "/rFx8rEzC5M3qGXr8YUkjni0qXQB.jpg",
+                "credit_id": "52fe44e4c3a36847f80b02e1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 19843,
+                "known_for_department": "Sound",
+                "name": "Mariano Marín",
+                "original_name": "Mariano Marín",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44e4c3a36847f80b030b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 19904,
+                "known_for_department": "Production",
+                "name": "Emiliano Otegui",
+                "original_name": "Emiliano Otegui",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44e4c3a36847f80b02ff",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19845,
+                "known_for_department": "Editing",
+                "name": "María Elena Sáinz de Rozas",
+                "original_name": "María Elena Sáinz de Rozas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44e4c3a36847f80b0317",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19840,
+                "known_for_department": "Writing",
+                "name": "Alejandro Amenábar",
+                "original_name": "Alejandro Amenábar",
+                "popularity": 0.019,
+                "profile_path": "/rFx8rEzC5M3qGXr8YUkjni0qXQB.jpg",
+                "credit_id": "52fe44e4c3a36847f80b02e7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19842,
+                "known_for_department": "Directing",
+                "name": "José Luis Cuerda",
+                "original_name": "José Luis Cuerda",
+                "popularity": 0.006,
+                "profile_path": "/ooTcZhVjJ1Bb4YipsgZzFLNtIUZ.jpg",
+                "credit_id": "52fe44e4c3a36847f80b02f3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19840,
+                "known_for_department": "Writing",
+                "name": "Alejandro Amenábar",
+                "original_name": "Alejandro Amenábar",
+                "popularity": 0.019,
+                "profile_path": "/rFx8rEzC5M3qGXr8YUkjni0qXQB.jpg",
+                "credit_id": "52fe44e4c3a36847f80b0305",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19844,
+                "known_for_department": "Camera",
+                "name": "Hans Burmann",
+                "original_name": "Hans Burmann",
+                "popularity": 0.005,
+                "profile_path": "/29aphicdy6d7OfzqAjgvWc1EZYx.jpg",
+                "credit_id": "52fe44e4c3a36847f80b0311",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19842,
+                "known_for_department": "Directing",
+                "name": "José Luis Cuerda",
+                "original_name": "José Luis Cuerda",
+                "popularity": 0.006,
+                "profile_path": "/ooTcZhVjJ1Bb4YipsgZzFLNtIUZ.jpg",
+                "credit_id": "52fe44e4c3a36847f80b02f9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19841,
+                "known_for_department": "Writing",
+                "name": "Mateo Gil",
+                "original_name": "Mateo Gil",
+                "popularity": 0.013,
+                "profile_path": "/9TeQy55el6UbCexxYTDZUedfIpW.jpg",
+                "credit_id": "52fe44e4c3a36847f80b02ed",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 989004,
+                "known_for_department": "Sound",
+                "name": "Pelayo Gutiérrez",
+                "original_name": "Pelayo Gutiérrez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60faedd3fd140b00293d2c59",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1492131,
+                "known_for_department": "Sound",
+                "name": "Ricardo Steinberg",
+                "original_name": "Ricardo Steinberg",
+                "popularity": 0.002,
+                "profile_path": "/3yhQwESMMPck9ztWSSHSmm4r0SJ.jpg",
+                "credit_id": "60faedf017792c005db7e803",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1586210,
+                "known_for_department": "Sound",
+                "name": "Nacho Royo-Villanova",
+                "original_name": "Nacho Royo-Villanova",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60faede23103250072acea94",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2328,
+                "known_for_department": "Sound",
+                "name": "Manuel Corrales",
+                "original_name": "Manuel Corrales",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60faedc30dea6e005e8d6f7d",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19840,
+                "known_for_department": "Writing",
+                "name": "Alejandro Amenábar",
+                "original_name": "Alejandro Amenábar",
+                "popularity": 0.019,
+                "profile_path": "/rFx8rEzC5M3qGXr8YUkjni0qXQB.jpg",
+                "credit_id": "55bb83b792514123e7007b80",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19844,
+                "known_for_department": "Camera",
+                "name": "Hans Burmann",
+                "original_name": "Hans Burmann",
+                "popularity": 0.005,
+                "profile_path": "/29aphicdy6d7OfzqAjgvWc1EZYx.jpg",
+                "credit_id": "55bb83cec3a3684af1007e77",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1492131,
+                "known_for_department": "Sound",
+                "name": "Ricardo Steinberg",
+                "original_name": "Ricardo Steinberg",
+                "popularity": 0.002,
+                "profile_path": "/3yhQwESMMPck9ztWSSHSmm4r0SJ.jpg",
+                "credit_id": "55bb83f892514123d3007ca7",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19845,
+                "known_for_department": "Editing",
+                "name": "María Elena Sáinz de Rozas",
+                "original_name": "María Elena Sáinz de Rozas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55bb8404c3a3684fc000432a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1153655,
+                "known_for_department": "Camera",
+                "name": "Julio Madurga",
+                "original_name": "Julio Madurga",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55bb83e7c3a3684af1007e7a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37585,
+                "known_for_department": "Acting",
+                "name": "Emma Penella",
+                "original_name": "Emma Penella",
+                "popularity": 0.01,
+                "profile_path": "/fEFQvO6BW6AZADRweewrTmWbeAq.jpg",
+                "credit_id": "55bb84a692514123db007e5f",
+                "department": "Crew",
+                "job": "Thanks"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1492135,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Paca Almenara",
+                "original_name": "Paca Almenara",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55bb845492514123d8008072",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19848,
+                "known_for_department": "Art",
+                "name": "Wolfgang Burmann",
+                "original_name": "Wolfgang Burmann",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "55bb843592514123d3007caf",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1492133,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ana Cuerda",
+                "original_name": "Ana Cuerda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55bb8444c3a3684af8007c4c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19848,
+                "known_for_department": "Art",
+                "name": "Wolfgang Burmann",
+                "original_name": "Wolfgang Burmann",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "55bb83da92514123d3007ca2",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 19904,
+                "known_for_department": "Production",
+                "name": "Emiliano Otegui",
+                "original_name": "Emiliano Otegui",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55bb846492514123dd0081c9",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19841,
+                "known_for_department": "Writing",
+                "name": "Mateo Gil",
+                "original_name": "Mateo Gil",
+                "popularity": 0.013,
+                "profile_path": "/9TeQy55el6UbCexxYTDZUedfIpW.jpg",
+                "credit_id": "55bb847592514123df0081dd",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5240016,
+                "known_for_department": "Acting",
+                "name": "Raúl Otegui",
+                "original_name": "Raúl Otegui",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67aafeb709b8551a04b09b47",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3664,
+                "name": "research"
+            },
+            {
+                "id": 744,
+                "name": "madrid, spain"
+            },
+            {
+                "id": 1930,
+                "name": "kidnapping"
+            },
+            {
+                "id": 6259,
+                "name": "psychopath"
+            },
+            {
+                "id": 3880,
+                "name": "snuff"
+            },
+            {
+                "id": 9713,
+                "name": "friends"
+            },
+            {
+                "id": 9732,
+                "name": "film in film"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 158763,
+                "name": "thesis"
+            },
+            {
+                "id": 176182,
+                "name": "psycho"
+            },
+            {
+                "id": 206440,
+                "name": "video tape"
+            },
+            {
+                "id": 207844,
+                "name": "college student"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ana Torrent",
+            "character": "Ángela"
+        },
+        {
+            "actor": "Fele Martínez",
+            "character": "Chema"
+        },
+        {
+            "actor": "Eduardo Noriega",
+            "character": "Bosco"
+        },
+        {
+            "actor": "Xabier Elorriaga",
+            "character": "Castro"
+        },
+        {
+            "actor": "Miguel Picazo",
+            "character": "Figueroa"
+        },
+        {
+            "actor": "Nieves Herranz",
+            "character": "Sena"
+        },
+        {
+            "actor": "Rosa Campillo",
+            "character": "Yolanda"
+        },
+        {
+            "actor": "Paco Hernández",
+            "character": "Ángela's Father"
+        },
+        {
+            "actor": "Rosa Ávila",
+            "character": "Ángela's Mother"
+        },
+        {
+            "actor": "Teresa Castanedo",
+            "character": "TV Presenter"
+        },
+        {
+            "actor": "José Miguel Caballero",
+            "character": "Video Library Concierge"
+        },
+        {
+            "actor": "Joserra Cadiñanos",
+            "character": "Vigilant"
+        },
+        {
+            "actor": "Julio Vélez",
+            "character": "Train Attendant"
+        },
+        {
+            "actor": "Pilar Ortega",
+            "character": "Sales Manager"
+        },
+        {
+            "actor": "Olga Margallo",
+            "character": "Vanessa"
+        },
+        {
+            "actor": "José Luis Cuerda",
+            "character": "Professor 1"
+        },
+        {
+            "actor": "Emiliano Otegui",
+            "character": "Professor 2"
+        },
+        {
+            "actor": "Walter Prieto",
+            "character": "Train Watchman"
+        },
+        {
+            "actor": "Florentino Sainz",
+            "character": "Old Man"
+        },
+        {
+            "actor": "Helena Castañeda",
+            "character": "(uncredited)"
+        }
+    ]
+}

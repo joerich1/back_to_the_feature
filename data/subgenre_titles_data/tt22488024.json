@@ -1,0 +1,856 @@
+{
+    "adult": false,
+    "backdrop_path": "/rV56FkcHkzHJcBOOqoCeSDnoBff.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 990140,
+    "imdb_id": "tt22488024",
+    "origin_country": [
+        "CN",
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "天龍八部之喬峰傳",
+    "overview": "Qiao Feng is the respected leader of a roving band of martial artists. After he is wrongfully accused of murder and subsequently exiled, Qiao Feng goes on the run in search of answers about his own mysterious origin story—and the unknown enemies working to destroy him from the shadows.",
+    "popularity": 3.595,
+    "poster_path": "/2vA3CqwZ01LUsEaYRz2ZY6Om9xi.jpg",
+    "production_companies": [
+        {
+            "id": 155372,
+            "logo_path": null,
+            "name": "Wishart Media",
+            "origin_country": "CN"
+        },
+        {
+            "id": 160005,
+            "logo_path": null,
+            "name": "Super Bullet Pictures",
+            "origin_country": "HK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        },
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        }
+    ],
+    "release_date": "2023-01-16",
+    "revenue": 159959,
+    "runtime": 130,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "When a warrior belongs nowhere, the enemy is everywhere.",
+    "title": "Sakra",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 162,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CN",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-21T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Fantasy Filmfest Nights",
+                        "release_date": "2023-04-20T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-04-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-05-10T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2023-09-20T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD & Blu-Ray",
+                        "release_date": "2023-09-20T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-07-24T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-07-24T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-01-05T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-07-19T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "NC16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TW",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-04-14T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-04-18T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341,
+                "known_for_department": "Acting",
+                "name": "Donnie Yen",
+                "original_name": "甄子丹",
+                "popularity": 0.153,
+                "profile_path": "/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg",
+                "cast_id": 1,
+                "character": "Qiao Feng / Xiao Feng",
+                "credit_id": "62b0cf55ecc7e800f0fe0311",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2085448,
+                "known_for_department": "Acting",
+                "name": "Yukee Chen",
+                "original_name": "Yukee Chen",
+                "popularity": 0.017,
+                "profile_path": "/zRPQ7suBiQoCUEzt9BHtzKkxSAx.jpg",
+                "cast_id": 4,
+                "character": "A Zhu",
+                "credit_id": "639572ec2cefc2007c1eb3c0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1397017,
+                "known_for_department": "Acting",
+                "name": "Liu Yase",
+                "original_name": "劉雅瑟",
+                "popularity": 0.02,
+                "profile_path": "/2UBsASN6G37pjZtjl0Zse6S74y9.jpg",
+                "cast_id": 8,
+                "character": "A Zi",
+                "credit_id": "63980c59f5c8240083a9e015",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 84205,
+                "known_for_department": "Acting",
+                "name": "Kara Wai Ying-Hung",
+                "original_name": "惠英紅",
+                "popularity": 0.046,
+                "profile_path": "/6OV9kM62Y7M7EswtkpCThs0QAxg.jpg",
+                "cast_id": 9,
+                "character": "Ruan Xingzhu",
+                "credit_id": "63980c70f5c824007b890cd2",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1800792,
+                "known_for_department": "Acting",
+                "name": "Wu Yue",
+                "original_name": "吴樾",
+                "popularity": 0.033,
+                "profile_path": "/hRePA3mh9mfAqX7SJ4rGxrNrxT7.jpg",
+                "cast_id": 7,
+                "character": "Murong Fu",
+                "credit_id": "63957308a0f1a200c880a34b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72732,
+                "known_for_department": "Acting",
+                "name": "Eddie Cheung Siu-Fai",
+                "original_name": "張兆輝",
+                "popularity": 0.027,
+                "profile_path": "/jTrBt3y43LsO8XYsQnWg8bdwsP2.jpg",
+                "cast_id": 14,
+                "character": "Duan Zhengchun",
+                "credit_id": "63980e36d05a0300cf2afd10",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1255467,
+                "known_for_department": "Acting",
+                "name": "Grace Wong",
+                "original_name": "Grace Wong",
+                "popularity": 0.015,
+                "profile_path": "/Ab9GO6Awb183qaSP9VxlVNWZpFg.jpg",
+                "cast_id": 12,
+                "character": "Mrs. Ma",
+                "credit_id": "63980cd8d05a030094f1d7d3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1571926,
+                "known_for_department": "Acting",
+                "name": "Yuming Du",
+                "original_name": "Yuming Du",
+                "popularity": 0.011,
+                "profile_path": "/aqxa9aRrGOIiIcia0Vb3ErvXz4e.jpg",
+                "cast_id": 17,
+                "character": "Bai Shijing",
+                "credit_id": "63980fd28a88b20091ab7208",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78877,
+                "known_for_department": "Acting",
+                "name": "Ray Lui",
+                "original_name": "呂良偉",
+                "popularity": 0.04,
+                "profile_path": "/v6KV1Ib7ck9noPdwL6L2lAozeak.jpg",
+                "cast_id": 16,
+                "character": "Murong Bo",
+                "credit_id": "63980e6df5c824008bc95f42",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1145614,
+                "known_for_department": "Directing",
+                "name": "Tsui Siu-Ming",
+                "original_name": "徐小明",
+                "popularity": 0.008,
+                "profile_path": "/aY9b2ucIGylE3d7a1GNALk8qwH.jpg",
+                "cast_id": 15,
+                "character": "Jiu Mozhi",
+                "credit_id": "63980e5da1a9ba00a0003400",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2961684,
+                "known_for_department": "Acting",
+                "name": "Cai Xiangyu",
+                "original_name": "Cai Xiangyu",
+                "popularity": 0.008,
+                "profile_path": "/9P9916rJ9SkiYBqrAckRsuO48FA.jpg",
+                "cast_id": 21,
+                "character": "A Bi",
+                "credit_id": "63cb7e60ea394900c827848a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1209782,
+                "known_for_department": "Acting",
+                "name": "Michelle Hu",
+                "original_name": "胡然",
+                "popularity": 0.012,
+                "profile_path": "/oNwNoLJg707G0HSIDnNU4mpaoIu.jpg",
+                "cast_id": 22,
+                "character": "Mrs. Xiao",
+                "credit_id": "63cb7e739a6435008def2fc7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3260046,
+                "known_for_department": "Acting",
+                "name": "Zhao Huawei",
+                "original_name": "趙華為",
+                "popularity": 0.028,
+                "profile_path": "/rFvmhqzTYLCmcNU420Q0Ukz6jO2.jpg",
+                "cast_id": 23,
+                "character": "Duan Yu",
+                "credit_id": "63cb7ea46d97e6007c9d47f2",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1089434,
+                "known_for_department": "Acting",
+                "name": "Yu Kang",
+                "original_name": "喻亢",
+                "popularity": 0.032,
+                "profile_path": "/aga0SZgIsntO4ZNsOF28HBLMx3i.jpg",
+                "cast_id": 24,
+                "character": "You Ju",
+                "credit_id": "63cb7eba9a643500872aa4a4",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1174692,
+                "known_for_department": "Acting",
+                "name": "Xu Xiangdong",
+                "original_name": "徐向东",
+                "popularity": 0.008,
+                "profile_path": "/5p8QzXv3T8WzyVQNYi7Rl44BrNC.jpg",
+                "cast_id": 25,
+                "character": "Xuannan",
+                "credit_id": "63cb7ed0d363e500ba783604",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65975,
+                "known_for_department": "Acting",
+                "name": "Yuen Cheung-Yan",
+                "original_name": "袁祥仁",
+                "popularity": 0.022,
+                "profile_path": "/iYAVRqC2PqcDwc9iCsqOslizZiY.jpg",
+                "cast_id": 26,
+                "character": "Xue Muhua",
+                "credit_id": "63cf408c0d2f5301d1ef7d31",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1113443,
+                "known_for_department": "Acting",
+                "name": "Kenji Tanigaki",
+                "original_name": "谷垣健治",
+                "popularity": 0.018,
+                "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg",
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "642fe970e92d83011306e9c7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4381101,
+                "known_for_department": "Acting",
+                "name": "Zhu Xiang",
+                "original_name": "Zhu Xiang",
+                "popularity": 0.002,
+                "profile_path": "/lQ42ty0W8IEo4C84B3NFMmwNa95.jpg",
+                "cast_id": 39,
+                "character": "Song Soldier A",
+                "credit_id": "6556980f0816c700fd30b78e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2095747,
+                "known_for_department": "Acting",
+                "name": "Andrew Yan Hua",
+                "original_name": "严华",
+                "popularity": 0.004,
+                "profile_path": "/6WesxAnQS6nnvX0ZO4dLO3U8zrj.jpg",
+                "cast_id": 42,
+                "character": "Bandit",
+                "credit_id": "6736f3e4ff85881393a0cae7",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1113443,
+                "known_for_department": "Acting",
+                "name": "Kenji Tanigaki",
+                "original_name": "谷垣健治",
+                "popularity": 0.018,
+                "profile_path": "/2ZV2n02pZq1Sc2szQuyF1HVssi7.jpg",
+                "credit_id": "62b0cfb19c24fc0061b28020",
+                "department": "Directing",
+                "job": "Action Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4385234,
+                "known_for_department": "Crew",
+                "name": "Shashwad Babalgaon",
+                "original_name": "Shashwad Babalgaon",
+                "popularity": 0.001,
+                "profile_path": "/s0qgItOh4vG3Mh83H6idntatpMx.jpg",
+                "credit_id": "6559db7b0816c700fd3257ea",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341,
+                "known_for_department": "Acting",
+                "name": "Donnie Yen",
+                "original_name": "甄子丹",
+                "popularity": 0.153,
+                "profile_path": "/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg",
+                "credit_id": "639572d2a1a9ba00a0fef209",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 551565,
+                "known_for_department": "Art",
+                "name": "Lau Sai-Wan",
+                "original_name": "Lau Sai-Wan",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "639810a5a1a9ba009430b5f2",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548474,
+                "known_for_department": "Writing",
+                "name": "Wong Jing",
+                "original_name": "王晶",
+                "popularity": 0.048,
+                "profile_path": "/gMmaDRst3OwnY1wClKt541AmslD.jpg",
+                "credit_id": "63980c892cefc20084b6093a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341,
+                "known_for_department": "Acting",
+                "name": "Donnie Yen",
+                "original_name": "甄子丹",
+                "popularity": 0.153,
+                "profile_path": "/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg",
+                "credit_id": "63980c9679b3d400a0bc13f1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64430,
+                "known_for_department": "Camera",
+                "name": "Chan Chi-Ying",
+                "original_name": "陳志英",
+                "popularity": 0.004,
+                "profile_path": "/yDChYg2NSVBYAmGdoyTDznaIfSv.jpg",
+                "credit_id": "63981028f5c82400b783039a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3113929,
+                "known_for_department": "Production",
+                "name": "Zhu Weijie",
+                "original_name": "朱玮杰",
+                "popularity": 0.001,
+                "profile_path": "/qi852PfXZ65ozVlEWcSlnJi3j5a.jpg",
+                "credit_id": "63980d8ed05a0300ae5103a0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2095747,
+                "known_for_department": "Acting",
+                "name": "Andrew Yan Hua",
+                "original_name": "严华",
+                "popularity": 0.004,
+                "profile_path": "/6WesxAnQS6nnvX0ZO4dLO3U8zrj.jpg",
+                "credit_id": "6398107bd05a0300ae5105b3",
+                "department": "Directing",
+                "job": "Action Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67218,
+                "known_for_department": "Writing",
+                "name": "Louis Cha",
+                "original_name": "金庸",
+                "popularity": 0.018,
+                "profile_path": "/7zpS5byvvwtKYqDrfirFThofhS3.jpg",
+                "credit_id": "65dc78b01cc4ff0186fd0ec7",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1415282,
+                "known_for_department": "Directing",
+                "name": "Kam Ka-Wai",
+                "original_name": "闞家偉",
+                "popularity": 0.005,
+                "profile_path": "/gsPOd7NYzugZJwnEI5DokM6plQC.jpg",
+                "credit_id": "64288624c0442901f0024683",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1006504,
+                "known_for_department": "Writing",
+                "name": "Chen Li",
+                "original_name": "Chen Li",
+                "popularity": 0.001,
+                "profile_path": "/uIkAFpDNsAL5sYmlartPNoV2BWn.jpg",
+                "credit_id": "64288650c5840d00d58e3c34",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3989729,
+                "known_for_department": "Writing",
+                "name": "Xu Yifan",
+                "original_name": "Xu Yifan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6428867a960cde00e0bcdb7d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1965257,
+                "known_for_department": "Directing",
+                "name": "Robin Shen",
+                "original_name": "沈乐平",
+                "popularity": 0.001,
+                "profile_path": "/l2SaD8FrwGOdutbpwOi71ZMNhX9.jpg",
+                "credit_id": "6428866a960cde0103a4b5be",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2552279,
+                "known_for_department": "Directing",
+                "name": "Zhu Wei",
+                "original_name": "Wei Zhu",
+                "popularity": 0.002,
+                "profile_path": "/1hcEJ4rXam8i74RjTjfn6JKcSIo.jpg",
+                "credit_id": "642886880f3655011078cc3e",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3989726,
+                "known_for_department": "Writing",
+                "name": "He Ben",
+                "original_name": "He Ben",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64288644c04429026b13431a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3391253,
+                "known_for_department": "Directing",
+                "name": "Sheng Lingzhi",
+                "original_name": "Sheng Lingzhi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6428865e01b1ca0097fd97c6",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1800792,
+                "known_for_department": "Acting",
+                "name": "Wu Yue",
+                "original_name": "吴樾",
+                "popularity": 0.033,
+                "profile_path": "/hRePA3mh9mfAqX7SJ4rGxrNrxT7.jpg",
+                "credit_id": "67cca33905adfb9eb95bc777",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 195013,
+                "name": "costume drama"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Donnie Yen",
+            "character": "Qiao Feng / Xiao Feng"
+        },
+        {
+            "actor": "Yukee Chen",
+            "character": "A Zhu"
+        },
+        {
+            "actor": "Liu Yase",
+            "character": "A Zi"
+        },
+        {
+            "actor": "Kara Wai Ying-Hung",
+            "character": "Ruan Xingzhu"
+        },
+        {
+            "actor": "Wu Yue",
+            "character": "Murong Fu"
+        },
+        {
+            "actor": "Eddie Cheung Siu-Fai",
+            "character": "Duan Zhengchun"
+        },
+        {
+            "actor": "Grace Wong",
+            "character": "Mrs. Ma"
+        },
+        {
+            "actor": "Yuming Du",
+            "character": "Bai Shijing"
+        },
+        {
+            "actor": "Ray Lui",
+            "character": "Murong Bo"
+        },
+        {
+            "actor": "Tsui Siu-Ming",
+            "character": "Jiu Mozhi"
+        },
+        {
+            "actor": "Cai Xiangyu",
+            "character": "A Bi"
+        },
+        {
+            "actor": "Michelle Hu",
+            "character": "Mrs. Xiao"
+        },
+        {
+            "actor": "Zhao Huawei",
+            "character": "Duan Yu"
+        },
+        {
+            "actor": "Yu Kang",
+            "character": "You Ju"
+        },
+        {
+            "actor": "Xu Xiangdong",
+            "character": "Xuannan"
+        },
+        {
+            "actor": "Yuen Cheung-Yan",
+            "character": "Xue Muhua"
+        },
+        {
+            "actor": "Kenji Tanigaki",
+            "character": ""
+        },
+        {
+            "actor": "Zhu Xiang",
+            "character": "Song Soldier A"
+        },
+        {
+            "actor": "Andrew Yan Hua",
+            "character": "Bandit"
+        }
+    ]
+}

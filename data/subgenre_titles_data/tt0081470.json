@@ -1,0 +1,902 @@
+{
+    "adult": false,
+    "backdrop_path": "/by3wqnMm6ziZmtyKIms3ht3CE7L.jpg",
+    "belongs_to_collection": null,
+    "budget": 12000000,
+    "genres": [
+        {
+            "id": 10752,
+            "name": "War"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 19664,
+    "imdb_id": "tt0081470",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Sea Wolves",
+    "overview": "A German spy is passing on information about the location of Allied ships in the neutral harbor of Goa, India, with catastrophic results. Unable to undertake a full military operation in the Portuguese stronghold, English intelligence brings out of retirement a crew of geriatric ex-soldiers, veterans from World War I, using their age as cover. These old soldiers are asked to take to the seas and pull off an unlikely undercover mission.",
+    "popularity": 3.141,
+    "poster_path": "/j40gAXBvw6353FJaKjDmb1yRQGu.jpg",
+    "production_companies": [
+        {
+            "id": 898,
+            "logo_path": "/pBh5kde6mhGEMglYLwCdFnqK5zh.png",
+            "name": "Lorimar Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 21858,
+            "logo_path": null,
+            "name": "Richmond Light Horse Productions",
+            "origin_country": "GB"
+        },
+        {
+            "id": 21859,
+            "logo_path": null,
+            "name": "Varius Entertainment Trading A.G.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1980-07-03",
+    "revenue": 220181,
+    "runtime": 120,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The Last Charge of the Calcutta Light Horse",
+    "title": "The Sea Wolves",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 89,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "e 12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-01-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-08-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-07-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-05-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "e 12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-01-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-06-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8487,
+                "known_for_department": "Acting",
+                "name": "Gregory Peck",
+                "original_name": "Gregory Peck",
+                "popularity": 0.063,
+                "profile_path": "/pugayYkpmD2CXY7D0aweLkDRLaf.jpg",
+                "cast_id": 4,
+                "character": "Col. Lewis Pugh",
+                "credit_id": "52fe47e99251416c750a9881",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10222,
+                "known_for_department": "Acting",
+                "name": "Roger Moore",
+                "original_name": "Roger Moore",
+                "popularity": 0.065,
+                "profile_path": "/qUjeguNlZzpwh2bGUwEq2n2GNPx.jpg",
+                "cast_id": 5,
+                "character": "Capt. Gavin Stewart",
+                "credit_id": "52fe47e99251416c750a9885",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14261,
+                "known_for_department": "Acting",
+                "name": "David Niven",
+                "original_name": "David Niven",
+                "popularity": 0.052,
+                "profile_path": "/gaUbyxDzPabQRzYnXS1cAmNjNGY.jpg",
+                "cast_id": 6,
+                "character": "Col. W.H. Grice",
+                "credit_id": "52fe47e99251416c750a9889",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12726,
+                "known_for_department": "Acting",
+                "name": "Trevor Howard",
+                "original_name": "Trevor Howard",
+                "popularity": 0.03,
+                "profile_path": "/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg",
+                "cast_id": 7,
+                "character": "Jack Cartwright",
+                "credit_id": "52fe47e99251416c750a988d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 69777,
+                "known_for_department": "Acting",
+                "name": "Barbara Kellerman",
+                "original_name": "Barbara Kellerman",
+                "popularity": 0.01,
+                "profile_path": "/4nhFTnECw20AC9jbogUog8ajKUc.jpg",
+                "cast_id": 8,
+                "character": "Mrs. Cromwell",
+                "credit_id": "52fe47e99251416c750a9891",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10662,
+                "known_for_department": "Acting",
+                "name": "Patrick Macnee",
+                "original_name": "Patrick Macnee",
+                "popularity": 0.04,
+                "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+                "cast_id": 9,
+                "character": "Major 'Yogi' Crossley",
+                "credit_id": "52fe47e99251416c750a9895",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51879,
+                "known_for_department": "Acting",
+                "name": "Kenneth Griffith",
+                "original_name": "Kenneth Griffith",
+                "popularity": 0.008,
+                "profile_path": "/oXbxx70rQThClBDlb4ibudZ660B.jpg",
+                "cast_id": 10,
+                "character": "Charlie Wilton",
+                "credit_id": "52fe47e99251416c750a9899",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73980,
+                "known_for_department": "Acting",
+                "name": "Patrick Allen",
+                "original_name": "Patrick Allen",
+                "popularity": 0.02,
+                "profile_path": "/4CVa7v878G43ULmSUpABf9vtpGz.jpg",
+                "cast_id": 11,
+                "character": "Colin Mackenzie",
+                "credit_id": "52fe47e99251416c750a989d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 659,
+                "known_for_department": "Acting",
+                "name": "Wolf Kahler",
+                "original_name": "Wolf Kahler",
+                "popularity": 0.022,
+                "profile_path": "/qj8kHiwkluEAH7kwfsBgmDyjGH1.jpg",
+                "cast_id": 12,
+                "character": "Trompeta",
+                "credit_id": "52fe47e99251416c750a98a1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 269502,
+                "known_for_department": "Acting",
+                "name": "Robert Hoffmann",
+                "original_name": "Robert Hoffmann",
+                "popularity": 0.006,
+                "profile_path": "/421tXKtbXJaaIyRxXJMCfQnihjo.jpg",
+                "cast_id": 19,
+                "character": "U-Boat Captain",
+                "credit_id": "52fe47e99251416c750a98b9",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12768,
+                "known_for_department": "Acting",
+                "name": "Dan van Husen",
+                "original_name": "Dan van Husen",
+                "popularity": 0.019,
+                "profile_path": "/9mrSfDIZT8M77FVmKu4PA6mJaFL.jpg",
+                "cast_id": 14,
+                "character": "U-Boat First Officer",
+                "credit_id": "52fe47e99251416c750a98a5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 137383,
+                "known_for_department": "Acting",
+                "name": "George Mikell",
+                "original_name": "George Mikell",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Captain of Ehrenfels",
+                "credit_id": "52fe47e99251416c750a98a9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70416,
+                "known_for_department": "Acting",
+                "name": "Jürgen Andersen",
+                "original_name": "Jürgen Andersen",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "First Officer of Ehrenfels",
+                "credit_id": "52fe47e99251416c750a98ad",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12819,
+                "known_for_department": "Acting",
+                "name": "Bernard Archard",
+                "original_name": "Bernard Archard",
+                "popularity": 0.017,
+                "profile_path": "/uYyVX6spVpi4CppDj0rphNJPEpq.jpg",
+                "cast_id": 17,
+                "character": "Underhill",
+                "credit_id": "52fe47e99251416c750a98b1",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9912,
+                "known_for_department": "Acting",
+                "name": "Martin Benson",
+                "original_name": "Martin Benson",
+                "popularity": 0.022,
+                "profile_path": "/s5vat3kwi0DJMOS1bTNIEoeqclQ.jpg",
+                "cast_id": 18,
+                "character": "Mr. Montero",
+                "credit_id": "52fe47e99251416c750a98b5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33220,
+                "known_for_department": "Acting",
+                "name": "Percy Herbert",
+                "original_name": "Percy Herbert",
+                "popularity": 0.013,
+                "profile_path": "/wfyliApDtqvOxLh35Ijj5yyg8Uf.jpg",
+                "cast_id": 20,
+                "character": "Dennison",
+                "credit_id": "59dbf118c3a36861a30638b6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38358,
+                "known_for_department": "Acting",
+                "name": "Donald Houston",
+                "original_name": "Donald Houston",
+                "popularity": 0.012,
+                "profile_path": "/yHheWZqJXA7u2DVmq87Px2ZI1Cl.jpg",
+                "cast_id": 21,
+                "character": "Hilliard",
+                "credit_id": "59dbf12b925141252c063364",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 189367,
+                "known_for_department": "Acting",
+                "name": "Glyn Houston",
+                "original_name": "Glyn Houston",
+                "popularity": 0.017,
+                "profile_path": "/a2YvXWhfoKxkM9xzYMoyirsNylD.jpg",
+                "cast_id": 22,
+                "character": "Peters",
+                "credit_id": "59dbf137c3a36861ec064a7d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25687,
+                "known_for_department": "Acting",
+                "name": "Terence Longdon",
+                "original_name": "Terence Longdon",
+                "popularity": 0.01,
+                "profile_path": "/o1vS7Ss6blbV3s14ZkfdVxOI079.jpg",
+                "cast_id": 23,
+                "character": "Malvern",
+                "credit_id": "59dbf14492514124cd065eb8",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47860,
+                "known_for_department": "Acting",
+                "name": "Allan Cuthbertson",
+                "original_name": "Allan Cuthbertson",
+                "popularity": 0.012,
+                "profile_path": "/11PN4o3Y1fe3x9f4lcjs5UBH6Vw.jpg",
+                "cast_id": 24,
+                "character": "Dickie Melborne",
+                "credit_id": "59dbf157c3a368620d059e8c",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27281,
+                "known_for_department": "Acting",
+                "name": "Faith Brook",
+                "original_name": "Faith Brook",
+                "popularity": 0.01,
+                "profile_path": "/ugTbHjm9ZvdTOBAkdM3ESRmdX6h.jpg",
+                "cast_id": 25,
+                "character": "Mrs Doris Grice",
+                "credit_id": "59dbf174c3a36861ec064ac3",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11282,
+                "known_for_department": "Acting",
+                "name": "John Standing",
+                "original_name": "John Standing",
+                "popularity": 0.035,
+                "profile_path": "/4jxM3KYsykVd2IPUaGAv3KYgDUT.jpg",
+                "cast_id": 26,
+                "character": "Finley",
+                "credit_id": "59dbf19cc3a36861df06c1d5",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14107,
+                "known_for_department": "Acting",
+                "name": "Graham Stark",
+                "original_name": "Graham Stark",
+                "popularity": 0.018,
+                "profile_path": "/qPlAT4tr2ZspEKDCjqeEAs75x2G.jpg",
+                "cast_id": 27,
+                "character": "Don Manners",
+                "credit_id": "59dbf1abc3a368624d061ec9",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47549,
+                "known_for_department": "Acting",
+                "name": "Jack Watson",
+                "original_name": "Jack Watson",
+                "popularity": 0.011,
+                "profile_path": "/ggwiSgQeJ2y0pCKg6qUzFCFFi7Q.jpg",
+                "cast_id": 28,
+                "character": "Maclean",
+                "credit_id": "59dbf1bbc3a368623e063155",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47479,
+                "known_for_department": "Acting",
+                "name": "Moray Watson",
+                "original_name": "Moray Watson",
+                "popularity": 0.014,
+                "profile_path": "/k0orqg2qD1hQ3SZWqJWfQXghTrS.jpg",
+                "cast_id": 29,
+                "character": "Breen",
+                "credit_id": "59dbf1c8c3a368622706050a",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29307,
+                "known_for_department": "Acting",
+                "name": "Michael Medwin",
+                "original_name": "Michael Medwin",
+                "popularity": 0.019,
+                "profile_path": "/ta4gIRV6JnbT9CEH8XJDTdCJJeR.jpg",
+                "cast_id": 30,
+                "character": "Langley",
+                "credit_id": "59dbf1d69251412505063078",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 938390,
+                "known_for_department": "Acting",
+                "name": "William Morgan Sheppard",
+                "original_name": "William Morgan Sheppard",
+                "popularity": 0.033,
+                "profile_path": "/pg6ruMIClxACsA2hBUq9ulKX5AP.jpg",
+                "cast_id": 31,
+                "character": "'Patch' Lovecroft",
+                "credit_id": "59dbf1fd92514124c5065e06",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106630,
+                "known_for_department": "Acting",
+                "name": "Patrick Holt",
+                "original_name": "Patrick Holt",
+                "popularity": 0.002,
+                "profile_path": "/aDVjr3rCJny1a8z7OfbRc78hMC2.jpg",
+                "cast_id": 32,
+                "character": "Barker",
+                "credit_id": "59dbf216c3a368623e0631ae",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1221541,
+                "known_for_department": "Acting",
+                "name": "Clifford Earl",
+                "original_name": "Clifford Earl",
+                "popularity": 0.008,
+                "profile_path": "/v9oIP9sWUK6I2vKHGTqk9pfeyaz.jpg",
+                "cast_id": 33,
+                "character": "Sloane",
+                "credit_id": "59dbf228c3a36861a30639e4",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1335551,
+                "known_for_department": "Art",
+                "name": "Keith Stevenson",
+                "original_name": "Keith Stevenson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Manuel",
+                "credit_id": "59dbf249c3a36861df06c2a8",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102663,
+                "known_for_department": "Acting",
+                "name": "Brook Williams",
+                "original_name": "Brook Williams",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Butterworth",
+                "credit_id": "59dbf270925141251f066f62",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559856,
+                "known_for_department": "Acting",
+                "name": "Victor Langley",
+                "original_name": "Victor Langley",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Williamson",
+                "credit_id": "59dbf2a6c3a3686200067238",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 158670,
+                "known_for_department": "Acting",
+                "name": "Marc Zuber",
+                "original_name": "Marc Zuber",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Ram Das Gupta",
+                "credit_id": "59dbf281c3a36861df06c2ed",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 150012,
+                "known_for_department": "Acting",
+                "name": "Mohan Agashe",
+                "original_name": "Mohan Agashe",
+                "popularity": 0.019,
+                "profile_path": "/p3LfmPZ0cZD0eUVb4LvH0Sm3jOw.jpg",
+                "cast_id": 37,
+                "character": "Brothel Keeper",
+                "credit_id": "59dbf29092514124cd06602c",
+                "order": 33
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1348145,
+                "known_for_department": "Art",
+                "name": "Maurice Binder",
+                "original_name": "Maurice Binder",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "623b2ce7b42242008826eda1",
+                "department": "Art",
+                "job": "Main Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51875,
+                "known_for_department": "Directing",
+                "name": "Andrew V. McLaglen",
+                "original_name": "Andrew V. McLaglen",
+                "popularity": 0.014,
+                "profile_path": "/4Lxdxg5akHhsHoZToFe62L8RM9B.jpg",
+                "credit_id": "52fe47e99251416c750a9871",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 40353,
+                "known_for_department": "Writing",
+                "name": "James Leasor",
+                "original_name": "James Leasor",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe47e99251416c750a9877",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5246,
+                "known_for_department": "Writing",
+                "name": "Reginald Rose",
+                "original_name": "Reginald Rose",
+                "popularity": 0.026,
+                "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+                "credit_id": "52fe47e99251416c750a987d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10179,
+                "known_for_department": "Directing",
+                "name": "John Glen",
+                "original_name": "John Glen",
+                "popularity": 0.012,
+                "profile_path": "/vrpJmSdjh7inNVZ4mSIlC54IeK6.jpg",
+                "credit_id": "64f2c68c1f331900c6f5846c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 51883,
+                "known_for_department": "Sound",
+                "name": "Roy Budd",
+                "original_name": "Roy Budd",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "655f97f92b113d014ead847f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1077325,
+                "known_for_department": "Crew",
+                "name": "Eddie Powell",
+                "original_name": "Eddie Powell",
+                "popularity": 0.013,
+                "profile_path": "/rdrJbQxIokXxiBHCJuAsqTKFbXH.jpg",
+                "credit_id": "5f305b528ed03f0035eda7b2",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 658,
+                "name": "sea"
+            },
+            {
+                "id": 502,
+                "name": "ambush"
+            },
+            {
+                "id": 1956,
+                "name": "world war ii"
+            },
+            {
+                "id": 9672,
+                "name": "based on true story"
+            },
+            {
+                "id": 14643,
+                "name": "battle"
+            },
+            {
+                "id": 160855,
+                "name": "naval"
+            },
+            {
+                "id": 207883,
+                "name": "1940s"
+            },
+            {
+                "id": 208878,
+                "name": "british intelligence"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Gregory Peck",
+            "character": "Col. Lewis Pugh"
+        },
+        {
+            "actor": "Roger Moore",
+            "character": "Capt. Gavin Stewart"
+        },
+        {
+            "actor": "David Niven",
+            "character": "Col. W.H. Grice"
+        },
+        {
+            "actor": "Trevor Howard",
+            "character": "Jack Cartwright"
+        },
+        {
+            "actor": "Barbara Kellerman",
+            "character": "Mrs. Cromwell"
+        },
+        {
+            "actor": "Patrick Macnee",
+            "character": "Major 'Yogi' Crossley"
+        },
+        {
+            "actor": "Kenneth Griffith",
+            "character": "Charlie Wilton"
+        },
+        {
+            "actor": "Patrick Allen",
+            "character": "Colin Mackenzie"
+        },
+        {
+            "actor": "Wolf Kahler",
+            "character": "Trompeta"
+        },
+        {
+            "actor": "Robert Hoffmann",
+            "character": "U-Boat Captain"
+        },
+        {
+            "actor": "Dan van Husen",
+            "character": "U-Boat First Officer"
+        },
+        {
+            "actor": "George Mikell",
+            "character": "Captain of Ehrenfels"
+        },
+        {
+            "actor": "Jürgen Andersen",
+            "character": "First Officer of Ehrenfels"
+        },
+        {
+            "actor": "Bernard Archard",
+            "character": "Underhill"
+        },
+        {
+            "actor": "Martin Benson",
+            "character": "Mr. Montero"
+        },
+        {
+            "actor": "Percy Herbert",
+            "character": "Dennison"
+        },
+        {
+            "actor": "Donald Houston",
+            "character": "Hilliard"
+        },
+        {
+            "actor": "Glyn Houston",
+            "character": "Peters"
+        },
+        {
+            "actor": "Terence Longdon",
+            "character": "Malvern"
+        },
+        {
+            "actor": "Allan Cuthbertson",
+            "character": "Dickie Melborne"
+        },
+        {
+            "actor": "Faith Brook",
+            "character": "Mrs Doris Grice"
+        },
+        {
+            "actor": "John Standing",
+            "character": "Finley"
+        },
+        {
+            "actor": "Graham Stark",
+            "character": "Don Manners"
+        },
+        {
+            "actor": "Jack Watson",
+            "character": "Maclean"
+        },
+        {
+            "actor": "Moray Watson",
+            "character": "Breen"
+        },
+        {
+            "actor": "Michael Medwin",
+            "character": "Langley"
+        },
+        {
+            "actor": "William Morgan Sheppard",
+            "character": "'Patch' Lovecroft"
+        },
+        {
+            "actor": "Patrick Holt",
+            "character": "Barker"
+        },
+        {
+            "actor": "Clifford Earl",
+            "character": "Sloane"
+        },
+        {
+            "actor": "Keith Stevenson",
+            "character": "Manuel"
+        },
+        {
+            "actor": "Brook Williams",
+            "character": "Butterworth"
+        },
+        {
+            "actor": "Victor Langley",
+            "character": "Williamson"
+        },
+        {
+            "actor": "Marc Zuber",
+            "character": "Ram Das Gupta"
+        },
+        {
+            "actor": "Mohan Agashe",
+            "character": "Brothel Keeper"
+        }
+    ]
+}

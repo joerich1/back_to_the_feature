@@ -1,0 +1,468 @@
+{
+    "adult": false,
+    "backdrop_path": "/2BiBj49zY1mwj9rOMLkDMyPYpLs.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 83096,
+    "imdb_id": "tt0068619",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ganja & Hess",
+    "overview": "After being stabbed with an ancient, germ-infested knife, a doctor finds himself with an insatiable desire for blood.",
+    "popularity": 2.188,
+    "poster_path": "/gXH43R5Avru4YPUF7WoQLrxPUP2.jpg",
+    "production_companies": [
+        {
+            "id": 16118,
+            "logo_path": null,
+            "name": "Kelly/Jordan Enterprises",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1973-04-20",
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Some Marriages Are Made In Heaven. Others Are Made In Hell.",
+    "title": "Ganja & Hess",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 62,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD & Blu-Ray",
+                        "release_date": "2021-04-06T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "New York City, New York",
+                        "release_date": "1973-04-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 125128,
+                "known_for_department": "Acting",
+                "name": "Marlene Clark",
+                "original_name": "Marlene Clark",
+                "popularity": 0.013,
+                "profile_path": "/adus03JWLzgSzWkj1v70xzjXyPx.jpg",
+                "cast_id": 2,
+                "character": "Ganja Meda",
+                "credit_id": "52fe488a9251416c91090051",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97912,
+                "known_for_department": "Acting",
+                "name": "Duane Jones",
+                "original_name": "Duane Jones",
+                "popularity": 0.015,
+                "profile_path": "/6IKcAo7UwByTM3U8awBBuJlHAQs.jpg",
+                "cast_id": 3,
+                "character": "Dr. Hess Green",
+                "credit_id": "52fe488a9251416c91090055",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 929202,
+                "known_for_department": "Writing",
+                "name": "Bill Gunn",
+                "original_name": "Bill Gunn",
+                "popularity": 0.01,
+                "profile_path": "/7WckY0HGPfF0JzPO8JDT8AEpxFF.jpg",
+                "cast_id": 4,
+                "character": "George Meda",
+                "credit_id": "52fe488a9251416c91090059",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197475,
+                "known_for_department": "Sound",
+                "name": "Sam Waymon",
+                "original_name": "Sam Waymon",
+                "popularity": 0.001,
+                "profile_path": "/lZtHTLfAg9Xmx9Mbnt5TvcC3Whs.jpg",
+                "cast_id": 5,
+                "character": "Rev. Luther Williams",
+                "credit_id": "52fe488a9251416c9109005d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13315,
+                "known_for_department": "Acting",
+                "name": "Leonard Jackson",
+                "original_name": "Leonard Jackson",
+                "popularity": 0.007,
+                "profile_path": "/cmZkWmjxpCJiAa4ciJrhS7DERH3.jpg",
+                "cast_id": 6,
+                "character": "Archie",
+                "credit_id": "52fe488a9251416c91090061",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1197476,
+                "known_for_department": "Acting",
+                "name": "Candece Tarpley",
+                "original_name": "Candece Tarpley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Girl in Bar",
+                "credit_id": "52fe488a9251416c91090065",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197477,
+                "known_for_department": "Acting",
+                "name": "Richard Harrow",
+                "original_name": "Richard Harrow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Dinner Guest",
+                "credit_id": "52fe488a9251416c91090069",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197478,
+                "known_for_department": "Acting",
+                "name": "John Hoffmeister",
+                "original_name": "John Hoffmeister",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Jack Sargent",
+                "credit_id": "52fe488a9251416c9109006d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197479,
+                "known_for_department": "Acting",
+                "name": "Betty Barney",
+                "original_name": "Betty Barney",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Singer in Church",
+                "credit_id": "52fe488a9251416c91090071",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52031,
+                "known_for_department": "Acting",
+                "name": "Mabel King",
+                "original_name": "Mabel King",
+                "popularity": 0.025,
+                "profile_path": "/ntJU1E8qARhjsDiLsa261IXdihN.jpg",
+                "cast_id": 11,
+                "character": "Queen of Myrthia",
+                "credit_id": "52fe488a9251416c91090075",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2557337,
+                "known_for_department": "Acting",
+                "name": "Betsy Thurman",
+                "original_name": "Betsy Thurman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Poetess",
+                "credit_id": "5e6097b2a2d2e900185d0415",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2557341,
+                "known_for_department": "Acting",
+                "name": "Enrico Fales",
+                "original_name": "Enrico Fales",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Dr. Green’s Son",
+                "credit_id": "5e6097d99b861600180193ee",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10228,
+                "known_for_department": "Acting",
+                "name": "Tommy Lane",
+                "original_name": "Tommy Lane",
+                "popularity": 0.005,
+                "profile_path": "/yxK7bw1EoiLnjzPx1QIi7cdSxzP.jpg",
+                "cast_id": 22,
+                "character": "Pimp",
+                "credit_id": "5e6097f755c92600155886eb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2557342,
+                "known_for_department": "Acting",
+                "name": "Tara Fields",
+                "original_name": "Tara Fields",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Woman with Baby",
+                "credit_id": "5e609820459ad60011525d25",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197481,
+                "known_for_department": "Production",
+                "name": "Jack Jordan",
+                "original_name": "Jack Jordan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe488a9251416c91090081",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1197483,
+                "known_for_department": "Camera",
+                "name": "James E. Hinton",
+                "original_name": "James E. Hinton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe488a9251416c91090093",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197482,
+                "known_for_department": "Production",
+                "name": "Quentin Kelly",
+                "original_name": "Quentin Kelly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe488a9251416c91090087",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197475,
+                "known_for_department": "Sound",
+                "name": "Sam Waymon",
+                "original_name": "Sam Waymon",
+                "popularity": 0.001,
+                "profile_path": "/lZtHTLfAg9Xmx9Mbnt5TvcC3Whs.jpg",
+                "credit_id": "52fe488a9251416c9109008d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1192222,
+                "known_for_department": "Editing",
+                "name": "Victor Kanefsky",
+                "original_name": "Victor Kanefsky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe488a9251416c9109009f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1197480,
+                "known_for_department": "Production",
+                "name": "Chiz Schultz",
+                "original_name": "Chiz Schultz",
+                "popularity": 0.001,
+                "profile_path": "/7RoQPARyPPSbmME6yIr76GV0eST.jpg",
+                "credit_id": "52fe488a9251416c9109007b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 929202,
+                "known_for_department": "Writing",
+                "name": "Bill Gunn",
+                "original_name": "Bill Gunn",
+                "popularity": 0.01,
+                "profile_path": "/7WckY0HGPfF0JzPO8JDT8AEpxFF.jpg",
+                "credit_id": "52fe488a9251416c91090099",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 929202,
+                "known_for_department": "Writing",
+                "name": "Bill Gunn",
+                "original_name": "Bill Gunn",
+                "popularity": 0.01,
+                "profile_path": "/7WckY0HGPfF0JzPO8JDT8AEpxFF.jpg",
+                "credit_id": "56a62e4bc3a36838a3009999",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3133,
+                "name": "vampire"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Marlene Clark",
+            "character": "Ganja Meda"
+        },
+        {
+            "actor": "Duane Jones",
+            "character": "Dr. Hess Green"
+        },
+        {
+            "actor": "Bill Gunn",
+            "character": "George Meda"
+        },
+        {
+            "actor": "Sam Waymon",
+            "character": "Rev. Luther Williams"
+        },
+        {
+            "actor": "Leonard Jackson",
+            "character": "Archie"
+        },
+        {
+            "actor": "Candece Tarpley",
+            "character": "Girl in Bar"
+        },
+        {
+            "actor": "Richard Harrow",
+            "character": "Dinner Guest"
+        },
+        {
+            "actor": "John Hoffmeister",
+            "character": "Jack Sargent"
+        },
+        {
+            "actor": "Betty Barney",
+            "character": "Singer in Church"
+        },
+        {
+            "actor": "Mabel King",
+            "character": "Queen of Myrthia"
+        },
+        {
+            "actor": "Betsy Thurman",
+            "character": "Poetess"
+        },
+        {
+            "actor": "Enrico Fales",
+            "character": "Dr. Green’s Son"
+        },
+        {
+            "actor": "Tommy Lane",
+            "character": "Pimp"
+        },
+        {
+            "actor": "Tara Fields",
+            "character": "Woman with Baby"
+        }
+    ]
+}

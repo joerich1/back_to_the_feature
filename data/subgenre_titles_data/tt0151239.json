@@ -1,0 +1,594 @@
+{
+    "adult": false,
+    "backdrop_path": "/bZspDUtQxLpQUUa0EFmmtq28zez.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 40129,
+    "imdb_id": "tt0151239",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Kolobos",
+    "overview": "Five young individuals agree to live in an isolated lodge together and have their daily activities filmed. But soon the house is locked down and they each run into the murderous clutches of a faceless serial killer who may not be working alone.",
+    "popularity": 1.913,
+    "poster_path": "/vz71EgLOHD7j2SgMdGVrz9d3bfM.jpg",
+    "production_companies": [
+        {
+            "id": 116975,
+            "logo_path": null,
+            "name": "Armitage Pictures",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-09-28",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Scream... You're On TV",
+    "title": "Kolobos",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 54,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1999-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1999-09-28T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 94023,
+                "known_for_department": "Acting",
+                "name": "Amy Weber",
+                "original_name": "Amy Weber",
+                "popularity": 0.017,
+                "profile_path": "/d3CxMAPJN3e7JGtW8NB5QUkhloJ.jpg",
+                "cast_id": 1,
+                "character": "Kyra",
+                "credit_id": "52fe4582c3a36847f80cb56f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1110555,
+                "known_for_department": "Acting",
+                "name": "Donny Terranova",
+                "original_name": "Donny Terranova",
+                "popularity": 0.001,
+                "profile_path": "/4FOa0LZfF66QbC4uNzB6c1XiLJn.jpg",
+                "cast_id": 6,
+                "character": "Tom",
+                "credit_id": "52fe4582c3a36847f80cb583",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1110556,
+                "known_for_department": "Acting",
+                "name": "Nichole Pelerine",
+                "original_name": "Nichole Pelerine",
+                "popularity": 0.002,
+                "profile_path": "/r1HaosaBmxlRXvYbvsZjmPFtIu5.jpg",
+                "cast_id": 7,
+                "character": "Erica",
+                "credit_id": "52fe4582c3a36847f80cb587",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179679,
+                "known_for_department": "Acting",
+                "name": "John Fairlie",
+                "original_name": "John Fairlie",
+                "popularity": 0.001,
+                "profile_path": "/gl20GxXwTmKWYPHj94U7HNYXCAJ.jpg",
+                "cast_id": 8,
+                "character": "Gary",
+                "credit_id": "52fe4582c3a36847f80cb58b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 141292,
+                "known_for_department": "Acting",
+                "name": "Promise LaMarco",
+                "original_name": "Promise LaMarco",
+                "popularity": 0.002,
+                "profile_path": "/uRVONHRF3a42795gEntj3Z94iRO.jpg",
+                "cast_id": 2,
+                "character": "Tina",
+                "credit_id": "52fe4582c3a36847f80cb573",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 109667,
+                "known_for_department": "Acting",
+                "name": "Ilia Volok",
+                "original_name": "Ilia Volok",
+                "popularity": 0.025,
+                "profile_path": "/vkzEmYELgEsmbSJmh2RALnBYCR7.jpg",
+                "cast_id": 3,
+                "character": "Faceless",
+                "credit_id": "52fe4582c3a36847f80cb577",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97619,
+                "known_for_department": "Acting",
+                "name": "Linnea Quigley",
+                "original_name": "Linnea Quigley",
+                "popularity": 0.03,
+                "profile_path": "/7lQMINbYT5NVfcwBXM89tMuS8Lj.jpg",
+                "cast_id": 5,
+                "character": "Dorothy",
+                "credit_id": "52fe4582c3a36847f80cb57f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 141293,
+                "known_for_department": "Acting",
+                "name": "Mari Weiss",
+                "original_name": "Mari Weiss",
+                "popularity": 0.017,
+                "profile_path": "/poOqhxdRbrKhpdtREDVIevzVAUn.jpg",
+                "cast_id": 4,
+                "character": "Lucille",
+                "credit_id": "52fe4582c3a36847f80cb57b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1110557,
+                "known_for_department": "Acting",
+                "name": "Kim Simms Thomas",
+                "original_name": "Kim Simms Thomas",
+                "popularity": 0.003,
+                "profile_path": "/wWJZZPhGv6m4jgwM2KK7jrKIAQr.jpg",
+                "cast_id": 15,
+                "character": "Dr. Waldman",
+                "credit_id": "5b6d7f110e0a267eed15573e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 974978,
+                "known_for_department": "Acting",
+                "name": "Todd Beadle",
+                "original_name": "Todd Beadle",
+                "popularity": 0.001,
+                "profile_path": "/sVOoSXnuGu7Ip730h5KWLMWeaR9.jpg",
+                "cast_id": 10,
+                "character": "Dr. Jurgen",
+                "credit_id": "52fe4582c3a36847f80cb593",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1110558,
+                "known_for_department": "Acting",
+                "name": "Jonathan Rone",
+                "original_name": "Jonathan Rone",
+                "popularity": 0.001,
+                "profile_path": "/fclQnI0QZUtL4EEZhdb6uBExc7n.jpg",
+                "cast_id": 11,
+                "character": "Carl",
+                "credit_id": "52fe4582c3a36847f80cb597",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 184439,
+                "known_for_department": "Acting",
+                "name": "Ivan Battee",
+                "original_name": "Ivan Battee",
+                "popularity": 0.001,
+                "profile_path": "/u8go7a1BvkicJMu06XDfWrLtAA3.jpg",
+                "cast_id": 12,
+                "character": "Detective Byers",
+                "credit_id": "52fe4582c3a36847f80cb59b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2286127,
+                "known_for_department": "Directing",
+                "name": "David Todd Ocvirk",
+                "original_name": "David Todd Ocvirk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Roommate with Camera - Intro (uncredited)",
+                "credit_id": "5dafdff71cac8c001b0d8252",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1136936,
+                "known_for_department": "Acting",
+                "name": "Jeremy Kendall",
+                "original_name": "Jeremy Kendall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "607085e697eab40058e0310a",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1744947,
+                "known_for_department": "Acting",
+                "name": "Laura Walker",
+                "original_name": "Laura Walker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "6070861a1ad93b0040cf3964",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1110560,
+                "known_for_department": "Production",
+                "name": "Nne Ebong",
+                "original_name": "Nne Ebong",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60708649c525c40058695a60",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2490555,
+                "known_for_department": "Production",
+                "name": "Dana Altman",
+                "original_name": "Dana Altman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60708654cd2046002a58c34e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3045295,
+                "known_for_department": "Production",
+                "name": "Edward R. Taylor",
+                "original_name": "Edward R. Taylor",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "607086629979d20058b24fe0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3045299,
+                "known_for_department": "Art",
+                "name": "Preston Fischer",
+                "original_name": "Preston Fischer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6070868a1ad93b00779c7ca1",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29219,
+                "known_for_department": "Art",
+                "name": "Dennis Davenport",
+                "original_name": "Dennis Davenport",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "6070869812b10e00299cfe29",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3045303,
+                "known_for_department": "Art",
+                "name": "Michelle Martinez",
+                "original_name": "Michelle Martinez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "607086b2924ce5005640278e",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 175183,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jason Collins",
+                "original_name": "Jason Collins",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "6070884de92d83006de57dc3",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Effects Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 112610,
+                "known_for_department": "Sound",
+                "name": "George R. Groves Jr.",
+                "original_name": "George R. Groves Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6070890a97eab4007967471e",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1265153,
+                "known_for_department": "Sound",
+                "name": "Jeremy Hoenack",
+                "original_name": "Jeremy Hoenack",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "60708917a06645005920ea07",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1110559,
+                "known_for_department": "Directing",
+                "name": "Daniel Liatowitsch",
+                "original_name": "Daniel Liatowitsch",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4582c3a36847f80cb5a1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1110560,
+                "known_for_department": "Production",
+                "name": "Nne Ebong",
+                "original_name": "Nne Ebong",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4582c3a36847f80cb5a7",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2286127,
+                "known_for_department": "Directing",
+                "name": "David Todd Ocvirk",
+                "original_name": "David Todd Ocvirk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5caf11b2c3a3683c22aa10c1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2286131,
+                "known_for_department": "Sound",
+                "name": "William Kidd",
+                "original_name": "William Kidd",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5caf12139251412fb321d054",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36048,
+                "known_for_department": "Camera",
+                "name": "Yoram Astrakhan",
+                "original_name": "Yoram Astrakhan",
+                "popularity": 0.001,
+                "profile_path": "/7Dp7GUqCY3AMHowwhS0kcIJOQBv.jpg",
+                "credit_id": "5caf1236c3a3683c2baa25b3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2286132,
+                "known_for_department": "Editing",
+                "name": "Brian Olson",
+                "original_name": "Brian Olson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5caf12520e0a2626cac235ba",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2286127,
+                "known_for_department": "Directing",
+                "name": "David Todd Ocvirk",
+                "original_name": "David Todd Ocvirk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dafdfc9ecaef500172472bd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1110559,
+                "known_for_department": "Directing",
+                "name": "Daniel Liatowitsch",
+                "original_name": "Daniel Liatowitsch",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5dafe405dc1cb400172851c7",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 12339,
+                "name": "slasher"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Amy Weber",
+            "character": "Kyra"
+        },
+        {
+            "actor": "Donny Terranova",
+            "character": "Tom"
+        },
+        {
+            "actor": "Nichole Pelerine",
+            "character": "Erica"
+        },
+        {
+            "actor": "John Fairlie",
+            "character": "Gary"
+        },
+        {
+            "actor": "Promise LaMarco",
+            "character": "Tina"
+        },
+        {
+            "actor": "Ilia Volok",
+            "character": "Faceless"
+        },
+        {
+            "actor": "Linnea Quigley",
+            "character": "Dorothy"
+        },
+        {
+            "actor": "Mari Weiss",
+            "character": "Lucille"
+        },
+        {
+            "actor": "Kim Simms Thomas",
+            "character": "Dr. Waldman"
+        },
+        {
+            "actor": "Todd Beadle",
+            "character": "Dr. Jurgen"
+        },
+        {
+            "actor": "Jonathan Rone",
+            "character": "Carl"
+        },
+        {
+            "actor": "Ivan Battee",
+            "character": "Detective Byers"
+        },
+        {
+            "actor": "David Todd Ocvirk",
+            "character": "Roommate with Camera - Intro (uncredited)"
+        },
+        {
+            "actor": "Jeremy Kendall",
+            "character": ""
+        },
+        {
+            "actor": "Laura Walker",
+            "character": ""
+        }
+    ]
+}

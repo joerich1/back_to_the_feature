@@ -1,0 +1,746 @@
+{
+    "adult": false,
+    "backdrop_path": "/elCFkGsva8a9iDwHbe8E11b2gwy.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        }
+    ],
+    "homepage": "",
+    "id": 41823,
+    "imdb_id": "tt0100168",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mo' Better Blues",
+    "overview": "Talented but self-centered trumpeter Bleek Gilliam is obsessed with his music and indecisiveness about his girlfriends Indigo and Clarke. But when he is forced to come to the aid of his manager and childhood friend, Bleek finds his world more fragile than he ever imagined.",
+    "popularity": 3.78,
+    "poster_path": "/223W6PWAiYb3BX2rbFvzjbDDIvz.jpg",
+    "production_companies": [
+        {
+            "id": 4319,
+            "logo_path": "/dU4Y8EqPLCz6jARM63NwGhr4DcG.png",
+            "name": "40 Acres and a Mule Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 33,
+            "logo_path": "/3wwjVpkZtnog6lSKzWDjvw2Yi00.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1990-08-03",
+    "revenue": 16153593,
+    "runtime": 129,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mo' Better Blues",
+    "video": false,
+    "vote_average": 6.477,
+    "vote_count": 236,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-09-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-11-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "New York City, New York",
+                        "release_date": "1990-07-23T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-08-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5292,
+                "known_for_department": "Acting",
+                "name": "Denzel Washington",
+                "original_name": "Denzel Washington",
+                "popularity": 0.181,
+                "profile_path": "/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg",
+                "cast_id": 3,
+                "character": "Bleek Gilliam",
+                "credit_id": "52fe45dfc3a36847f80df4eb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "cast_id": 4,
+                "character": "Giant",
+                "credit_id": "52fe45dfc3a36847f80df4ef",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10814,
+                "known_for_department": "Acting",
+                "name": "Wesley Snipes",
+                "original_name": "Wesley Snipes",
+                "popularity": 0.115,
+                "profile_path": "/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg",
+                "cast_id": 5,
+                "character": "Shadow Henderson (Sax)",
+                "credit_id": "52fe45dfc3a36847f80df4f3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4808,
+                "known_for_department": "Acting",
+                "name": "Giancarlo Esposito",
+                "original_name": "Giancarlo Esposito",
+                "popularity": 0.172,
+                "profile_path": "/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg",
+                "cast_id": 6,
+                "character": "Left Hand Lacey (Piano)",
+                "credit_id": "52fe45dfc3a36847f80df4f7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1241,
+                "known_for_department": "Acting",
+                "name": "John Turturro",
+                "original_name": "John Turturro",
+                "popularity": 0.114,
+                "profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg",
+                "cast_id": 7,
+                "character": "Moe Flatbush",
+                "credit_id": "52fe45dfc3a36847f80df4fb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32897,
+                "known_for_department": "Acting",
+                "name": "Nicholas Turturro",
+                "original_name": "Nicholas Turturro",
+                "popularity": 0.055,
+                "profile_path": "/ljkk4jMBlYvYg02LHeeAK8DqoYM.jpg",
+                "cast_id": 11,
+                "character": "Josh Flatbush",
+                "credit_id": "58a3e2729251415796003692",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15535,
+                "known_for_department": "Acting",
+                "name": "Robin Harris",
+                "original_name": "Robin Harris",
+                "popularity": 0.018,
+                "profile_path": "/o6a3MvOZjdxsMbmbWSTlSBlRUVZ.jpg",
+                "cast_id": 12,
+                "character": "Butterbean Jones",
+                "credit_id": "58a3e29c92514157b200361b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13602,
+                "known_for_department": "Acting",
+                "name": "Joie Lee",
+                "original_name": "Joie Lee",
+                "popularity": 0.012,
+                "profile_path": "/jv3l0csEmVVOMNSmhKrOT543vqm.jpg",
+                "cast_id": 13,
+                "character": "Indigo",
+                "credit_id": "58a3e2ad92514157a50036fb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17840,
+                "known_for_department": "Acting",
+                "name": "Charlie Murphy",
+                "original_name": "Charlie Murphy",
+                "popularity": 0.044,
+                "profile_path": "/9Njuxc67Jks0j8GmDm8KUV3ldse.jpg",
+                "cast_id": 10,
+                "character": "Eggy",
+                "credit_id": "58a3e23592514157b20035d2",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87117,
+                "known_for_department": "Acting",
+                "name": "Cynda Williams",
+                "original_name": "Cynda Williams",
+                "popularity": 0.005,
+                "profile_path": "/bIbOHbKv0MhTTACncRR38r2JnlQ.jpg",
+                "cast_id": 14,
+                "character": "Clarke Bentancourt",
+                "credit_id": "58a3e2c1c3a368393b0031e4",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 146253,
+                "known_for_department": "Acting",
+                "name": "Flavor Flav",
+                "original_name": "Flavor Flav",
+                "popularity": 0.032,
+                "profile_path": "/xhnAW4sC8dkC5twDnzV6HBCd7gz.jpg",
+                "cast_id": 15,
+                "character": "Impatient Movie Patron",
+                "credit_id": "58a3e2e7c3a368391a003840",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5502,
+                "known_for_department": "Acting",
+                "name": "Bill Nunn",
+                "original_name": "Bill Nunn",
+                "popularity": 0.049,
+                "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg",
+                "cast_id": 17,
+                "character": "Bottom Hammer",
+                "credit_id": "598d3bf492514178b1007a81",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1911,
+                "known_for_department": "Acting",
+                "name": "Dick Anthony Williams",
+                "original_name": "Dick Anthony Williams",
+                "popularity": 0.016,
+                "profile_path": "/j2QHvbxwMa5don7IieIwZyBsIS1.jpg",
+                "cast_id": 18,
+                "character": "Big Stop Williams",
+                "credit_id": "598d3c1d92514178ec007902",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2231,
+                "known_for_department": "Acting",
+                "name": "Samuel L. Jackson",
+                "original_name": "Samuel L. Jackson",
+                "popularity": 0.264,
+                "profile_path": "/aF7jIjZ66M0af5c02P9Duzq1zO7.jpg",
+                "cast_id": 8,
+                "character": "Madlock",
+                "credit_id": "52fe45dfc3a36847f80df4ff",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99358,
+                "known_for_department": "Acting",
+                "name": "Tracy Camilla Johns",
+                "original_name": "Tracy Camilla Johns",
+                "popularity": 0.017,
+                "profile_path": "/fXjcnepCTGfd0bJJs6O2XieCgCP.jpg",
+                "cast_id": 22,
+                "character": "Club Patron",
+                "credit_id": "5dc32d8e7d2bc100133c82ad",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33662,
+                "known_for_department": "Acting",
+                "name": "Coati Mundi",
+                "original_name": "Coati Mundi",
+                "popularity": 0.006,
+                "profile_path": "/yEKCYlbLCmd1D856wvmK1ATs6AG.jpg",
+                "cast_id": 23,
+                "character": "Roberto",
+                "credit_id": "5ec092928e2e00002016b1c6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1673564,
+                "known_for_department": "Acting",
+                "name": "Scot Anthony Robinson",
+                "original_name": "Scot Anthony Robinson",
+                "popularity": 0.001,
+                "profile_path": "/jUknyHHmGGq565jnnrXovswgMrb.jpg",
+                "cast_id": 31,
+                "character": "Cooley",
+                "credit_id": "61fb8065fe6c1800f43a2edf",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 174651,
+                "known_for_department": "Acting",
+                "name": "Abbey Lincoln",
+                "original_name": "Abbey Lincoln",
+                "popularity": 0.01,
+                "profile_path": "/sSsaBSFSjkVrwOl8sdrkIuHqpPZ.jpg",
+                "cast_id": 32,
+                "character": "Lillian Gilliam",
+                "credit_id": "62b621c120ecaf008a29ab1f",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2049,
+                "known_for_department": "Acting",
+                "name": "Rubén Blades",
+                "original_name": "Rubén Blades",
+                "popularity": 0.021,
+                "profile_path": "/kOgVo3qDJ9jXgIZJRJI3I1bm6sA.jpg",
+                "cast_id": 33,
+                "character": "Petey",
+                "credit_id": "637ae38731644b007d811baa",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20158,
+                "known_for_department": "Acting",
+                "name": "Diahann Carroll",
+                "original_name": "Diahann Carroll",
+                "popularity": 0.026,
+                "profile_path": "/7LrrYWQykcL0mFaGhXshwVCoByZ.jpg",
+                "cast_id": 34,
+                "character": "Jazz Club Singer (uncredited)",
+                "credit_id": "637ae4a95b2f47009ba9e30f",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15537,
+                "known_for_department": "Acting",
+                "name": "Leonard L. Thomas",
+                "original_name": "Leonard L. Thomas",
+                "popularity": 0.016,
+                "profile_path": "/5s5Zg61G02YtLTKJ7VEvMPeAlwS.jpg",
+                "cast_id": 39,
+                "character": "Rod",
+                "credit_id": "660096e2770700014907b2ba",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "52fe45dfc3a36847f80df4e7",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "52fe45dfc3a36847f80df4e1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15521,
+                "known_for_department": "Directing",
+                "name": "Ernest R. Dickerson",
+                "original_name": "Ernest R. Dickerson",
+                "popularity": 0.017,
+                "profile_path": "/95LqJiPlj202gZchzpHg7XR5axe.jpg",
+                "credit_id": "57dd70cc9251417853000387",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15520,
+                "known_for_department": "Sound",
+                "name": "Bill Lee",
+                "original_name": "Bill Lee",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "59151e459251415723015ea0",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "598d3c4292514178b1007b99",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18747,
+                "known_for_department": "Directing",
+                "name": "Sam Pollard",
+                "original_name": "Sam Pollard",
+                "popularity": 0.013,
+                "profile_path": "/mTbWlbu2yB4BtoouBlpByg4GSfe.jpg",
+                "credit_id": "598d3c5492514178a4008460",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9619,
+                "known_for_department": "Sound",
+                "name": "Skip Lievsay",
+                "original_name": "Skip Lievsay",
+                "popularity": 0.02,
+                "profile_path": "/2whUczAYkjZYOytRoaw0iOmCX0K.jpg",
+                "credit_id": "5b36ca16c3a3685322035479",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1606659,
+                "known_for_department": "Directing",
+                "name": "Randy Fletcher",
+                "original_name": "Randy Fletcher",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "64c2bdd87d5f4b011c784581",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2753745,
+                "known_for_department": "Directing",
+                "name": "Dale Pierce-Johnson",
+                "original_name": "Dale Pierce-Johnson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64c2bdf3b4224200ff64bcaa",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2257981,
+                "known_for_department": "Directing",
+                "name": "Dale M. Nielsen",
+                "original_name": "Dale M. Nielsen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64c2bdeb46aed4011edb4d8c",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 280800,
+                "known_for_department": "Directing",
+                "name": "H.H. Cooper",
+                "original_name": "H.H. Cooper",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "64c2bde13520e800e2363b93",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18748,
+                "known_for_department": "Art",
+                "name": "Ted Glass",
+                "original_name": "Ted Glass",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5f2239e1df857c0036dbb3a5",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548,
+                "known_for_department": "Art",
+                "name": "Wynn Thomas",
+                "original_name": "Wynn Thomas",
+                "popularity": 0.007,
+                "profile_path": "/2GhJIKpC5MseBxEk3ZTb8xSv9ie.jpg",
+                "credit_id": "5f2239cdc048a9003635148a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15524,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ruth E. Carter",
+                "original_name": "Ruth E. Carter",
+                "popularity": 0.012,
+                "profile_path": "/ou4DhIfOTd5FYIvPypV53Fdois6.jpg",
+                "credit_id": "5f2239ed5b2f4700374db38c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4446,
+                "known_for_department": "Production",
+                "name": "Jon Kilik",
+                "original_name": "Jon Kilik",
+                "popularity": 0.017,
+                "profile_path": "/gxNOHTVIUSACPZzNzcyi50SViid.jpg",
+                "credit_id": "5f22390243999b003455f7b5",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 959805,
+                "known_for_department": "Production",
+                "name": "Monty Ross",
+                "original_name": "Monty Ross",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5f22399743999b00375927c7",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15522,
+                "known_for_department": "Production",
+                "name": "Robi Reed",
+                "original_name": "Robi Reed",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "5f2239bdc048a900342f6125",
+                "department": "Production",
+                "job": "Casting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1332202,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marjorie Durand",
+                "original_name": "Marjorie Durand",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5f223a09caaca200336d3f84",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4232,
+                "name": "melancholy"
+            },
+            {
+                "id": 325761,
+                "name": "admiring"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Denzel Washington",
+            "character": "Bleek Gilliam"
+        },
+        {
+            "actor": "Spike Lee",
+            "character": "Giant"
+        },
+        {
+            "actor": "Wesley Snipes",
+            "character": "Shadow Henderson (Sax)"
+        },
+        {
+            "actor": "Giancarlo Esposito",
+            "character": "Left Hand Lacey (Piano)"
+        },
+        {
+            "actor": "John Turturro",
+            "character": "Moe Flatbush"
+        },
+        {
+            "actor": "Nicholas Turturro",
+            "character": "Josh Flatbush"
+        },
+        {
+            "actor": "Robin Harris",
+            "character": "Butterbean Jones"
+        },
+        {
+            "actor": "Joie Lee",
+            "character": "Indigo"
+        },
+        {
+            "actor": "Charlie Murphy",
+            "character": "Eggy"
+        },
+        {
+            "actor": "Cynda Williams",
+            "character": "Clarke Bentancourt"
+        },
+        {
+            "actor": "Flavor Flav",
+            "character": "Impatient Movie Patron"
+        },
+        {
+            "actor": "Bill Nunn",
+            "character": "Bottom Hammer"
+        },
+        {
+            "actor": "Dick Anthony Williams",
+            "character": "Big Stop Williams"
+        },
+        {
+            "actor": "Samuel L. Jackson",
+            "character": "Madlock"
+        },
+        {
+            "actor": "Tracy Camilla Johns",
+            "character": "Club Patron"
+        },
+        {
+            "actor": "Coati Mundi",
+            "character": "Roberto"
+        },
+        {
+            "actor": "Scot Anthony Robinson",
+            "character": "Cooley"
+        },
+        {
+            "actor": "Abbey Lincoln",
+            "character": "Lillian Gilliam"
+        },
+        {
+            "actor": "Rubén Blades",
+            "character": "Petey"
+        },
+        {
+            "actor": "Diahann Carroll",
+            "character": "Jazz Club Singer (uncredited)"
+        },
+        {
+            "actor": "Leonard L. Thomas",
+            "character": "Rod"
+        }
+    ]
+}

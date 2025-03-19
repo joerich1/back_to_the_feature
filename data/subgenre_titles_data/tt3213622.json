@@ -1,0 +1,346 @@
+{
+    "adult": false,
+    "backdrop_path": "/3j9jb4v4LxlDptmFCNCSxMlDcrt.jpg",
+    "belongs_to_collection": null,
+    "budget": 446000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.risemovie.com.au",
+    "id": 300600,
+    "imdb_id": "tt3213622",
+    "origin_country": [
+        "AU",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rise",
+    "overview": "The true story of a young man falsely accused of rape and sentenced to six years in a maximum security prison. He must rely on survival skills and an unlikely bond with an infamous inmate to prove his innocence and regain his freedom.",
+    "popularity": 0.322,
+    "poster_path": "/q8AsuiJnx9j28IY1ELkStmhhwM8.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2014-11-06",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Based on a true story, ‘Rise’ sees Will wrongly accused then stripped of his career and freedom, he must survive maximum security prison and the infamous Jimmy Cove to prove his innocence...",
+    "title": "Rise",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 9,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-11-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2017-10-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-11-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 169901,
+                "known_for_department": "Acting",
+                "name": "Martin Sacks",
+                "original_name": "Martin Sacks",
+                "popularity": 0.02,
+                "profile_path": "/1y90HaxuGdVVZaaWnoMN4lYUNJo.jpg",
+                "cast_id": 0,
+                "character": "Jimmy",
+                "credit_id": "54573e8fc3a3680b76004400",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1255055,
+                "known_for_department": "Acting",
+                "name": "Jessica Green",
+                "original_name": "Jessica Green",
+                "popularity": 0.024,
+                "profile_path": "/4JSodEaThdJfbJVYOdW6IvWLQZ6.jpg",
+                "cast_id": 1,
+                "character": "Amber",
+                "credit_id": "54573eb2c3a3686075001f98",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1422936,
+                "known_for_department": "Acting",
+                "name": "Nathan Wilson",
+                "original_name": "Nathan Wilson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Will McIntyre",
+                "credit_id": "54d21d389251411b6b0028c3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1422937,
+                "known_for_department": "Acting",
+                "name": "Erin Connor",
+                "original_name": "Erin Connor",
+                "popularity": 0.001,
+                "profile_path": "/F81yk8MeOJy1MhQqY3ROwS3CyQ.jpg",
+                "cast_id": 4,
+                "character": "Julie Nile",
+                "credit_id": "54d21d4b9251411b59002795",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1734874,
+                "known_for_department": "Acting",
+                "name": "Marty Rhone",
+                "original_name": "Marty Rhone",
+                "popularity": 0.001,
+                "profile_path": "/fnOaC8fkBQEwcCWxHmjOiS37LiF.jpg",
+                "cast_id": 7,
+                "character": "Fung Poi",
+                "credit_id": "59700389c3a3686fc70134a2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1854895,
+                "known_for_department": "Acting",
+                "name": "Jamie Josephs",
+                "original_name": "Jamie Josephs",
+                "popularity": 0.001,
+                "profile_path": "/14wiSe9WEBq9rKqKhTxeFQcFEUu.jpg",
+                "cast_id": 8,
+                "character": "Butch",
+                "credit_id": "59700415c3a3686f7c010e9a",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1854897,
+                "known_for_department": "Acting",
+                "name": "Rachel Kahan",
+                "original_name": "Rachel Kahan",
+                "popularity": 0.001,
+                "profile_path": "/yTEtwU89vVmuqPQQFQsjSiZLY4S.jpg",
+                "cast_id": 9,
+                "character": "Guard Wilkins",
+                "credit_id": "597005629251412d3d02d9cb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1854891,
+                "known_for_department": "Acting",
+                "name": "Rosie Keogh",
+                "original_name": "Rosie Keogh",
+                "popularity": 0.002,
+                "profile_path": "/vDDr2s5vPutD8wTCyLC2SlcRsh.jpg",
+                "cast_id": 10,
+                "character": "Jane Tier",
+                "credit_id": "59700577925141607b0236b4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1854886,
+                "known_for_department": "Acting",
+                "name": "Amanda McErlean",
+                "original_name": "Amanda McErlean",
+                "popularity": 0.001,
+                "profile_path": "/hbP71rSq9sfjNAbPOWUdODWuZ4o.jpg",
+                "cast_id": 11,
+                "character": "Guard Luxon",
+                "credit_id": "5970058e9251412d4c02b829",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2881089,
+                "known_for_department": "Acting",
+                "name": "Daniel Nelson",
+                "original_name": "Daniel Nelson",
+                "popularity": 0.012,
+                "profile_path": "/jfVtAqELfncHRHomUrTuVVYXrg.jpg",
+                "cast_id": 12,
+                "character": "Dog Guard 1",
+                "credit_id": "5fca42278261ee003e3e0ba2",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457509,
+                "known_for_department": "Acting",
+                "name": "Charles Allen",
+                "original_name": "Charles Allen",
+                "popularity": 0.001,
+                "profile_path": "/gVPFtWlef1tgT78t03MYMXXkB6J.jpg",
+                "cast_id": 13,
+                "character": "Brooksy",
+                "credit_id": "65d3e00f0f36550163e7b437",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1381188,
+                "known_for_department": "Writing",
+                "name": "Mack Lindon",
+                "original_name": "Mack Lindon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d21d76c3a36830820027f0",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1381188,
+                "known_for_department": "Writing",
+                "name": "Mack Lindon",
+                "original_name": "Mack Lindon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d21d919251411b6b0028cf",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 240,
+                "name": "underdog"
+            },
+            {
+                "id": 6974,
+                "name": "rise and fall"
+            },
+            {
+                "id": 12662,
+                "name": "wrongful imprisonment"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Martin Sacks",
+            "character": "Jimmy"
+        },
+        {
+            "actor": "Jessica Green",
+            "character": "Amber"
+        },
+        {
+            "actor": "Nathan Wilson",
+            "character": "Will McIntyre"
+        },
+        {
+            "actor": "Erin Connor",
+            "character": "Julie Nile"
+        },
+        {
+            "actor": "Marty Rhone",
+            "character": "Fung Poi"
+        },
+        {
+            "actor": "Jamie Josephs",
+            "character": "Butch"
+        },
+        {
+            "actor": "Rachel Kahan",
+            "character": "Guard Wilkins"
+        },
+        {
+            "actor": "Rosie Keogh",
+            "character": "Jane Tier"
+        },
+        {
+            "actor": "Amanda McErlean",
+            "character": "Guard Luxon"
+        },
+        {
+            "actor": "Daniel Nelson",
+            "character": "Dog Guard 1"
+        },
+        {
+            "actor": "Charles Allen",
+            "character": "Brooksy"
+        }
+    ]
+}

@@ -1,0 +1,931 @@
+{
+    "adult": false,
+    "backdrop_path": "/bXtkVDYcwyg9II0cHk6zhtzZGc3.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 338676,
+    "imdb_id": "tt3467412",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "en",
+    "original_title": "Extinction",
+    "overview": "And suddenly, overnight, the world came to a halt. Two men, two survivors, one kid, and hatred that separates them. A place forgotten by everyone, including the creatures that inhabit the Earth... until now.",
+    "popularity": 3.79,
+    "poster_path": "/zwIDreu9pYCqKpv4jomqVM9yX1e.jpg",
+    "production_companies": [
+        {
+            "id": 7345,
+            "logo_path": "/gB3XmmLmm3W4vpXyziCHHLtYpWN.png",
+            "name": "Vaca Films",
+            "origin_country": "ES"
+        },
+        {
+            "id": 10137,
+            "logo_path": null,
+            "name": "La Ferme! Productions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 12520,
+            "logo_path": "/5ZSrTHwVBehhBuZzCKvgP9rbVg7.png",
+            "name": "Laokoon Filmgroup",
+            "origin_country": "HU"
+        },
+        {
+            "id": 23513,
+            "logo_path": null,
+            "name": "Ombra Films",
+            "origin_country": "ES"
+        },
+        {
+            "id": 16742,
+            "logo_path": null,
+            "name": "Telefónica Studios",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "2015-08-07",
+    "revenue": 2350695,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "When the undead can evolve, no one is safe.",
+    "title": "Extinction",
+    "video": false,
+    "vote_average": 6.246,
+    "vote_count": 694,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-09-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2015-09-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2015-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "",
+                        "release_date": "2016-03-02T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2015-09-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-09-24T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-08-07T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2016-01-13T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2015-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 28657,
+                "known_for_department": "Acting",
+                "name": "Matthew Fox",
+                "original_name": "Matthew Fox",
+                "popularity": 0.088,
+                "profile_path": "/dkOr9OVCPydew2HU4tGXKrWISen.jpg",
+                "cast_id": 0,
+                "character": "Patrick",
+                "credit_id": "554746c29251413fc0005a85",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52886,
+                "known_for_department": "Acting",
+                "name": "Jeffrey Donovan",
+                "original_name": "Jeffrey Donovan",
+                "popularity": 0.062,
+                "profile_path": "/9Xt0mD54GOOuwN3SMRfr1KVTDkE.jpg",
+                "cast_id": 1,
+                "character": "Jack",
+                "credit_id": "554746cfc3a36816bf001daa",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1009160,
+                "known_for_department": "Acting",
+                "name": "Quinn McColgan",
+                "original_name": "Quinn McColgan",
+                "popularity": 0.004,
+                "profile_path": "/5YC84ZSKNjroJMjhelDevnAjBsw.jpg",
+                "cast_id": 2,
+                "character": "Lu",
+                "credit_id": "554746db92514111470013e1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1348364,
+                "known_for_department": "Acting",
+                "name": "Valeria Vereau",
+                "original_name": "Valeria Vereau",
+                "popularity": 0.003,
+                "profile_path": "/3Lc6YXaipPOTk2Eb1xiObb7S0c4.jpg",
+                "cast_id": 3,
+                "character": "Emma",
+                "credit_id": "554746e8925141114a001329",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 224731,
+                "known_for_department": "Acting",
+                "name": "Clara Lago",
+                "original_name": "Clara Lago",
+                "popularity": 0.05,
+                "profile_path": "/9AOxrciWElj0637MUO5U4K4YFuJ.jpg",
+                "cast_id": 4,
+                "character": "Woman",
+                "credit_id": "554746f392514119e0005e7b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25445,
+                "known_for_department": "Acting",
+                "name": "Matt Devere",
+                "original_name": "Matt Devere",
+                "popularity": 0.031,
+                "profile_path": "/5rgHPFJ028clroKVryimQWfQxUY.jpg",
+                "cast_id": 7,
+                "character": "Soldier 1",
+                "credit_id": "55c04ac3c3a368238c000db1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493395,
+                "known_for_department": "Acting",
+                "name": "Eduardo Fedriani",
+                "original_name": "Eduardo Fedriani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Creature 1",
+                "credit_id": "55c04a539251410f58000ea0",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 543845,
+                "known_for_department": "Acting",
+                "name": "Lili Bordán",
+                "original_name": "Lili Bordán",
+                "popularity": 0.022,
+                "profile_path": "/neylG7XGQuZpIPouQNOyI3YsQTk.jpg",
+                "cast_id": 11,
+                "character": "Wife",
+                "credit_id": "55c04b77c3a368238c000dd4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1114061,
+                "known_for_department": "Acting",
+                "name": "Alex Hafner",
+                "original_name": "Alex Hafner",
+                "popularity": 0.023,
+                "profile_path": "/tL5Es3oQUvHayAuLCYLLNiaQjMG.jpg",
+                "cast_id": 8,
+                "character": "Soldier 2",
+                "credit_id": "55c04ad7c3a36823f4000d3c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1493396,
+                "known_for_department": "Acting",
+                "name": "Jeremy Wheeler",
+                "original_name": "Jeremy Wheeler",
+                "popularity": 0.024,
+                "profile_path": "/qysjgXM9zSuaoqT6JGKzbVqCqH.jpg",
+                "cast_id": 9,
+                "character": "Bus Driver",
+                "credit_id": "55c04afbc3a36823f7000fb4",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493397,
+                "known_for_department": "Acting",
+                "name": "Katharine Bubbear",
+                "original_name": "Katharine Bubbear",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Young Girl",
+                "credit_id": "55c04b5e9251410f58000ebf",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588323,
+                "known_for_department": "Acting",
+                "name": "Julio Perillán",
+                "original_name": "Julio Perillán",
+                "popularity": 0.016,
+                "profile_path": "/9I8hltk6BQZZcwL0pvyh4sWpvW3.jpg",
+                "cast_id": 12,
+                "character": "Passenger",
+                "credit_id": "55c04b8ac3a36822fd000da9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1493398,
+                "known_for_department": "Acting",
+                "name": "Ádám Zambrzyscki",
+                "original_name": "Ádám Zambrzyscki",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Creature 3",
+                "credit_id": "55c04b9e9251410d7b000e13",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493399,
+                "known_for_department": "Acting",
+                "name": "Orsolya Bene",
+                "original_name": "Orsolya Bene",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Woman on Bus 2",
+                "credit_id": "55c04bbc9251410f27000f88",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493400,
+                "known_for_department": "Acting",
+                "name": "Daniel Bargueño",
+                "original_name": "Daniel Bargueño",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Creature 2",
+                "credit_id": "55c04bce9251410d95000ddc",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663854,
+                "known_for_department": "Acting",
+                "name": "István Bán",
+                "original_name": "István Bán",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Frozen Man",
+                "credit_id": "57aa1f96925141388c00731e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663866,
+                "known_for_department": "Acting",
+                "name": "Emília Gresicki",
+                "original_name": "Emília Gresicki",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Little Lu",
+                "credit_id": "57aa2f3cc3a3680ec5001ab2",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663867,
+                "known_for_department": "Acting",
+                "name": "Laura Juhász",
+                "original_name": "Laura Juhász",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Baby Lu",
+                "credit_id": "57aa2f93c3a368733b007a55",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663868,
+                "known_for_department": "Acting",
+                "name": "Kára Jurány",
+                "original_name": "Kára Jurány",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Frozen Woman",
+                "credit_id": "57aa2ffcc3a36873d80081c9",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1663869,
+                "known_for_department": "Acting",
+                "name": "Dénes Kiss",
+                "original_name": "Dénes Kiss",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Old Man",
+                "credit_id": "57aa3057c3a368733b007aa0",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663870,
+                "known_for_department": "Acting",
+                "name": "Nikolett Takács",
+                "original_name": "Nikolett Takács",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Woman on Bus 1",
+                "credit_id": "57aa31219251417e6a000662",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 938781,
+                "known_for_department": "Production",
+                "name": "Axel Kuschevatzky",
+                "original_name": "Axel Kuschevatzky",
+                "popularity": 0.012,
+                "profile_path": "/1JTLhOFZKvgcVe4Irt81xw2RsO4.jpg",
+                "credit_id": "6189545e35d1bc008c961a21",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140396,
+                "known_for_department": "Directing",
+                "name": "Miguel Ángel Vivas",
+                "original_name": "Miguel Ángel Vivas",
+                "popularity": 0.006,
+                "profile_path": "/Adqg3LmjwirV788fRdiI9yk0CBe.jpg",
+                "credit_id": "554747019251411889001e16",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54528,
+                "known_for_department": "Writing",
+                "name": "Alberto Marini",
+                "original_name": "Alberto Marini",
+                "popularity": 0.013,
+                "profile_path": "/f5HQElD4y1YYE9Oblwib2DIh1sm.jpg",
+                "credit_id": "55c0c9dcc3a36823f40019bf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140396,
+                "known_for_department": "Directing",
+                "name": "Miguel Ángel Vivas",
+                "original_name": "Miguel Ángel Vivas",
+                "popularity": 0.006,
+                "profile_path": "/Adqg3LmjwirV788fRdiI9yk0CBe.jpg",
+                "credit_id": "55c0c9f2c3a3682253001a0e",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493524,
+                "known_for_department": "Writing",
+                "name": "Juan de Dios Garduño",
+                "original_name": "Juan de Dios Garduño",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "55c0c9cb9251410d7b00197d",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1302764,
+                "known_for_department": "Editing",
+                "name": "Jordi López",
+                "original_name": "Jordi López",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4f98925141684c000fa3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1018073,
+                "known_for_department": "Production",
+                "name": "Reg Poerscout-Edgerton",
+                "original_name": "Reg Poerscout-Edgerton",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "57db4facc3a3681a8e000d8e",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1586323,
+                "known_for_department": "Art",
+                "name": "Judit Csák",
+                "original_name": "Judit Csák",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4fc6925141684c000fc7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1464779,
+                "known_for_department": "Camera",
+                "name": "Josu Inchaustegui",
+                "original_name": "Josu Inchaustegui",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4f8ac3a3681a2c000e8c",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6530,
+                "known_for_department": "Production",
+                "name": "Eva Leira",
+                "original_name": "Eva Leira",
+                "popularity": 0.018,
+                "profile_path": "/4GN5ktAhXpDz0ORAshczX8eqhgD.jpg",
+                "credit_id": "57db4fa5c3a3680783001224",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1374787,
+                "known_for_department": "Art",
+                "name": "Hedvig Király",
+                "original_name": "Hedvig Király",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4fcdc3a3681a1c000fb5",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16235,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Flesch",
+                "original_name": "Andrea Flesch",
+                "popularity": 0.006,
+                "profile_path": "/qI28UvgaSCbCEeXylueMeCam5on.jpg",
+                "credit_id": "57db5000c3a36807960011f4",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96694,
+                "known_for_department": "Sound",
+                "name": "Sergio Moure de Oteyza",
+                "original_name": "Sergio Moure de Oteyza",
+                "popularity": 0.002,
+                "profile_path": "/oWGQ9ZXux01SZplsmOthFa9R0R4.jpg",
+                "credit_id": "57db4f84925141684c000f97",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17089,
+                "known_for_department": "Editing",
+                "name": "Luis de la Madrid",
+                "original_name": "Luis de la Madrid",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "57db4f919251416905000f57",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1679760,
+                "known_for_department": "Production",
+                "name": "Lóránd Banner-Szûcs",
+                "original_name": "Lóránd Banner-Szûcs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4f9f925141684c000fab",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6531,
+                "known_for_department": "Production",
+                "name": "Yolanda Serrano",
+                "original_name": "Yolanda Serrano",
+                "popularity": 0.007,
+                "profile_path": "/cmLBXjGxyhnOC0s90z3Ct6W16WY.jpg",
+                "credit_id": "57db4fb29251416938000f25",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1117843,
+                "known_for_department": "Art",
+                "name": "Juan Pedro de Gaspar",
+                "original_name": "Juan Pedro de Gaspar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4fb9c3a36818740010d0",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1662690,
+                "known_for_department": "Art",
+                "name": "Panni Lutter",
+                "original_name": "Panni Lutter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4ff39251416990000f06",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1143014,
+                "known_for_department": "Art",
+                "name": "Javier Alvariño",
+                "original_name": "Javier Alvariño",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4fc0c3a36807960011d6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1466011,
+                "known_for_department": "Art",
+                "name": "Ángela Nahum",
+                "original_name": "Ángela Nahum",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57db4ff9c3a3681a2c000ec9",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59521,
+                "known_for_department": "Directing",
+                "name": "Jaume Collet-Serra",
+                "original_name": "Jaume Collet-Serra",
+                "popularity": 0.026,
+                "profile_path": "/s1MdlS2wnzfKevPfXK63V1qkwfI.jpg",
+                "credit_id": "65cdbc6551e6ab01861fbfda",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1852,
+                "name": "mutant"
+            },
+            {
+                "id": 12377,
+                "name": "zombie"
+            },
+            {
+                "id": 186565,
+                "name": "zombie apocalypse"
+            },
+            {
+                "id": 311315,
+                "name": "dramatic"
+            },
+            {
+                "id": 325826,
+                "name": "hum"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Matthew Fox",
+            "character": "Patrick"
+        },
+        {
+            "actor": "Jeffrey Donovan",
+            "character": "Jack"
+        },
+        {
+            "actor": "Quinn McColgan",
+            "character": "Lu"
+        },
+        {
+            "actor": "Valeria Vereau",
+            "character": "Emma"
+        },
+        {
+            "actor": "Clara Lago",
+            "character": "Woman"
+        },
+        {
+            "actor": "Matt Devere",
+            "character": "Soldier 1"
+        },
+        {
+            "actor": "Eduardo Fedriani",
+            "character": "Creature 1"
+        },
+        {
+            "actor": "Lili Bordán",
+            "character": "Wife"
+        },
+        {
+            "actor": "Alex Hafner",
+            "character": "Soldier 2"
+        },
+        {
+            "actor": "Jeremy Wheeler",
+            "character": "Bus Driver"
+        },
+        {
+            "actor": "Katharine Bubbear",
+            "character": "Young Girl"
+        },
+        {
+            "actor": "Julio Perillán",
+            "character": "Passenger"
+        },
+        {
+            "actor": "Ádám Zambrzyscki",
+            "character": "Creature 3"
+        },
+        {
+            "actor": "Orsolya Bene",
+            "character": "Woman on Bus 2"
+        },
+        {
+            "actor": "Daniel Bargueño",
+            "character": "Creature 2"
+        },
+        {
+            "actor": "István Bán",
+            "character": "Frozen Man"
+        },
+        {
+            "actor": "Emília Gresicki",
+            "character": "Little Lu"
+        },
+        {
+            "actor": "Laura Juhász",
+            "character": "Baby Lu"
+        },
+        {
+            "actor": "Kára Jurány",
+            "character": "Frozen Woman"
+        },
+        {
+            "actor": "Dénes Kiss",
+            "character": "Old Man"
+        },
+        {
+            "actor": "Nikolett Takács",
+            "character": "Woman on Bus 1"
+        }
+    ]
+}

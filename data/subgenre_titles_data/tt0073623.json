@@ -1,0 +1,862 @@
+{
+    "adult": false,
+    "backdrop_path": "/m6AmZAVV21GFpkGigRkyEbeIhYU.jpg",
+    "belongs_to_collection": {
+        "id": 48829,
+        "name": "The Street Fighter Collection",
+        "poster_path": "/zesfxsaoOU7vbfcCRcLPEZAcsW8.jpg",
+        "backdrop_path": "/mnhNUKsSv82AUwXRvsinrmjWCat.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 40812,
+    "imdb_id": "tt0073623",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "殺人拳２",
+    "overview": "Martial artist Takuma Tsurugi returns to take on a Yakuza family that may be embezzling money from charities to finance their own operations. Both the police and the Yakuza find themselves battling Tsurugi, but Tsurugi's fight ultimately is with the mob, and he concentrates on them.",
+    "popularity": 3.106,
+    "poster_path": "/7JnWHCgLmpKEkdCdAZZQnLS2CjE.jpg",
+    "production_companies": [
+        {
+            "id": 5822,
+            "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+            "name": "Toei Company",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1974-04-27",
+    "revenue": 0,
+    "runtime": 83,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The incredible Sonny Chiba is back! And he's meaner than ever!",
+    "title": "Return of the Street Fighter",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 88,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-04-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-04-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-04-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-12-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2537,
+                "known_for_department": "Acting",
+                "name": "Sonny Chiba",
+                "original_name": "千葉真一",
+                "popularity": 0.037,
+                "profile_path": "/k3kHcYUBj8RskpAEDaJ0FR6ynSx.jpg",
+                "cast_id": 1,
+                "character": "Takuma Tsurugi",
+                "credit_id": "52fe45a4c3a36847f80d278d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1031139,
+                "known_for_department": "Acting",
+                "name": "Yōko Ichiji",
+                "original_name": "市地洋子",
+                "popularity": 0.006,
+                "profile_path": "/z7mZCxryHMt29o7tbtYinVq9vL4.jpg",
+                "cast_id": 8,
+                "character": "Pin Boke",
+                "credit_id": "52fe45a5c3a36847f80d27b5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 118998,
+                "known_for_department": "Acting",
+                "name": "Hiroshi Tanaka",
+                "original_name": "田中浩",
+                "popularity": 0.011,
+                "profile_path": "/syy1wzPDojswjSMznKNwGLV2x91.jpg",
+                "cast_id": 11,
+                "character": "Isamu Otaguro",
+                "credit_id": "52fe45a5c3a36847f80d27c1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138423,
+                "known_for_department": "Acting",
+                "name": "Masashi Ishibashi",
+                "original_name": "石橋雅史",
+                "popularity": 0.008,
+                "profile_path": "/27CjLX4HYhUU1yf43Jecw1nv1Ij.jpg",
+                "cast_id": 9,
+                "character": "Tateki Shikenbaru",
+                "credit_id": "52fe45a5c3a36847f80d27b9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 975958,
+                "known_for_department": "Directing",
+                "name": "Claude Gagnon",
+                "original_name": "Claude Gagnon",
+                "popularity": 0.001,
+                "profile_path": "/1gn32bW2lyfRJnn4XphxYpG81ui.jpg",
+                "cast_id": 22,
+                "character": "Don Costello",
+                "credit_id": "5be28e8ec3a36810c600e97f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 138436,
+                "known_for_department": "Acting",
+                "name": "Kazuyuki Saito",
+                "original_name": "Kazuyuki Saito",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "",
+                "credit_id": "5ae64d1fc3a368136d003c68",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1031141,
+                "known_for_department": "Acting",
+                "name": "Keisuke Handa",
+                "original_name": "Keisuke Handa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Takutoshi",
+                "credit_id": "52fe45a5c3a36847f80d27c9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 138425,
+                "known_for_department": "Acting",
+                "name": "Ryoichi Koike",
+                "original_name": "Ryoichi Koike",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "",
+                "credit_id": "5ae64dea0e0a2610700038f0",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 144936,
+                "known_for_department": "Acting",
+                "name": "Michiyo Bandô",
+                "original_name": "Michiyo Bandô",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "",
+                "credit_id": "5ae64e090e0a26105a003c4e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 222968,
+                "known_for_department": "Acting",
+                "name": "Shingo Yamashiro",
+                "original_name": "山城新伍",
+                "popularity": 0.012,
+                "profile_path": "/6WklzwRHUwV0ByFsSxIH0KWqvLI.jpg",
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "5ae64e280e0a26105a003c80",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1031140,
+                "known_for_department": "Acting",
+                "name": "Masafumi Suzuki",
+                "original_name": "鈴木正文",
+                "popularity": 0.006,
+                "profile_path": "/zdougiCciQ3FYWeXfbUkDYxCV4y.jpg",
+                "cast_id": 12,
+                "character": "Kendo Masaoka",
+                "credit_id": "52fe45a5c3a36847f80d27c5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227628,
+                "known_for_department": "Acting",
+                "name": "Takuzō Kawatani",
+                "original_name": "川谷拓三",
+                "popularity": 0.016,
+                "profile_path": "/hqxRejlR3dc9vvLwxm9Apvvkzxs.jpg",
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "5bc02a6b92514179bc00e0c7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1699984,
+                "known_for_department": "Acting",
+                "name": "Sumiko Yamada",
+                "original_name": "Sumiko Yamada",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "5dc946aa99259c001585b3a9",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1619113,
+                "known_for_department": "Acting",
+                "name": "Ichitarō Kuni",
+                "original_name": "Ichitarō Kuni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "5dc9471e470ead001598ca76",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1863327,
+                "known_for_department": "Acting",
+                "name": "Kazutarō Kuni",
+                "original_name": "Kazutarō Kuni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "5dc9472e7314a10018bbcc93",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551951,
+                "known_for_department": "Acting",
+                "name": "Shunji Sasaki",
+                "original_name": "笹木俊志",
+                "popularity": 0.007,
+                "profile_path": "/zOLLNyyuLiwAYO6Y58bBrOdshrq.jpg",
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "5dc9473a99259c001585b40c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1974685,
+                "known_for_department": "Acting",
+                "name": "Yoshiki Yamada",
+                "original_name": "Yoshiki Yamada",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "5dc947477314a10018bbccba",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1671186,
+                "known_for_department": "Acting",
+                "name": "Shinji Oda",
+                "original_name": "Shinji Oda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "5dc94750ab1bc70015073b55",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1975379,
+                "known_for_department": "Acting",
+                "name": "Takanori Oya",
+                "original_name": "Takanori Oya",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "5dc9475f470ead001598cb04",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1584166,
+                "known_for_department": "Acting",
+                "name": "Takaya Shimoyama",
+                "original_name": "Takaya Shimoyama",
+                "popularity": 0.001,
+                "profile_path": "/8023sANcTQlw5hpdy6VB2yRrwo.jpg",
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "5dc94768470ead001598cb10",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239391,
+                "known_for_department": "Acting",
+                "name": "Seizō Fukumoto",
+                "original_name": "福本清三",
+                "popularity": 0.008,
+                "profile_path": "/id6WOj9BO1cd7XsUsPeZp58HlGx.jpg",
+                "cast_id": 40,
+                "character": "",
+                "credit_id": "5dc947737314a10018bbcce4",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1937745,
+                "known_for_department": "Acting",
+                "name": "Ryuji Komine",
+                "original_name": "小峰隆司",
+                "popularity": 0.002,
+                "profile_path": "/xG7p04YUdzYjY93gfVUIXs2AH7s.jpg",
+                "cast_id": 41,
+                "character": "",
+                "credit_id": "5dc9477f6c0e4f00183c341e",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239360,
+                "known_for_department": "Acting",
+                "name": "Masataka Iwao",
+                "original_name": "岩尾正隆",
+                "popularity": 0.011,
+                "profile_path": "/7wGHB0NCxFPAp2otbEzaExuqfxV.jpg",
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "5dc9478b470ead00189866a1",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1720547,
+                "known_for_department": "Acting",
+                "name": "Satoru Nabe",
+                "original_name": "Satoru Nabe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "",
+                "credit_id": "5dc9479b99259c001585b48c",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1974688,
+                "known_for_department": "Acting",
+                "name": "Tsuyoshi Arita",
+                "original_name": "Tsuyoshi Arita",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "",
+                "credit_id": "5dc947a599259c665e7b7973",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1034277,
+                "known_for_department": "Acting",
+                "name": "Ryuji Katagiri",
+                "original_name": "片桐竜次",
+                "popularity": 0.013,
+                "profile_path": "/cJxLsuNJikkCL5gXXLgABymBuNI.jpg",
+                "cast_id": 45,
+                "character": "",
+                "credit_id": "5dc947af470ead0013985f44",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1958417,
+                "known_for_department": "Acting",
+                "name": "Junichi Hosokawa",
+                "original_name": "Junichi Hosokawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "",
+                "credit_id": "5dc947b8ab1bc70015073c29",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1323870,
+                "known_for_department": "Acting",
+                "name": "Satoshi Kurihara",
+                "original_name": "栗原敏",
+                "popularity": 0.011,
+                "profile_path": "/3Q5ryYoD76IIOCox3tvrx1ZAKxb.jpg",
+                "cast_id": 47,
+                "character": "",
+                "credit_id": "5dc947e6470ead001598cba3",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141130,
+                "known_for_department": "Directing",
+                "name": "Shigehiro Ozawa",
+                "original_name": "小沢茂弘",
+                "popularity": 0.014,
+                "profile_path": "/7nreIUhJ0pwscxxYhb4bsjWXldm.jpg",
+                "credit_id": "52fe45a4c3a36847f80d2793",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103489,
+                "known_for_department": "Sound",
+                "name": "Toshiaki Tsushima",
+                "original_name": "津島利章",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe45a5c3a36847f80d27a5",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 571556,
+                "known_for_department": "Art",
+                "name": "Tokumichi Igawa",
+                "original_name": "Tokumichi Igawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45a5c3a36847f80d27b1",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128031,
+                "known_for_department": "Writing",
+                "name": "Hajime Takaiwa",
+                "original_name": "高岩肇",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "65a33e4cbc2cb300be0209da",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141130,
+                "known_for_department": "Directing",
+                "name": "Shigehiro Ozawa",
+                "original_name": "小沢茂弘",
+                "popularity": 0.014,
+                "profile_path": "/7nreIUhJ0pwscxxYhb4bsjWXldm.jpg",
+                "credit_id": "65a33ec47d5f4b00ceb7bdcd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4479998,
+                "known_for_department": "Directing",
+                "name": "Kazuo Noda",
+                "original_name": "kazuo noda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "65a33f617d5f4b00c5b7c297",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 230529,
+                "known_for_department": "Camera",
+                "name": "Sadaji Yoshida",
+                "original_name": "吉田貞次",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "65a33f89266778012b643dc9",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 230529,
+                "known_for_department": "Camera",
+                "name": "Sadaji Yoshida",
+                "original_name": "吉田貞次",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "570ea5c292514102bf00051b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 127388,
+                "known_for_department": "Writing",
+                "name": "Kōji Takada",
+                "original_name": "高田宏治",
+                "popularity": 0.009,
+                "profile_path": "/a3AqNIghPpsXATUYAYxxX6Bgq9E.jpg",
+                "credit_id": "5d8f995e6728a800198a64ec",
+                "department": "Writing",
+                "job": "Original Concept"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128031,
+                "known_for_department": "Writing",
+                "name": "Hajime Takaiwa",
+                "original_name": "高岩肇",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "5d8f9964172d7f000d5685e2",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141130,
+                "known_for_department": "Directing",
+                "name": "Shigehiro Ozawa",
+                "original_name": "小沢茂弘",
+                "popularity": 0.014,
+                "profile_path": "/7nreIUhJ0pwscxxYhb4bsjWXldm.jpg",
+                "credit_id": "5d8f996966a7c3000f89814b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 228569,
+                "known_for_department": "Writing",
+                "name": "Norimichi Matsudaira",
+                "original_name": "Norimichi Matsudaira",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dc9451f470ead0013985e27",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1720524,
+                "known_for_department": "Lighting",
+                "name": "Tokuji Wakagi",
+                "original_name": "Tokuji Wakagi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dc94576ab1bc7001306dc15",
+                "department": "Lighting",
+                "job": "Lighting Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1588584,
+                "known_for_department": "Sound",
+                "name": "Shigeji Nakayama",
+                "original_name": "Shigeji Nakayama",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dc9459d470ead001598c78e",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1206747,
+                "known_for_department": "Editing",
+                "name": "Kozo Horiike",
+                "original_name": "堀池幸三",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5dc945b96c0e4f00133d1b73",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2094828,
+                "known_for_department": "Art",
+                "name": "Sumiomi Shibata",
+                "original_name": "Sumiomi Shibata",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dc945ee470ead001598c80a",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1981333,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ken Toyonaka",
+                "original_name": "Ken Toyonaka",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5dc945feab1bc7001306dcf0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Sonny Chiba",
+            "character": "Takuma Tsurugi"
+        },
+        {
+            "actor": "Yōko Ichiji",
+            "character": "Pin Boke"
+        },
+        {
+            "actor": "Hiroshi Tanaka",
+            "character": "Isamu Otaguro"
+        },
+        {
+            "actor": "Masashi Ishibashi",
+            "character": "Tateki Shikenbaru"
+        },
+        {
+            "actor": "Claude Gagnon",
+            "character": "Don Costello"
+        },
+        {
+            "actor": "Kazuyuki Saito",
+            "character": ""
+        },
+        {
+            "actor": "Keisuke Handa",
+            "character": "Takutoshi"
+        },
+        {
+            "actor": "Ryoichi Koike",
+            "character": ""
+        },
+        {
+            "actor": "Michiyo Bandô",
+            "character": ""
+        },
+        {
+            "actor": "Shingo Yamashiro",
+            "character": ""
+        },
+        {
+            "actor": "Masafumi Suzuki",
+            "character": "Kendo Masaoka"
+        },
+        {
+            "actor": "Takuzō Kawatani",
+            "character": ""
+        },
+        {
+            "actor": "Sumiko Yamada",
+            "character": ""
+        },
+        {
+            "actor": "Ichitarō Kuni",
+            "character": ""
+        },
+        {
+            "actor": "Kazutarō Kuni",
+            "character": ""
+        },
+        {
+            "actor": "Shunji Sasaki",
+            "character": ""
+        },
+        {
+            "actor": "Yoshiki Yamada",
+            "character": ""
+        },
+        {
+            "actor": "Shinji Oda",
+            "character": ""
+        },
+        {
+            "actor": "Takanori Oya",
+            "character": ""
+        },
+        {
+            "actor": "Takaya Shimoyama",
+            "character": ""
+        },
+        {
+            "actor": "Seizō Fukumoto",
+            "character": ""
+        },
+        {
+            "actor": "Ryuji Komine",
+            "character": ""
+        },
+        {
+            "actor": "Masataka Iwao",
+            "character": ""
+        },
+        {
+            "actor": "Satoru Nabe",
+            "character": ""
+        },
+        {
+            "actor": "Tsuyoshi Arita",
+            "character": ""
+        },
+        {
+            "actor": "Ryuji Katagiri",
+            "character": ""
+        },
+        {
+            "actor": "Junichi Hosokawa",
+            "character": ""
+        },
+        {
+            "actor": "Satoshi Kurihara",
+            "character": ""
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "adult": false,
+    "backdrop_path": "/1YAWNhFiqENsahLefpIZNvX0YQ5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 29336,
+    "imdb_id": "tt0067732",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La semana del asesino",
+    "overview": "A young man, Marco, working as a butcher, accidentally kills a taxi driver. His girlfriend Paula wants to go to the police so he has to kill her too. He then has to kill his brother, his brother’s fiancée and his father, who have become suspicious. He gets rid of the bodies by taking them to a slaughter house.",
+    "popularity": 1.977,
+    "poster_path": "/A2srdcBbijsL8wzfy9HM87NaVji.jpg",
+    "production_companies": [
+        {
+            "id": 4938,
+            "logo_path": "/4f2F4BoGGzReLNCgVGoIftQvlGI.png",
+            "name": "Atlas International Film",
+            "origin_country": "DE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "1972-04-13",
+    "revenue": 57696,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "When the butcher goes berserk....",
+    "title": "The Cannibal Man",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 56,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-10-05T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1972-04-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103520,
+                "known_for_department": "Acting",
+                "name": "Vicente Parra",
+                "original_name": "Vicente Parra",
+                "popularity": 0.004,
+                "profile_path": "/venbFpsuk1P7Uqkkr78VyzAIPH0.jpg",
+                "cast_id": 9,
+                "character": "Marcos",
+                "credit_id": "52fe45d8c3a368484e07224b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97662,
+                "known_for_department": "Acting",
+                "name": "Emma Cohen",
+                "original_name": "Emma Cohen",
+                "popularity": 0.01,
+                "profile_path": "/m1soBEM3DkUmxVpZ4bRFl80Tlfa.jpg",
+                "cast_id": 10,
+                "character": "Paula",
+                "credit_id": "52fe45d8c3a368484e07224f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34629,
+                "known_for_department": "Acting",
+                "name": "Eusebio Poncela",
+                "original_name": "Eusebio Poncela",
+                "popularity": 0.006,
+                "profile_path": "/pCbXRk44XYJzWDzYybAco5dlGF7.jpg",
+                "cast_id": 11,
+                "character": "Néstor",
+                "credit_id": "52fe45d8c3a368484e072253",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 103522,
+                "known_for_department": "Acting",
+                "name": "Lola Herrera",
+                "original_name": "Lola Herrera",
+                "popularity": 0.006,
+                "profile_path": "/fJRNFuDsaxuaKd5JPlMj0OqR5rr.jpg",
+                "cast_id": 14,
+                "character": "Carmen",
+                "credit_id": "52fe45d8c3a368484e07225f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 103523,
+                "known_for_department": "Acting",
+                "name": "Vicky Lagos",
+                "original_name": "Vicky Lagos",
+                "popularity": 0.003,
+                "profile_path": "/4m6npHy5iuqLLlkXlzb3bglLiOe.jpg",
+                "cast_id": 15,
+                "character": "Rosa",
+                "credit_id": "52fe45d8c3a368484e072263",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103525,
+                "known_for_department": "Acting",
+                "name": "Ismael Merlo",
+                "original_name": "Ismael Merlo",
+                "popularity": 0.006,
+                "profile_path": "/xu69GYaoOms0bYz3n0O7mMoeQR7.jpg",
+                "cast_id": 18,
+                "character": "Head of Personnel",
+                "credit_id": "52fe45d8c3a368484e07226f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103517,
+                "known_for_department": "Acting",
+                "name": "Fernando Sánchez Polack",
+                "original_name": "Fernando Sánchez Polack",
+                "popularity": 0.007,
+                "profile_path": "/1vceSyuaPN9NWvpRmjo6y0vGE1z.jpg",
+                "cast_id": 13,
+                "character": "Señor Ambrosio",
+                "credit_id": "52fe45d8c3a368484e07225b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103513,
+                "known_for_department": "Acting",
+                "name": "Charly Bravo",
+                "original_name": "Charly Bravo",
+                "popularity": 0.01,
+                "profile_path": "/6e1sPjmVbR53GIpyTmqCI5obEEc.jpg",
+                "cast_id": 12,
+                "character": "Esteban",
+                "credit_id": "52fe45d8c3a368484e072257",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103524,
+                "known_for_department": "Acting",
+                "name": "Rafael Hernández",
+                "original_name": "Rafael Hernández",
+                "popularity": 0.017,
+                "profile_path": "/c5pxWKow7CBgTEVJQR2xjdcutug.jpg",
+                "cast_id": 23,
+                "character": "Agustín",
+                "credit_id": "57e91f92c3a3684743014874",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102093,
+                "known_for_department": "Acting",
+                "name": "Goyo Lebrero",
+                "original_name": "Goyo Lebrero",
+                "popularity": 0.01,
+                "profile_path": "/ZL2TEZxiymHwnJVyGdOFa7rJ8H.jpg",
+                "cast_id": 17,
+                "character": "Taxi Driver",
+                "credit_id": "52fe45d8c3a368484e07226b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 222597,
+                "known_for_department": "Acting",
+                "name": "Valentín Tornos",
+                "original_name": "Valentín Tornos",
+                "popularity": 0.004,
+                "profile_path": "/a6GPkejTXjanWejnoTiP7fkcx6m.jpg",
+                "cast_id": 24,
+                "character": "Obrero",
+                "credit_id": "59f46f85c3a3681fa300ee9f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103526,
+                "known_for_department": "Acting",
+                "name": "José Franco",
+                "original_name": "José Franco",
+                "popularity": 0.005,
+                "profile_path": "/4wQNai7xGxM48VrV1arZk2HO2XZ.jpg",
+                "cast_id": 19,
+                "character": "Tendero",
+                "credit_id": "52fe45d8c3a368484e072273",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99564,
+                "known_for_department": "Acting",
+                "name": "Antonio Orengo",
+                "original_name": "Antonio Orengo",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Camarero",
+                "credit_id": "52fe45d8c3a368484e072277",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87248,
+                "known_for_department": "Acting",
+                "name": "Antonio del Real",
+                "original_name": "Antonio del Real",
+                "popularity": 0.002,
+                "profile_path": "/eZNWmoTJ9eSc3PGrOaJJYyrUn2y.jpg",
+                "cast_id": 21,
+                "character": "Trabajador",
+                "credit_id": "52fe45d8c3a368484e07227b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97638,
+                "known_for_department": "Acting",
+                "name": "Inés Morales",
+                "original_name": "Inés Morales",
+                "popularity": 0.006,
+                "profile_path": "/bhIWO7KDyyqC4UCGyC5E0INbGO9.jpg",
+                "cast_id": 22,
+                "character": "Secretary",
+                "credit_id": "52fe45d8c3a368484e07227f",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1062287,
+                "known_for_department": "Acting",
+                "name": "Antonio Corencia",
+                "original_name": "Antonio Corencia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Obrero",
+                "credit_id": "59f46fba9251414d33010140",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1173116,
+                "known_for_department": "Acting",
+                "name": "José Félix Montoya",
+                "original_name": "José Félix Montoya",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Vigilante",
+                "credit_id": "59f46fc69251414d2000f0d4",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1692925,
+                "known_for_department": "Acting",
+                "name": "Ángel Blanco",
+                "original_name": "Ángel Blanco",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Trabajador",
+                "credit_id": "59f46fe29251414d050108fb",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1183853,
+                "known_for_department": "Acting",
+                "name": "Manuel Calvo",
+                "original_name": "Manuel Calvo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "59f46fe99251414d05010903",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1913333,
+                "known_for_department": "Acting",
+                "name": "Emilio Hortela",
+                "original_name": "Emilio Hortela",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "59f46fef9251414d3301019e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31153,
+                "known_for_department": "Acting",
+                "name": "Paca Gabaldón",
+                "original_name": "Paca Gabaldón",
+                "popularity": 0.006,
+                "profile_path": "/lvGU25HSCwHrDchfdE9KnczKtju.jpg",
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "59f46ff5c3a3681fa300ef41",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103520,
+                "known_for_department": "Acting",
+                "name": "Vicente Parra",
+                "original_name": "Vicente Parra",
+                "popularity": 0.004,
+                "profile_path": "/venbFpsuk1P7Uqkkr78VyzAIPH0.jpg",
+                "credit_id": "52fe45d8c3a368484e07222f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103509,
+                "known_for_department": "Directing",
+                "name": "Eloy de la Iglesia",
+                "original_name": "Eloy de la Iglesia",
+                "popularity": 0.004,
+                "profile_path": "/d5g7WzTVJeUJW63Xx6jYCuuPIBD.jpg",
+                "credit_id": "52fe45d8c3a368484e072241",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103519,
+                "known_for_department": "Sound",
+                "name": "Fernando García Morcillo",
+                "original_name": "Fernando García Morcillo",
+                "popularity": 0.001,
+                "profile_path": "/oF138HDQxhSgajkX60e5h505ghq.jpg",
+                "credit_id": "52fe45d8c3a368484e072229",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103509,
+                "known_for_department": "Directing",
+                "name": "Eloy de la Iglesia",
+                "original_name": "Eloy de la Iglesia",
+                "popularity": 0.004,
+                "profile_path": "/d5g7WzTVJeUJW63Xx6jYCuuPIBD.jpg",
+                "credit_id": "52fe45d8c3a368484e07223b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30958,
+                "known_for_department": "Camera",
+                "name": "Raúl Artigot",
+                "original_name": "Raúl Artigot",
+                "popularity": 0.001,
+                "profile_path": "/92Y3vPAXsT6QdoHVJNj9BkPCDjI.jpg",
+                "credit_id": "52fe45d8c3a368484e072247",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103518,
+                "known_for_department": "Writing",
+                "name": "José Truchado",
+                "original_name": "José Truchado",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe45d8c3a368484e072223",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 40885,
+                "known_for_department": "Writing",
+                "name": "Antonio Fos",
+                "original_name": "Antonio Fos",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe45d8c3a368484e072235",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1174925,
+                "known_for_department": "Editing",
+                "name": "José Luis Matesanz",
+                "original_name": "José Luis Matesanz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59f470609251414d570103db",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32146,
+                "known_for_department": "Art",
+                "name": "Santiago Ontañón",
+                "original_name": "Santiago Ontañón",
+                "popularity": 0.004,
+                "profile_path": "/O0UYH3WGGdm1OZLV52SsIlrOLU.jpg",
+                "credit_id": "59f47086c3a3681fc9010ade",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1693463,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Gregorio Mendiri",
+                "original_name": "Gregorio Mendiri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59f470979251414d62010486",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1526961,
+                "known_for_department": "Directing",
+                "name": "Luis Gómez Valdivieso",
+                "original_name": "Luis Gómez Valdivieso",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59f470a6c3a368201700fdd2",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1206563,
+                "known_for_department": "Acting",
+                "name": "Marisol Martínez",
+                "original_name": "Marisol Martínez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59f470b7c3a3681fbb0106c4",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4452,
+                "name": "butcher"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 14895,
+                "name": "cannibal"
+            },
+            {
+                "id": 189921,
+                "name": "video nasty"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Vicente Parra",
+            "character": "Marcos"
+        },
+        {
+            "actor": "Emma Cohen",
+            "character": "Paula"
+        },
+        {
+            "actor": "Eusebio Poncela",
+            "character": "Néstor"
+        },
+        {
+            "actor": "Lola Herrera",
+            "character": "Carmen"
+        },
+        {
+            "actor": "Vicky Lagos",
+            "character": "Rosa"
+        },
+        {
+            "actor": "Ismael Merlo",
+            "character": "Head of Personnel"
+        },
+        {
+            "actor": "Fernando Sánchez Polack",
+            "character": "Señor Ambrosio"
+        },
+        {
+            "actor": "Charly Bravo",
+            "character": "Esteban"
+        },
+        {
+            "actor": "Rafael Hernández",
+            "character": "Agustín"
+        },
+        {
+            "actor": "Goyo Lebrero",
+            "character": "Taxi Driver"
+        },
+        {
+            "actor": "Valentín Tornos",
+            "character": "Obrero"
+        },
+        {
+            "actor": "José Franco",
+            "character": "Tendero"
+        },
+        {
+            "actor": "Antonio Orengo",
+            "character": "Camarero"
+        },
+        {
+            "actor": "Antonio del Real",
+            "character": "Trabajador"
+        },
+        {
+            "actor": "Inés Morales",
+            "character": "Secretary"
+        },
+        {
+            "actor": "Antonio Corencia",
+            "character": "Obrero"
+        },
+        {
+            "actor": "José Félix Montoya",
+            "character": "Vigilante"
+        },
+        {
+            "actor": "Ángel Blanco",
+            "character": "Trabajador"
+        },
+        {
+            "actor": "Manuel Calvo",
+            "character": ""
+        },
+        {
+            "actor": "Emilio Hortela",
+            "character": ""
+        },
+        {
+            "actor": "Paca Gabaldón",
+            "character": ""
+        }
+    ]
+}

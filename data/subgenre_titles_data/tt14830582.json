@@ -1,0 +1,529 @@
+{
+    "adult": false,
+    "backdrop_path": "/jE6YGzXVOPseyfhMo7NHzgqk0gF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 816956,
+    "imdb_id": "tt14830582",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Dig",
+    "overview": "A widower and his deaf daughter are held hostage and forced to dig under their house, revealing dark secrets from the past.",
+    "popularity": 1.119,
+    "poster_path": "/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg",
+    "production_companies": [
+        {
+            "id": 76992,
+            "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+            "name": "Saban Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 114814,
+            "logo_path": null,
+            "name": "Film Mode Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 6353,
+            "logo_path": "/7Fs0fMLWrPUaM3H0PK4hbnuEE1g.png",
+            "name": "Screen Media Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 163846,
+            "logo_path": null,
+            "name": "Zia Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-09-23",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Getting out is the deadly part.",
+    "title": "Dig",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 31,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-11-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-10-21T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-10-28T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2022-10-27T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-26T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2025-01-16T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-23T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NZ",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-11-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-06-06T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-23T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-23T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-23T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11155,
+                "known_for_department": "Acting",
+                "name": "Thomas Jane",
+                "original_name": "Thomas Jane",
+                "popularity": 0.117,
+                "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
+                "cast_id": 1,
+                "character": "Scott Brennan",
+                "credit_id": "6071c7cc839d93005693792a",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3046401,
+                "known_for_department": "Acting",
+                "name": "Harlow Jane",
+                "original_name": "Harlow Jane",
+                "popularity": 0.007,
+                "profile_path": "/xZeG1yQ1ikyd8LWtxiLZV05TG80.jpg",
+                "cast_id": 2,
+                "character": "Jane Brennan",
+                "credit_id": "6071c7e1dd471600401a071f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46593,
+                "known_for_department": "Acting",
+                "name": "Emile Hirsch",
+                "original_name": "Emile Hirsch",
+                "popularity": 0.098,
+                "profile_path": "/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg",
+                "cast_id": 9,
+                "character": "Victor",
+                "credit_id": "6183fdfc1c6aa7002c9dcbe4",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 60458,
+                "known_for_department": "Acting",
+                "name": "Liana Liberato",
+                "original_name": "Liana Liberato",
+                "popularity": 0.058,
+                "profile_path": "/5EEvVU9EDZ1ricNizDYUgclG1BF.jpg",
+                "cast_id": 10,
+                "character": "Lola",
+                "credit_id": "6183fe06e74146002b7101f2",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3887486,
+                "known_for_department": "Acting",
+                "name": "Makana David",
+                "original_name": "Makana David",
+                "popularity": 0.001,
+                "profile_path": "/syUAAdcYdvFhsoc9Me6IoNdtwn9.jpg",
+                "cast_id": 11,
+                "character": "Tommy",
+                "credit_id": "63cea28c5bce9e00b66970f2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3887489,
+                "known_for_department": "Acting",
+                "name": "Diego Romero",
+                "original_name": "Diego Romero",
+                "popularity": 0.001,
+                "profile_path": "/6tgH0z4QpGLEinnbkaRRJWO7BXt.jpg",
+                "cast_id": 12,
+                "character": "Neighbor",
+                "credit_id": "63cea2b07f054000922b0e49",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2625631,
+                "known_for_department": "Acting",
+                "name": "Michael Vincent Berry",
+                "original_name": "Michael Vincent Berry",
+                "popularity": 0.006,
+                "profile_path": "/xyYDkSEciumXgmdfBUiml9dIc4I.jpg",
+                "cast_id": 13,
+                "character": "Utility Worker",
+                "credit_id": "63cea2c063536a007bd924ef",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3887492,
+                "known_for_department": "Acting",
+                "name": "Arthur Rodriguez",
+                "original_name": "Arthur Rodriguez",
+                "popularity": 0.001,
+                "profile_path": "/r7pNgWaXaWEwuk1B9apNAWtyD7M.jpg",
+                "cast_id": 14,
+                "character": "Pablo",
+                "credit_id": "63cea2d03c4344008184c480",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1465274,
+                "known_for_department": "Acting",
+                "name": "Ramona DuBarry",
+                "original_name": "Ramona DuBarry",
+                "popularity": 0.007,
+                "profile_path": "/Ag2zpgUYUkX1gqsSskLTXLi0uQG.jpg",
+                "cast_id": 15,
+                "character": "Doctor",
+                "credit_id": "63cea2e07f054000bd0072ae",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1415865,
+                "known_for_department": "Acting",
+                "name": "Ashleigh Domangue",
+                "original_name": "Ashleigh Domangue",
+                "popularity": 0.007,
+                "profile_path": "/b4aimxYRQ7EkD9N8hJMwC1ddQgh.jpg",
+                "cast_id": 16,
+                "character": "Linda Brennan",
+                "credit_id": "63cea2f3e16e5a030c958895",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3887493,
+                "known_for_department": "Acting",
+                "name": "Nick Check",
+                "original_name": "Nick Check",
+                "popularity": 0.001,
+                "profile_path": "/nKPmJk8XhEDUwquB9i38lCZHxGp.jpg",
+                "cast_id": 17,
+                "character": "Jane's Boyfriend",
+                "credit_id": "63cea30463536a00d068e1ce",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 117883,
+                "known_for_department": "Directing",
+                "name": "K. Asher Levin",
+                "original_name": "K. Asher Levin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6071c7ee4b9bae006ef28db5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3046408,
+                "known_for_department": "Writing",
+                "name": "Banipal Ablakhad",
+                "original_name": "Banipal Ablakhad",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6071c8552f7915002986294c",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3046410,
+                "known_for_department": "Writing",
+                "name": "Benhur Ablakhad",
+                "original_name": "Benhur Ablakhad",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6071c863498bc200575ec2a7",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11155,
+                "known_for_department": "Acting",
+                "name": "Thomas Jane",
+                "original_name": "Thomas Jane",
+                "popularity": 0.117,
+                "profile_path": "/9frnlc2zoDcoeqZALB6aeYSQddl.jpg",
+                "credit_id": "6071c8ba7776f000580dd8cc",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1489060,
+                "known_for_department": "Production",
+                "name": "Matthew Helderman",
+                "original_name": "Matthew Helderman",
+                "popularity": 0.007,
+                "profile_path": "/7jf5ERhOvG4jmxt106EJCOZQMzK.jpg",
+                "credit_id": "6071c8dcc74eba00410d21f2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3046415,
+                "known_for_department": "Production",
+                "name": "Grady Craig",
+                "original_name": "Grady Craig",
+                "popularity": 0.001,
+                "profile_path": "/pAwjiG7Oxr55rjCQU3e7y5RfmMI.jpg",
+                "credit_id": "6071c9057c6de300779c79a8",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1808737,
+                "known_for_department": "Art",
+                "name": "Lorus Allen",
+                "original_name": "Lorus Allen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "65a34efeb7b69d01223c2f7d",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1562,
+                "name": "hostage"
+            },
+            {
+                "id": 12565,
+                "name": "psychological thriller"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Thomas Jane",
+            "character": "Scott Brennan"
+        },
+        {
+            "actor": "Harlow Jane",
+            "character": "Jane Brennan"
+        },
+        {
+            "actor": "Emile Hirsch",
+            "character": "Victor"
+        },
+        {
+            "actor": "Liana Liberato",
+            "character": "Lola"
+        },
+        {
+            "actor": "Makana David",
+            "character": "Tommy"
+        },
+        {
+            "actor": "Diego Romero",
+            "character": "Neighbor"
+        },
+        {
+            "actor": "Michael Vincent Berry",
+            "character": "Utility Worker"
+        },
+        {
+            "actor": "Arthur Rodriguez",
+            "character": "Pablo"
+        },
+        {
+            "actor": "Ramona DuBarry",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Ashleigh Domangue",
+            "character": "Linda Brennan"
+        },
+        {
+            "actor": "Nick Check",
+            "character": "Jane's Boyfriend"
+        }
+    ]
+}

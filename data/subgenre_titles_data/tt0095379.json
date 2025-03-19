@@ -1,0 +1,748 @@
+{
+    "adult": false,
+    "backdrop_path": "/hBmr0vwkpoe9srtvmDh3GuVwSkZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 130000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 31150,
+    "imdb_id": "tt0095379",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Intruder",
+    "overview": "The overnight stock crew of a local supermarket find themselves being stalked and slashed by a mysterious maniac.",
+    "popularity": 3.573,
+    "poster_path": "/pib25gFtNCShcyRpFvp1jrcJ1Xk.jpg",
+    "production_companies": [
+        {
+            "id": 5126,
+            "logo_path": null,
+            "name": "Beyond Infinity",
+            "origin_country": ""
+        },
+        {
+            "id": 15352,
+            "logo_path": "/sk4KMGNHLCPe03XiQaDmBPnczjy.png",
+            "name": "Full Moon Features",
+            "origin_country": "US"
+        },
+        {
+            "id": 8444,
+            "logo_path": null,
+            "name": "Phantom Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 1212,
+            "logo_path": null,
+            "name": "Empire Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-01-27",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He’s just crazy bout this store!",
+    "title": "Intruder",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 282,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1989-04-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-01-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107780,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Cox",
+                "original_name": "Elizabeth Cox",
+                "popularity": 0.011,
+                "profile_path": "/1fGzbf16FtHSG9EHmvKT7ELSFnK.jpg",
+                "cast_id": 2,
+                "character": "Jennifer Ross",
+                "credit_id": "52fe44639251416c9100efbd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42935,
+                "known_for_department": "Acting",
+                "name": "Renée Estevez",
+                "original_name": "Renée Estevez",
+                "popularity": 0.015,
+                "profile_path": "/ogRlJREvJNMe22XNeRO8wICtYpG.jpg",
+                "cast_id": 3,
+                "character": "Linda",
+                "credit_id": "52fe44639251416c9100efc1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11750,
+                "known_for_department": "Acting",
+                "name": "Dan Hicks",
+                "original_name": "Dan Hicks",
+                "popularity": 0.008,
+                "profile_path": "/qBrRAMJ29R59jiGB2vJQ51ZJEBN.jpg",
+                "cast_id": 4,
+                "character": "Bill Roberts",
+                "credit_id": "52fe44639251416c9100efc5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99628,
+                "known_for_department": "Acting",
+                "name": "David Byrnes",
+                "original_name": "David Byrnes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Craig Peterson",
+                "credit_id": "56fcdb6d9251415fa300197f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7623,
+                "known_for_department": "Directing",
+                "name": "Sam Raimi",
+                "original_name": "Sam Raimi",
+                "popularity": 0.066,
+                "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+                "cast_id": 6,
+                "character": "Randy",
+                "credit_id": "52fe44639251416c9100efcd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162168,
+                "known_for_department": "Acting",
+                "name": "Eugene Robert Glazer",
+                "original_name": "Eugene Robert Glazer",
+                "popularity": 0.015,
+                "profile_path": "/w6HctCQ9K5FJkMHVsy6TUenCCbk.jpg",
+                "cast_id": 10,
+                "character": "Danny",
+                "credit_id": "56fcdb7f9251415f98001b81",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1598931,
+                "known_for_department": "Acting",
+                "name": "Billy Marti",
+                "original_name": "Billy Marti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Dave",
+                "credit_id": "56fcdbb79251415f98001b8c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58552,
+                "known_for_department": "Directing",
+                "name": "Burr Steers",
+                "original_name": "Burr Steers",
+                "popularity": 0.01,
+                "profile_path": "/k9rAVWornL0SUIykpjd3K3IfSll.jpg",
+                "cast_id": 12,
+                "character": "Bub",
+                "credit_id": "56fcdbfec3a368481d001eae",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 183519,
+                "known_for_department": "Acting",
+                "name": "Craig Stark",
+                "original_name": "Craig Stark",
+                "popularity": 0.008,
+                "profile_path": "/r6KyyR7OPB1Bo3lBV51YPH9u47T.jpg",
+                "cast_id": 13,
+                "character": "Tim",
+                "credit_id": "56fcdc1e9251415f96001ae8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11769,
+                "known_for_department": "Acting",
+                "name": "Ted Raimi",
+                "original_name": "Ted Raimi",
+                "popularity": 0.046,
+                "profile_path": "/vCfwp1BzY7qXs74fMLE1ydGxsTY.jpg",
+                "cast_id": 7,
+                "character": "Produce Joe",
+                "credit_id": "52fe44639251416c9100efd1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 198415,
+                "known_for_department": "Acting",
+                "name": "Tom Lester",
+                "original_name": "Tom Lester",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Officer Mathews",
+                "credit_id": "5877d814925141104700a4df",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40001,
+                "known_for_department": "Acting",
+                "name": "Alvy Moore",
+                "original_name": "Alvy Moore",
+                "popularity": 0.029,
+                "profile_path": "/3974gHUAsew2gV5hPZeBWj5cK9a.jpg",
+                "cast_id": 15,
+                "character": "Officer Dalton",
+                "credit_id": "5877d83d925141103b00ab4e",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107023,
+                "known_for_department": "Acting",
+                "name": "Emil Sitka",
+                "original_name": "Emil Sitka",
+                "popularity": 0.013,
+                "profile_path": "/hsSU6n8qZTOYNvj2t27ArQIfF1r.jpg",
+                "cast_id": 16,
+                "character": "Mr. Abernathy",
+                "credit_id": "5877d85cc3a36850f500cdc1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11357,
+                "known_for_department": "Acting",
+                "name": "Bruce Campbell",
+                "original_name": "Bruce Campbell",
+                "popularity": 0.074,
+                "profile_path": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+                "cast_id": 5,
+                "character": "Officer Howard",
+                "credit_id": "52fe44639251416c9100efc9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2545,
+                "known_for_department": "Production",
+                "name": "Lawrence Bender",
+                "original_name": "Lawrence Bender",
+                "popularity": 0.017,
+                "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+                "cast_id": 17,
+                "character": "Officer Adams",
+                "credit_id": "5877da18c3a36850f8009fbf",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11641,
+                "known_for_department": "Acting",
+                "name": "Scott Spiegel",
+                "original_name": "Scott Spiegel",
+                "popularity": 0.014,
+                "profile_path": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg",
+                "cast_id": 22,
+                "character": "Bread Man",
+                "credit_id": "5f21a65456b9f70036185574",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2659283,
+                "known_for_department": "Writing",
+                "name": "Douglas Scott-Hessler",
+                "original_name": "Douglas Scott-Hessler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Townie at Door",
+                "credit_id": "5f21a6e05b124000352480c9",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59287,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Greg Nicotero",
+                "original_name": "Greg Nicotero",
+                "popularity": 0.044,
+                "profile_path": "/dvi65TIvULyskySmQMaVjiuEQby.jpg",
+                "cast_id": 24,
+                "character": "Townie in Car",
+                "credit_id": "5f21a70e43999b003653290f",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11641,
+                "known_for_department": "Acting",
+                "name": "Scott Spiegel",
+                "original_name": "Scott Spiegel",
+                "popularity": 0.014,
+                "profile_path": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg",
+                "credit_id": "52fe44639251416c9100efb9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11641,
+                "known_for_department": "Acting",
+                "name": "Scott Spiegel",
+                "original_name": "Scott Spiegel",
+                "popularity": 0.014,
+                "profile_path": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg",
+                "credit_id": "52fe44639251416c9100efd7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51589,
+                "known_for_department": "Camera",
+                "name": "Fernando Argüelles",
+                "original_name": "Fernando Argüelles",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "610fa7a14a52f8007e1a4286",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1908403,
+                "known_for_department": "Directing",
+                "name": "Anthony Hall",
+                "original_name": "Anthony Hall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced3e2c6b7b00c4fe325d",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2659095,
+                "known_for_department": "Directing",
+                "name": "Eddie Ziv",
+                "original_name": "Eddie Ziv",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced4593db92011bb7f918",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19707,
+                "known_for_department": "Production",
+                "name": "Charles Band",
+                "original_name": "Charles Band",
+                "popularity": 0.024,
+                "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+                "credit_id": "650cecc6b5bc2100eacaf85b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4284192,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Beth Kaminsky",
+                "original_name": "Beth Kaminsky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced0e93db9200ac2b942c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24529,
+                "known_for_department": "Crew",
+                "name": "Chuck Borden",
+                "original_name": "Chuck Borden",
+                "popularity": 0.005,
+                "profile_path": "/ethmbGjgOnT54QiILrN1z4C6Vpp.jpg",
+                "credit_id": "650ced602c6b7b00fe464ab7",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4026956,
+                "known_for_department": "Crew",
+                "name": "Sean Rodgers",
+                "original_name": "Sean Rodgers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced2951a64e00ae9292d8",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4284191,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Beth Kaminsky",
+                "original_name": "Beth Kaminsky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced0993db9200c4f6aa57",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2099848,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mara Massey",
+                "original_name": "Mara Massey",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650cecd593db92011bb7f8d5",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1267143,
+                "known_for_department": "Art",
+                "name": "Wendy Guidery",
+                "original_name": "Wendy Guidery",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650cecdcb5bc2100eacaf865",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2256228,
+                "known_for_department": "Camera",
+                "name": "Michael Martino",
+                "original_name": "Michael Martino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "650ced5a51a64e0101704902",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1181683,
+                "known_for_department": "Editing",
+                "name": "King Wilder",
+                "original_name": "King Wilder",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61fed1733acd2000c979d181",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107372,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Howard Berger",
+                "original_name": "Howard Berger",
+                "popularity": 0.046,
+                "profile_path": "/fz0Z8ia0Iaq4SS6NfVAcFIAeU2F.jpg",
+                "credit_id": "5877dd3ac3a36850f500d08d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1267143,
+                "known_for_department": "Art",
+                "name": "Wendy Guidery",
+                "original_name": "Wendy Guidery",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6446f78205822458bc32bbc8",
+                "department": "Production",
+                "job": "Production Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11419,
+                "known_for_department": "Crew",
+                "name": "Robert Kurtzman",
+                "original_name": "Robert Kurtzman",
+                "popularity": 0.022,
+                "profile_path": "/o1PEJuCD1cJkXeAYwpMJm7U2eFx.jpg",
+                "credit_id": "6446f7ecb54002243226ba1e",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 136011,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rena Eliashiv",
+                "original_name": "Rena Eliashiv",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6446f76a6dc5070b69d4baa8",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1099982,
+                "known_for_department": "Sound",
+                "name": "Jonathan Bogner",
+                "original_name": "Jonathan Bogner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6446f822c8f3c42e4e454915",
+                "department": "Production",
+                "job": "Executive In Charge Of Production"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2659283,
+                "known_for_department": "Writing",
+                "name": "Douglas Scott-Hessler",
+                "original_name": "Douglas Scott-Hessler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6446f8476dc507057dd4bd4b",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59287,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Greg Nicotero",
+                "original_name": "Greg Nicotero",
+                "popularity": 0.044,
+                "profile_path": "/dvi65TIvULyskySmQMaVjiuEQby.jpg",
+                "credit_id": "6446f7ada06efe66aca526f0",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2545,
+                "known_for_department": "Production",
+                "name": "Lawrence Bender",
+                "original_name": "Lawrence Bender",
+                "popularity": 0.017,
+                "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+                "credit_id": "5cb882df0e0a266ba2f14853",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2545,
+                "known_for_department": "Production",
+                "name": "Lawrence Bender",
+                "original_name": "Lawrence Bender",
+                "popularity": 0.017,
+                "profile_path": "/mZRwkIvUj8USnS7Jfwd6VdHkY2x.jpg",
+                "credit_id": "5cb882c2c3a3686aeb85a933",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1545,
+                "name": "supermarket"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Elizabeth Cox",
+            "character": "Jennifer Ross"
+        },
+        {
+            "actor": "Renée Estevez",
+            "character": "Linda"
+        },
+        {
+            "actor": "Dan Hicks",
+            "character": "Bill Roberts"
+        },
+        {
+            "actor": "David Byrnes",
+            "character": "Craig Peterson"
+        },
+        {
+            "actor": "Sam Raimi",
+            "character": "Randy"
+        },
+        {
+            "actor": "Eugene Robert Glazer",
+            "character": "Danny"
+        },
+        {
+            "actor": "Billy Marti",
+            "character": "Dave"
+        },
+        {
+            "actor": "Burr Steers",
+            "character": "Bub"
+        },
+        {
+            "actor": "Craig Stark",
+            "character": "Tim"
+        },
+        {
+            "actor": "Ted Raimi",
+            "character": "Produce Joe"
+        },
+        {
+            "actor": "Tom Lester",
+            "character": "Officer Mathews"
+        },
+        {
+            "actor": "Alvy Moore",
+            "character": "Officer Dalton"
+        },
+        {
+            "actor": "Emil Sitka",
+            "character": "Mr. Abernathy"
+        },
+        {
+            "actor": "Bruce Campbell",
+            "character": "Officer Howard"
+        },
+        {
+            "actor": "Lawrence Bender",
+            "character": "Officer Adams"
+        },
+        {
+            "actor": "Scott Spiegel",
+            "character": "Bread Man"
+        },
+        {
+            "actor": "Douglas Scott-Hessler",
+            "character": "Townie at Door"
+        },
+        {
+            "actor": "Greg Nicotero",
+            "character": "Townie in Car"
+        }
+    ]
+}

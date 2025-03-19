@@ -1,0 +1,879 @@
+{
+    "adult": false,
+    "backdrop_path": "/eoOi6vkfJmDEnfgiG7jVnZh6ZIe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 5486,
+    "imdb_id": "tt0067656",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Ecologia del delitto",
+    "overview": "An elderly heiress is killed by her husband who wants control of her fortunes. What ensues is an all-out murder spree as relatives and friends attempt to reduce the inheritance playing field, complicated by some teenagers who decide to camp out in a dilapidated building on the estate.",
+    "popularity": 3.567,
+    "poster_path": "/cTqmAcZwaEY609QDCLpgBlwijn9.jpg",
+    "production_companies": [
+        {
+            "id": 1920,
+            "logo_path": null,
+            "name": "Nuova Linea Cinematografica",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1971-09-08",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They came to play, they stayed to die.",
+    "title": "A Bay of Blood",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 381,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-02-28T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-03-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-09-08T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Milan",
+                        "release_date": "1971-12-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-05-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9919,
+                "known_for_department": "Acting",
+                "name": "Claudine Auger",
+                "original_name": "Claudine Auger",
+                "popularity": 0.037,
+                "profile_path": "/1KAAUhgfVxdI5g2t0YFCG9ITrvi.jpg",
+                "cast_id": 9,
+                "character": "Renata Donati",
+                "credit_id": "52fe4408c3a36847f807e593",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5814,
+                "known_for_department": "Acting",
+                "name": "Luigi Pistilli",
+                "original_name": "Luigi Pistilli",
+                "popularity": 0.023,
+                "profile_path": "/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg",
+                "cast_id": 10,
+                "character": "Alberto / Albert",
+                "credit_id": "52fe4408c3a36847f807e597",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44987,
+                "known_for_department": "Acting",
+                "name": "Claudio Camaso",
+                "original_name": "Claudio Camaso",
+                "popularity": 0.01,
+                "profile_path": "/fAOe9hWHojH5qK6nt6zBhGJ2rdN.jpg",
+                "cast_id": 11,
+                "character": "Simone / Simon",
+                "credit_id": "52fe4408c3a36847f807e59b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44988,
+                "known_for_department": "Acting",
+                "name": "Anna Maria Rosati",
+                "original_name": "Anna Maria Rosati",
+                "popularity": 0.002,
+                "profile_path": "/7OenfHPrKiivd02hok1SOXWlkkc.jpg",
+                "cast_id": 12,
+                "character": "Laura",
+                "credit_id": "52fe4408c3a36847f807e59f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27382,
+                "known_for_department": "Acting",
+                "name": "Chris Avram",
+                "original_name": "Chris Avram",
+                "popularity": 0.011,
+                "profile_path": "/nrIr7ptXdqvqdfHm8su0p2fKvnj.jpg",
+                "cast_id": 13,
+                "character": "Franco Ventura / Frank Ventura",
+                "credit_id": "52fe4408c3a36847f807e5a3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14151,
+                "known_for_department": "Acting",
+                "name": "Leopoldo Trieste",
+                "original_name": "Leopoldo Trieste",
+                "popularity": 0.017,
+                "profile_path": "/rPvCj39OY7LClFh9CG2OXFKxioB.jpg",
+                "cast_id": 14,
+                "character": "Paolo Fosatti / Paul Fosatti",
+                "credit_id": "52fe4408c3a36847f807e5a7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7710,
+                "known_for_department": "Acting",
+                "name": "Laura Betti",
+                "original_name": "Laura Betti",
+                "popularity": 0.016,
+                "profile_path": "/7fQu63Y9LDvAKLGVprtvVBGTbi1.jpg",
+                "cast_id": 15,
+                "character": "Anna Fossati",
+                "credit_id": "52fe4408c3a36847f807e5ab",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44978,
+                "known_for_department": "Acting",
+                "name": "Brigitte Skay",
+                "original_name": "Brigitte Skay",
+                "popularity": 0.01,
+                "profile_path": "/xrMy5fmek0n4xIJqlHBcxXkRzzL.jpg",
+                "cast_id": 18,
+                "character": "Louise / Brunhilde",
+                "credit_id": "52fe4408c3a36847f807e5bb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31696,
+                "known_for_department": "Acting",
+                "name": "Isa Miranda",
+                "original_name": "Isa Miranda",
+                "popularity": 0.018,
+                "profile_path": "/q2xKoH8DdbFvmrm1q0Z327itTKz.jpg",
+                "cast_id": 19,
+                "character": "Countess Federica Donati",
+                "credit_id": "52fe4408c3a36847f807e5bf",
+                "order": 8
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 1162494,
+                "known_for_department": "Acting",
+                "name": "Paola Montenero",
+                "original_name": "Paola Montenero",
+                "popularity": 4.282,
+                "profile_path": "/8J6l0I6780i0kC4S6txMU84yIt8.jpg",
+                "cast_id": 20,
+                "character": "Sylvie / Denise",
+                "credit_id": "52fe4408c3a36847f807e5c3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 29920,
+                "known_for_department": "Acting",
+                "name": "Nicoletta Elmi",
+                "original_name": "Nicoletta Elmi",
+                "popularity": 0.016,
+                "profile_path": "/AhSri1Fg7SSEkXE2NiVknXPl2gc.jpg",
+                "cast_id": 21,
+                "character": "Renata and Albert's Daughter (uncredited)",
+                "credit_id": "52fe4408c3a36847f807e5c7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548190,
+                "known_for_department": "Acting",
+                "name": "Renato Cestiè",
+                "original_name": "Renato Cestiè",
+                "popularity": 0.008,
+                "profile_path": "/xHtZjStAib7XTuVfIgxzTLcP9lE.jpg",
+                "cast_id": 22,
+                "character": "Renata and Albert's Son (uncredited)",
+                "credit_id": "52fe4408c3a36847f807e5cb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2550902,
+                "known_for_department": "Acting",
+                "name": "Guido Boccaccini",
+                "original_name": "Guido Boccaccini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Luca / Duke",
+                "credit_id": "5e56d761a6d93100185be359",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1159527,
+                "known_for_department": "Acting",
+                "name": "Roberto Bonanni",
+                "original_name": "Roberto Bonanni",
+                "popularity": 0.001,
+                "profile_path": "/mHBlMYAQqS1AUNwoDWFwP3qDuSg.jpg",
+                "cast_id": 47,
+                "character": "Roberto / Bobby",
+                "credit_id": "5e56d77335811d00175f8dce",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1636304,
+                "known_for_department": "Acting",
+                "name": "Giovanni Nuvoletti",
+                "original_name": "Giovanni Nuvoletti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Count Filippo Donati",
+                "credit_id": "5e56d7974cbe120016ca954d",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25826,
+                "known_for_department": "Directing",
+                "name": "Mario Bava",
+                "original_name": "Mario Bava",
+                "popularity": 0.021,
+                "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+                "credit_id": "52fe4408c3a36847f807e565",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44985,
+                "known_for_department": "Production",
+                "name": "Giuseppe Zaccariello",
+                "original_name": "Giuseppe Zaccariello",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4408c3a36847f807e571",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29501,
+                "known_for_department": "Sound",
+                "name": "Stelvio Cipriani",
+                "original_name": "Stelvio Cipriani",
+                "popularity": 0.005,
+                "profile_path": "/qtrsEv285HuZnGqHrBpCVLhT71S.jpg",
+                "credit_id": "52fe4408c3a36847f807e57d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44967,
+                "known_for_department": "Editing",
+                "name": "Carlo Reali",
+                "original_name": "Carlo Reali",
+                "popularity": 0.009,
+                "profile_path": "/qOlcCKGGjDGJWXyq62E9oPaWmC1.jpg",
+                "credit_id": "52fe4408c3a36847f807e583",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25826,
+                "known_for_department": "Directing",
+                "name": "Mario Bava",
+                "original_name": "Mario Bava",
+                "popularity": 0.021,
+                "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+                "credit_id": "52fe4408c3a36847f807e589",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44986,
+                "known_for_department": "Art",
+                "name": "Sergio Canevari",
+                "original_name": "Sergio Canevari",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4408c3a36847f807e58f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44955,
+                "known_for_department": "Directing",
+                "name": "Lamberto Bava",
+                "original_name": "Lamberto Bava",
+                "popularity": 0.022,
+                "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+                "credit_id": "5e024fb2c5840d0018091d13",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14590,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Enrico Sabbatini",
+                "original_name": "Enrico Sabbatini",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5e024ff4d236e6001693c1b2",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20504,
+                "known_for_department": "Crew",
+                "name": "Carlo Rambaldi",
+                "original_name": "Carlo Rambaldi",
+                "popularity": 0.002,
+                "profile_path": "/d7OSTpa33e2e7dlIsH9dm1xVDTQ.jpg",
+                "credit_id": "5e02503726dac1001767cf01",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44986,
+                "known_for_department": "Art",
+                "name": "Sergio Canevari",
+                "original_name": "Sergio Canevari",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d4e19b8616001838fdfd",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837864,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Adalgisa Favella",
+                "original_name": "Adalgisa Favella",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d5074cbe120018ca8036",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1461764,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Franco Freda",
+                "original_name": "Franco Freda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d523f48b34001377f3f1",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1038526,
+                "known_for_department": "Production",
+                "name": "Roberto Cicutto",
+                "original_name": "Roberto Cicutto",
+                "popularity": 0.002,
+                "profile_path": "/stmBCsRWAsXyYiJLRDJCOUC4WfN.jpg",
+                "credit_id": "5e56d5459b8616001138f36c",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1090072,
+                "known_for_department": "Production",
+                "name": "Fernando Franchi",
+                "original_name": "Fernando Franchi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d55e9b8616001138f3bf",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1625904,
+                "known_for_department": "Sound",
+                "name": "Carlo Diotallevi",
+                "original_name": "Carlo Diotallevi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d5c235811d00175f8b52",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1600684,
+                "known_for_department": "Sound",
+                "name": "Carlo Tarchi",
+                "original_name": "Carlo Tarchi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d5f49b8616001138f4ac",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 37371,
+                "known_for_department": "Camera",
+                "name": "Gianlorenzo Battaglia",
+                "original_name": "Gianlorenzo Battaglia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d618a6d93100125b9cee",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 31542,
+                "known_for_department": "Camera",
+                "name": "Emilio Varriano",
+                "original_name": "Emilio Varriano",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d632f48b340019775460",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1581963,
+                "known_for_department": "Camera",
+                "name": "Franco Vitale",
+                "original_name": "Franco Vitale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d64fa93d250013515edd",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2486770,
+                "known_for_department": "Acting",
+                "name": "Vincenzo Restuccia",
+                "original_name": "Vincenzo Restuccia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d69ff48b3400197754da",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2550901,
+                "known_for_department": "Sound",
+                "name": "Mandrake Som",
+                "original_name": "Mandrake Som",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d6b69b8616001338fe03",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1721958,
+                "known_for_department": "Directing",
+                "name": "Patrizia Zulini",
+                "original_name": "Patrizia Zulini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e56d6c59b8616001838feee",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25826,
+                "known_for_department": "Directing",
+                "name": "Mario Bava",
+                "original_name": "Mario Bava",
+                "popularity": 0.021,
+                "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+                "credit_id": "5efc228dd6d64d0036cd113e",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44985,
+                "known_for_department": "Production",
+                "name": "Giuseppe Zaccariello",
+                "original_name": "Giuseppe Zaccariello",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5efc22a6a284eb003791e21a",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44984,
+                "known_for_department": "Writing",
+                "name": "Filippo Ottoni",
+                "original_name": "Filippo Ottoni",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5efc22c05437f500369016ca",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44957,
+                "known_for_department": "Writing",
+                "name": "Dardano Sacchetti",
+                "original_name": "Dardano Sacchetti",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "5efc22e3d6d64d0036cd1317",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1089678,
+                "known_for_department": "Writing",
+                "name": "Gianfranco Barberi",
+                "original_name": "Gianfranco Barberi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5efc23b7a284eb003791e4c6",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 49452,
+                "known_for_department": "Writing",
+                "name": "Gene Luotto",
+                "original_name": "Gene Luotto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5efc23eba284eb003994553f",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7710,
+                "known_for_department": "Acting",
+                "name": "Laura Betti",
+                "original_name": "Laura Betti",
+                "popularity": 0.016,
+                "profile_path": "/7fQu63Y9LDvAKLGVprtvVBGTbi1.jpg",
+                "credit_id": "5efc240df0317400374f333f",
+                "department": "Crew",
+                "job": "Additional Writing"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44986,
+                "known_for_department": "Art",
+                "name": "Sergio Canevari",
+                "original_name": "Sergio Canevari",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5efc24225437f50036901949",
+                "department": "Crew",
+                "job": "Additional Writing"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1191532,
+                "known_for_department": "Art",
+                "name": "Franco Vanorio",
+                "original_name": "Franco Vanorio",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5efc2447e93e950032bb476f",
+                "department": "Crew",
+                "job": "Additional Writing"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72478,
+                "known_for_department": "Production",
+                "name": "Alfredo Bini",
+                "original_name": "Alfredo Bini",
+                "popularity": 0.001,
+                "profile_path": "/1FBfJsD2uDIvOnGiVofcrFB9Pe4.jpg",
+                "credit_id": "6788d76988c55856d51d44c9",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 236,
+                "name": "suicide"
+            },
+            {
+                "id": 2771,
+                "name": "octopus"
+            },
+            {
+                "id": 6259,
+                "name": "psychopath"
+            },
+            {
+                "id": 1583,
+                "name": "mass murder"
+            },
+            {
+                "id": 2564,
+                "name": "wheelchair"
+            },
+            {
+                "id": 10292,
+                "name": "gore"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 13078,
+                "name": "skinny dipping"
+            },
+            {
+                "id": 14805,
+                "name": "maniac"
+            },
+            {
+                "id": 157758,
+                "name": "axe murder"
+            },
+            {
+                "id": 189921,
+                "name": "video nasty"
+            },
+            {
+                "id": 233450,
+                "name": "proto-slasher"
+            },
+            {
+                "id": 262826,
+                "name": "ax"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Claudine Auger",
+            "character": "Renata Donati"
+        },
+        {
+            "actor": "Luigi Pistilli",
+            "character": "Alberto / Albert"
+        },
+        {
+            "actor": "Claudio Camaso",
+            "character": "Simone / Simon"
+        },
+        {
+            "actor": "Anna Maria Rosati",
+            "character": "Laura"
+        },
+        {
+            "actor": "Chris Avram",
+            "character": "Franco Ventura / Frank Ventura"
+        },
+        {
+            "actor": "Leopoldo Trieste",
+            "character": "Paolo Fosatti / Paul Fosatti"
+        },
+        {
+            "actor": "Laura Betti",
+            "character": "Anna Fossati"
+        },
+        {
+            "actor": "Brigitte Skay",
+            "character": "Louise / Brunhilde"
+        },
+        {
+            "actor": "Isa Miranda",
+            "character": "Countess Federica Donati"
+        },
+        {
+            "actor": "Paola Montenero",
+            "character": "Sylvie / Denise"
+        },
+        {
+            "actor": "Nicoletta Elmi",
+            "character": "Renata and Albert's Daughter (uncredited)"
+        },
+        {
+            "actor": "Renato Cestiè",
+            "character": "Renata and Albert's Son (uncredited)"
+        },
+        {
+            "actor": "Guido Boccaccini",
+            "character": "Luca / Duke"
+        },
+        {
+            "actor": "Roberto Bonanni",
+            "character": "Roberto / Bobby"
+        },
+        {
+            "actor": "Giovanni Nuvoletti",
+            "character": "Count Filippo Donati"
+        }
+    ]
+}

@@ -1,0 +1,576 @@
+{
+    "adult": false,
+    "backdrop_path": "/zPxeAFgO5dXCHdkfJfEzRpoVEOQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 67309,
+    "imdb_id": "tt0112492",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Beware: Children at Play",
+    "overview": "Parents are in a panic as their children mysteriously disappear. Little do they know that the only thing worse than their children disappearing would be them coming back. After the youngsters of Ellenburg fall under the ruthless control of a cult leader, they turn on their parents with gruesome results.",
+    "popularity": 1.13,
+    "poster_path": "/eUTs5eIhzqpi2Esepxui9HVu6dx.jpg",
+    "production_companies": [
+        {
+            "id": 3052,
+            "logo_path": "/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png",
+            "name": "Troma Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-11-24",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "These Aren't Children...They Are Demons!",
+    "title": "Beware: Children at Play",
+    "video": false,
+    "vote_average": 3.9,
+    "vote_count": 32,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1223528,
+                "known_for_department": "Directing",
+                "name": "Lori Romero",
+                "original_name": "Lori Romero",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Julia DeWolfe",
+                "credit_id": "52fe4760c3a368484e0c3b6d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 940630,
+                "known_for_department": "Production",
+                "name": "Michael Robertson",
+                "original_name": "Michael Robertson",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "John DeWolfe",
+                "credit_id": "52fe4760c3a368484e0c3b71",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1223529,
+                "known_for_department": "Acting",
+                "name": "Robin Lilly",
+                "original_name": "Robin Lilly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Cleo Carr",
+                "credit_id": "52fe4760c3a368484e0c3b75",
+                "order": 2
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104528,
+                "known_for_department": "Camera",
+                "name": "Mik Cribben",
+                "original_name": "Mik Cribben",
+                "popularity": 0.695,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Farmer Isac Braun",
+                "credit_id": "52fe4760c3a368484e0c3b79",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1708233,
+                "known_for_department": "Acting",
+                "name": "Lori Tirgrath",
+                "original_name": "Lori Tirgrath",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Julia DeWolfe",
+                "credit_id": "58289e0b9251417b2902c198",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1708234,
+                "known_for_department": "Acting",
+                "name": "Herb Klinger",
+                "original_name": "Herb Klinger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Franklin Ludwig",
+                "credit_id": "58289e229251417b1802c812",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1685402,
+                "known_for_department": "Acting",
+                "name": "Lorna Courtney",
+                "original_name": "Lorna Courtney",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Amy Carr/ Wealtheow",
+                "credit_id": "58289e2c9251417b1a02cb17",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1708236,
+                "known_for_department": "Acting",
+                "name": "Danny McClaughlin",
+                "original_name": "Danny McClaughlin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Grendel / Glenn Randall",
+                "credit_id": "58289e48c3a368360602dbb4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99424,
+                "known_for_department": "Acting",
+                "name": "Annie Grindlay",
+                "original_name": "Annie Grindlay",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Witness (as Anne Grindley)",
+                "credit_id": "58289e5ec3a3680381021d16",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810338,
+                "known_for_department": "Acting",
+                "name": "Rich Hamilton",
+                "original_name": "Rich Hamilton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Sheriff Ross Carr",
+                "credit_id": "66869d351150d93f2f42a1c1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810340,
+                "known_for_department": "Acting",
+                "name": "Jamie Krause",
+                "original_name": "Jamie Krause",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Kara DeWolfe",
+                "credit_id": "66869d6ef8da6f84c9c1a810",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810341,
+                "known_for_department": "Acting",
+                "name": "Sunshine Barrett",
+                "original_name": "Sunshine Barrett",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Mary Rose Carr",
+                "credit_id": "66869d8cfc9dba48db17ed20",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810344,
+                "known_for_department": "Acting",
+                "name": "Mark Diekman",
+                "original_name": "Mark Diekman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Luke Domain",
+                "credit_id": "66869db9ef5530b4b117f164",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2887390,
+                "known_for_department": "Production",
+                "name": "Susann Chandler",
+                "original_name": "Susann Chandler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Mrs. Mary Braun",
+                "credit_id": "66869e161a8d8c0741c1a779",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810347,
+                "known_for_department": "Acting",
+                "name": "Lauren Cloud",
+                "original_name": "Lauren Cloud",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Dale Hawthorn",
+                "credit_id": "66869e379dfca1f2a61a6a78",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810350,
+                "known_for_department": "Acting",
+                "name": "Stephanie Jaworski",
+                "original_name": "Stephanie Jaworski",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Alice Allegari",
+                "credit_id": "66869e7114e97a442942a185",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1528157,
+                "known_for_department": "Acting",
+                "name": "Lee Kayman",
+                "original_name": "Lee Kayman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Josiah Modicah",
+                "credit_id": "66869ebe8098f8fa031bd859",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 132434,
+                "known_for_department": "Acting",
+                "name": "Bernard Hocke",
+                "original_name": "Bernard Hocke",
+                "popularity": 0.014,
+                "profile_path": "/hb7Poj1clhZJFSWxNlF81LH5wlx.jpg",
+                "cast_id": 23,
+                "character": "Professor Randall",
+                "credit_id": "66869eec14e97a442942a18d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3395620,
+                "known_for_department": "Acting",
+                "name": "Eric Tonken",
+                "original_name": "Eric Tonken",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Young Glenn Randall",
+                "credit_id": "66869f1530d86db7412599da",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101105,
+                "known_for_department": "Writing",
+                "name": "Rick Bitzelberger",
+                "original_name": "Rick Bitzelberger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Dr. Fish",
+                "credit_id": "66869f426cb7656c3290eb4d",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104528,
+                "known_for_department": "Camera",
+                "name": "Mik Cribben",
+                "original_name": "Mik Cribben",
+                "popularity": 0.695,
+                "profile_path": null,
+                "credit_id": "52fe4760c3a368484e0c3b69",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121499,
+                "known_for_department": "Writing",
+                "name": "Fred P. Sharkey",
+                "original_name": "Fred P. Sharkey",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "614751295e1200008dad9d04",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1945017,
+                "known_for_department": "Sound",
+                "name": "Herschel Dwellingham",
+                "original_name": "Herschel Dwellingham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61475146a6ddcb0043aed76e",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104528,
+                "known_for_department": "Camera",
+                "name": "Mik Cribben",
+                "original_name": "Mik Cribben",
+                "popularity": 0.695,
+                "profile_path": null,
+                "credit_id": "614751d222df2e00656b23f3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104528,
+                "known_for_department": "Camera",
+                "name": "Mik Cribben",
+                "original_name": "Mik Cribben",
+                "popularity": 0.695,
+                "profile_path": null,
+                "credit_id": "614751da6097500087e7cc42",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810368,
+                "known_for_department": "Production",
+                "name": "Michael Koslow",
+                "original_name": "Michael Koslow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66869f78487596cd10855287",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810371,
+                "known_for_department": "Production",
+                "name": "Lawrence Littler",
+                "original_name": "Lawrence Littler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66869f921d6a377ed18552ef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810374,
+                "known_for_department": "Production",
+                "name": "Linda Sanford",
+                "original_name": "Linda Sanford",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66869fa8dc7a9accc91a6e8c",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810376,
+                "known_for_department": "Production",
+                "name": "Ellen Wedner",
+                "original_name": "Ellen Wedner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66869fbb84c45d75ac90eb63",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4810380,
+                "known_for_department": "Editing",
+                "name": "Michael Cribben",
+                "original_name": "Michael Cribben",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66869ffc9e377b575242a168",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 190624,
+                "name": "killer child"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Lori Romero",
+            "character": "Julia DeWolfe"
+        },
+        {
+            "actor": "Michael Robertson",
+            "character": "John DeWolfe"
+        },
+        {
+            "actor": "Robin Lilly",
+            "character": "Cleo Carr"
+        },
+        {
+            "actor": "Mik Cribben",
+            "character": "Farmer Isac Braun"
+        },
+        {
+            "actor": "Lori Tirgrath",
+            "character": "Julia DeWolfe"
+        },
+        {
+            "actor": "Herb Klinger",
+            "character": "Franklin Ludwig"
+        },
+        {
+            "actor": "Lorna Courtney",
+            "character": "Amy Carr/ Wealtheow"
+        },
+        {
+            "actor": "Danny McClaughlin",
+            "character": "Grendel / Glenn Randall"
+        },
+        {
+            "actor": "Annie Grindlay",
+            "character": "Witness (as Anne Grindley)"
+        },
+        {
+            "actor": "Rich Hamilton",
+            "character": "Sheriff Ross Carr"
+        },
+        {
+            "actor": "Jamie Krause",
+            "character": "Kara DeWolfe"
+        },
+        {
+            "actor": "Sunshine Barrett",
+            "character": "Mary Rose Carr"
+        },
+        {
+            "actor": "Mark Diekman",
+            "character": "Luke Domain"
+        },
+        {
+            "actor": "Susann Chandler",
+            "character": "Mrs. Mary Braun"
+        },
+        {
+            "actor": "Lauren Cloud",
+            "character": "Dale Hawthorn"
+        },
+        {
+            "actor": "Stephanie Jaworski",
+            "character": "Alice Allegari"
+        },
+        {
+            "actor": "Lee Kayman",
+            "character": "Josiah Modicah"
+        },
+        {
+            "actor": "Bernard Hocke",
+            "character": "Professor Randall"
+        },
+        {
+            "actor": "Eric Tonken",
+            "character": "Young Glenn Randall"
+        },
+        {
+            "actor": "Rick Bitzelberger",
+            "character": "Dr. Fish"
+        }
+    ]
+}

@@ -1,0 +1,956 @@
+{
+    "adult": false,
+    "backdrop_path": "/4rw8hb8Idl48PXLss01sXbYnwDf.jpg",
+    "belongs_to_collection": null,
+    "budget": 4500000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 14815,
+    "imdb_id": "tt0073906",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Wind and the Lion",
+    "overview": "At the beginning of the 20th century an American woman is abducted in Morocco by Berbers, and the attempts to free her range from diplomatic pressure to military intervention.",
+    "popularity": 3.53,
+    "poster_path": "/3QLqEZL1kBBfKjVz3nAm5vJruRZ.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1975-05-22",
+    "revenue": 9200000,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Arabic",
+            "iso_639_1": "ar",
+            "name": "العربية"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Between the wind and the lion is the woman. For her, half the world may go to war.",
+    "title": "The Wind and the Lion",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 185,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "e 12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-01-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1976-01-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-12-17T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2020-11-09T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD & Blu-Ray (Remastered version)",
+                        "release_date": "2021-08-18T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2018-11-07T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-09-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-12-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "PG12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-04-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-08-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-05-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "e 12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-01-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Göteborg",
+                        "release_date": "1975-12-25T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Stockholm",
+                        "release_date": "1975-12-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-05-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 738,
+                "known_for_department": "Acting",
+                "name": "Sean Connery",
+                "original_name": "Sean Connery",
+                "popularity": 0.104,
+                "profile_path": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
+                "cast_id": 1,
+                "character": "Mulai Ahmed er Raisuli",
+                "credit_id": "52fe461c9251416c7506d7e1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11850,
+                "known_for_department": "Acting",
+                "name": "Candice Bergen",
+                "original_name": "Candice Bergen",
+                "popularity": 0.056,
+                "profile_path": "/nElAkiKaYlO039KgvWVZAC1fHTk.jpg",
+                "cast_id": 2,
+                "character": "Eden Pedecaris",
+                "credit_id": "52fe461c9251416c7506d7e5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32791,
+                "known_for_department": "Acting",
+                "name": "Brian Keith",
+                "original_name": "Brian Keith",
+                "popularity": 0.053,
+                "profile_path": "/c5Tnce8aeEVigEgctnkNcy4jc2l.jpg",
+                "cast_id": 3,
+                "character": "Theodore Roosevelt",
+                "credit_id": "52fe461c9251416c7506d7e9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6593,
+                "known_for_department": "Directing",
+                "name": "John Huston",
+                "original_name": "John Huston",
+                "popularity": 0.047,
+                "profile_path": "/8AfXZY3D2iekVS5vblhaQx8I1qs.jpg",
+                "cast_id": 4,
+                "character": "John Hay",
+                "credit_id": "52fe461c9251416c7506d7ed",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18071,
+                "known_for_department": "Acting",
+                "name": "Geoffrey Lewis",
+                "original_name": "Geoffrey Lewis",
+                "popularity": 0.065,
+                "profile_path": "/codb8rrsNqnsq3e0MHkH3kAAJwg.jpg",
+                "cast_id": 5,
+                "character": "Samuel Gummere",
+                "credit_id": "52fe461c9251416c7506d7f1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41280,
+                "known_for_department": "Acting",
+                "name": "Steve Kanaly",
+                "original_name": "Steve Kanaly",
+                "popularity": 0.019,
+                "profile_path": "/ph5j9TUN6iVdWavopbpQQwQAdzz.jpg",
+                "cast_id": 6,
+                "character": "Capt. Jerome",
+                "credit_id": "52fe461c9251416c7506d7f5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39036,
+                "known_for_department": "Acting",
+                "name": "Vladek Sheybal",
+                "original_name": "Vladek Sheybal",
+                "popularity": 0.013,
+                "profile_path": "/1DT8AE1sD7ADGaoPxYvYo1EzrKz.jpg",
+                "cast_id": 7,
+                "character": "The Bashaw",
+                "credit_id": "52fe461c9251416c7506d7f9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2980,
+                "known_for_department": "Acting",
+                "name": "Nadim Sawalha",
+                "original_name": "Nadim Sawalha",
+                "popularity": 0.017,
+                "profile_path": "/7nFlNb4YTw6dQOxfPu7HRSX4c0o.jpg",
+                "cast_id": 18,
+                "character": "Sherif of Wazan",
+                "credit_id": "59f87fa8c3a368607e0162ac",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12298,
+                "known_for_department": "Acting",
+                "name": "Roy Jenson",
+                "original_name": "Roy Jenson",
+                "popularity": 0.036,
+                "profile_path": "/c0e49ddO1igeztMSrGPDmx4EyTo.jpg",
+                "cast_id": 19,
+                "character": "Admiral Chadwick",
+                "credit_id": "59f87fc7c3a36860a4015357",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 948150,
+                "known_for_department": "Acting",
+                "name": "Deborah Baxter",
+                "original_name": "Deborah Baxter",
+                "popularity": 0.001,
+                "profile_path": "/jW4zojvBppIeLxeFox4FuWovqcr.jpg",
+                "cast_id": 23,
+                "character": "Alice Roosevelt",
+                "credit_id": "5e48fdb635811d001947b00e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1341137,
+                "known_for_department": "Sound",
+                "name": "Jack Cooley",
+                "original_name": "Jack Cooley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Quentin Roosevelt",
+                "credit_id": "63175cff1511aa007ba4fe10",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3690666,
+                "known_for_department": "Acting",
+                "name": "Chris Aller",
+                "original_name": "Chris Aller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Kermit Roosevelt",
+                "credit_id": "63175d0cba131b0081d20a76",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1915080,
+                "known_for_department": "Acting",
+                "name": "Simon Harrison",
+                "original_name": "Simon Harrison",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "William Pedecaris",
+                "credit_id": "63175d8120e6a5007d9c031b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1915081,
+                "known_for_department": "Acting",
+                "name": "Polly Gottesman",
+                "original_name": "Polly Gottesman",
+                "popularity": 0.008,
+                "profile_path": "/eGce70koe8xLwsYHkMvhsvNolS9.jpg",
+                "cast_id": 27,
+                "character": "Jennifer Pedecaris",
+                "credit_id": "63175d8cba131b0079b3b46d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5568,
+                "known_for_department": "Acting",
+                "name": "Antoine Saint-John",
+                "original_name": "Antoine Saint-John",
+                "popularity": 0.01,
+                "profile_path": "/wRAOBPHVyS9PbY5TThE5CsM5DFj.jpg",
+                "cast_id": 28,
+                "character": "Von Roerkel",
+                "credit_id": "63175d9f71083a00801f843b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49895,
+                "known_for_department": "Acting",
+                "name": "Aldo Sambrell",
+                "original_name": "Aldo Sambrell",
+                "popularity": 0.02,
+                "profile_path": "/lJsoZtOeNaer5jZSydSjONL32xp.jpg",
+                "cast_id": 29,
+                "character": "Ugly Arab",
+                "credit_id": "63175dab028420008077e795",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30963,
+                "known_for_department": "Acting",
+                "name": "Luis Barboo",
+                "original_name": "Luis Barboo",
+                "popularity": 0.01,
+                "profile_path": "/CdH749qulB8UeFxdsIGFwOcEUh.jpg",
+                "cast_id": 30,
+                "character": "Gayaan The Terrible",
+                "credit_id": "63175db41511aa007ba4fe4f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161354,
+                "known_for_department": "Writing",
+                "name": "Darrell Fetty",
+                "original_name": "Darrell Fetty",
+                "popularity": 0.01,
+                "profile_path": "/40D1sCLLSEqLFRQiS1iudz7WJ9j.jpg",
+                "cast_id": 31,
+                "character": "Dreighton",
+                "credit_id": "63175dc320e6a5007d9c0338",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 158670,
+                "known_for_department": "Acting",
+                "name": "Marc Zuber",
+                "original_name": "Marc Zuber",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "The Sultan",
+                "credit_id": "63175ddb9408ec0080c69ccf",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11848,
+                "known_for_department": "Camera",
+                "name": "Billy Williams",
+                "original_name": "Billy Williams",
+                "popularity": 0.003,
+                "profile_path": "/uNHt1qfbNKc06ObaV61UelmeWqL.jpg",
+                "cast_id": 33,
+                "character": "Sir Joseph",
+                "credit_id": "63175df2fab3fa0084c29e72",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3690667,
+                "known_for_department": "Acting",
+                "name": "Shirley Rothman",
+                "original_name": "Shirley Rothman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Edith Roosevelt",
+                "credit_id": "63175e00a84a47007a7bab0f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3271686,
+                "known_for_department": "Acting",
+                "name": "Rusty Cox",
+                "original_name": "Rusty Cox",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Marine Sgt.",
+                "credit_id": "63175e0c1511aa0080d95ddc",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 184906,
+                "known_for_department": "Acting",
+                "name": "Larry Cross",
+                "original_name": "Larry Cross",
+                "popularity": 0.004,
+                "profile_path": "/bIkqDTLgjEsZWF44DxbgIN6Wh5v.jpg",
+                "cast_id": 36,
+                "character": "Henry Cabot Lodge",
+                "credit_id": "63175e19ba131b0079b3b4a2",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559910,
+                "known_for_department": "Crew",
+                "name": "Alex Weldon",
+                "original_name": "Alex Weldon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Elihu Root",
+                "credit_id": "63175e3e028420008077e7ca",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1402218,
+                "known_for_department": "Acting",
+                "name": "Akio Mitamura",
+                "original_name": "Akio Mitamura",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Japanese General",
+                "credit_id": "63175e46fab3fa0084c29e8c",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3690673,
+                "known_for_department": "Acting",
+                "name": "Frank Gassman",
+                "original_name": "Frank Gassman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "President's Aide",
+                "credit_id": "63175e5420e6a5007d9c0376",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3690675,
+                "known_for_department": "Acting",
+                "name": "Audrey San Felix",
+                "original_name": "Audrey San Felix",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Miss Hitchcock",
+                "credit_id": "63175e5d9408ec007bede540",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1746827,
+                "known_for_department": "Acting",
+                "name": "Ben Tatar",
+                "original_name": "Ben Tatar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Sketch Artist",
+                "credit_id": "63175e6a20e6a5007d9c037a",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3690678,
+                "known_for_department": "Acting",
+                "name": "Michael Damian",
+                "original_name": "Michael Damian",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "President's Secretary",
+                "credit_id": "63175e83ba131b0079b3b4ca",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8328,
+                "known_for_department": "Writing",
+                "name": "John Milius",
+                "original_name": "John Milius",
+                "popularity": 0.024,
+                "profile_path": "/5e9PS8MtgEqpSAeqgUp7gaVU0gU.jpg",
+                "credit_id": "52fe461c9251416c7506d805",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1760,
+                "known_for_department": "Sound",
+                "name": "Jerry Goldsmith",
+                "original_name": "Jerry Goldsmith",
+                "popularity": 0.043,
+                "profile_path": "/uf7jSAculrBbEwdWWAPu6Rs9bXz.jpg",
+                "credit_id": "52fe461c9251416c7506d80b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8328,
+                "known_for_department": "Writing",
+                "name": "John Milius",
+                "original_name": "John Milius",
+                "popularity": 0.024,
+                "profile_path": "/5e9PS8MtgEqpSAeqgUp7gaVU0gU.jpg",
+                "credit_id": "52fe461c9251416c7506d7ff",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19567,
+                "known_for_department": "Crew",
+                "name": "Terry Leonard",
+                "original_name": "Terry Leonard",
+                "popularity": 0.023,
+                "profile_path": "/iRejgxxjuMXfLLYHXGCInX288B.jpg",
+                "credit_id": "6420befa1dbc88007fe2fa0b",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14005,
+                "known_for_department": "Art",
+                "name": "Gil Parrondo",
+                "original_name": "Gil Parrondo",
+                "popularity": 0.004,
+                "profile_path": "/ecCWxgkLD0ld41efWpQyxDfq2yi.jpg",
+                "credit_id": "59e940ba9251410c67001b62",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13721,
+                "known_for_department": "Editing",
+                "name": "Robert L. Wolfe",
+                "original_name": "Robert L. Wolfe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59e94095c3a3687f15001da8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27240,
+                "known_for_department": "Production",
+                "name": "Herb Jaffe",
+                "original_name": "Herb Jaffe",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "59e940879251410c12001bca",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327919,
+                "known_for_department": "Art",
+                "name": "Antonio Patón",
+                "original_name": "Antonio Patón",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59e940c1c3a3687f15001e04",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14746,
+                "known_for_department": "Production",
+                "name": "Boaty Boatwright",
+                "original_name": "Boaty Boatwright",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "59e940af9251410c74001c90",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1187948,
+                "known_for_department": "Production",
+                "name": "Phil Rawlins",
+                "original_name": "Phil Rawlins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59e9408ec3a3687f94001c17",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11848,
+                "known_for_department": "Camera",
+                "name": "Billy Williams",
+                "original_name": "Billy Williams",
+                "popularity": 0.003,
+                "profile_path": "/uNHt1qfbNKc06ObaV61UelmeWqL.jpg",
+                "credit_id": "59e9407fc3a3687f15001d61",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1629,
+                "name": "morocco"
+            },
+            {
+                "id": 4101,
+                "name": "political negotiations"
+            },
+            {
+                "id": 12995,
+                "name": "historical fiction"
+            },
+            {
+                "id": 18034,
+                "name": "desert"
+            },
+            {
+                "id": 158217,
+                "name": "colonialism"
+            },
+            {
+                "id": 190948,
+                "name": "berber"
+            },
+            {
+                "id": 235261,
+                "name": "abduction"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Sean Connery",
+            "character": "Mulai Ahmed er Raisuli"
+        },
+        {
+            "actor": "Candice Bergen",
+            "character": "Eden Pedecaris"
+        },
+        {
+            "actor": "Brian Keith",
+            "character": "Theodore Roosevelt"
+        },
+        {
+            "actor": "John Huston",
+            "character": "John Hay"
+        },
+        {
+            "actor": "Geoffrey Lewis",
+            "character": "Samuel Gummere"
+        },
+        {
+            "actor": "Steve Kanaly",
+            "character": "Capt. Jerome"
+        },
+        {
+            "actor": "Vladek Sheybal",
+            "character": "The Bashaw"
+        },
+        {
+            "actor": "Nadim Sawalha",
+            "character": "Sherif of Wazan"
+        },
+        {
+            "actor": "Roy Jenson",
+            "character": "Admiral Chadwick"
+        },
+        {
+            "actor": "Deborah Baxter",
+            "character": "Alice Roosevelt"
+        },
+        {
+            "actor": "Jack Cooley",
+            "character": "Quentin Roosevelt"
+        },
+        {
+            "actor": "Chris Aller",
+            "character": "Kermit Roosevelt"
+        },
+        {
+            "actor": "Simon Harrison",
+            "character": "William Pedecaris"
+        },
+        {
+            "actor": "Polly Gottesman",
+            "character": "Jennifer Pedecaris"
+        },
+        {
+            "actor": "Antoine Saint-John",
+            "character": "Von Roerkel"
+        },
+        {
+            "actor": "Aldo Sambrell",
+            "character": "Ugly Arab"
+        },
+        {
+            "actor": "Luis Barboo",
+            "character": "Gayaan The Terrible"
+        },
+        {
+            "actor": "Darrell Fetty",
+            "character": "Dreighton"
+        },
+        {
+            "actor": "Marc Zuber",
+            "character": "The Sultan"
+        },
+        {
+            "actor": "Billy Williams",
+            "character": "Sir Joseph"
+        },
+        {
+            "actor": "Shirley Rothman",
+            "character": "Edith Roosevelt"
+        },
+        {
+            "actor": "Rusty Cox",
+            "character": "Marine Sgt."
+        },
+        {
+            "actor": "Larry Cross",
+            "character": "Henry Cabot Lodge"
+        },
+        {
+            "actor": "Alex Weldon",
+            "character": "Elihu Root"
+        },
+        {
+            "actor": "Akio Mitamura",
+            "character": "Japanese General"
+        },
+        {
+            "actor": "Frank Gassman",
+            "character": "President's Aide"
+        },
+        {
+            "actor": "Audrey San Felix",
+            "character": "Miss Hitchcock"
+        },
+        {
+            "actor": "Ben Tatar",
+            "character": "Sketch Artist"
+        },
+        {
+            "actor": "Michael Damian",
+            "character": "President's Secretary"
+        }
+    ]
+}

@@ -1,0 +1,831 @@
+{
+    "adult": false,
+    "backdrop_path": "/7AwsicUVwmol6VjhxVwdnAMrLw1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 37,
+            "name": "Western"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 46845,
+    "imdb_id": "tt0067388",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Man in the Wilderness",
+    "overview": "In the early 1800s, a group of fur trappers and Indian traders are returning with their goods to civilization and are making a desperate attempt to beat the oncoming winter. When guide Zachary Bass is injured in a bear attack, they decide he's a goner and leave him behind to die. When he recovers instead, he swears revenge on them and tracks them and their paranoiac expedition leader down.",
+    "popularity": 3.212,
+    "poster_path": "/9uUcxOs6fEDZUQVpwFWobKiwlhb.jpg",
+    "production_companies": [
+        {
+            "id": 1397,
+            "logo_path": null,
+            "name": "Limbridge",
+            "origin_country": ""
+        },
+        {
+            "id": 11981,
+            "logo_path": null,
+            "name": "Wilderness Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1971-11-24",
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He was left for dead. He would not forget.",
+    "title": "Man in the Wilderness",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 91,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-01-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-02-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-12-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-11-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 194,
+                "known_for_department": "Acting",
+                "name": "Richard Harris",
+                "original_name": "Richard Harris",
+                "popularity": 0.049,
+                "profile_path": "/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg",
+                "cast_id": 3,
+                "character": "Zachary Bass",
+                "credit_id": "52fe470fc3a36847f81214d5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6593,
+                "known_for_department": "Directing",
+                "name": "John Huston",
+                "original_name": "John Huston",
+                "popularity": 0.047,
+                "profile_path": "/8AfXZY3D2iekVS5vblhaQx8I1qs.jpg",
+                "cast_id": 4,
+                "character": "Captain Filmore Henry",
+                "credit_id": "52fe470fc3a36847f81214d9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51310,
+                "known_for_department": "Acting",
+                "name": "Henry Wilcoxon",
+                "original_name": "Henry Wilcoxon",
+                "popularity": 0.019,
+                "profile_path": "/xO7tbWF9pAQrPmwHBeMrlv8iOw6.jpg",
+                "cast_id": 5,
+                "character": "Indian Chief",
+                "credit_id": "52fe470fc3a36847f81214dd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33220,
+                "known_for_department": "Acting",
+                "name": "Percy Herbert",
+                "original_name": "Percy Herbert",
+                "popularity": 0.013,
+                "profile_path": "/wfyliApDtqvOxLh35Ijj5yyg8Uf.jpg",
+                "cast_id": 6,
+                "character": "Fogarty",
+                "credit_id": "52fe470fc3a36847f81214e1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31941,
+                "known_for_department": "Acting",
+                "name": "Prunella Ransome",
+                "original_name": "Prunella Ransome",
+                "popularity": 0.01,
+                "profile_path": "/dX6AFZvjLCCU5th6NAAS5FVkO7g.jpg",
+                "cast_id": 8,
+                "character": "Grace",
+                "credit_id": "52fe470fc3a36847f81214e9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38359,
+                "known_for_department": "Acting",
+                "name": "Dennis Waterman",
+                "original_name": "Dennis Waterman",
+                "popularity": 0.023,
+                "profile_path": "/uqi9gVPbiJZ8XQ6OgL6JPuFIlJs.jpg",
+                "cast_id": 7,
+                "character": "Lowrie",
+                "credit_id": "52fe470fc3a36847f81214e5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2276,
+                "known_for_department": "Acting",
+                "name": "Sheila Raynor",
+                "original_name": "Sheila Raynor",
+                "popularity": 0.008,
+                "profile_path": "/ixB326sr3OGS6YzqR87T776aqbW.jpg",
+                "cast_id": 9,
+                "character": "Grace's Mother",
+                "credit_id": "52fe470fc3a36847f81214ed",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10596,
+                "known_for_department": "Acting",
+                "name": "Norman Rossington",
+                "original_name": "Norman Rossington",
+                "popularity": 0.014,
+                "profile_path": "/l3sLtmYvdCUZuMywcOupkQkaLTn.jpg",
+                "cast_id": 10,
+                "character": "Ferris",
+                "credit_id": "52fe470fc3a36847f81214f1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1751,
+                "known_for_department": "Acting",
+                "name": "James Doohan",
+                "original_name": "James Doohan",
+                "popularity": 0.061,
+                "profile_path": "/lsI15wIkmcKVTM8qu8ooukaLShi.jpg",
+                "cast_id": 11,
+                "character": "Benoit",
+                "credit_id": "52fe470fc3a36847f81214f5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 262950,
+                "known_for_department": "Acting",
+                "name": "John Bindon",
+                "original_name": "John Bindon",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Coulter",
+                "credit_id": "52fe470fc3a36847f8121535",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76184,
+                "known_for_department": "Acting",
+                "name": "Bryan Marshall",
+                "original_name": "Bryan Marshall",
+                "popularity": 0.017,
+                "profile_path": "/7g6rBCW7N49J9wwuFxoUr3KSeFk.jpg",
+                "cast_id": 23,
+                "character": "Potts",
+                "credit_id": "52fe470fc3a36847f8121539",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131110,
+                "known_for_department": "Acting",
+                "name": "Ben Carruthers",
+                "original_name": "Ben Carruthers",
+                "popularity": 0.013,
+                "profile_path": "/CJAxmbKa3Z8LTnTwmc1Y7E1Oc3.jpg",
+                "cast_id": 24,
+                "character": "Longbow",
+                "credit_id": "52fe470fc3a36847f812153d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66293,
+                "known_for_department": "Acting",
+                "name": "Bruce M. Fischer",
+                "original_name": "Bruce M. Fischer",
+                "popularity": 0.022,
+                "profile_path": "/zy7FkwUdqV4iZ5ESs8OqIoepySC.jpg",
+                "cast_id": 26,
+                "character": "Wiser",
+                "credit_id": "52fe470fc3a36847f8121545",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1125461,
+                "known_for_department": "Acting",
+                "name": "Robert Russell",
+                "original_name": "Robert Russell",
+                "popularity": 0.008,
+                "profile_path": "/jDpvPfBpQi73udIp448Ij8NKOKZ.jpg",
+                "cast_id": 25,
+                "character": "Smith",
+                "credit_id": "52fe470fc3a36847f8121541",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147081,
+                "known_for_department": "Acting",
+                "name": "Dean Selmier",
+                "original_name": "Dean Selmier",
+                "popularity": 0.008,
+                "profile_path": "/tGjP5D2P2cLP78vTbvddO0GUiIi.jpg",
+                "cast_id": 27,
+                "character": "Russell",
+                "credit_id": "52fe470fc3a36847f8121549",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3169118,
+                "known_for_department": "Acting",
+                "name": "Manolo Landau",
+                "original_name": "Manolo Landau",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Zachary as a child",
+                "credit_id": "60faf4d7c439c00029ef83a9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 237355,
+                "known_for_department": "Acting",
+                "name": "William Layton",
+                "original_name": "William Layton",
+                "popularity": 0.001,
+                "profile_path": "/py77GiBOvIoNL3yvp9UhJLiTh7Q.jpg",
+                "cast_id": 35,
+                "character": "Schoolmaster",
+                "credit_id": "60faf4e90dea6e005e8d7f50",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 40947,
+                "known_for_department": "Acting",
+                "name": "Judith Furse",
+                "original_name": "Judith Furse",
+                "popularity": 0.003,
+                "profile_path": "/e054LhwQ9wPKXDU4dFYb2l3BwtK.jpg",
+                "cast_id": 36,
+                "character": "Nurse",
+                "credit_id": "60faf4f599d5c300259a1637",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3169121,
+                "known_for_department": "Acting",
+                "name": "Ines Acosta",
+                "original_name": "Ines Acosta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Pregnant Indian",
+                "credit_id": "60faf513a12856005e5222f9",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141676,
+                "known_for_department": "Acting",
+                "name": "Raúl Castro",
+                "original_name": "Raúl Castro",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "60faf52717792c005db7f486",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 199920,
+                "known_for_department": "Acting",
+                "name": "Tony Cyrus",
+                "original_name": "Tony Cyrus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Indian",
+                "credit_id": "60faf53e17792c005db7f4c4",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3169124,
+                "known_for_department": "Acting",
+                "name": "Tamara Sie",
+                "original_name": "Tamara Sie",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Indian",
+                "credit_id": "60faf54ca12856005e52235c",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1334263,
+                "known_for_department": "Acting",
+                "name": "Joaquín Solís",
+                "original_name": "Joaquín Solís",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Ambushed Trapper",
+                "credit_id": "60faf564fd140b0046405cc1",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3169126,
+                "known_for_department": "Acting",
+                "name": "Martha Tuck",
+                "original_name": "Martha Tuck",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Woman with Trapper",
+                "credit_id": "60faf57599d5c3007f0d9031",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1125459,
+                "known_for_department": "Sound",
+                "name": "Johnny Harris",
+                "original_name": "Johnny Harris",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f812150d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13320,
+                "known_for_department": "Production",
+                "name": "Robert Lennard",
+                "original_name": "Robert Lennard",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f812151f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33100,
+                "known_for_department": "Editing",
+                "name": "Geoffrey Foot",
+                "original_name": "Geoffrey Foot",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121519",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102232,
+                "known_for_department": "Production",
+                "name": "Sandy Howard",
+                "original_name": "Sandy Howard",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121501",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40052,
+                "known_for_department": "Camera",
+                "name": "Gerry Fisher",
+                "original_name": "Gerry Fisher",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121513",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1125460,
+                "known_for_department": "Production",
+                "name": "Shirley Woods",
+                "original_name": "Shirley Woods",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f812152b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1768,
+                "known_for_department": "Production",
+                "name": "Marvin Paige",
+                "original_name": "Marvin Paige",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121525",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21544,
+                "known_for_department": "Directing",
+                "name": "Richard C. Sarafian",
+                "original_name": "Richard C. Sarafian",
+                "popularity": 0.021,
+                "profile_path": "/2RHjp1qvuHsMKv5z859bwqTdd3H.jpg",
+                "credit_id": "52fe470fc3a36847f81214d1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12404,
+                "known_for_department": "Writing",
+                "name": "Dennis Lynton Clark",
+                "original_name": "Dennis Lynton Clark",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f8121531",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111485,
+                "known_for_department": "Writing",
+                "name": "Jack DeWitt",
+                "original_name": "Jack DeWitt",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe470fc3a36847f81214fb",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1490119,
+                "known_for_department": "Art",
+                "name": "Gumersindo Andrés",
+                "original_name": "Gumersindo Andrés",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "580a9e4c9251414e80002de7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1434205,
+                "known_for_department": "Art",
+                "name": "Dennis J. Parrish",
+                "original_name": "Dennis J. Parrish",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "580a9e589251414e89002e13",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12404,
+                "known_for_department": "Writing",
+                "name": "Dennis Lynton Clark",
+                "original_name": "Dennis Lynton Clark",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "580a9e659251414e89002e1e",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1697656,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lisa Shields",
+                "original_name": "Lisa Shields",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "580a9e949251414e80002e21",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7690,
+                "known_for_department": "Production",
+                "name": "C.O. Erickson",
+                "original_name": "C.O. Erickson",
+                "popularity": 0.007,
+                "profile_path": "/1d9C9Nu7YNtGllVewitNgjzq4RW.jpg",
+                "credit_id": "580a9e1f9251414e89002de1",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1691304,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Manuel Martín",
+                "original_name": "Manuel Martín",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "580a9e769251414e78002f72",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1963,
+                "name": "expedition"
+            },
+            {
+                "id": 3593,
+                "name": "wilderness"
+            },
+            {
+                "id": 10322,
+                "name": "native american"
+            },
+            {
+                "id": 9672,
+                "name": "based on true story"
+            },
+            {
+                "id": 6536,
+                "name": "fur trapping"
+            },
+            {
+                "id": 9714,
+                "name": "remake"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 10349,
+                "name": "survival"
+            },
+            {
+                "id": 10814,
+                "name": "wounded"
+            },
+            {
+                "id": 15199,
+                "name": "rabbit"
+            },
+            {
+                "id": 158175,
+                "name": "bear attack"
+            },
+            {
+                "id": 221143,
+                "name": "fur trade"
+            },
+            {
+                "id": 232116,
+                "name": "wolves"
+            },
+            {
+                "id": 280884,
+                "name": "transporting boat"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Richard Harris",
+            "character": "Zachary Bass"
+        },
+        {
+            "actor": "John Huston",
+            "character": "Captain Filmore Henry"
+        },
+        {
+            "actor": "Henry Wilcoxon",
+            "character": "Indian Chief"
+        },
+        {
+            "actor": "Percy Herbert",
+            "character": "Fogarty"
+        },
+        {
+            "actor": "Prunella Ransome",
+            "character": "Grace"
+        },
+        {
+            "actor": "Dennis Waterman",
+            "character": "Lowrie"
+        },
+        {
+            "actor": "Sheila Raynor",
+            "character": "Grace's Mother"
+        },
+        {
+            "actor": "Norman Rossington",
+            "character": "Ferris"
+        },
+        {
+            "actor": "James Doohan",
+            "character": "Benoit"
+        },
+        {
+            "actor": "John Bindon",
+            "character": "Coulter"
+        },
+        {
+            "actor": "Bryan Marshall",
+            "character": "Potts"
+        },
+        {
+            "actor": "Ben Carruthers",
+            "character": "Longbow"
+        },
+        {
+            "actor": "Bruce M. Fischer",
+            "character": "Wiser"
+        },
+        {
+            "actor": "Robert Russell",
+            "character": "Smith"
+        },
+        {
+            "actor": "Dean Selmier",
+            "character": "Russell"
+        },
+        {
+            "actor": "Manolo Landau",
+            "character": "Zachary as a child"
+        },
+        {
+            "actor": "William Layton",
+            "character": "Schoolmaster"
+        },
+        {
+            "actor": "Judith Furse",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Ines Acosta",
+            "character": "Pregnant Indian"
+        },
+        {
+            "actor": "Raúl Castro",
+            "character": ""
+        },
+        {
+            "actor": "Tony Cyrus",
+            "character": "Indian"
+        },
+        {
+            "actor": "Tamara Sie",
+            "character": "Indian"
+        },
+        {
+            "actor": "Joaquín Solís",
+            "character": "Ambushed Trapper"
+        },
+        {
+            "actor": "Martha Tuck",
+            "character": "Woman with Trapper"
+        }
+    ]
+}

@@ -1,0 +1,813 @@
+{
+    "adult": false,
+    "backdrop_path": "/uLhkS7zERAe4YJVbCSaKrRHsdf9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 5425,
+    "imdb_id": "tt0078916",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Buio Omega",
+    "overview": "A disturbed young embalmer digs the grave of his recently deceased girlfriend and brings her body to his family villa with help from his strange housekeeper. But his bouts of insanity are just beginning.",
+    "popularity": 3.535,
+    "poster_path": "/tel3ZG4zvbsR3PPEQlQxCjvWrd1.jpg",
+    "production_companies": [
+        {
+            "id": 15669,
+            "logo_path": null,
+            "name": "D.R. Comunicazioni di massa",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1979-11-15",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A fate worse than death!",
+    "title": "Beyond the Darkness",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 172,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1980-11-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1985-09-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-06-30T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2024-01-17T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2005-05-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2017-02-13T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1984-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 43233,
+                "known_for_department": "Acting",
+                "name": "Kieran Canter",
+                "original_name": "Kieran Canter",
+                "popularity": 2.858,
+                "profile_path": "/o3rN7kuoBayqK3J8wFJHIanxGQ5.jpg",
+                "cast_id": 1,
+                "character": "Frank Wyler",
+                "credit_id": "52fe4405c3a36847f807dacd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 31780,
+                "known_for_department": "Acting",
+                "name": "Cinzia Monreale",
+                "original_name": "Cinzia Monreale",
+                "popularity": 0.007,
+                "profile_path": "/z9gbWNGlonGpqFDQOjnTa7diX0M.jpg",
+                "cast_id": 2,
+                "character": "Anna Völkl / Elena Völkl",
+                "credit_id": "52fe4405c3a36847f807dad1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43235,
+                "known_for_department": "Acting",
+                "name": "Franca Stoppi",
+                "original_name": "Franca Stoppi",
+                "popularity": 0.006,
+                "profile_path": "/4k58eShnugqpRjIk55CBRW7Ox0k.jpg",
+                "cast_id": 4,
+                "character": "Iris",
+                "credit_id": "52fe4405c3a36847f807dad9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43234,
+                "known_for_department": "Acting",
+                "name": "Sam Modesto",
+                "original_name": "Sam Modesto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Mr. Kale",
+                "credit_id": "52fe4405c3a36847f807dad5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43236,
+                "known_for_department": "Acting",
+                "name": "Lucia D'Elia",
+                "original_name": "Lucia D'Elia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Jan, hitchhiker",
+                "credit_id": "52fe4405c3a36847f807dadd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1206770,
+                "known_for_department": "Acting",
+                "name": "Anna Cardini",
+                "original_name": "Anna Cardini",
+                "popularity": 0.005,
+                "profile_path": "/w2NyggSMS1gCHTwiMcAP9gLP6x4.jpg",
+                "cast_id": 21,
+                "character": "Jogging Victim",
+                "credit_id": "577963a69251416d49000221",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1644867,
+                "known_for_department": "Acting",
+                "name": "Mario Pezzin",
+                "original_name": "Mario Pezzin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Priest",
+                "credit_id": "577963b79251416caf000288",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1644869,
+                "known_for_department": "Acting",
+                "name": "Walter Tribus",
+                "original_name": "Walter Tribus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Handyman",
+                "credit_id": "577963c592514171660000eb",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1644870,
+                "known_for_department": "Acting",
+                "name": "Klaus Rainer",
+                "original_name": "Klaus Rainer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Doctor",
+                "credit_id": "577963da9251416d49000239",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1644871,
+                "known_for_department": "Acting",
+                "name": "Simonetta Allodi",
+                "original_name": "Simonetta Allodi",
+                "popularity": 0.001,
+                "profile_path": "/qucWtCZEdti20CmZoAohdky0Ftn.jpg",
+                "cast_id": 25,
+                "character": "Disco Girl",
+                "credit_id": "577963efc3a368766f000b13",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4669425,
+                "known_for_department": "Acting",
+                "name": "Edmondo Vallini",
+                "original_name": "Edmondo Vallini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Detective",
+                "credit_id": "6626e18507faa201639982c6",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 31775,
+                "known_for_department": "Directing",
+                "name": "Joe D'Amato",
+                "original_name": "Joe D'Amato",
+                "popularity": 7.729,
+                "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+                "credit_id": "52fe4405c3a36847f807dae3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44477,
+                "known_for_department": "Directing",
+                "name": "Ottavio Fabbri",
+                "original_name": "Ottavio Fabbri",
+                "popularity": 0.001,
+                "profile_path": "/dx89H7aTbOydoUDwVqJO9idRvZm.jpg",
+                "credit_id": "52fe4405c3a36847f807dae9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632421,
+                "known_for_department": "Writing",
+                "name": "Giacomo Guerrini",
+                "original_name": "Giacomo Guerrini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5757f5b69251413070000f08",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 31775,
+                "known_for_department": "Directing",
+                "name": "Joe D'Amato",
+                "original_name": "Joe D'Amato",
+                "popularity": 7.729,
+                "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+                "credit_id": "5757f5dbc3a3687d600010db",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 101099,
+                "known_for_department": "Editing",
+                "name": "Ornella Micheli",
+                "original_name": "Ornella Micheli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5757f5ee925141306d00102d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 100423,
+                "known_for_department": "Directing",
+                "name": "Donatella Donati",
+                "original_name": "Donatella Donati",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "5757f605c3a3687d67000fad",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 1632422,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Mario Paladini",
+                "original_name": "Mario Paladini",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5757f615c3a3687d75000f04",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 1632423,
+                "known_for_department": "Camera",
+                "name": "Enrico Biribicchi",
+                "original_name": "Enrico Biribicchi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5757f627c3a3687d600010e7",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 1632425,
+                "known_for_department": "Camera",
+                "name": "Giuseppina di Cola",
+                "original_name": "Giuseppina di Cola",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5757f63a925141306d001039",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632427,
+                "known_for_department": "Sound",
+                "name": "Marco Donati",
+                "original_name": "Marco Donati",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5757f682925141307b000f76",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 138638,
+                "known_for_department": "Art",
+                "name": "Ennio Michettoni",
+                "original_name": "Ennio Michettoni",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "5757f696c3a3687d75000f22",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632429,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cesare Biseo",
+                "original_name": "Cesare Biseo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5757f6a6c3a3687d6a001029",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4669427,
+                "known_for_department": "Directing",
+                "name": "Marco Rossetti",
+                "original_name": "Marco Rossetti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e1cd221ba6017c16379d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49900,
+                "known_for_department": "Production",
+                "name": "Ermanno Donati",
+                "original_name": "Ermanno Donati",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e1e4258823014b90b1b5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1769439,
+                "known_for_department": "Sound",
+                "name": "Maurizio Guarini",
+                "original_name": "Maurizio Guarini",
+                "popularity": 0.001,
+                "profile_path": "/e7wtHOWsFVNs9WH2fLypDJ2xHm5.jpg",
+                "credit_id": "6626e1f3af9590017d6ab751",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1955192,
+                "known_for_department": "Sound",
+                "name": "Carlo Pennisi",
+                "original_name": "Carlo Pennisi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e20063d937018774a652",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 15052,
+                "known_for_department": "Sound",
+                "name": "Agostino Marangolo",
+                "original_name": "Agostino Marangolo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e207b9a0bd017ad79876",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 15054,
+                "known_for_department": "Sound",
+                "name": "Fabio Pignatelli",
+                "original_name": "Fabio Pignatelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e210b2681f01a9751f4d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47117,
+                "known_for_department": "Production",
+                "name": "Franco Gaudenzi",
+                "original_name": "Franco Gaudenzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e21f221ba6017c1637c7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 2181795,
+                "known_for_department": "Production",
+                "name": "Silvio Colecchia",
+                "original_name": "Silvio Colecchia",
+                "popularity": 1.094,
+                "profile_path": null,
+                "credit_id": "6626e23de894a6017d3ca59a",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 44504,
+                "known_for_department": "Production",
+                "name": "Oscar Santaniello",
+                "original_name": "Oscar Santaniello",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "6626e24607faa201879b1187",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47117,
+                "known_for_department": "Production",
+                "name": "Franco Gaudenzi",
+                "original_name": "Franco Gaudenzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e25862f3350164d94dea",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 100423,
+                "known_for_department": "Directing",
+                "name": "Donatella Donati",
+                "original_name": "Donatella Donati",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "6626e260e295b401649ab6fa",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1709512,
+                "known_for_department": "Sound",
+                "name": "Renato Marinelli",
+                "original_name": "Renato Marinelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e273cb6db50149adbe26",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1712110,
+                "known_for_department": "Sound",
+                "name": "Guglielmo Smeraldi",
+                "original_name": "Guglielmo Smeraldi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e27bcb6db50163af194f",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1712129,
+                "known_for_department": "Camera",
+                "name": "Renato Palmieri",
+                "original_name": "Renato Palmieri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e288cb5c8e0187421d78",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4669427,
+                "known_for_department": "Directing",
+                "name": "Marco Rossetti",
+                "original_name": "Marco Rossetti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e29d197de401642b302b",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2639319,
+                "known_for_department": "Acting",
+                "name": "Ermanno Mardesich",
+                "original_name": "Ermanno Mardesich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6626e2a9b9a0bd017ad798c9",
+                "department": "Production",
+                "job": "Production Secretary"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 2574208,
+                "known_for_department": "Production",
+                "name": "Maria Spera",
+                "original_name": "Maria Spera",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6626e2b2e894a6017d3ca5c6",
+                "department": "Production",
+                "job": "Administration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30824,
+                "known_for_department": "Editing",
+                "name": "Bruno Micheli",
+                "original_name": "Bruno Micheli",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5beecaab9251415cd70169bb",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632426,
+                "known_for_department": "Sound",
+                "name": "Roberto Alberghini",
+                "original_name": "Roberto Alberghini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "601559ead96c3c00400ec6a7",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1523,
+                "name": "obsession"
+            },
+            {
+                "id": 5919,
+                "name": "necrophilia"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 13006,
+                "name": "torture"
+            },
+            {
+                "id": 34079,
+                "name": "death"
+            },
+            {
+                "id": 156075,
+                "name": "evil"
+            },
+            {
+                "id": 191807,
+                "name": "embalming"
+            },
+            {
+                "id": 200234,
+                "name": "shocking"
+            },
+            {
+                "id": 208304,
+                "name": "cremation"
+            },
+            {
+                "id": 210162,
+                "name": "grim"
+            },
+            {
+                "id": 322255,
+                "name": "sinister"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Kieran Canter",
+            "character": "Frank Wyler"
+        },
+        {
+            "actor": "Cinzia Monreale",
+            "character": "Anna Völkl / Elena Völkl"
+        },
+        {
+            "actor": "Franca Stoppi",
+            "character": "Iris"
+        },
+        {
+            "actor": "Sam Modesto",
+            "character": "Mr. Kale"
+        },
+        {
+            "actor": "Lucia D'Elia",
+            "character": "Jan, hitchhiker"
+        },
+        {
+            "actor": "Anna Cardini",
+            "character": "Jogging Victim"
+        },
+        {
+            "actor": "Mario Pezzin",
+            "character": "Priest"
+        },
+        {
+            "actor": "Walter Tribus",
+            "character": "Handyman"
+        },
+        {
+            "actor": "Klaus Rainer",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Simonetta Allodi",
+            "character": "Disco Girl"
+        },
+        {
+            "actor": "Edmondo Vallini",
+            "character": "Detective"
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "adult": false,
+    "backdrop_path": "/6nS2PhKIsOkcVMZroH2diX3U27l.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 872028,
+    "imdb_id": "tt15387128",
+    "origin_country": [
+        "IN"
+    ],
+    "original_language": "ml",
+    "original_title": "Alone",
+    "overview": "During the pandemic lock-down, A motivational speaker named Kalidas moves into the thirteenth floor of an apartment in Kochi. Soon Kalidas begins to observe supernatural elements around him and he decides to investigate.",
+    "popularity": 0.24,
+    "poster_path": "/1YoSk9SH4zW1piVORvHp0VLs4MM.jpg",
+    "production_companies": [
+        {
+            "id": 16401,
+            "logo_path": "/khS7G0KzBoCYcLs4xuNjpuZjntR.png",
+            "name": "Aashirvad Cinemas",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2023-01-26",
+    "revenue": 0,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "Malayalam",
+            "iso_639_1": "ml",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "Real Heroes are Always Alone",
+    "title": "Alone",
+    "video": false,
+    "vote_average": 3.5,
+    "vote_count": 6,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IN",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "ml",
+                        "note": "",
+                        "release_date": "2023-01-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82732,
+                "known_for_department": "Acting",
+                "name": "Mohanlal",
+                "original_name": "Mohanlal",
+                "popularity": 0.04,
+                "profile_path": "/4oQtVIfXVpQESBgkjI9j9v7jMkQ.jpg",
+                "cast_id": 1,
+                "character": "Kalidas",
+                "credit_id": "613860d8a217c000891027ba",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 117690,
+                "known_for_department": "Acting",
+                "name": "Prithviraj Sukumaran",
+                "original_name": "Prithviraj Sukumaran",
+                "popularity": 0.079,
+                "profile_path": "/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg",
+                "cast_id": 9,
+                "character": "Hari (voice)",
+                "credit_id": "6352dfada843c10091b27f3d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1178639,
+                "known_for_department": "Acting",
+                "name": "Manju Warrier",
+                "original_name": "Manju Warrier",
+                "popularity": 0.026,
+                "profile_path": "/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg",
+                "cast_id": 20,
+                "character": "Yamuna Krishna (voice)",
+                "credit_id": "63bdcb14fa404600e63c5826",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1199187,
+                "known_for_department": "Acting",
+                "name": "Renji Panicker",
+                "original_name": "Renji Panicker",
+                "popularity": 0.01,
+                "profile_path": "/5MGztWs1yxlptGDzeofC2jG7cAm.jpg",
+                "cast_id": 21,
+                "character": "Colonel (voice)",
+                "credit_id": "63bdcb26a6e2d2007ebb344f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111668,
+                "known_for_department": "Acting",
+                "name": "Siddique",
+                "original_name": "Siddique",
+                "popularity": 0.009,
+                "profile_path": "/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg",
+                "cast_id": 10,
+                "character": "OG Karthaavu (voice)",
+                "credit_id": "6352dfd92441820082f2a3a7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1391945,
+                "known_for_department": "Acting",
+                "name": "Nandhu",
+                "original_name": "Nandhu",
+                "popularity": 0.022,
+                "profile_path": "/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg",
+                "cast_id": 22,
+                "character": "Security (voice)",
+                "credit_id": "63bdcb6ffa404600c12988c7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1442618,
+                "known_for_department": "Acting",
+                "name": "Mallika Sukumaran",
+                "original_name": "Mallika Sukumaran",
+                "popularity": 0.005,
+                "profile_path": "/gKEidCGjTzQWeP4J8TxuoD0fzAP.jpg",
+                "cast_id": 23,
+                "character": "Neighbour (voice)",
+                "credit_id": "63bdcb7aa6e2d200db5bcbe9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 591079,
+                "known_for_department": "Acting",
+                "name": "Zeenath",
+                "original_name": "Zeenath",
+                "popularity": 0.005,
+                "profile_path": "/Am3r7m1j6wbYxUzWl7u8qEvYC1T.jpg",
+                "cast_id": 24,
+                "character": "Sheela Varkey (voice)",
+                "credit_id": "63bdcb95ae6f093cb9dfb5fa",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1061910,
+                "known_for_department": "Acting",
+                "name": "Baiju Santhosh",
+                "original_name": "Baiju Santhosh",
+                "popularity": 0.03,
+                "profile_path": "/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg",
+                "cast_id": 30,
+                "character": "Rashid (voice)",
+                "credit_id": "63d26b8de72fe8007ca432b1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1071557,
+                "known_for_department": "Acting",
+                "name": "Shankar Ramakrishnan",
+                "original_name": "Shankar Ramakrishnan",
+                "popularity": 0.008,
+                "profile_path": "/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg",
+                "cast_id": 31,
+                "character": "Vinod (voice)",
+                "credit_id": "63d26b99e72fe8008e613c14",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1162627,
+                "known_for_department": "Acting",
+                "name": "Rachana Narayanankutty",
+                "original_name": "Rachana Narayanankutty",
+                "popularity": 0.004,
+                "profile_path": "/9FtaQudiQ4zYubIa8LvdKi6uFv5.jpg",
+                "cast_id": 32,
+                "character": "Sreedevi (voice)",
+                "credit_id": "63d26bb166ae4d00c1cf6136",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141074,
+                "known_for_department": "Acting",
+                "name": "Suresh Krishna",
+                "original_name": "Suresh Krishna",
+                "popularity": 0.01,
+                "profile_path": "/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg",
+                "cast_id": 33,
+                "character": "Thomas Kuruvila (voice)",
+                "credit_id": "63d26e72e72fe8007ca4339f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1272409,
+                "known_for_department": "Acting",
+                "name": "Annie",
+                "original_name": "Annie",
+                "popularity": 0.012,
+                "profile_path": "/880ybKHLsT0G2CONihrRTWo0b2B.jpg",
+                "cast_id": 34,
+                "character": "Dr. Susan (voice)",
+                "credit_id": "63d33f1b66ae4d007bf6ff93",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1198850,
+                "known_for_department": "Writing",
+                "name": "Rajesh Jayaraman",
+                "original_name": "Rajesh Jayaraman",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "613861151b7294008f625ada",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587728,
+                "known_for_department": "Production",
+                "name": "Antony Perumbavoor",
+                "original_name": "Antony Perumbavoor",
+                "popularity": 0.006,
+                "profile_path": "/3jyOxhNgNljnuGJeEx9Yth9zjoP.jpg",
+                "credit_id": "6138613a07a808004339714c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 585406,
+                "known_for_department": "Directing",
+                "name": "Shaji Kailas",
+                "original_name": "Shaji Kailas",
+                "popularity": 0.012,
+                "profile_path": "/3ZJ4ZGvzyZxHvkyA6JTgUKbhE23.jpg",
+                "credit_id": "6138612007a808008bdeda43",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1162632,
+                "known_for_department": "Camera",
+                "name": "Abinandhan Ramanujam",
+                "original_name": "Abinandhan Ramanujam",
+                "popularity": 0.002,
+                "profile_path": "/9Qca15kELXYlfkjPq1u8LJHFya7.jpg",
+                "credit_id": "61535e79ad87f700856d14d4",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 230005,
+                "known_for_department": "Editing",
+                "name": "Don Max",
+                "original_name": "Don Max",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "615c74d78e2ba6004348c37f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3754811,
+                "known_for_department": "Costume & Make-Up",
+                "name": "T.V Murali",
+                "original_name": "T.V Murali",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635586d97a97ab007d7521ab",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610612,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bijeesh Balakrishnan",
+                "original_name": "Bijeesh Balakrishnan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63558739d8e2250082247876",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1389746,
+                "known_for_department": "Crew",
+                "name": "Pramod K Pillai",
+                "original_name": "Pramod K Pillai",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635585f343cd54007f776ee4",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3848400,
+                "known_for_department": "Directing",
+                "name": "Jagan Kailas",
+                "original_name": "Jagan Kailas",
+                "popularity": 0.001,
+                "profile_path": "/vYUMT3BWySJAZkjXBHp6CuVZGsh.jpg",
+                "credit_id": "63b0755e5ad76b0085e62d5d",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2270868,
+                "known_for_department": "Editing",
+                "name": "Liju Prabhakar",
+                "original_name": "Liju Prabhakar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63b0758e875d1a00a01f2d49",
+                "department": "Editing",
+                "job": "Colorist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1676464,
+                "known_for_department": "Crew",
+                "name": "Saji C. Joseph",
+                "original_name": "Saji C. Joseph",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63b0759fc56d2d00d842c492",
+                "department": "Crew",
+                "job": "Production Controller"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3852612,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Liju Pamamcode",
+                "original_name": "Liju Pamamcode",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63b075c65ad76b00ae90979e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2415876,
+                "known_for_department": "Sound",
+                "name": "Biby Mathew",
+                "original_name": "Biby Mathew",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63b1637f7ef3811f6086dad2",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2210218,
+                "known_for_department": "Sound",
+                "name": "Eldhose Alias",
+                "original_name": "Eldhose Alias",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63b1635e5ad76b00cf429d47",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610622,
+                "known_for_department": "Crew",
+                "name": "Sidhu Panakkal",
+                "original_name": "Sidhu Panakkal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63c0f448df857c009f43df44",
+                "department": "Crew",
+                "job": "Production Controller"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2270756,
+                "known_for_department": "Production",
+                "name": "Anand Rajendran",
+                "original_name": "Anand Rajendran",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63c0f3f48efe7300948939fd",
+                "department": "Production",
+                "job": "Publicist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3478324,
+                "known_for_department": "Camera",
+                "name": "Aniesh Upaasana",
+                "original_name": "Aniesh Upaasana",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63c0f3b023be46007cba6547",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1692891,
+                "known_for_department": "Visual Effects",
+                "name": "Tony MAGMYTH",
+                "original_name": "Tony MAGMYTH",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63c0f42be16e5a007ea9e3e1",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1785098,
+                "known_for_department": "Art",
+                "name": "Santhosh Raman",
+                "original_name": "Santhosh Raman",
+                "popularity": 0.001,
+                "profile_path": "/abejSxtYz3A5mWJ68lJR4pesDTj.jpg",
+                "credit_id": "63c0f37805a5330094ef360e",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Mohanlal",
+            "character": "Kalidas"
+        },
+        {
+            "actor": "Prithviraj Sukumaran",
+            "character": "Hari (voice)"
+        },
+        {
+            "actor": "Manju Warrier",
+            "character": "Yamuna Krishna (voice)"
+        },
+        {
+            "actor": "Renji Panicker",
+            "character": "Colonel (voice)"
+        },
+        {
+            "actor": "Siddique",
+            "character": "OG Karthaavu (voice)"
+        },
+        {
+            "actor": "Nandhu",
+            "character": "Security (voice)"
+        },
+        {
+            "actor": "Mallika Sukumaran",
+            "character": "Neighbour (voice)"
+        },
+        {
+            "actor": "Zeenath",
+            "character": "Sheela Varkey (voice)"
+        },
+        {
+            "actor": "Baiju Santhosh",
+            "character": "Rashid (voice)"
+        },
+        {
+            "actor": "Shankar Ramakrishnan",
+            "character": "Vinod (voice)"
+        },
+        {
+            "actor": "Rachana Narayanankutty",
+            "character": "Sreedevi (voice)"
+        },
+        {
+            "actor": "Suresh Krishna",
+            "character": "Thomas Kuruvila (voice)"
+        },
+        {
+            "actor": "Annie",
+            "character": "Dr. Susan (voice)"
+        }
+    ]
+}

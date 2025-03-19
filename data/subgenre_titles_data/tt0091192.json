@@ -1,0 +1,591 @@
+{
+    "adult": false,
+    "backdrop_path": "/5FxqZmXnPsxBr6Ta0pdgXHm9hQz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 78253,
+    "imdb_id": "tt0091192",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hell High",
+    "overview": "A teacher still haunted by the death of two teens that she accidentally caused as a young girl goes berserk when four teens start harassing her and then attack her in her home.",
+    "popularity": 1.165,
+    "poster_path": "/ajQi43EMdGnzt2HJLo1ZCo6vb6r.jpg",
+    "production_companies": [
+        {
+            "id": 117682,
+            "logo_path": null,
+            "name": "DGS Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 6429,
+            "logo_path": null,
+            "name": "Castle Hill Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-05-12",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The teachers are tough... but their exams are murder.",
+    "title": "Hell High",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 33,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-12-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-05-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1039386,
+                "known_for_department": "Acting",
+                "name": "Maureen Mooney",
+                "original_name": "Maureen Mooney",
+                "popularity": 0.008,
+                "profile_path": "/7X5TZvG9mfkJx06t2bugNvQAtP4.jpg",
+                "cast_id": 3,
+                "character": "Miss Brooke Storm",
+                "credit_id": "52fe4994c3a368484e132ba1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1039385,
+                "known_for_department": "Acting",
+                "name": "Christopher Stryker",
+                "original_name": "Christopher Stryker",
+                "popularity": 0.002,
+                "profile_path": "/vyY6yhaJKj1rK0FbfVYDE1JWJBG.jpg",
+                "cast_id": 2,
+                "character": "Dickens",
+                "credit_id": "52fe4994c3a368484e132b9d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20379,
+                "known_for_department": "Acting",
+                "name": "Christopher Cousins",
+                "original_name": "Christopher Cousins",
+                "popularity": 0.07,
+                "profile_path": "/9fmoeZLGbJfiYU6mIbrUkjF9wsR.jpg",
+                "cast_id": 4,
+                "character": "Jon-Jon",
+                "credit_id": "52fe4994c3a368484e132ba5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1039387,
+                "known_for_department": "Acting",
+                "name": "Millie Prezioso",
+                "original_name": "Millie Prezioso",
+                "popularity": 0.001,
+                "profile_path": "/8gVhUciH5se4tHycrEZK7JSWjF5.jpg",
+                "cast_id": 5,
+                "character": "Queenie",
+                "credit_id": "52fe4994c3a368484e132ba9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1768874,
+                "known_for_department": "Acting",
+                "name": "Jason Brill",
+                "original_name": "Jason Brill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Smiler",
+                "credit_id": "58b9050a925141607b0066c6",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1393715,
+                "known_for_department": "Acting",
+                "name": "Kathryn Rossetter",
+                "original_name": "Kathryn Rossetter",
+                "popularity": 0.008,
+                "profile_path": "/vjrIVisPGm0Jxzv3Zh94VlJG9Ek.jpg",
+                "cast_id": 7,
+                "character": "Coach Sandy Hand",
+                "credit_id": "58b905189251416077006887",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1468,
+                "known_for_department": "Acting",
+                "name": "J.R. Horne",
+                "original_name": "J.R. Horne",
+                "popularity": 0.009,
+                "profile_path": "/wijt8VLjgbtP8wRNYov9OjqkWVL.jpg",
+                "cast_id": 8,
+                "character": "Coach Heaton",
+                "credit_id": "58b90529c3a3686630005ebd",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107368,
+                "known_for_department": "Acting",
+                "name": "Daniel Beer",
+                "original_name": "Daniel Beer",
+                "popularity": 0.007,
+                "profile_path": "/mTiFrOhZn8gIzIALkaizt0BOiQM.jpg",
+                "cast_id": 10,
+                "character": "Quarterback",
+                "credit_id": "58b9053fc3a3686686005d5a",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5039092,
+                "known_for_department": "Acting",
+                "name": "Victoria Andahazy",
+                "original_name": "Victoria Andahazy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Mink",
+                "credit_id": "6727bb44398c9043f80d2f18",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5039093,
+                "known_for_department": "Acting",
+                "name": "Amy Beth Erenrich",
+                "original_name": "Amy Beth Erenrich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Little Brooke",
+                "credit_id": "6727bb5531d3a40cfdeab8f3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98563,
+                "known_for_department": "Acting",
+                "name": "Karen Russell",
+                "original_name": "Karen Russell",
+                "popularity": 0.006,
+                "profile_path": "/ddc76MzIPr0gwtA7ju4VkVtWIkt.jpg",
+                "cast_id": 9,
+                "character": "Teen Girl",
+                "credit_id": "58b90534c3a368666b005d55",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56040,
+                "known_for_department": "Acting",
+                "name": "Cylk Cozart",
+                "original_name": "Cylk Cozart",
+                "popularity": 0.017,
+                "profile_path": "/nk5nsCvNG8mUQfZPJU40EewtOGo.jpg",
+                "cast_id": 11,
+                "character": "Wide Receiver",
+                "credit_id": "58b9054a925141607b006803",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2298543,
+                "known_for_department": "Acting",
+                "name": "Janet Attwood",
+                "original_name": "Janet Attwood",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Miss Draper",
+                "credit_id": "5cc5020292514151ca043ff3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2298544,
+                "known_for_department": "Acting",
+                "name": "Rhoda Robinson",
+                "original_name": "Rhoda Robinson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Classroom Student",
+                "credit_id": "5cc50215c3a368219b805425",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2298546,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Braudis",
+                "original_name": "Elizabeth Braudis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Girl in Diner",
+                "credit_id": "5cc502220e0a263743ebaa60",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 139040,
+                "known_for_department": "Writing",
+                "name": "Douglas Grossman",
+                "original_name": "Douglas Grossman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4994c3a368484e132b99",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2728881,
+                "known_for_department": "Acting",
+                "name": "William DePaolo",
+                "original_name": "William DePaolo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c17dbefd91007f9f3efe",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3699551,
+                "known_for_department": "Production",
+                "name": "Sarah L. Grossman",
+                "original_name": "Sarah L. Grossman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c158befd91007f9f3ef4",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3699550,
+                "known_for_department": "Sound",
+                "name": "Chris Hyams-Hart",
+                "original_name": "Chris Hyams-Hart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c10fbdd568008656a355",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2670589,
+                "known_for_department": "Art",
+                "name": "Joan Brockschmidt",
+                "original_name": "Joan Brockschmidt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c170c1ffbd007d24a274",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 139040,
+                "known_for_department": "Writing",
+                "name": "Douglas Grossman",
+                "original_name": "Douglas Grossman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c102b5bc21007d16b4c3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1217560,
+                "known_for_department": "Production",
+                "name": "Brooke Kennedy",
+                "original_name": "Brooke Kennedy",
+                "popularity": 0.004,
+                "profile_path": "/a1ZWnme2p58KpAZ28naDohtgP0w.jpg",
+                "credit_id": "6320c18d5b1240007dbb21bb",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11880,
+                "known_for_department": "Editing",
+                "name": "Claire Simpson",
+                "original_name": "Claire Simpson",
+                "popularity": 0.007,
+                "profile_path": "/l67tVrqKyvVnPeU0nfCgK3SzQnE.jpg",
+                "credit_id": "6320c13cb5bc21007d16b4d2",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 949,
+                "known_for_department": "Production",
+                "name": "Louis DiGiaimo",
+                "original_name": "Louis DiGiaimo",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "6320c14bbefd910082ffbf01",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1012228,
+                "known_for_department": "Sound",
+                "name": "Greg Sheldon",
+                "original_name": "Greg Sheldon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c1315ca704007e703e48",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3138435,
+                "known_for_department": "Sound",
+                "name": "Rich Macar",
+                "original_name": "Rich Macar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c1232ea6b90082f7bc6a",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1426222,
+                "known_for_department": "Art",
+                "name": "William Bilowit",
+                "original_name": "William Bilowit",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6320c164be55b7008bf35400",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 139040,
+                "known_for_department": "Writing",
+                "name": "Douglas Grossman",
+                "original_name": "Douglas Grossman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5cc501939251415cd2f8116b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2298541,
+                "known_for_department": "Production",
+                "name": "David Steinman",
+                "original_name": "David Steinman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5cc501cac3a368467780450c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2033160,
+                "known_for_department": "Directing",
+                "name": "Leo Evans",
+                "original_name": "Leo Evans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5cc501b80e0a265b0ff59dd9",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63924,
+                "known_for_department": "Camera",
+                "name": "Steven Fierberg",
+                "original_name": "Steven Fierberg",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "5cc501db0e0a265b0ff59e07",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 570,
+                "name": "rape"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 196399,
+                "name": "rape revenge"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Maureen Mooney",
+            "character": "Miss Brooke Storm"
+        },
+        {
+            "actor": "Christopher Stryker",
+            "character": "Dickens"
+        },
+        {
+            "actor": "Christopher Cousins",
+            "character": "Jon-Jon"
+        },
+        {
+            "actor": "Millie Prezioso",
+            "character": "Queenie"
+        },
+        {
+            "actor": "Jason Brill",
+            "character": "Smiler"
+        },
+        {
+            "actor": "Kathryn Rossetter",
+            "character": "Coach Sandy Hand"
+        },
+        {
+            "actor": "J.R. Horne",
+            "character": "Coach Heaton"
+        },
+        {
+            "actor": "Daniel Beer",
+            "character": "Quarterback"
+        },
+        {
+            "actor": "Victoria Andahazy",
+            "character": "Mink"
+        },
+        {
+            "actor": "Amy Beth Erenrich",
+            "character": "Little Brooke"
+        },
+        {
+            "actor": "Karen Russell",
+            "character": "Teen Girl"
+        },
+        {
+            "actor": "Cylk Cozart",
+            "character": "Wide Receiver"
+        },
+        {
+            "actor": "Janet Attwood",
+            "character": "Miss Draper"
+        },
+        {
+            "actor": "Rhoda Robinson",
+            "character": "Classroom Student"
+        },
+        {
+            "actor": "Elizabeth Braudis",
+            "character": "Girl in Diner"
+        }
+    ]
+}

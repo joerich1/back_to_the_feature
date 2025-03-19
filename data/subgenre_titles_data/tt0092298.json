@@ -1,0 +1,687 @@
+{
+    "adult": false,
+    "backdrop_path": "/aWkbhy2jhzU0LYrppwqAnmnUXKU.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "",
+    "id": 17790,
+    "imdb_id": "tt0092298",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Zone Troopers",
+    "overview": "American soldiers, led by The Sarge, are stuck behind Nazi enemy lines. As they make their way across the Italian countryside, they come across an alien spaceship that has crash-landed in the woods. The alien pilot is dead, but one of the ship's passengers is on the loose. As the GIs hunt down the alien by splitting into smaller groups, they're not only tracked by the Nazis, but also a whole host of other aliens come to save their stranded party.",
+    "popularity": 1.906,
+    "poster_path": "/mCaBGD745uvbBvfdG1Mdl8hUDi2.jpg",
+    "production_companies": [
+        {
+            "id": 1295,
+            "logo_path": null,
+            "name": "Charles Band Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 1212,
+            "logo_path": null,
+            "name": "Empire Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 13085,
+            "logo_path": null,
+            "name": "Altar Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1985-10-01",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They Take War To A New Dimension.",
+    "title": "Zone Troopers",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 54,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-ray ",
+                        "release_date": "2022-06-20T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "12+",
+                        "descriptors": [],
+                        "iso_639_1": "ru",
+                        "note": "",
+                        "release_date": "1985-10-01T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1985-10-01T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "Lightning Video #LA9927 [𝐕𝐇𝐒📼] 𝟴𝟲 mínutєѕ",
+                        "release_date": "1986-04-18T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29712,
+                "known_for_department": "Acting",
+                "name": "Tim Thomerson",
+                "original_name": "Tim Thomerson",
+                "popularity": 0.034,
+                "profile_path": "/dCqpmO9nDA07NYSdyQF5JYnmxpL.jpg",
+                "cast_id": 4,
+                "character": "The Sarge",
+                "credit_id": "52fe47479251416c75093b25",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44797,
+                "known_for_department": "Directing",
+                "name": "Tim Van Patten",
+                "original_name": "Tim Van Patten",
+                "popularity": 0.021,
+                "profile_path": "/vwcARZBg4PEzOwnPsXdjRWeUVrZ.jpg",
+                "cast_id": 5,
+                "character": "Joey",
+                "credit_id": "52fe47479251416c75093b29",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44792,
+                "known_for_department": "Acting",
+                "name": "Art LaFleur",
+                "original_name": "Art LaFleur",
+                "popularity": 0.035,
+                "profile_path": "/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg",
+                "cast_id": 6,
+                "character": "Mittens",
+                "credit_id": "52fe47479251416c75093b2d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44790,
+                "known_for_department": "Acting",
+                "name": "Biff Manard",
+                "original_name": "Biff Manard",
+                "popularity": 0.011,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Dolan",
+                "credit_id": "52fe47479251416c75093b31",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91305,
+                "known_for_department": "Acting",
+                "name": "William Paulson",
+                "original_name": "William Paulson",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "The Alien",
+                "credit_id": "52fe47479251416c75093b35",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548339,
+                "known_for_department": "Acting",
+                "name": "Peter Boom",
+                "original_name": "Peter Boom",
+                "popularity": 0.003,
+                "profile_path": "/fUXNd4P8BuvQt37Zhpe8dzZz13P.jpg",
+                "cast_id": 9,
+                "character": "Col. Manheim",
+                "credit_id": "52fe47479251416c75093b39",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024364,
+                "known_for_department": "Acting",
+                "name": "Max Turilli",
+                "original_name": "Max Turilli",
+                "popularity": 0.002,
+                "profile_path": "/bZEyJd3a2Jo6PHvcW5GJVZUHXSp.jpg",
+                "cast_id": 10,
+                "character": "SS Sgt. Zeller",
+                "credit_id": "52fe47479251416c75093b3d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1083300,
+                "known_for_department": "Acting",
+                "name": "Eugene Brell",
+                "original_name": "Eugene Brell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "The Radioman",
+                "credit_id": "52fe47479251416c75093b41",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1083301,
+                "known_for_department": "Acting",
+                "name": "John Leamer",
+                "original_name": "John Leamer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "The Lieutenant",
+                "credit_id": "52fe47479251416c75093b45",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100654,
+                "known_for_department": "Acting",
+                "name": "Bruce McGuire",
+                "original_name": "Bruce McGuire",
+                "popularity": 0.002,
+                "profile_path": "/mdy1CIIAtvWvEsGY1qOook98VKb.jpg",
+                "cast_id": 13,
+                "character": "The Medic",
+                "credit_id": "52fe47479251416c75093b49",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 952877,
+                "known_for_department": "Acting",
+                "name": "Alviero Martin",
+                "original_name": "Alviero Martin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "The Fuhrer",
+                "credit_id": "52fe47479251416c75093b4d",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44789,
+                "known_for_department": "Writing",
+                "name": "Danny Bilson",
+                "original_name": "Danny Bilson",
+                "popularity": 0.016,
+                "profile_path": null,
+                "credit_id": "52fe47479251416c75093b1b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44789,
+                "known_for_department": "Writing",
+                "name": "Danny Bilson",
+                "original_name": "Danny Bilson",
+                "popularity": 0.016,
+                "profile_path": null,
+                "credit_id": "52fe47479251416c75093b15",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45987,
+                "known_for_department": "Writing",
+                "name": "Paul De Meo",
+                "original_name": "Paul De Meo",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe47479251416c75093b21",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25066,
+                "known_for_department": "Crew",
+                "name": "Stefano Maria Mioni",
+                "original_name": "Stefano Maria Mioni",
+                "popularity": 0.005,
+                "profile_path": "/dC2XqJN7vcfz0yYMJwZd4L9BJmo.jpg",
+                "credit_id": "652ee710caef2d011cc707d6",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19324,
+                "known_for_department": "Directing",
+                "name": "Luciano Sacripanti",
+                "original_name": "Luciano Sacripanti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "652ee6f4358da75b5d0035e6",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7205,
+                "known_for_department": "Art",
+                "name": "Giovanni Natalucci",
+                "original_name": "Giovanni Natalucci",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "652ee6c9caef2d011cc707b7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1060274,
+                "known_for_department": "Crew",
+                "name": "Riccardo Mioni",
+                "original_name": "Riccardo Mioni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "652ee70c358da75b5c0d2aa0",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15913,
+                "known_for_department": "Acting",
+                "name": "Claudio Pacifico",
+                "original_name": "Claudio Pacifico",
+                "popularity": 0.008,
+                "profile_path": "/2hBDs10Oc5o7hCjOZlsI5YBXcI2.jpg",
+                "credit_id": "652ee71a87f3f200e3023886",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 589874,
+                "known_for_department": "Acting",
+                "name": "Sergio Mioni",
+                "original_name": "Sergio Mioni",
+                "popularity": 0.003,
+                "profile_path": "/3fsyVzDnviKD36tRS3vtS1Ggzjt.jpg",
+                "credit_id": "652ee702a802360137686e19",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64722,
+                "known_for_department": "Crew",
+                "name": "John Carl Buechler",
+                "original_name": "John Carl Buechler",
+                "popularity": 0.016,
+                "profile_path": "/q0elk8xsBQ77AZIMtb7ARf9ehcj.jpg",
+                "credit_id": "6387681d1b157d0097182e9b",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91310,
+                "known_for_department": "Production",
+                "name": "Roberto Bessi",
+                "original_name": "Roberto Bessi",
+                "popularity": 0.001,
+                "profile_path": "/tz4K4TVXoK2cjtY9CLTYmzR94tZ.jpg",
+                "credit_id": "5788398fc3a36869ad0011a6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19711,
+                "known_for_department": "Sound",
+                "name": "Richard Band",
+                "original_name": "Richard Band",
+                "popularity": 0.012,
+                "profile_path": "/bKffnBSYOlfG0e38E1S2L9J4eo2.jpg",
+                "credit_id": "57883a1e9251415b7b000951",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 142597,
+                "known_for_department": "Production",
+                "name": "Rita Forzano",
+                "original_name": "Rita Forzano",
+                "popularity": 0.005,
+                "profile_path": "/4tsB1YwvJsxjLt2erlP4nf9BsAl.jpg",
+                "credit_id": "57883ad392514138df001326",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1433978,
+                "known_for_department": "Production",
+                "name": "Michael Wolf",
+                "original_name": "Michael Wolf",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57883a119251410fbb001ced",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1650526,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Erna Valentini",
+                "original_name": "Erna Valentini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57883b55c3a36832e4001e6d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 35089,
+                "known_for_department": "Art",
+                "name": "Philip Dean Foreman",
+                "original_name": "Philip Dean Foreman",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "57883adfc3a3686a1600135a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1318806,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Manlio Rocchetti",
+                "original_name": "Manlio Rocchetti",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "57883b49c3a36839300036d8",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4614,
+                "known_for_department": "Camera",
+                "name": "Mac Ahlberg",
+                "original_name": "Mac Ahlberg",
+                "popularity": 0.009,
+                "profile_path": "/a1BF9YiCGQ66Mncin2UmYi1g2iN.jpg",
+                "credit_id": "57883a2f92514131bd00361e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 28162,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jill M. Ohanneson",
+                "original_name": "Jill M. Ohanneson",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "57883b08c3a36839300036c0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45989,
+                "known_for_department": "Directing",
+                "name": "Ted Nicolaou",
+                "original_name": "Ted Nicolaou",
+                "popularity": 0.009,
+                "profile_path": "/bIgHoWJVh4d2hnThSV2yTgyrLPo.jpg",
+                "credit_id": "57883ac792514138ac001329",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1650521,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vittoria Guaita",
+                "original_name": "Vittoria Guaita",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57883af9c3a36832e4001e3e",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27205,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Luigi Rocchetti",
+                "original_name": "Luigi Rocchetti",
+                "popularity": 0.014,
+                "profile_path": null,
+                "credit_id": "57883b3ec3a368392d003250",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19707,
+                "known_for_department": "Production",
+                "name": "Charles Band",
+                "original_name": "Charles Band",
+                "popularity": 0.024,
+                "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+                "credit_id": "5788399c9251410fbb001cc2",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1612,
+                "name": "spacecraft"
+            },
+            {
+                "id": 2652,
+                "name": "nazi"
+            },
+            {
+                "id": 131,
+                "name": "italy"
+            },
+            {
+                "id": 1956,
+                "name": "world war ii"
+            },
+            {
+                "id": 4709,
+                "name": "hand grenade"
+            },
+            {
+                "id": 9951,
+                "name": "alien"
+            },
+            {
+                "id": 9738,
+                "name": "ufo"
+            },
+            {
+                "id": 13065,
+                "name": "soldier"
+            },
+            {
+                "id": 158778,
+                "name": "behind enemy lines"
+            },
+            {
+                "id": 234161,
+                "name": "american g.i."
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Tim Thomerson",
+            "character": "The Sarge"
+        },
+        {
+            "actor": "Tim Van Patten",
+            "character": "Joey"
+        },
+        {
+            "actor": "Art LaFleur",
+            "character": "Mittens"
+        },
+        {
+            "actor": "Biff Manard",
+            "character": "Dolan"
+        },
+        {
+            "actor": "William Paulson",
+            "character": "The Alien"
+        },
+        {
+            "actor": "Peter Boom",
+            "character": "Col. Manheim"
+        },
+        {
+            "actor": "Max Turilli",
+            "character": "SS Sgt. Zeller"
+        },
+        {
+            "actor": "Eugene Brell",
+            "character": "The Radioman"
+        },
+        {
+            "actor": "John Leamer",
+            "character": "The Lieutenant"
+        },
+        {
+            "actor": "Bruce McGuire",
+            "character": "The Medic"
+        },
+        {
+            "actor": "Alviero Martin",
+            "character": "The Fuhrer"
+        }
+    ]
+}

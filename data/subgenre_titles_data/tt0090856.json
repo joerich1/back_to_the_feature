@@ -1,0 +1,751 @@
+{
+    "adult": false,
+    "backdrop_path": "/vnrtOV2PWMJOsskeWro7WQ4Pp6Y.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 26555,
+    "imdb_id": "tt0090856",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Club Paradise",
+    "overview": "When Chicago firefighter Jack Moniker retires and moves to a small Caribbean island, he is befriended by the owner of a run-down resort. Together they renovate the resort and lure tourists to Club Paradise in an effort to fight off corrupt officials and businessmen who want to claim the resort as their own.",
+    "popularity": 3.0,
+    "poster_path": "/lusP6NXd2vD5MGo6J2zm3uztPcE.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-07-11",
+    "revenue": 12308521,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The vacation you'll never forget - no matter how hard you try.",
+    "title": "Club Paradise",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 85,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-02-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-01-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2016-08-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-07-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2157,
+                "known_for_department": "Acting",
+                "name": "Robin Williams",
+                "original_name": "Robin Williams",
+                "popularity": 0.112,
+                "profile_path": "/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg",
+                "cast_id": 3,
+                "character": "Jack Moniker",
+                "credit_id": "52fe450ac3a368484e045017",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11390,
+                "known_for_department": "Acting",
+                "name": "Peter O'Toole",
+                "original_name": "Peter O'Toole",
+                "popularity": 0.05,
+                "profile_path": "/bk2AIN5yjqkthDUxUH0Q4U2ekRH.jpg",
+                "cast_id": 4,
+                "character": "Anthony Cloyden Hayes",
+                "credit_id": "52fe450ac3a368484e04501b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8872,
+                "known_for_department": "Acting",
+                "name": "Rick Moranis",
+                "original_name": "Rick Moranis",
+                "popularity": 0.053,
+                "profile_path": "/rVZbTJjM4g0Um6trlLHRiBzBO7t.jpg",
+                "cast_id": 5,
+                "character": "Barry Nye",
+                "credit_id": "52fe450ac3a368484e04501f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52813,
+                "known_for_department": "Acting",
+                "name": "Jimmy Cliff",
+                "original_name": "Jimmy Cliff",
+                "popularity": 0.019,
+                "profile_path": "/vpoQCF8X7D3JSNyTBYGqaoxRNIe.jpg",
+                "cast_id": 6,
+                "character": "Ernest Reed",
+                "credit_id": "52fe450ac3a368484e045023",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 40092,
+                "known_for_department": "Acting",
+                "name": "Twiggy",
+                "original_name": "Twiggy",
+                "popularity": 0.04,
+                "profile_path": "/78MWft5Adfoczsk7KhkpQUKd328.jpg",
+                "cast_id": 7,
+                "character": "Phillipa Lloyd",
+                "credit_id": "52fe450ac3a368484e045027",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13313,
+                "known_for_department": "Acting",
+                "name": "Adolph Caesar",
+                "original_name": "Adolph Caesar",
+                "popularity": 0.01,
+                "profile_path": "/glpbDuY1dfDtfD2Py1PbfbBhvIU.jpg",
+                "cast_id": 8,
+                "character": "Solomon Grundy",
+                "credit_id": "52fe450ac3a368484e04502b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26510,
+                "known_for_department": "Acting",
+                "name": "Eugene Levy",
+                "original_name": "Eugene Levy",
+                "popularity": 0.096,
+                "profile_path": "/y4CexxKSI6qR5A6PDaD8mSrEhYC.jpg",
+                "cast_id": 9,
+                "character": "Barry Steinberg",
+                "credit_id": "52fe450ac3a368484e04502f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 593,
+                "known_for_department": "Acting",
+                "name": "Joanna Cassidy",
+                "original_name": "Joanna Cassidy",
+                "popularity": 0.093,
+                "profile_path": "/2GZeohandSt32YHEoDEam1uQHcc.jpg",
+                "cast_id": 10,
+                "character": "Terry Hamlin",
+                "credit_id": "52fe450ac3a368484e045033",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8263,
+                "known_for_department": "Acting",
+                "name": "Andrea Martin",
+                "original_name": "Andrea Martin",
+                "popularity": 0.06,
+                "profile_path": "/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg",
+                "cast_id": 11,
+                "character": "Linda White",
+                "credit_id": "52fe450ac3a368484e045037",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535,
+                "known_for_department": "Acting",
+                "name": "Brian Doyle-Murray",
+                "original_name": "Brian Doyle-Murray",
+                "popularity": 0.083,
+                "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg",
+                "cast_id": 12,
+                "character": "Voit Zerbe",
+                "credit_id": "52fe450ac3a368484e04503b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59196,
+                "known_for_department": "Acting",
+                "name": "Joe Flaherty",
+                "original_name": "Joe Flaherty",
+                "popularity": 0.037,
+                "profile_path": "/ryQDsvXgZpZCG2Y9b7TTCOFqG7e.jpg",
+                "cast_id": 13,
+                "character": "Pilot",
+                "credit_id": "52fe450ac3a368484e04503f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95653,
+                "known_for_department": "Acting",
+                "name": "Steven Kampmann",
+                "original_name": "Steven Kampmann",
+                "popularity": 0.014,
+                "profile_path": "/lZrOn5q11e9mSe7QpLdGX7PwC4a.jpg",
+                "cast_id": 14,
+                "character": "Randy White",
+                "credit_id": "52fe450ac3a368484e045043",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1540,
+                "known_for_department": "Acting",
+                "name": "Robin Duke",
+                "original_name": "Robin Duke",
+                "popularity": 0.02,
+                "profile_path": "/6hMJWr2jlYrZ0ltj7fWgYtw4dfY.jpg",
+                "cast_id": 15,
+                "character": "Mary Lou",
+                "credit_id": "52fe450ac3a368484e045047",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27862,
+                "known_for_department": "Acting",
+                "name": "Mary Gross",
+                "original_name": "Mary Gross",
+                "popularity": 0.037,
+                "profile_path": "/9s20j6Hg9WTnKH8dbjqgLUgwR9W.jpg",
+                "cast_id": 16,
+                "character": "Jackie",
+                "credit_id": "52fe450ac3a368484e04504b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14888,
+                "known_for_department": "Acting",
+                "name": "Bruce McGill",
+                "original_name": "Bruce McGill",
+                "popularity": 0.129,
+                "profile_path": "/j4mn0fPdhhXfRqQwheAwCU8Hwrm.jpg",
+                "cast_id": 37,
+                "character": "Dave",
+                "credit_id": "58863a7dc3a36843c8001d09",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37891,
+                "known_for_department": "Acting",
+                "name": "Simon Jones",
+                "original_name": "Simon Jones",
+                "popularity": 0.023,
+                "profile_path": "/lTTlSgTfbvI27hP4og8BZMUJWMh.jpg",
+                "cast_id": 39,
+                "character": "Toby Prooth",
+                "credit_id": "5e336d12326c19001420fe35",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10679,
+                "known_for_department": "Acting",
+                "name": "Carey Lowell",
+                "original_name": "Carey Lowell",
+                "popularity": 0.028,
+                "profile_path": "/nNfJD8JESNzsTt3PU6npwWg5aqi.jpg",
+                "cast_id": 40,
+                "character": "Fashion Model",
+                "credit_id": "5f744afc35039800379a216c",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1524,
+                "known_for_department": "Directing",
+                "name": "Harold Ramis",
+                "original_name": "Harold Ramis",
+                "popularity": 0.052,
+                "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg",
+                "credit_id": "52fe450ac3a368484e04500d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3586769,
+                "known_for_department": "Production",
+                "name": "Whitney White",
+                "original_name": "Whitney White",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62a71d941684f7349ffe9318",
+                "department": "Crew",
+                "job": "Post Production Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1524,
+                "known_for_department": "Directing",
+                "name": "Harold Ramis",
+                "original_name": "Harold Ramis",
+                "popularity": 0.052,
+                "profile_path": "/kmTMTxthkDAsygk3Am4IUSVYYRi.jpg",
+                "credit_id": "5839ec10c3a36843df007205",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6008,
+                "known_for_department": "Acting",
+                "name": "Harry Shearer",
+                "original_name": "Harry Shearer",
+                "popularity": 0.053,
+                "profile_path": "/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg",
+                "credit_id": "5839ed0e92514170c50075d8",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57699,
+                "known_for_department": "Camera",
+                "name": "Peter Hannan",
+                "original_name": "Peter Hannan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839ed9c9251417092007704",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95652,
+                "known_for_department": "Writing",
+                "name": "Tom Leopold",
+                "original_name": "Tom Leopold",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5839ed25c3a36843df007291",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58099,
+                "known_for_department": "Sound",
+                "name": "Van Dyke Parks",
+                "original_name": "Van Dyke Parks",
+                "popularity": 0.01,
+                "profile_path": "/chw9eQJs0AU9D9S3qdbdvzi1Uoq.jpg",
+                "credit_id": "5839efeb925141707d00756f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1525,
+                "known_for_department": "Production",
+                "name": "Trevor Albert",
+                "original_name": "Trevor Albert",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5839f1aec3a36848b2007f89",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1714527,
+                "known_for_department": "Writing",
+                "name": "David Standish",
+                "original_name": "David Standish",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839ed2fc3a3684978006dbc",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55200,
+                "known_for_department": "Writing",
+                "name": "Chris Miller",
+                "original_name": "Chris Miller",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5839ed63c3a36848b2007d58",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1385884,
+                "known_for_department": "Directing",
+                "name": "Sally Jones",
+                "original_name": "Sally Jones",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839f0dec3a36843ef008d46",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27541,
+                "known_for_department": "Production",
+                "name": "Alan Greisman",
+                "original_name": "Alan Greisman",
+                "popularity": 0.013,
+                "profile_path": "/dwvGMdJsF4H5CDwBmtx6r1fLE5T.jpg",
+                "credit_id": "5839f195c3a3681cdc00c48a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7435,
+                "known_for_department": "Sound",
+                "name": "David Mansfield",
+                "original_name": "David Mansfield",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5839f0c8925141707a007456",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12847,
+                "known_for_department": "Production",
+                "name": "Wallis Nicita",
+                "original_name": "Wallis Nicita",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5839f186c3a36848b2007f78",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 8308,
+                "known_for_department": "Art",
+                "name": "John Graysmark",
+                "original_name": "John Graysmark",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "5839f1c49251417092007958",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8869,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Suzy Benzinger",
+                "original_name": "Suzy Benzinger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839f1bac3a36848b2007f92",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535,
+                "known_for_department": "Acting",
+                "name": "Brian Doyle-Murray",
+                "original_name": "Brian Doyle-Murray",
+                "popularity": 0.083,
+                "profile_path": "/3RFH00449ppcwA0tkD1uqDvP865.jpg",
+                "credit_id": "5839ec099251416f30007642",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18651,
+                "known_for_department": "Editing",
+                "name": "Marion Rothman",
+                "original_name": "Marion Rothman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5839efd4c3a36848b5007888",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5381,
+                "known_for_department": "Production",
+                "name": "Michael Shamberg",
+                "original_name": "Michael Shamberg",
+                "popularity": 0.012,
+                "profile_path": "/iLb0qo8YW21AR6FiU0eud9M8vHp.jpg",
+                "credit_id": "5839f1a1c3a36843df0074c6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7788,
+                "known_for_department": "Art",
+                "name": "Tony Reading",
+                "original_name": "Tony Reading",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839f1cc9251416f69007ac1",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9823,
+                "known_for_department": "Art",
+                "name": "Peter Young",
+                "original_name": "Peter Young",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5839f1f3925141709200796c",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1714543,
+                "known_for_department": "Camera",
+                "name": "Barry Peake",
+                "original_name": "Barry Peake",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5839f24c9251416f3000796a",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1538314,
+                "known_for_department": "Costume & Make-Up",
+                "name": "John Glaser",
+                "original_name": "John Glaser",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c5744d12d3eace87af5a64",
+                "department": "Costume & Make-Up",
+                "job": "Assistant Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47990,
+                "known_for_department": "Acting",
+                "name": "Elvis Costello",
+                "original_name": "Elvis Costello",
+                "popularity": 0.017,
+                "profile_path": "/mYg00svLkVJlxEAiiyaOSHUz8nl.jpg",
+                "credit_id": "5e26e1f5168935000f347843",
+                "department": "Sound",
+                "job": "Theme Song Performance"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 157524,
+                "name": "tropical island"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Robin Williams",
+            "character": "Jack Moniker"
+        },
+        {
+            "actor": "Peter O'Toole",
+            "character": "Anthony Cloyden Hayes"
+        },
+        {
+            "actor": "Rick Moranis",
+            "character": "Barry Nye"
+        },
+        {
+            "actor": "Jimmy Cliff",
+            "character": "Ernest Reed"
+        },
+        {
+            "actor": "Twiggy",
+            "character": "Phillipa Lloyd"
+        },
+        {
+            "actor": "Adolph Caesar",
+            "character": "Solomon Grundy"
+        },
+        {
+            "actor": "Eugene Levy",
+            "character": "Barry Steinberg"
+        },
+        {
+            "actor": "Joanna Cassidy",
+            "character": "Terry Hamlin"
+        },
+        {
+            "actor": "Andrea Martin",
+            "character": "Linda White"
+        },
+        {
+            "actor": "Brian Doyle-Murray",
+            "character": "Voit Zerbe"
+        },
+        {
+            "actor": "Joe Flaherty",
+            "character": "Pilot"
+        },
+        {
+            "actor": "Steven Kampmann",
+            "character": "Randy White"
+        },
+        {
+            "actor": "Robin Duke",
+            "character": "Mary Lou"
+        },
+        {
+            "actor": "Mary Gross",
+            "character": "Jackie"
+        },
+        {
+            "actor": "Bruce McGill",
+            "character": "Dave"
+        },
+        {
+            "actor": "Simon Jones",
+            "character": "Toby Prooth"
+        },
+        {
+            "actor": "Carey Lowell",
+            "character": "Fashion Model"
+        }
+    ]
+}

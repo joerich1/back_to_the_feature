@@ -1,0 +1,439 @@
+{
+    "adult": false,
+    "backdrop_path": "/hfsnS4AOa6NT1A9qhs28xmKtaqz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 29600,
+    "imdb_id": "tt0091560",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mountaintop Motel Massacre",
+    "overview": "After several years in an insane asylum, Evelyn, the keeper of the Mountaintop Motel, is released and resumes doing business. She kills her young charge out of anger, but convinces the police it was an accident - and pushed into insanity, she then proceeds to target her guests, first by releasing vermin into their rooms, but then by using her trusty sickle.",
+    "popularity": 1.8,
+    "poster_path": "/rMVOZtHLfNcaTMNtU4EIs3ECszv.jpg",
+    "production_companies": [
+        {
+            "id": 1950,
+            "logo_path": "/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png",
+            "name": "New World Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1983-07-15",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Please do not disturb Evelyn. She already is.",
+    "title": "Mountaintop Motel Massacre",
+    "video": false,
+    "vote_average": 4.3,
+    "vote_count": 51,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "genauer Veröffentlichungstag unbekannt",
+                        "release_date": "1986-09-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-03-31T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "Opelousas, Louisiana",
+                        "release_date": "1983-07-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104324,
+                "known_for_department": "Acting",
+                "name": "Anna Chappell",
+                "original_name": "Anna Chappell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Evelyn",
+                "credit_id": "52fe45ebc3a368484e076979",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39774,
+                "known_for_department": "Acting",
+                "name": "Bill Thurman",
+                "original_name": "Bill Thurman",
+                "popularity": 0.012,
+                "profile_path": "/eEvy6Zl9NGEFURP5Y7NZj0WaajW.jpg",
+                "cast_id": 5,
+                "character": "Reverend Bill McWiley",
+                "credit_id": "52fe45ebc3a368484e07697d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104325,
+                "known_for_department": "Acting",
+                "name": "Will Mitchel",
+                "original_name": "Will Mitchel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Al",
+                "credit_id": "52fe45ebc3a368484e076981",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104326,
+                "known_for_department": "Acting",
+                "name": "Virginia Loridans",
+                "original_name": "Virginia Loridans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Tanya",
+                "credit_id": "52fe45ebc3a368484e076985",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104327,
+                "known_for_department": "Acting",
+                "name": "Major Brock",
+                "original_name": "Major Brock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Crewshaw",
+                "credit_id": "52fe45ebc3a368484e076989",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29468,
+                "known_for_department": "Acting",
+                "name": "James Bradford",
+                "original_name": "James Bradford",
+                "popularity": 0.006,
+                "profile_path": "/eY4jfjviQUsa97Uc5Kp9UGSkWuW.jpg",
+                "cast_id": 9,
+                "character": "Sheriff",
+                "credit_id": "52fe45ebc3a368484e07698d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 59401,
+                "known_for_department": "Acting",
+                "name": "Amy Hill",
+                "original_name": "Amy Hill",
+                "popularity": 0.065,
+                "profile_path": "/hM3S5Ypoiq2mNHlEuDVVC1AFwZJ.jpg",
+                "cast_id": 10,
+                "character": "Prissy",
+                "credit_id": "52fe45ebc3a368484e076991",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 104328,
+                "known_for_department": "Acting",
+                "name": "Maria Jones",
+                "original_name": "Maria Jones",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Mary",
+                "credit_id": "52fe45ebc3a368484e076995",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84702,
+                "known_for_department": "Crew",
+                "name": "Gregg Brazzel",
+                "original_name": "Gregg Brazzel",
+                "popularity": 0.01,
+                "profile_path": "/t8eRWNVnFXwlU3xof6LwtQccIJA.jpg",
+                "cast_id": 12,
+                "character": "Vernon",
+                "credit_id": "52fe45ebc3a368484e076999",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104329,
+                "known_for_department": "Acting",
+                "name": "Jill King",
+                "original_name": "Jill King",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Lori",
+                "credit_id": "52fe45ebc3a368484e07699d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104330,
+                "known_for_department": "Acting",
+                "name": "Foster Litton",
+                "original_name": "Foster Litton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Sheriff Dispatcher",
+                "credit_id": "52fe45ebc3a368484e0769a1",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104322,
+                "known_for_department": "Directing",
+                "name": "Jim McCullough Sr.",
+                "original_name": "Jim McCullough Sr.",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe45ebc3a368484e076969",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104323,
+                "known_for_department": "Writing",
+                "name": "Jim McCullough Jr.",
+                "original_name": "Jim McCullough Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5507976bc3a3682b430005cb",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 104322,
+                "known_for_department": "Directing",
+                "name": "Jim McCullough Sr.",
+                "original_name": "Jim McCullough Sr.",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5507977b92514110da000596",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188902,
+                "known_for_department": "Sound",
+                "name": "Ron Di Iulio",
+                "original_name": "Ron Di Iulio",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5507978a92514110da000599",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1441165,
+                "known_for_department": "Camera",
+                "name": "Joseph M. Wilcots",
+                "original_name": "Joseph M. Wilcots",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5507979a92514130b4000537",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1441166,
+                "known_for_department": "Editing",
+                "name": "Mindy Daucus",
+                "original_name": "Mindy Daucus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "550797a692514110da0005a1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1141701,
+                "known_for_department": "Writing",
+                "name": "Drew Hunter",
+                "original_name": "Drew Hunter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "550797bec3a368539300052e",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1441167,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Melida McKellar",
+                "original_name": "Melida McKellar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "550797ccc3a36852b200053d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1141701,
+                "known_for_department": "Writing",
+                "name": "Drew Hunter",
+                "original_name": "Drew Hunter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "550797dbc3a3685393000532",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102429,
+                "known_for_department": "Production",
+                "name": "Roger Corman",
+                "original_name": "Roger Corman",
+                "popularity": 0.047,
+                "profile_path": "/wgxDlbl7ACtGvCMXZsAbEhPh0we.jpg",
+                "credit_id": "5c2a5dccc3a3683155700525",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 11034,
+                "name": "b movie"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Anna Chappell",
+            "character": "Evelyn"
+        },
+        {
+            "actor": "Bill Thurman",
+            "character": "Reverend Bill McWiley"
+        },
+        {
+            "actor": "Will Mitchel",
+            "character": "Al"
+        },
+        {
+            "actor": "Virginia Loridans",
+            "character": "Tanya"
+        },
+        {
+            "actor": "Major Brock",
+            "character": "Crewshaw"
+        },
+        {
+            "actor": "James Bradford",
+            "character": "Sheriff"
+        },
+        {
+            "actor": "Amy Hill",
+            "character": "Prissy"
+        },
+        {
+            "actor": "Maria Jones",
+            "character": "Mary"
+        },
+        {
+            "actor": "Gregg Brazzel",
+            "character": "Vernon"
+        },
+        {
+            "actor": "Jill King",
+            "character": "Lori"
+        },
+        {
+            "actor": "Foster Litton",
+            "character": "Sheriff Dispatcher"
+        }
+    ]
+}

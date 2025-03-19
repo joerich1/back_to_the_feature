@@ -1,0 +1,486 @@
+{
+    "adult": false,
+    "backdrop_path": "/3SqqNI2dX6QK6NFgDCXEi2Mc9GD.jpg",
+    "belongs_to_collection": {
+        "id": 406817,
+        "name": "Horror High Collection",
+        "poster_path": "/teLG2iHaFE3ue83vaujuEuI62ot.jpg",
+        "backdrop_path": "/2CuWMw65hIcgdwxGOyfa9ORGWHc.jpg"
+    },
+    "budget": 67000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 29389,
+    "imdb_id": "tt0072331",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Horror High",
+    "overview": "A nerdy high school super whiz experiments with a chemical which will transform his guinea pig \"Mr. Mumps\" from a gentle pet into a ravenous monster. In a fit of rage against his tormentors at the high school, Vernon Potts goes on a killing spree, eliminating all of those who ever picked on him - the Gym Coach, the School Jock, The Creepy Janitor & his hated teacher, Ms. Grindstaff.",
+    "popularity": 1.094,
+    "poster_path": "/3bwdcBhmxuCBuIrclZO2IK9oPbf.jpg",
+    "production_companies": [
+        {
+            "id": 124669,
+            "logo_path": null,
+            "name": "Jamison Film Company",
+            "origin_country": ""
+        },
+        {
+            "id": 1009,
+            "logo_path": null,
+            "name": "Crown International Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1973-09-20",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "There is something evil out there... Possessed by a force that doesn't belong to this world - and it's going to kill me!",
+    "title": "Horror High",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 31,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1973-09-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100978,
+                "known_for_department": "Acting",
+                "name": "Pat Cardi",
+                "original_name": "Pat Cardi",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Vernon Potts",
+                "credit_id": "52fe45dbc3a368484e072f59",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103707,
+                "known_for_department": "Acting",
+                "name": "Austin Stoker",
+                "original_name": "Austin Stoker",
+                "popularity": 0.015,
+                "profile_path": "/l79ljSqio7NWR9t5MwyVzGtwqBn.jpg",
+                "cast_id": 3,
+                "character": "Lieutenant Bozeman",
+                "credit_id": "52fe45dbc3a368484e072f5d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 90850,
+                "known_for_department": "Acting",
+                "name": "Rosie Holotik",
+                "original_name": "Rosie Holotik",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Robin Jones",
+                "credit_id": "52fe45dbc3a368484e072f61",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103708,
+                "known_for_department": "Acting",
+                "name": "John Niland",
+                "original_name": "John Niland",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Coach McCall",
+                "credit_id": "52fe45dbc3a368484e072f65",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103709,
+                "known_for_department": "Acting",
+                "name": "Joye Hash",
+                "original_name": "Joye Hash",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Miss Grindstaff",
+                "credit_id": "52fe45dbc3a368484e072f69",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39773,
+                "known_for_department": "Acting",
+                "name": "Jeff Alexander",
+                "original_name": "Jeff Alexander",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Mr. Griggs",
+                "credit_id": "52fe45dbc3a368484e072f6d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103710,
+                "known_for_department": "Acting",
+                "name": "Mike McHenry",
+                "original_name": "Mike McHenry",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Roger Davis",
+                "credit_id": "52fe45dbc3a368484e072f71",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103711,
+                "known_for_department": "Acting",
+                "name": "Joe Greene",
+                "original_name": "Joe Greene",
+                "popularity": 0.003,
+                "profile_path": "/qg6xLluJ8k1qknjpeRVIzxMPbVB.jpg",
+                "cast_id": 9,
+                "character": "Coach's Buddy / Policeman",
+                "credit_id": "52fe45dbc3a368484e072f75",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169539,
+                "known_for_department": "Writing",
+                "name": "Nick Felix",
+                "original_name": "Nick Felix",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Mr. Henshaw",
+                "credit_id": "52fe45dbc3a368484e072f79",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169540,
+                "known_for_department": "Acting",
+                "name": "Michelle Falerne",
+                "original_name": "Michelle Falerne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Girl-Student",
+                "credit_id": "52fe45dbc3a368484e072f7d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169541,
+                "known_for_department": "Acting",
+                "name": "Laura Williamson",
+                "original_name": "Laura Williamson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Nurse",
+                "credit_id": "52fe45dcc3a368484e072f81",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169542,
+                "known_for_department": "Acting",
+                "name": "Charles Mann",
+                "original_name": "Charles Mann",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "School Principal",
+                "credit_id": "52fe45dcc3a368484e072f85",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1038162,
+                "known_for_department": "Production",
+                "name": "James P. Graham",
+                "original_name": "James P. Graham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072f91",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169546,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Beverly Gilbert",
+                "original_name": "Beverly Gilbert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072faf",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103706,
+                "known_for_department": "Directing",
+                "name": "Larry N. Stouffer",
+                "original_name": "Larry N. Stouffer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dbc3a368484e072f55",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169543,
+                "known_for_department": "Camera",
+                "name": "Janis P. Valtenbergs",
+                "original_name": "Janis P. Valtenbergs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072f9d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169545,
+                "known_for_department": "Art",
+                "name": "Joe Thompkins",
+                "original_name": "Joe Thompkins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072fa9",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 142279,
+                "known_for_department": "Writing",
+                "name": "J.D. Feigelson",
+                "original_name": "J.D. Feigelson",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072f8b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1169544,
+                "known_for_department": "Editing",
+                "name": "Travis Rhodes",
+                "original_name": "Travis Rhodes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072fa3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84102,
+                "known_for_department": "Sound",
+                "name": "Don Hulette",
+                "original_name": "Don Hulette",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072f97",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90831,
+                "known_for_department": "Crew",
+                "name": "Jack Bennett",
+                "original_name": "Jack Bennett",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe45dcc3a368484e072fb5",
+                "department": "Crew",
+                "job": "Special Effects"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6270,
+                "name": "high school"
+            },
+            {
+                "id": 1299,
+                "name": "monster"
+            },
+            {
+                "id": 1706,
+                "name": "experiment"
+            },
+            {
+                "id": 1517,
+                "name": "classroom"
+            },
+            {
+                "id": 4375,
+                "name": "transformation"
+            },
+            {
+                "id": 6733,
+                "name": "bullying"
+            },
+            {
+                "id": 10508,
+                "name": "teacher"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 10216,
+                "name": "outcast"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 13031,
+                "name": "creature"
+            },
+            {
+                "id": 14752,
+                "name": "potion"
+            },
+            {
+                "id": 170383,
+                "name": "disfigurement"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Pat Cardi",
+            "character": "Vernon Potts"
+        },
+        {
+            "actor": "Austin Stoker",
+            "character": "Lieutenant Bozeman"
+        },
+        {
+            "actor": "Rosie Holotik",
+            "character": "Robin Jones"
+        },
+        {
+            "actor": "John Niland",
+            "character": "Coach McCall"
+        },
+        {
+            "actor": "Joye Hash",
+            "character": "Miss Grindstaff"
+        },
+        {
+            "actor": "Jeff Alexander",
+            "character": "Mr. Griggs"
+        },
+        {
+            "actor": "Mike McHenry",
+            "character": "Roger Davis"
+        },
+        {
+            "actor": "Joe Greene",
+            "character": "Coach's Buddy / Policeman"
+        },
+        {
+            "actor": "Nick Felix",
+            "character": "Mr. Henshaw"
+        },
+        {
+            "actor": "Michelle Falerne",
+            "character": "Girl-Student"
+        },
+        {
+            "actor": "Laura Williamson",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Charles Mann",
+            "character": "School Principal"
+        }
+    ]
+}

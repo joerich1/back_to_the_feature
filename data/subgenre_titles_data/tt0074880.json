@@ -1,0 +1,584 @@
+{
+    "adult": false,
+    "backdrop_path": "/2yZA1qMM6e5zNCZdKrRFoXa9hvQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "History"
+        }
+    ],
+    "homepage": "",
+    "id": 25947,
+    "imdb_id": "tt0074880",
+    "origin_country": [
+        "NL"
+    ],
+    "original_language": "nl",
+    "original_title": "Max Havelaar of de koffieveilingen der Nederlandsche-Handelmaatschappij",
+    "overview": "An idealistic Dutch colonial officer posted to Indonesia in the 19th century is cohvinced that he can make the kinds of changes that will actually help the local people he is in charge of, but circumstances soon make him realize just how out of touch he really is, and it doesn't take long for things to go from bad to worse.",
+    "popularity": 0.565,
+    "poster_path": "/mjs6zB6Gi7CogNi6Ihc415CckM.jpg",
+    "production_companies": [
+        {
+            "id": 112261,
+            "logo_path": null,
+            "name": "P.T. Mondial Motion Pictures",
+            "origin_country": ""
+        },
+        {
+            "id": 12004,
+            "logo_path": null,
+            "name": "Rademakers Productie BV",
+            "origin_country": ""
+        },
+        {
+            "id": 112262,
+            "logo_path": null,
+            "name": "Jakarta Film",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ID",
+            "name": "Indonesia"
+        },
+        {
+            "iso_3166_1": "NL",
+            "name": "Netherlands"
+        }
+    ],
+    "release_date": "1976-09-09",
+    "revenue": 0,
+    "runtime": 170,
+    "spoken_languages": [
+        {
+            "english_name": "Dutch",
+            "iso_639_1": "nl",
+            "name": "Nederlands"
+        },
+        {
+            "english_name": "Indonesian",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Max Havelaar",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 16,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BE",
+                "release_dates": [
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-09-09T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-09-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9133,
+                "known_for_department": "Acting",
+                "name": "Peter Faber",
+                "original_name": "Peter Faber",
+                "popularity": 0.011,
+                "profile_path": "/ovxuwt4V46Yn3nW8u74Sm7I1YGy.jpg",
+                "cast_id": 2,
+                "character": "Max Havelaar",
+                "credit_id": "58e8ae44c3a36872f605f478",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1371194,
+                "known_for_department": "Acting",
+                "name": "Sacha Bulthuis",
+                "original_name": "Sacha Bulthuis",
+                "popularity": 0.001,
+                "profile_path": "/dFkhlKGHdbniwdJgKJTrifr2exZ.jpg",
+                "cast_id": 3,
+                "character": "Tine",
+                "credit_id": "58e8ae629251414b2801dc2a",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1791967,
+                "known_for_department": "Acting",
+                "name": "Adendu Soesilaningrat",
+                "original_name": "Adendu Soesilaningrat",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Regent",
+                "credit_id": "58e8ae85c3a368730205b0be",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1365819,
+                "known_for_department": "Acting",
+                "name": "Maruli Sitompul",
+                "original_name": "Maruli Sitompul",
+                "popularity": 0.002,
+                "profile_path": "/j6ASMKJFs86r3D3vlzLYkZYHRpC.jpg",
+                "cast_id": 5,
+                "character": "Demang",
+                "credit_id": "58e8aea8c3a3684aa404fdba",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 211214,
+                "known_for_department": "Acting",
+                "name": "Krijn ter Braak",
+                "original_name": "Krijn ter Braak",
+                "popularity": 0.001,
+                "profile_path": "/jxA8m0lPBrjw4K5rP8f1ERsU5rU.jpg",
+                "cast_id": 6,
+                "character": "Verbrugge",
+                "credit_id": "58e8aec7c3a36872f605f4d8",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1791968,
+                "known_for_department": "Acting",
+                "name": "Carl van der Plas",
+                "original_name": "Carl van der Plas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Resident",
+                "credit_id": "58e8aee992514134eb0249c2",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1352059,
+                "known_for_department": "Acting",
+                "name": "Rima Melati",
+                "original_name": "Rima Melati",
+                "popularity": 0.001,
+                "profile_path": "/lXeFtqzbd6360gQWjrwwP8gTAgA.jpg",
+                "cast_id": 8,
+                "character": "Mevrouw Slotering",
+                "credit_id": "58e8af0bc3a3684aa404fe07",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45755,
+                "known_for_department": "Acting",
+                "name": "Joop Admiraal",
+                "original_name": "Joop Admiraal",
+                "popularity": 0.002,
+                "profile_path": "/fBNkIZpfHzXy4iy42JixlOqdFAl.jpg",
+                "cast_id": 9,
+                "character": "Slotering",
+                "credit_id": "58e8af279251414b2801dcba",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1197611,
+                "known_for_department": "Acting",
+                "name": "Piet Burnama",
+                "original_name": "Piet Burnama",
+                "popularity": 0.004,
+                "profile_path": "/yAjp49DHUuRxsLkkF5qtstjoTkP.jpg",
+                "cast_id": 10,
+                "character": "Djaska",
+                "credit_id": "58e8af4d92514134eb024a0d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1791969,
+                "known_for_department": "Acting",
+                "name": "Herry Lantho",
+                "original_name": "Herry Lantho",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Saïdjah",
+                "credit_id": "58e8af69925141281006157f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1791970,
+                "known_for_department": "Acting",
+                "name": "Nenny Zulaini",
+                "original_name": "Nenny Zulaini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Adinda",
+                "credit_id": "58e8af8992514152ac0137b5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 563885,
+                "known_for_department": "Acting",
+                "name": "Sofia W.D.",
+                "original_name": "Sofia W.D.",
+                "popularity": 0.002,
+                "profile_path": "/1qL3VfRqeURdTSpMJ9bAGaw4zaI.jpg",
+                "cast_id": 13,
+                "character": "Babu",
+                "credit_id": "58e8afad925141281906022e",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1791971,
+                "known_for_department": "Acting",
+                "name": "Minih bin Misan",
+                "original_name": "Minih bin Misan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Saïdjah's vader",
+                "credit_id": "58e8afccc3a3684a79052231",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 585,
+                "known_for_department": "Acting",
+                "name": "Rutger Hauer",
+                "original_name": "Rutger Hauer",
+                "popularity": 0.064,
+                "profile_path": "/3Lly7qwOrESdFcwyaiEOfPlB76l.jpg",
+                "cast_id": 15,
+                "character": "Duclari",
+                "credit_id": "58e8afe69251413ce400269f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46459,
+                "known_for_department": "Acting",
+                "name": "Frans Vorstman",
+                "original_name": "Frans Vorstman",
+                "popularity": 0.001,
+                "profile_path": "/5hvxqMi1BQA8WnVaUAT7jzctpBZ.jpg",
+                "cast_id": 16,
+                "character": "Gouverneur-generaal",
+                "credit_id": "58e8b001c3a368732605dcf3",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27866,
+                "known_for_department": "Directing",
+                "name": "Fons Rademakers",
+                "original_name": "Fons Rademakers",
+                "popularity": 0.008,
+                "profile_path": "/5o9hCPVyKLQCeZGiU5yKwCP04D0.jpg",
+                "credit_id": "52fe44e6c3a368484e03d381",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2209,
+                "known_for_department": "Camera",
+                "name": "Jan de Bont",
+                "original_name": "Jan de Bont",
+                "popularity": 0.021,
+                "profile_path": "/evj9vN5pxxjr4aFLZRvniU0gzof.jpg",
+                "credit_id": "613262812cde980044c924b3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9119,
+                "known_for_department": "Writing",
+                "name": "Gerard Soeteman",
+                "original_name": "Gerard Soeteman",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5c11a41792514147b0102210",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2194229,
+                "known_for_department": "Writing",
+                "name": "Multatuli",
+                "original_name": "Multatuli",
+                "popularity": 0.001,
+                "profile_path": "/5x9Wt2Sb5yHFEPof5K6iDog6nKq.jpg",
+                "credit_id": "5c11a422c3a3682b52ee94ac",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27866,
+                "known_for_department": "Directing",
+                "name": "Fons Rademakers",
+                "original_name": "Fons Rademakers",
+                "popularity": 0.008,
+                "profile_path": "/5o9hCPVyKLQCeZGiU5yKwCP04D0.jpg",
+                "credit_id": "5c11a42c925141441a0035d2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2194230,
+                "known_for_department": "Production",
+                "name": "Hiswara Darmaputera",
+                "original_name": "Hiswara Darmaputera",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a435c3a3682b45ee94fb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1199196,
+                "known_for_department": "Production",
+                "name": "Pieter Bergema",
+                "original_name": "Pieter Bergema",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a448c3a3682b3aee94d7",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1177147,
+                "known_for_department": "Editing",
+                "name": "Victorine Habets",
+                "original_name": "Victorine Habets",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a458c3a3682b4fee95dc",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 16677,
+                "known_for_department": "Art",
+                "name": "Benedict Schillemans",
+                "original_name": "Benedict Schillemans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a4730e0a2638bc10d443",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 9124,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Elly Claus",
+                "original_name": "Elly Claus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a47c0e0a2638af117d90",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1665770,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ulli Ullrich",
+                "original_name": "Ulli Ullrich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a4860e0a2638bc10d460",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2194234,
+                "known_for_department": "Art",
+                "name": "Frank Raven",
+                "original_name": "Frank Raven",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a48e92514105be003256",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2194235,
+                "known_for_department": "Art",
+                "name": "Fred Wetik",
+                "original_name": "Fred Wetik",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c11a49692514147aa0f90b6",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1245212,
+                "known_for_department": "Acting",
+                "name": "Hans Kemna",
+                "original_name": "Hans Kemna",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5c11a4a20e0a2638b6109b9a",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2270126,
+                "known_for_department": "Directing",
+                "name": "Mochtar Soemodimedjo",
+                "original_name": "Mochtar Soemodimedjo",
+                "popularity": 0.001,
+                "profile_path": "/emIhQsh0ytoIzqFYm4HoIQnosvg.jpg",
+                "credit_id": "67892fd61403701c991d58f2",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Peter Faber",
+            "character": "Max Havelaar"
+        },
+        {
+            "actor": "Sacha Bulthuis",
+            "character": "Tine"
+        },
+        {
+            "actor": "Adendu Soesilaningrat",
+            "character": "Regent"
+        },
+        {
+            "actor": "Maruli Sitompul",
+            "character": "Demang"
+        },
+        {
+            "actor": "Krijn ter Braak",
+            "character": "Verbrugge"
+        },
+        {
+            "actor": "Carl van der Plas",
+            "character": "Resident"
+        },
+        {
+            "actor": "Rima Melati",
+            "character": "Mevrouw Slotering"
+        },
+        {
+            "actor": "Joop Admiraal",
+            "character": "Slotering"
+        },
+        {
+            "actor": "Piet Burnama",
+            "character": "Djaska"
+        },
+        {
+            "actor": "Herry Lantho",
+            "character": "Saïdjah"
+        },
+        {
+            "actor": "Nenny Zulaini",
+            "character": "Adinda"
+        },
+        {
+            "actor": "Sofia W.D.",
+            "character": "Babu"
+        },
+        {
+            "actor": "Minih bin Misan",
+            "character": "Saïdjah's vader"
+        },
+        {
+            "actor": "Rutger Hauer",
+            "character": "Duclari"
+        },
+        {
+            "actor": "Frans Vorstman",
+            "character": "Gouverneur-generaal"
+        }
+    ]
+}

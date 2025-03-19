@@ -1,0 +1,605 @@
+{
+    "adult": false,
+    "backdrop_path": "/h4sfaayNQ97lIrOlKx72oNV8Pmj.jpg",
+    "belongs_to_collection": null,
+    "budget": 1200000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 27886,
+    "imdb_id": "tt0091969",
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Slaughter High",
+    "overview": "Eight different people are invited to their 10-year high school reunion at their now-closed down high school where a former student, disfigured from a prank gone wrong, is there to seek revenge.",
+    "popularity": 3.53,
+    "poster_path": "/n6FWYMoU7Plpz4In9AtYdla5HAT.jpg",
+    "production_companies": [
+        {
+            "id": 18952,
+            "logo_path": null,
+            "name": "Spectacular Trading International",
+            "origin_country": "HK"
+        },
+        {
+            "id": 12360,
+            "logo_path": "/EugVVMfcbv9zxCr0C60VhD0vGY.png",
+            "name": "Vestron Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-11-14",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Where the student body is going to pieces.",
+    "title": "Slaughter High",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 127,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2012-02-28T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2021-04-07T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Premiere",
+                        "release_date": "1993-11-13T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-11-14T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-02-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10461,
+                "known_for_department": "Acting",
+                "name": "Caroline Munro",
+                "original_name": "Caroline Munro",
+                "popularity": 0.027,
+                "profile_path": "/CroSsO59Xc1ZddNDxRIH2qaj2I.jpg",
+                "cast_id": 1006,
+                "character": "Carol",
+                "credit_id": "52fe456bc3a368484e059dd3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1050370,
+                "known_for_department": "Acting",
+                "name": "Simon Scuddamore",
+                "original_name": "Simon Scuddamore",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1007,
+                "character": "Marty",
+                "credit_id": "52fe456cc3a368484e059dd7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1050371,
+                "known_for_department": "Acting",
+                "name": "Carmine Iannaccone",
+                "original_name": "Carmine Iannaccone",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1008,
+                "character": "Skip",
+                "credit_id": "52fe456cc3a368484e059ddb",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1050372,
+                "known_for_department": "Acting",
+                "name": "Donna Yeager",
+                "original_name": "Donna Yeager",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1009,
+                "character": "Stella",
+                "credit_id": "52fe456cc3a368484e059ddf",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 145168,
+                "known_for_department": "Acting",
+                "name": "Gary Martin",
+                "original_name": "Gary Martin",
+                "popularity": 0.003,
+                "profile_path": "/7XwqEyf7lWr0l2vtZo2lp04KMFt.jpg",
+                "cast_id": 1010,
+                "character": "Joe",
+                "credit_id": "52fe456cc3a368484e059de3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53588,
+                "known_for_department": "Acting",
+                "name": "Billy Hartman",
+                "original_name": "Billy Hartman",
+                "popularity": 0.016,
+                "profile_path": "/oyAKjA22j5Gc7OGtZj9KuXokILr.jpg",
+                "cast_id": 1017,
+                "character": "Frank",
+                "credit_id": "56384d339251414ad801d2d7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1531021,
+                "known_for_department": "Acting",
+                "name": "Michael Safran",
+                "original_name": "Michael Safran",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1018,
+                "character": "Ted",
+                "credit_id": "56384d46c3a3681b6101f79d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136028,
+                "known_for_department": "Acting",
+                "name": "John Segal",
+                "original_name": "John Segal",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 1019,
+                "character": "Carl",
+                "credit_id": "56384d5d9251414ad801d2dd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1531022,
+                "known_for_department": "Acting",
+                "name": "Kelly Baker",
+                "original_name": "Kelly Baker",
+                "popularity": 0.001,
+                "profile_path": "/lxXewFSZBsC9ffWW83pJsP3RKD3.jpg",
+                "cast_id": 1020,
+                "character": "Nancy",
+                "credit_id": "56384d7e9251413b46010b0d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1531023,
+                "known_for_department": "Acting",
+                "name": "Sally Cross",
+                "original_name": "Sally Cross",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1021,
+                "character": "Susan",
+                "credit_id": "56384dbe9251414ab701cb42",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1531024,
+                "known_for_department": "Acting",
+                "name": "Josephine Scandi",
+                "original_name": "Josephine Scandi",
+                "popularity": 0.001,
+                "profile_path": "/4XIPqgnridH0jeZRhd1kSURw6np.jpg",
+                "cast_id": 1022,
+                "character": "Shirley",
+                "credit_id": "56384dd7925141284c01edf3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72900,
+                "known_for_department": "Writing",
+                "name": "Mark Ezra",
+                "original_name": "Mark Ezra",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1023,
+                "character": "Jester",
+                "credit_id": "56384decc3a3681b5901e223",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30652,
+                "known_for_department": "Production",
+                "name": "Dick Randall",
+                "original_name": "Dick Randall",
+                "popularity": 0.005,
+                "profile_path": "/opc3IeDMQRzW2c7OHUzvUDqhO2m.jpg",
+                "cast_id": 1024,
+                "character": "Manny",
+                "credit_id": "5d75509812970c1e0f9a9649",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2406781,
+                "known_for_department": "Acting",
+                "name": "Jon Clark",
+                "original_name": "Jon Clark",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1025,
+                "character": "Digby",
+                "credit_id": "5d7550bba0b690000fd3bd86",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1039407,
+                "known_for_department": "Directing",
+                "name": "George Dugdale",
+                "original_name": "George Dugdale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059db1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1039407,
+                "known_for_department": "Directing",
+                "name": "George Dugdale",
+                "original_name": "George Dugdale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059dc3",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1039408,
+                "known_for_department": "Directing",
+                "name": "Peter Mackenzie Litten",
+                "original_name": "Peter Mackenzie Litten",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059dbd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72900,
+                "known_for_department": "Writing",
+                "name": "Mark Ezra",
+                "original_name": "Mark Ezra",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059dc9",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1039408,
+                "known_for_department": "Directing",
+                "name": "Peter Mackenzie Litten",
+                "original_name": "Peter Mackenzie Litten",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059dcf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72900,
+                "known_for_department": "Writing",
+                "name": "Mark Ezra",
+                "original_name": "Mark Ezra",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456bc3a368484e059db7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183573,
+                "known_for_department": "Camera",
+                "name": "Alan Pudney",
+                "original_name": "Alan Pudney",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456cc3a368484e059dfb",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183574,
+                "known_for_department": "Art",
+                "name": "Geoff Sharpe",
+                "original_name": "Geoff Sharpe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456cc3a368484e059e07",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30652,
+                "known_for_department": "Production",
+                "name": "Dick Randall",
+                "original_name": "Dick Randall",
+                "popularity": 0.005,
+                "profile_path": "/opc3IeDMQRzW2c7OHUzvUDqhO2m.jpg",
+                "credit_id": "52fe456cc3a368484e059def",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 571988,
+                "known_for_department": "Editing",
+                "name": "Jim Connock",
+                "original_name": "Jim Connock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456cc3a368484e059e01",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1183570,
+                "known_for_department": "Production",
+                "name": "Stephen Minasian",
+                "original_name": "Stephen Minasian",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe456cc3a368484e059de9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20953,
+                "known_for_department": "Sound",
+                "name": "Harry Manfredini",
+                "original_name": "Harry Manfredini",
+                "popularity": 0.006,
+                "profile_path": "/tKHjAYbjTti0YaIHrxeDpHjqKAb.jpg",
+                "credit_id": "52fe456cc3a368484e059df5",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1536367,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Craig Berkeley",
+                "original_name": "Craig Berkeley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d7550f7a0b690000fd3bd99",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2406782,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Alison Hall",
+                "original_name": "Alison Hall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d755105d19a336fcd11e3c5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5801,
+                "name": "nerd"
+            },
+            {
+                "id": 4552,
+                "name": "beer"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10776,
+                "name": "marijuana"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 154681,
+                "name": "april fool's day"
+            },
+            {
+                "id": 161213,
+                "name": "high school reunion"
+            },
+            {
+                "id": 208580,
+                "name": "acid"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Caroline Munro",
+            "character": "Carol"
+        },
+        {
+            "actor": "Simon Scuddamore",
+            "character": "Marty"
+        },
+        {
+            "actor": "Carmine Iannaccone",
+            "character": "Skip"
+        },
+        {
+            "actor": "Donna Yeager",
+            "character": "Stella"
+        },
+        {
+            "actor": "Gary Martin",
+            "character": "Joe"
+        },
+        {
+            "actor": "Billy Hartman",
+            "character": "Frank"
+        },
+        {
+            "actor": "Michael Safran",
+            "character": "Ted"
+        },
+        {
+            "actor": "John Segal",
+            "character": "Carl"
+        },
+        {
+            "actor": "Kelly Baker",
+            "character": "Nancy"
+        },
+        {
+            "actor": "Sally Cross",
+            "character": "Susan"
+        },
+        {
+            "actor": "Josephine Scandi",
+            "character": "Shirley"
+        },
+        {
+            "actor": "Mark Ezra",
+            "character": "Jester"
+        },
+        {
+            "actor": "Dick Randall",
+            "character": "Manny"
+        },
+        {
+            "actor": "Jon Clark",
+            "character": "Digby"
+        }
+    ]
+}

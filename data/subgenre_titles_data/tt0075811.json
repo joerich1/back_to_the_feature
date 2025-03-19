@@ -1,0 +1,397 @@
+{
+    "adult": false,
+    "backdrop_path": "/oJxViODljHew0cLmLl5iOD4t9aN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 8128,
+    "imdb_id": "tt0075811",
+    "origin_country": [
+        "XC"
+    ],
+    "original_language": "cs",
+    "original_title": "Čarodějův učeň",
+    "overview": "Krabat, a beggar boy, is lured to become an apprentice to an evil, one-eyed sorcerer. With a number of other boys, he works at the sorcerer's mill while learning black magic. Every Christmas one of the boys has to face the master in a magical duel, where the boy never stands a chance because the master is the only person who is allowed to use a secret spell: The Koraktor.",
+    "popularity": 1.341,
+    "poster_path": "/lTQyzYE1K64CeihYjEwCJZHdauC.jpg",
+    "production_companies": [
+        {
+            "id": 210,
+            "logo_path": "/cuIR8m2nnKkqPgnQz25FJT26aBa.png",
+            "name": "Süddeutscher Rundfunk",
+            "origin_country": "DE"
+        },
+        {
+            "id": 2331,
+            "logo_path": null,
+            "name": "Filmové studio Gottwaldov",
+            "origin_country": "XC"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "XC",
+            "name": "Czechoslovakia"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        }
+    ],
+    "release_date": "1978-03-01",
+    "revenue": 0,
+    "runtime": 73,
+    "spoken_languages": [
+        {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Sorcerer's Apprentice",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 38,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "East Germany",
+                        "release_date": "1979-09-07T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "West Germany",
+                        "release_date": "1978-03-24T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "XC",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-03-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227399,
+                "known_for_department": "Acting",
+                "name": "Luděk Munzar",
+                "original_name": "Luděk Munzar",
+                "popularity": 0.002,
+                "profile_path": "/sS11a8mQEyNnaR1eaEaGTAC6gSQ.jpg",
+                "cast_id": 7,
+                "character": "Narrator (voice)",
+                "credit_id": "52fe4493c3a36847f809dfa9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227400,
+                "known_for_department": "Acting",
+                "name": "Jaroslav Moučka",
+                "original_name": "Jaroslav Moučka",
+                "popularity": 0.007,
+                "profile_path": "/9dyBz6bITTJkHkQZV32mXfVTtfN.jpg",
+                "cast_id": 8,
+                "character": "Rook / Sorcerer (voice)",
+                "credit_id": "52fe4493c3a36847f809dfad",
+                "order": 1
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53859,
+                "known_for_department": "Directing",
+                "name": "Karel Zeman",
+                "original_name": "Karel Zeman",
+                "popularity": 0.009,
+                "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+                "credit_id": "52fe4493c3a36847f809df8d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54011,
+                "known_for_department": "Sound",
+                "name": "František Belfín",
+                "original_name": "František Belfín",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4493c3a36847f809df93",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54012,
+                "known_for_department": "Editing",
+                "name": "Ivan Matouš",
+                "original_name": "Ivan Matouš",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4493c3a36847f809df99",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38644,
+                "known_for_department": "Writing",
+                "name": "Otfried Preußler",
+                "original_name": "Otfried Preußler",
+                "popularity": 0.002,
+                "profile_path": "/ym8sc6KCGCHfEqbZXCOU4aPzViK.jpg",
+                "credit_id": "52fe4493c3a36847f809df9f",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53859,
+                "known_for_department": "Directing",
+                "name": "Karel Zeman",
+                "original_name": "Karel Zeman",
+                "popularity": 0.009,
+                "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+                "credit_id": "52fe4493c3a36847f809dfa5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53859,
+                "known_for_department": "Directing",
+                "name": "Karel Zeman",
+                "original_name": "Karel Zeman",
+                "popularity": 0.009,
+                "profile_path": "/5qaI4llWgNWIukSArZhfOEjACYz.jpg",
+                "credit_id": "659f00b7d6590b01fdaf9a95",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1558688,
+                "known_for_department": "Acting",
+                "name": "Ludmila Zeman",
+                "original_name": "Ludmila Zeman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00c1cb75d101a2d6a966",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4474497,
+                "known_for_department": "Art",
+                "name": "Alena Vicherková",
+                "original_name": "Alena Vicherková",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00c8383df201a188d66b",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4474496,
+                "known_for_department": "Art",
+                "name": "Valentin Javořík",
+                "original_name": "Valentin Javořík",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00d21d356301a2daba5c",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1777243,
+                "known_for_department": "Visual Effects",
+                "name": "Arnošt Kupčík",
+                "original_name": "Arnošt Kupčík",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00ddd6590b00ed2ce684",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1996926,
+                "known_for_department": "Directing",
+                "name": "Eugen Spálený",
+                "original_name": "Eugen Spálený",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00e71d35630148abf99f",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1777253,
+                "known_for_department": "Camera",
+                "name": "Bohuslav Pikhart",
+                "original_name": "Bohuslav Pikhart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f00f4b39e3500950943b2",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1558684,
+                "known_for_department": "Camera",
+                "name": "Zdeněk Krupa",
+                "original_name": "Zdeněk Krupa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f01038ddc340259a6f5ec",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1558682,
+                "known_for_department": "Production",
+                "name": "Karel Hutěčka",
+                "original_name": "Karel Hutěčka",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f011ff706de01481dea8d",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2735515,
+                "known_for_department": "Writing",
+                "name": "Jiří Gold",
+                "original_name": "Jiří Gold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f0139d6590b025cb291a8",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2735515,
+                "known_for_department": "Writing",
+                "name": "Jiří Gold",
+                "original_name": "Jiří Gold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "659f01427776f000ee2db57c",
+                "department": "Writing",
+                "job": "Lyricist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 931,
+                "name": "jealousy"
+            },
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 2343,
+                "name": "magic"
+            },
+            {
+                "id": 3873,
+                "name": "sorcerer's apprentice"
+            },
+            {
+                "id": 4488,
+                "name": "apprentice"
+            },
+            {
+                "id": 4739,
+                "name": "legerdemain"
+            },
+            {
+                "id": 41406,
+                "name": "middle ages (476-1453)"
+            },
+            {
+                "id": 166484,
+                "name": "raven"
+            },
+            {
+                "id": 207317,
+                "name": "christmas"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Luděk Munzar",
+            "character": "Narrator (voice)"
+        },
+        {
+            "actor": "Jaroslav Moučka",
+            "character": "Rook / Sorcerer (voice)"
+        }
+    ]
+}

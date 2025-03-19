@@ -1,0 +1,653 @@
+{
+    "adult": false,
+    "backdrop_path": "/13nV5QOggpXksyhePH69nLBxXlv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        }
+    ],
+    "homepage": "",
+    "id": 59593,
+    "imdb_id": "tt0070326",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "アンデルセン童話 にんぎょ姫",
+    "overview": "The story of a beautiful mermaid who gave up a kingdom for her beloved prince.",
+    "popularity": 1.906,
+    "poster_path": "/hPuRx5wxlWixvAxy55EhDbmJGTs.jpg",
+    "production_companies": [
+        {
+            "id": 5542,
+            "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+            "name": "Toei Animation",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1975-03-21",
+    "revenue": 0,
+    "runtime": 68,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hans Christian Andersen's The Little Mermaid",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 54,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1983-08-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-03-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "ar",
+                        "note": "سنة العرض بين 1985 و 1986",
+                        "release_date": "1986-10-01T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-02-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "XG",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-12-24T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1066410,
+                "known_for_department": "Acting",
+                "name": "Fumie Kashiyama",
+                "original_name": "樫山文枝",
+                "popularity": 0.007,
+                "profile_path": "/yDiBeA3W0J1UbiZBW7Am8ls5Wdd.jpg",
+                "cast_id": 2,
+                "character": "Marina (voice)",
+                "credit_id": "52fe4997c3a36847f81a2411",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 278271,
+                "known_for_department": "Acting",
+                "name": "Mariko Miyagi",
+                "original_name": "宮城まり子",
+                "popularity": 0.004,
+                "profile_path": "/pfc62fHL9Eq0CbvLlilSiVLuoS4.jpg",
+                "cast_id": 3,
+                "character": "Fritz the Dolphin (voice)",
+                "credit_id": "52fe4997c3a36847f81a2415",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 122578,
+                "known_for_department": "Acting",
+                "name": "Tarō Shigaki",
+                "original_name": "志垣太郎",
+                "popularity": 0.007,
+                "profile_path": "/ljKJFUNA8BqrqhKfIi8AD30YQS1.jpg",
+                "cast_id": 4,
+                "character": "Prince (voice)",
+                "credit_id": "52fe4997c3a36847f81a2419",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 617,
+                "known_for_department": "Acting",
+                "name": "Ichiro Nagai",
+                "original_name": "永井一郎",
+                "popularity": 0.053,
+                "profile_path": "/d5LuqwoIjMIqKvKmEk5y6AZY1Ww.jpg",
+                "cast_id": 8,
+                "character": "Whistler (voice)",
+                "credit_id": "52fe4997c3a36847f81a2429",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142704,
+                "known_for_department": "Acting",
+                "name": "Kenichi Ogata",
+                "original_name": "緒方賢一",
+                "popularity": 0.061,
+                "profile_path": "/iQLEawIP2593yrGy22GzLSpnfgl.jpg",
+                "cast_id": 9,
+                "character": "Oval Shark (voice)",
+                "credit_id": "52fe4997c3a36847f81a242d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1066412,
+                "known_for_department": "Acting",
+                "name": "Haruko Kitahama",
+                "original_name": "北浜晴子",
+                "popularity": 0.01,
+                "profile_path": "/6rSzGcis4FwoOnGEr5uptBLNM5l.jpg",
+                "cast_id": 10,
+                "character": "Witch (voice)",
+                "credit_id": "52fe4997c3a36847f81a2431",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1066413,
+                "known_for_department": "Acting",
+                "name": "Miyoko Asô",
+                "original_name": "麻生美代子",
+                "popularity": 0.017,
+                "profile_path": "/qi47sHVnXxTWCiOlRwgvL460SJI.jpg",
+                "cast_id": 11,
+                "character": "Mermaid Crone (voice)",
+                "credit_id": "52fe4997c3a36847f81a2435",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 114913,
+                "known_for_department": "Acting",
+                "name": "Kazuko Sugiyama",
+                "original_name": "杉山佳寿子",
+                "popularity": 0.035,
+                "profile_path": "/mJYbhWLVvoK6PtD1fpeGJHA8W83.jpg",
+                "cast_id": 12,
+                "character": "Marina's Sister (voice)",
+                "credit_id": "52fe4997c3a36847f81a2439",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1066414,
+                "known_for_department": "Acting",
+                "name": "Kazuko Sawada",
+                "original_name": "沢田和猫",
+                "popularity": 0.01,
+                "profile_path": "/r8NW72E0UTrV9be0hKBVJbvCE4Z.jpg",
+                "cast_id": 13,
+                "character": "Jemmy the Cat (voice)",
+                "credit_id": "52fe4997c3a36847f81a243d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1066423,
+                "known_for_department": "Acting",
+                "name": "Nana Yamaguchi",
+                "original_name": "山口奈々",
+                "popularity": 0.009,
+                "profile_path": "/2DypWwGPJeb9iB0zZ3v6RxJ3cqR.jpg",
+                "cast_id": 14,
+                "character": "Prince's Mother (voice)",
+                "credit_id": "52fe4997c3a36847f81a2441",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 621,
+                "known_for_department": "Acting",
+                "name": "Rihoko Yoshida",
+                "original_name": "吉田理保子",
+                "popularity": 0.028,
+                "profile_path": "/iw81OKtwp4tII3k0IwUloHwJjBd.jpg",
+                "cast_id": 16,
+                "character": "Suomi Princess (voice)",
+                "credit_id": "52fe4997c3a36847f81a2445",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1238594,
+                "known_for_department": "Acting",
+                "name": "Kaneta Kimotsuki",
+                "original_name": "肝付 兼太",
+                "popularity": 0.041,
+                "profile_path": "/mhD9BtpNFg3tDdd9QwTiRVClKf2.jpg",
+                "cast_id": 28,
+                "character": "Crab / Conch (voice)",
+                "credit_id": "56d0aa42c3a3681e3e007955",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551966,
+                "known_for_department": "Acting",
+                "name": "Kosei Tomita",
+                "original_name": "富田耕生",
+                "popularity": 0.041,
+                "profile_path": "/nSGbAVJaUsrvcGujlByBjNH6dje.jpg",
+                "cast_id": 29,
+                "character": "Duke the Whale (voice)",
+                "credit_id": "580723b5c3a3684f1a011577",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213848,
+                "known_for_department": "Acting",
+                "name": "Hidekatsu Shibata",
+                "original_name": "柴田秀勝",
+                "popularity": 0.038,
+                "profile_path": "/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg",
+                "cast_id": 30,
+                "character": "Mermaid King (voice)",
+                "credit_id": "5809aa64c3a3681b1f005158",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1066441,
+                "known_for_department": "Directing",
+                "name": "Tim Reid",
+                "original_name": "Tim Reid",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4997c3a36847f81a2467",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142714,
+                "known_for_department": "Directing",
+                "name": "Tomoharu Katsumata",
+                "original_name": "勝間田具治",
+                "popularity": 0.015,
+                "profile_path": "/8nlS7vaD2WY0tpirZsvuvb1A6hs.jpg",
+                "credit_id": "52fe4997c3a36847f81a240d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1409340,
+                "known_for_department": "Writing",
+                "name": "Ikuko Ōyabu",
+                "original_name": "Ikuko Oyabu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54aa9169c3a36824c20016fc",
+                "department": "Writing",
+                "job": "Scenario Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1244378,
+                "known_for_department": "Writing",
+                "name": "Mieko Osanai",
+                "original_name": "Mieko Osanai",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "54aa918f9251415646001812",
+                "department": "Writing",
+                "job": "Scenario Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2005949,
+                "known_for_department": "Visual Effects",
+                "name": "Iku Ishiguro",
+                "original_name": "Iku Ishiguro",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "63d1a49fe72fe8008e60d7fc",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1169565,
+                "known_for_department": "Visual Effects",
+                "name": "Koichi Tsunoda",
+                "original_name": "Koichi Tsunoda",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4d5cb71b8007c1b46e5",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3809866,
+                "known_for_department": "Visual Effects",
+                "name": "Takashi Abe",
+                "original_name": "Takashi Abe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4e055b0c0007f00e35e",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3815622,
+                "known_for_department": "Visual Effects",
+                "name": "Akihiro Ogawa",
+                "original_name": "Akihiro Ogawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4d09f51af00dc25a4d8",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3019536,
+                "known_for_department": "Visual Effects",
+                "name": "Shinya Takahashi",
+                "original_name": "高橋信也",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a49acb71b80085dd5b97",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1158434,
+                "known_for_department": "Visual Effects",
+                "name": "Reiko Okuyama",
+                "original_name": "Reiko Okuyama",
+                "popularity": 0.003,
+                "profile_path": "/wrsfiamP1MWpzdaVmVXkiBBfp9J.jpg",
+                "credit_id": "63d1a47f9f51af00dc25a4bb",
+                "department": "Visual Effects",
+                "job": "Animation Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2300856,
+                "known_for_department": "Visual Effects",
+                "name": "Shigeo Matoba",
+                "original_name": "Shigeo Matoba",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4c655b0c0007cebafc1",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1036791,
+                "known_for_department": "Visual Effects",
+                "name": "Shingo Araki",
+                "original_name": "荒木伸吾",
+                "popularity": 0.007,
+                "profile_path": "/m8tCOv7yY6VTr4MSRystpCk2OOL.jpg",
+                "credit_id": "63d1a4c19f51af00dc25a4d0",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1456813,
+                "known_for_department": "Visual Effects",
+                "name": "Tsukasa Tannai",
+                "original_name": "丹内司",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4955a07f500a296e189",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1450919,
+                "known_for_department": "Visual Effects",
+                "name": "Takuo Noda",
+                "original_name": "Takuo Noda",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "63d1a4b155b0c0009d73f71e",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3793621,
+                "known_for_department": "Visual Effects",
+                "name": "Tatsuji Kino",
+                "original_name": "Tatsuji Kino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4bc5a07f5007b0ace40",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2065022,
+                "known_for_department": "Directing",
+                "name": "Hideki Mori",
+                "original_name": "Hideki Mori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4cbcb71b80085dd5ba5",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3890820,
+                "known_for_department": "Visual Effects",
+                "name": "Michihiro Kanayama",
+                "original_name": "Michihiro Kanayama",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d1a4da5a07f500dc9e0e9d",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1611737,
+                "known_for_department": "Visual Effects",
+                "name": "Kazuo Komatsubara",
+                "original_name": "小松原一男",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "63d1a4b7cb71b8008102315b",
+                "department": "Visual Effects",
+                "job": "Key Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63977,
+                "known_for_department": "Writing",
+                "name": "Hans Christian Andersen",
+                "original_name": "Hans Christian Andersen",
+                "popularity": 0.019,
+                "profile_path": "/azV6ZIGZh80eZpVCHAu2cDnytJb.jpg",
+                "credit_id": "67bdf959ea1906ab733d2a1d",
+                "department": "Writing",
+                "job": "Original Story"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3205,
+                "name": "fairy tale"
+            },
+            {
+                "id": 210024,
+                "name": "anime"
+            },
+            {
+                "id": 335127,
+                "name": "الحورية الصغيرة"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Fumie Kashiyama",
+            "character": "Marina (voice)"
+        },
+        {
+            "actor": "Mariko Miyagi",
+            "character": "Fritz the Dolphin (voice)"
+        },
+        {
+            "actor": "Tarō Shigaki",
+            "character": "Prince (voice)"
+        },
+        {
+            "actor": "Ichiro Nagai",
+            "character": "Whistler (voice)"
+        },
+        {
+            "actor": "Kenichi Ogata",
+            "character": "Oval Shark (voice)"
+        },
+        {
+            "actor": "Haruko Kitahama",
+            "character": "Witch (voice)"
+        },
+        {
+            "actor": "Miyoko Asô",
+            "character": "Mermaid Crone (voice)"
+        },
+        {
+            "actor": "Kazuko Sugiyama",
+            "character": "Marina's Sister (voice)"
+        },
+        {
+            "actor": "Kazuko Sawada",
+            "character": "Jemmy the Cat (voice)"
+        },
+        {
+            "actor": "Nana Yamaguchi",
+            "character": "Prince's Mother (voice)"
+        },
+        {
+            "actor": "Rihoko Yoshida",
+            "character": "Suomi Princess (voice)"
+        },
+        {
+            "actor": "Kaneta Kimotsuki",
+            "character": "Crab / Conch (voice)"
+        },
+        {
+            "actor": "Kosei Tomita",
+            "character": "Duke the Whale (voice)"
+        },
+        {
+            "actor": "Hidekatsu Shibata",
+            "character": "Mermaid King (voice)"
+        }
+    ]
+}

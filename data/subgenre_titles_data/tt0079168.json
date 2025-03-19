@@ -1,0 +1,894 @@
+{
+    "adult": false,
+    "backdrop_path": "/iLGPSH7FOnPCANAW5ZUwy05UFUp.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 21376,
+    "imdb_id": "tt0079168",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Force of One",
+    "overview": "Karate champion Matt Logan is enlisted by the police to train officers in self-defense after narcotics agents are killed by an assailant using the martial arts.",
+    "popularity": 3.53,
+    "poster_path": "/7VrGDSXa7TD0fTljibymINxQ5Hg.jpg",
+    "production_companies": [
+        {
+            "id": 4112,
+            "logo_path": null,
+            "name": "American Cinema Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1979-06-01",
+    "revenue": 20166000,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He hears the silence. He see's the darkness. He's the only one who can stop the killing.",
+    "title": "A Force of One",
+    "video": false,
+    "vote_average": 4.8,
+    "vote_count": 104,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-07-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51576,
+                "known_for_department": "Acting",
+                "name": "Chuck Norris",
+                "original_name": "Chuck Norris",
+                "popularity": 0.057,
+                "profile_path": "/m3uLikdhi9qObRvGVHsKX5H93lR.jpg",
+                "cast_id": 1,
+                "character": "Matt Logan",
+                "credit_id": "52fe4417c3a368484e00ed2d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 26662,
+                "known_for_department": "Acting",
+                "name": "Jennifer O'Neill",
+                "original_name": "Jennifer O'Neill",
+                "popularity": 0.022,
+                "profile_path": "/9lljBGppyGHVs3hwASl3nsiOAKI.jpg",
+                "cast_id": 2,
+                "character": "Mandy Rust",
+                "credit_id": "52fe4417c3a368484e00ed31",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62019,
+                "known_for_department": "Acting",
+                "name": "Clu Gulager",
+                "original_name": "Clu Gulager",
+                "popularity": 0.037,
+                "profile_path": "/vIcvay2xPmaQJF78GWLcCCRf6no.jpg",
+                "cast_id": 3,
+                "character": "Dunne",
+                "credit_id": "52fe4417c3a368484e00ed35",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55841,
+                "known_for_department": "Acting",
+                "name": "Ron O'Neal",
+                "original_name": "Ron O'Neal",
+                "popularity": 0.014,
+                "profile_path": "/aqcIHjX3MfbdViZlb4jPfzaDsEp.jpg",
+                "cast_id": 4,
+                "character": "Rollins",
+                "credit_id": "52fe4417c3a368484e00ed39",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87471,
+                "known_for_department": "Acting",
+                "name": "Bill Wallace",
+                "original_name": "Bill Wallace",
+                "popularity": 0.003,
+                "profile_path": "/nxyt15Qv3sHzQjbsqR5sKTj1llF.jpg",
+                "cast_id": 5,
+                "character": "Sparks",
+                "credit_id": "52fe4417c3a368484e00ed3d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47020,
+                "known_for_department": "Directing",
+                "name": "Eric Laneuville",
+                "original_name": "Eric Laneuville",
+                "popularity": 0.022,
+                "profile_path": "/hrVy4Ws5sL7rOI7TbTlKrUVosMF.jpg",
+                "cast_id": 6,
+                "character": "Charlie Logan",
+                "credit_id": "52fe4417c3a368484e00ed41",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87472,
+                "known_for_department": "Directing",
+                "name": "James Whitmore Jr.",
+                "original_name": "James Whitmore Jr.",
+                "popularity": 0.046,
+                "profile_path": "/g57k2R5KmUhmmTuCloNRBw38a0g.jpg",
+                "cast_id": 7,
+                "character": "Moskowitz",
+                "credit_id": "52fe4417c3a368484e00ed45",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87473,
+                "known_for_department": "Acting",
+                "name": "Clint Ritchie",
+                "original_name": "Clint Ritchie",
+                "popularity": 0.006,
+                "profile_path": "/hBWIYqInLToJISTqgKLFcG0Ydnu.jpg",
+                "cast_id": 8,
+                "character": "Melrose",
+                "credit_id": "52fe4417c3a368484e00ed49",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1169,
+                "known_for_department": "Acting",
+                "name": "Pepe Serna",
+                "original_name": "Pepe Serna",
+                "popularity": 0.039,
+                "profile_path": "/6fEdr5dpXYjpudCtmvhpZXl9q2F.jpg",
+                "cast_id": 9,
+                "character": "Orlando",
+                "credit_id": "52fe4417c3a368484e00ed4d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87474,
+                "known_for_department": "Acting",
+                "name": "Raymond Vitte",
+                "original_name": "Raymond Vitte",
+                "popularity": 0.006,
+                "profile_path": "/A20Rj3nNRSPaU4G7GhKrDWQiwqU.jpg",
+                "cast_id": 10,
+                "character": "Newton",
+                "credit_id": "52fe4417c3a368484e00ed51",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87475,
+                "known_for_department": "Acting",
+                "name": "Taylor Lacher",
+                "original_name": "Taylor Lacher",
+                "popularity": 0.016,
+                "profile_path": "/1Yy9FSx6AZ1oSN0rwkApT4gQaIp.jpg",
+                "cast_id": 11,
+                "character": "Bishop",
+                "credit_id": "52fe4417c3a368484e00ed55",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87476,
+                "known_for_department": "Acting",
+                "name": "Lisa James",
+                "original_name": "Lisa James",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Harriet",
+                "credit_id": "52fe4417c3a368484e00ed59",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87477,
+                "known_for_department": "Acting",
+                "name": "Chu Chu Malave",
+                "original_name": "Chu Chu Malave",
+                "popularity": 0.008,
+                "profile_path": "/xpo3S9dBagJ8rBLHKSA9Nx5HITA.jpg",
+                "cast_id": 13,
+                "character": "Rudy",
+                "credit_id": "52fe4417c3a368484e00ed5d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87478,
+                "known_for_department": "Acting",
+                "name": "Kevin Geer",
+                "original_name": "Kevin Geer",
+                "popularity": 0.009,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Johnson",
+                "credit_id": "52fe4417c3a368484e00ed61",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87479,
+                "known_for_department": "Acting",
+                "name": "Eugene Butler",
+                "original_name": "Eugene Butler",
+                "popularity": 0.002,
+                "profile_path": "/983Tesq5toXBXgmVm0iPtHRxa8h.jpg",
+                "cast_id": 15,
+                "character": "Murphy",
+                "credit_id": "52fe4417c3a368484e00ed65",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11786,
+                "known_for_department": "Acting",
+                "name": "Charles Cyphers",
+                "original_name": "Charles Cyphers",
+                "popularity": 0.028,
+                "profile_path": "/cfDwWOFY9xOGiRxUwjIHhZ7U6lh.jpg",
+                "cast_id": 17,
+                "character": "Dr. Eppis",
+                "credit_id": "52fe4417c3a368484e00ed69",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51572,
+                "known_for_department": "Directing",
+                "name": "Aaron Norris",
+                "original_name": "Aaron Norris",
+                "popularity": 0.033,
+                "profile_path": "/gJ5KWHrq5q5i0oqwMTtD2755wCm.jpg",
+                "cast_id": 18,
+                "character": "Anderson",
+                "credit_id": "52fe4417c3a368484e00ed6d",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87481,
+                "known_for_department": "Acting",
+                "name": "Rick Prieto",
+                "original_name": "Rick Prieto",
+                "popularity": 0.004,
+                "profile_path": "/ArIfvwnSi5pyQYxdxcsxsxATmHA.jpg",
+                "cast_id": 19,
+                "character": "Rodriquez",
+                "credit_id": "52fe4417c3a368484e00ed71",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87482,
+                "known_for_department": "Acting",
+                "name": "Donnie Williams",
+                "original_name": "Donnie Williams",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Josh Lawrence",
+                "credit_id": "52fe4417c3a368484e00ed75",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87483,
+                "known_for_department": "Acting",
+                "name": "Guy Messenger",
+                "original_name": "Guy Messenger",
+                "popularity": 0.001,
+                "profile_path": "/xFP1hyHDpaB6nYRWyT1cq8uqPQy.jpg",
+                "cast_id": 21,
+                "character": "Skateboard Boy",
+                "credit_id": "52fe4417c3a368484e00ed79",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128221,
+                "known_for_department": "Acting",
+                "name": "James Hall",
+                "original_name": "James Hall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Moss",
+                "credit_id": "52fe4417c3a368484e00ed7d",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119887,
+                "known_for_department": "Acting",
+                "name": "Mel Novak",
+                "original_name": "Mel Novak",
+                "popularity": 0.005,
+                "profile_path": "/eQTGz7obqHaNda1GaBapRK4Xn37.jpg",
+                "cast_id": 27,
+                "character": "The Announcer",
+                "credit_id": "5d08663e9251417ea0b83c4e",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27237,
+                "known_for_department": "Acting",
+                "name": "G.W. Bailey",
+                "original_name": "G.W. Bailey",
+                "popularity": 0.057,
+                "profile_path": "/doZuJwI446yhQ28PHT9vyM6pa0f.jpg",
+                "cast_id": 41,
+                "character": "Erwin",
+                "credit_id": "5ecd5bb1d18b240025418eea",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2655057,
+                "known_for_department": "Acting",
+                "name": "Karen Obediear",
+                "original_name": "Karen Obediear",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Alice",
+                "credit_id": "5ecd5be9d18b24002441d658",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2655058,
+                "known_for_department": "Acting",
+                "name": "Tiger Lily Denette",
+                "original_name": "Tiger Lily Denette",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Korean Waitress",
+                "credit_id": "5ecd5c12e2bca800208bb677",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51586,
+                "known_for_department": "Acting",
+                "name": "Mike Norris",
+                "original_name": "Mike Norris",
+                "popularity": 0.023,
+                "profile_path": "/65Yuo0ACOp8kmTuf16buibpF0pY.jpg",
+                "cast_id": 44,
+                "character": "Pizza Skateboarder",
+                "credit_id": "5ecd5c37e2bca800208bb6c3",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1341262,
+                "known_for_department": "Acting",
+                "name": "Susan Plumb",
+                "original_name": "Susan Plumb",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Party Guest",
+                "credit_id": "5ecd5c5ca3b5e6002059c44f",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2655059,
+                "known_for_department": "Acting",
+                "name": "Lana Summers",
+                "original_name": "Lana Summers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Party Guest",
+                "credit_id": "5ecd5c78021cee00208a7ea7",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1944961,
+                "known_for_department": "Acting",
+                "name": "Jesse Logan",
+                "original_name": "Jesse Logan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 47,
+                "character": "Party Guest",
+                "credit_id": "5ecd5c93a3b5e6002259ac38",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 564872,
+                "known_for_department": "Directing",
+                "name": "Paul Aaron",
+                "original_name": "Paul Aaron",
+                "popularity": 0.004,
+                "profile_path": "/ksF8NCjhmZix6SMbKhxk7n4hGwE.jpg",
+                "credit_id": "52fe4417c3a368484e00ed83",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6483,
+                "known_for_department": "Writing",
+                "name": "Ernest Tidyman",
+                "original_name": "Ernest Tidyman",
+                "popularity": 0.017,
+                "profile_path": "/v8GJyunTWAy3mYrVimI3FPij8Zl.jpg",
+                "credit_id": "558418b0c3a36853c40014bf",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6483,
+                "known_for_department": "Writing",
+                "name": "Ernest Tidyman",
+                "original_name": "Ernest Tidyman",
+                "popularity": 0.017,
+                "profile_path": "/v8GJyunTWAy3mYrVimI3FPij8Zl.jpg",
+                "credit_id": "558418b5c3a36853ce0013e4",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114628,
+                "known_for_department": "Acting",
+                "name": "Pat E. Johnson",
+                "original_name": "Pat E. Johnson",
+                "popularity": 0.009,
+                "profile_path": "/xgTWvnxpGX9NWhR7oZfOkZvl5AX.jpg",
+                "credit_id": "558418c2c3a36853e40013b9",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1078097,
+                "known_for_department": "Production",
+                "name": "Alan Belkin",
+                "original_name": "Alan Belkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50a04d2147c0022b7d0f6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1274156,
+                "known_for_department": "Production",
+                "name": "Michael Leone",
+                "original_name": "Michael Leone",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50a1328723c001f4e765b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15901,
+                "known_for_department": "Directing",
+                "name": "Jonathan Sanger",
+                "original_name": "Jonathan Sanger",
+                "popularity": 0.014,
+                "profile_path": "/iMFHSjjyhRyIBqj8wxDaIb3aEzL.jpg",
+                "credit_id": "5ec50a36cb75d1002027e49a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 591883,
+                "known_for_department": "Sound",
+                "name": "Dick Halligan",
+                "original_name": "Dick Halligan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50a426c8492001f289aa1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1148463,
+                "known_for_department": "Camera",
+                "name": "Roger Shearman Jr.",
+                "original_name": "Roger Shearman Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50a62ae2811001f39e1ab",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2873,
+                "known_for_department": "Editing",
+                "name": "Anne Goursaud",
+                "original_name": "Anne Goursaud",
+                "popularity": 0.008,
+                "profile_path": "/p00sjw0puqjfL9QeNRZSVRzQYvl.jpg",
+                "credit_id": "5ec50a6cd2147c0022b7d127",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2046,
+                "known_for_department": "Editing",
+                "name": "Bert Lovitt",
+                "original_name": "Bert Lovitt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50a79cb75d1002227cb20",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 568911,
+                "known_for_department": "Art",
+                "name": "John Barry",
+                "original_name": "John Barry",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "5ec50ab80c0b3800226c1845",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1089831,
+                "known_for_department": "Art",
+                "name": "Norm Baron",
+                "original_name": "Norm Baron",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50ac1d2147c0021b52cec",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2646003,
+                "known_for_department": "Art",
+                "name": "D. John Sullivan",
+                "original_name": "D. John Sullivan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50aca9979d2001f32e4d6",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2584338,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ron Walters",
+                "original_name": "Ron Walters",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50ad5140bad001b169e23",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 92374,
+                "known_for_department": "Sound",
+                "name": "Martin Raymond Bolger",
+                "original_name": "Martin Raymond Bolger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ec50ae7e635710022cbebfa",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1520793,
+                "known_for_department": "Sound",
+                "name": "Dean Hodges",
+                "original_name": "Dean Hodges",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5ec50af46c8492002129102b",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 797,
+                "name": "showdown"
+            },
+            {
+                "id": 6149,
+                "name": "police"
+            },
+            {
+                "id": 3149,
+                "name": "gangster"
+            },
+            {
+                "id": 3436,
+                "name": "karate"
+            },
+            {
+                "id": 5422,
+                "name": "special unit"
+            },
+            {
+                "id": 7002,
+                "name": "vigilante"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 33556,
+                "name": "urban setting"
+            },
+            {
+                "id": 207046,
+                "name": "murder mystery"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chuck Norris",
+            "character": "Matt Logan"
+        },
+        {
+            "actor": "Jennifer O'Neill",
+            "character": "Mandy Rust"
+        },
+        {
+            "actor": "Clu Gulager",
+            "character": "Dunne"
+        },
+        {
+            "actor": "Ron O'Neal",
+            "character": "Rollins"
+        },
+        {
+            "actor": "Bill Wallace",
+            "character": "Sparks"
+        },
+        {
+            "actor": "Eric Laneuville",
+            "character": "Charlie Logan"
+        },
+        {
+            "actor": "James Whitmore Jr.",
+            "character": "Moskowitz"
+        },
+        {
+            "actor": "Clint Ritchie",
+            "character": "Melrose"
+        },
+        {
+            "actor": "Pepe Serna",
+            "character": "Orlando"
+        },
+        {
+            "actor": "Raymond Vitte",
+            "character": "Newton"
+        },
+        {
+            "actor": "Taylor Lacher",
+            "character": "Bishop"
+        },
+        {
+            "actor": "Lisa James",
+            "character": "Harriet"
+        },
+        {
+            "actor": "Chu Chu Malave",
+            "character": "Rudy"
+        },
+        {
+            "actor": "Kevin Geer",
+            "character": "Johnson"
+        },
+        {
+            "actor": "Eugene Butler",
+            "character": "Murphy"
+        },
+        {
+            "actor": "Charles Cyphers",
+            "character": "Dr. Eppis"
+        },
+        {
+            "actor": "Aaron Norris",
+            "character": "Anderson"
+        },
+        {
+            "actor": "Rick Prieto",
+            "character": "Rodriquez"
+        },
+        {
+            "actor": "Donnie Williams",
+            "character": "Josh Lawrence"
+        },
+        {
+            "actor": "Guy Messenger",
+            "character": "Skateboard Boy"
+        },
+        {
+            "actor": "James Hall",
+            "character": "Moss"
+        },
+        {
+            "actor": "Mel Novak",
+            "character": "The Announcer"
+        },
+        {
+            "actor": "G.W. Bailey",
+            "character": "Erwin"
+        },
+        {
+            "actor": "Karen Obediear",
+            "character": "Alice"
+        },
+        {
+            "actor": "Tiger Lily Denette",
+            "character": "Korean Waitress"
+        },
+        {
+            "actor": "Mike Norris",
+            "character": "Pizza Skateboarder"
+        },
+        {
+            "actor": "Susan Plumb",
+            "character": "Party Guest"
+        },
+        {
+            "actor": "Lana Summers",
+            "character": "Party Guest"
+        },
+        {
+            "actor": "Jesse Logan",
+            "character": "Party Guest"
+        }
+    ]
+}

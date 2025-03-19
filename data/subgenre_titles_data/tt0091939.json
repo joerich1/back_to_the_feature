@@ -1,0 +1,794 @@
+{
+    "adult": false,
+    "backdrop_path": "/aqUYYwKMNRzmqvkBvNM1gqRerb1.jpg",
+    "belongs_to_collection": null,
+    "budget": 175000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 27995,
+    "imdb_id": "tt0091939",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "She's Gotta Have It",
+    "overview": "The story of Nola Darling's simultaneous sexual relationships with three different men is told by her and by her partners and other friends. All three men wanted her to commit solely to them; Nola resists being \"owned\" by a single partner.",
+    "popularity": 3.53,
+    "poster_path": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+    "production_companies": [
+        {
+            "id": 4319,
+            "logo_path": "/dU4Y8EqPLCz6jARM63NwGhr4DcG.png",
+            "name": "40 Acres and a Mule Filmworks",
+            "origin_country": "US"
+        },
+        {
+            "id": 108711,
+            "logo_path": null,
+            "name": "Island Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-08-08",
+    "revenue": 7137503,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A seriously sexy comedy.",
+    "title": "She's Gotta Have It",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 333,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-10-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-02-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-01-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "AL",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-02-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-08-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99358,
+                "known_for_department": "Acting",
+                "name": "Tracy Camilla Johns",
+                "original_name": "Tracy Camilla Johns",
+                "popularity": 0.017,
+                "profile_path": "/fXjcnepCTGfd0bJJs6O2XieCgCP.jpg",
+                "cast_id": 3,
+                "character": "Nola Darling",
+                "credit_id": "52fe4572c3a368484e05b737",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99359,
+                "known_for_department": "Acting",
+                "name": "Tommy Redmond Hicks",
+                "original_name": "Tommy Redmond Hicks",
+                "popularity": 0.014,
+                "profile_path": "/jx7MpUfQ8zyLnNLjvIACxMDLiEs.jpg",
+                "cast_id": 4,
+                "character": "Jamie Overstreet",
+                "credit_id": "52fe4572c3a368484e05b73b",
+                "order": 1
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 99360,
+                "known_for_department": "Acting",
+                "name": "John Canada Terrell",
+                "original_name": "John Canada Terrell",
+                "popularity": 4.61,
+                "profile_path": "/mHxeuXRSOsrZO2rlDPgAp4UMLDC.jpg",
+                "cast_id": 29,
+                "character": "Greer Childs",
+                "credit_id": "5b319eeec3a368531d008935",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "cast_id": 6,
+                "character": "Mars Blackmon",
+                "credit_id": "52fe4572c3a368484e05b743",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99361,
+                "known_for_department": "Acting",
+                "name": "Raye Dowell",
+                "original_name": "Raye Dowell",
+                "popularity": 0.005,
+                "profile_path": "/nVs4DZAvpFl03nJCj50yFIACKe4.jpg",
+                "cast_id": 7,
+                "character": "Opal Gilstrap",
+                "credit_id": "52fe4572c3a368484e05b747",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13602,
+                "known_for_department": "Acting",
+                "name": "Joie Lee",
+                "original_name": "Joie Lee",
+                "popularity": 0.012,
+                "profile_path": "/jv3l0csEmVVOMNSmhKrOT543vqm.jpg",
+                "cast_id": 8,
+                "character": "Clorinda Bradford",
+                "credit_id": "52fe4572c3a368484e05b74b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3978,
+                "known_for_department": "Acting",
+                "name": "S. Epatha Merkerson",
+                "original_name": "S. Epatha Merkerson",
+                "popularity": 0.031,
+                "profile_path": "/pXCmHxrWzlv1kPZSxJXFM45QgOP.jpg",
+                "cast_id": 9,
+                "character": "Doctor Jamison",
+                "credit_id": "52fe4572c3a368484e05b74f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15520,
+                "known_for_department": "Sound",
+                "name": "Bill Lee",
+                "original_name": "Bill Lee",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Sonny Darling",
+                "credit_id": "5b319ce3c3a368531a007af4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2072439,
+                "known_for_department": "Acting",
+                "name": "Cheryl Burr",
+                "original_name": "Cheryl Burr",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Ava",
+                "credit_id": "5b319d43c3a368531a007b18",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2072440,
+                "known_for_department": "Acting",
+                "name": "Aaron Dugger",
+                "original_name": "Aaron Dugger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Noble",
+                "credit_id": "5b319d5c0e0a264004008235",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 546319,
+                "known_for_department": "Writing",
+                "name": "Stephanie Covington",
+                "original_name": "Stephanie Covington",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Keva",
+                "credit_id": "5b319d740e0a263fff007c83",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2072441,
+                "known_for_department": "Acting",
+                "name": "Renata Cobbs",
+                "original_name": "Renata Cobbs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Shawn",
+                "credit_id": "5b319d959251413c740088f6",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2072442,
+                "known_for_department": "Acting",
+                "name": "Cheryl D. Singleton",
+                "original_name": "Cheryl D. Singleton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Toby",
+                "credit_id": "5b319db40e0a263ff0008b33",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 959805,
+                "known_for_department": "Production",
+                "name": "Monty Ross",
+                "original_name": "Monty Ross",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Dog 1",
+                "credit_id": "5b319dcdc3a3685314006fde",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 40893,
+                "known_for_department": "Acting",
+                "name": "Tiziano Cortini",
+                "original_name": "Tiziano Cortini",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Dog 2",
+                "credit_id": "5b319dec9251413c66008b85",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1607841,
+                "known_for_department": "Acting",
+                "name": "Erik Dellums",
+                "original_name": "Erik Dellums",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Dog 3",
+                "credit_id": "5b319e26c3a3685328009658",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68215,
+                "known_for_department": "Directing",
+                "name": "Reginald Hudlin",
+                "original_name": "Reginald Hudlin",
+                "popularity": 0.013,
+                "profile_path": "/z2O30pOwkKpZBCyZpwZ80ouKcQA.jpg",
+                "cast_id": 27,
+                "character": "Dog 4",
+                "credit_id": "5b319e300e0a263ff0008b59",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 154216,
+                "known_for_department": "Acting",
+                "name": "Eric Payne",
+                "original_name": "Eric Payne",
+                "popularity": 0.013,
+                "profile_path": "/vWzmGpV07VvEHGplnXaNewFtO9a.jpg",
+                "cast_id": 28,
+                "character": "Dog 5",
+                "credit_id": "5b319e40c3a3685314006ffc",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666466,
+                "known_for_department": "Acting",
+                "name": "Gerard Brown",
+                "original_name": "Gerard Brown",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Dog 7",
+                "credit_id": "5ed9e538b3f6f50022975575",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15521,
+                "known_for_department": "Directing",
+                "name": "Ernest R. Dickerson",
+                "original_name": "Ernest R. Dickerson",
+                "popularity": 0.017,
+                "profile_path": "/95LqJiPlj202gZchzpHg7XR5axe.jpg",
+                "cast_id": 32,
+                "character": "Dog 8",
+                "credit_id": "5ed9e54581a7fc001fcf1f48",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1531604,
+                "known_for_department": "Acting",
+                "name": "Eric Wilkins",
+                "original_name": "Eric Wilkins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Dog 9",
+                "credit_id": "5ed9e54ffea0d7001f8e7670",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240799,
+                "known_for_department": "Acting",
+                "name": "Fab 5 Freddy",
+                "original_name": "Fab 5 Freddy",
+                "popularity": 0.009,
+                "profile_path": "/c1V8OWCV7OjJI64WWlTB5xDbDAm.jpg",
+                "cast_id": 34,
+                "character": "Dog 10",
+                "credit_id": "5ed9e55fb3f6f5002097e8ed",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666467,
+                "known_for_department": "Acting",
+                "name": "Scott Sillers",
+                "original_name": "Scott Sillers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Dog 11",
+                "credit_id": "5ed9e568fea0d7001e91d6cf",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666468,
+                "known_for_department": "Acting",
+                "name": "Geoffrey Garfield",
+                "original_name": "Geoffrey Garfield",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Dog 12",
+                "credit_id": "5ed9e57096e30b002098cd5d",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666470,
+                "known_for_department": "Acting",
+                "name": "Kathy Banks",
+                "original_name": "Kathy Banks",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Receptionist",
+                "credit_id": "5ed9e57a21c4ca0020edf8cf",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666471,
+                "known_for_department": "Acting",
+                "name": "Steve Nicks",
+                "original_name": "Steve Nicks",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Soundman",
+                "credit_id": "5ed9e583b3f6f5002097e9bb",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2666473,
+                "known_for_department": "Acting",
+                "name": "Steve Ning",
+                "original_name": "Steve Ning",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Soundman",
+                "credit_id": "5ed9e58b96e30b002297eb33",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1720048,
+                "known_for_department": "Production",
+                "name": "Pamm R. Jackson",
+                "original_name": "Pamm R. Jackson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Female Walk On",
+                "credit_id": "5ed9e59de4b576001e37824b",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "52fe4572c3a368484e05b72d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "52fe4572c3a368484e05b733",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1720050,
+                "known_for_department": "Costume & Make-Up",
+                "name": "John Michael Reefer",
+                "original_name": "John Michael Reefer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "584a62d3c3a368141101c31a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "584a62a1c3a3681408018a91",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5281,
+                "known_for_department": "Directing",
+                "name": "Spike Lee",
+                "original_name": "Spike Lee",
+                "popularity": 0.086,
+                "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+                "credit_id": "584a62b992514159b000a4c1",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15520,
+                "known_for_department": "Sound",
+                "name": "Bill Lee",
+                "original_name": "Bill Lee",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "584a62aac3a368141401d8c0",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1720048,
+                "known_for_department": "Production",
+                "name": "Pamm R. Jackson",
+                "original_name": "Pamm R. Jackson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "584a629892514119b301c94c",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1720049,
+                "known_for_department": "Art",
+                "name": "Ron Paley",
+                "original_name": "Ron Paley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "584a62c992514119bc01c8b6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548,
+                "known_for_department": "Art",
+                "name": "Wynn Thomas",
+                "original_name": "Wynn Thomas",
+                "popularity": 0.007,
+                "profile_path": "/2GhJIKpC5MseBxEk3ZTb8xSv9ie.jpg",
+                "credit_id": "584a62c292514119bc01c8b0",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15521,
+                "known_for_department": "Directing",
+                "name": "Ernest R. Dickerson",
+                "original_name": "Ernest R. Dickerson",
+                "popularity": 0.017,
+                "profile_path": "/95LqJiPlj202gZchzpHg7XR5axe.jpg",
+                "credit_id": "584a62b1c3a3681408018aa0",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 11687,
+                "name": "breaking the fourth wall"
+            },
+            {
+                "id": 41523,
+                "name": "brooklyn, new york city"
+            },
+            {
+                "id": 155870,
+                "name": "polyamory"
+            },
+            {
+                "id": 281585,
+                "name": "inspirational"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Tracy Camilla Johns",
+            "character": "Nola Darling"
+        },
+        {
+            "actor": "Tommy Redmond Hicks",
+            "character": "Jamie Overstreet"
+        },
+        {
+            "actor": "John Canada Terrell",
+            "character": "Greer Childs"
+        },
+        {
+            "actor": "Spike Lee",
+            "character": "Mars Blackmon"
+        },
+        {
+            "actor": "Raye Dowell",
+            "character": "Opal Gilstrap"
+        },
+        {
+            "actor": "Joie Lee",
+            "character": "Clorinda Bradford"
+        },
+        {
+            "actor": "S. Epatha Merkerson",
+            "character": "Doctor Jamison"
+        },
+        {
+            "actor": "Bill Lee",
+            "character": "Sonny Darling"
+        },
+        {
+            "actor": "Cheryl Burr",
+            "character": "Ava"
+        },
+        {
+            "actor": "Aaron Dugger",
+            "character": "Noble"
+        },
+        {
+            "actor": "Stephanie Covington",
+            "character": "Keva"
+        },
+        {
+            "actor": "Renata Cobbs",
+            "character": "Shawn"
+        },
+        {
+            "actor": "Cheryl D. Singleton",
+            "character": "Toby"
+        },
+        {
+            "actor": "Monty Ross",
+            "character": "Dog 1"
+        },
+        {
+            "actor": "Tiziano Cortini",
+            "character": "Dog 2"
+        },
+        {
+            "actor": "Erik Dellums",
+            "character": "Dog 3"
+        },
+        {
+            "actor": "Reginald Hudlin",
+            "character": "Dog 4"
+        },
+        {
+            "actor": "Eric Payne",
+            "character": "Dog 5"
+        },
+        {
+            "actor": "Gerard Brown",
+            "character": "Dog 7"
+        },
+        {
+            "actor": "Ernest R. Dickerson",
+            "character": "Dog 8"
+        },
+        {
+            "actor": "Eric Wilkins",
+            "character": "Dog 9"
+        },
+        {
+            "actor": "Fab 5 Freddy",
+            "character": "Dog 10"
+        },
+        {
+            "actor": "Scott Sillers",
+            "character": "Dog 11"
+        },
+        {
+            "actor": "Geoffrey Garfield",
+            "character": "Dog 12"
+        },
+        {
+            "actor": "Kathy Banks",
+            "character": "Receptionist"
+        },
+        {
+            "actor": "Steve Nicks",
+            "character": "Soundman"
+        },
+        {
+            "actor": "Steve Ning",
+            "character": "Soundman"
+        },
+        {
+            "actor": "Pamm R. Jackson",
+            "character": "Female Walk On"
+        }
+    ]
+}

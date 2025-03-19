@@ -1,0 +1,342 @@
+{
+    "adult": false,
+    "backdrop_path": "/7JT8uvw4FlDVEUwWQpFIgw2yVRN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 47201,
+    "imdb_id": "tt0082516",
+    "origin_country": [
+        "US",
+        "MX",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "High Risk",
+    "overview": "Four American friends, badly needing money, decide to make a commando-like raid into a South American drug lord's compound.",
+    "popularity": 0.847,
+    "poster_path": "/hWRFdEQiUeKNovLzjhzEcO6JDDN.jpg",
+    "production_companies": [
+        {
+            "id": 15063,
+            "logo_path": null,
+            "name": "City Enterprise",
+            "origin_country": ""
+        },
+        {
+            "id": 3952,
+            "logo_path": "/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png",
+            "name": "Hemdale",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "MX",
+            "name": "Mexico"
+        }
+    ],
+    "release_date": "1981-05-01",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Getting in was easy... getting out was war!!!",
+    "title": "High Risk",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 24,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-05-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9274,
+                "known_for_department": "Acting",
+                "name": "James Brolin",
+                "original_name": "James Brolin",
+                "popularity": 0.061,
+                "profile_path": "/mdkmgcWySHNNQRJcPhtKqH9hCIE.jpg",
+                "cast_id": 2,
+                "character": "Stone",
+                "credit_id": "52fe4725c3a36847f8125bf1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5401,
+                "known_for_department": "Acting",
+                "name": "Anthony Quinn",
+                "original_name": "Anthony Quinn",
+                "popularity": 0.046,
+                "profile_path": "/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg",
+                "cast_id": 4,
+                "character": "Mariano",
+                "credit_id": "52fe4725c3a36847f8125bf9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5563,
+                "known_for_department": "Acting",
+                "name": "James Coburn",
+                "original_name": "James Coburn",
+                "popularity": 0.092,
+                "profile_path": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg",
+                "cast_id": 3,
+                "character": "Serrano",
+                "credit_id": "52fe4725c3a36847f8125bf5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7502,
+                "known_for_department": "Acting",
+                "name": "Ernest Borgnine",
+                "original_name": "Ernest Borgnine",
+                "popularity": 0.068,
+                "profile_path": "/JSHX01ZFEkIvt17HoeedsvCz1.jpg",
+                "cast_id": 7,
+                "character": "Clint",
+                "credit_id": "52fe4725c3a36847f8125c01",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52374,
+                "known_for_department": "Acting",
+                "name": "Bruce Davison",
+                "original_name": "Bruce Davison",
+                "popularity": 0.103,
+                "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                "cast_id": 8,
+                "character": "Dan",
+                "credit_id": "52fe4725c3a36847f8125c05",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68091,
+                "known_for_department": "Acting",
+                "name": "Cleavon Little",
+                "original_name": "Cleavon Little",
+                "popularity": 0.015,
+                "profile_path": "/z7zbiyLGMPocD2fvD9zMSoBSJVi.jpg",
+                "cast_id": 6,
+                "character": "Rockney",
+                "credit_id": "52fe4725c3a36847f8125bfd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99815,
+                "known_for_department": "Acting",
+                "name": "Chick Vennera",
+                "original_name": "Chick Vennera",
+                "popularity": 0.013,
+                "profile_path": "/fTuY5IhTGVEYES6LFZhbuRgZwVW.jpg",
+                "cast_id": 9,
+                "character": "Tony",
+                "credit_id": "52fe4725c3a36847f8125c09",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 57905,
+                "known_for_department": "Acting",
+                "name": "Lindsay Wagner",
+                "original_name": "Lindsay Wagner",
+                "popularity": 0.055,
+                "profile_path": "/rcHRY1JrEJO03leVE3TqNIS6pe8.jpg",
+                "cast_id": 10,
+                "character": "Olivia",
+                "credit_id": "52fe4725c3a36847f8125c0d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1560100,
+                "known_for_department": "Crew",
+                "name": "Fernando Celis",
+                "original_name": "Fernando Celis",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Bandit",
+                "credit_id": "644e5402e22d280313c1a0d3",
+                "order": 8
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59023,
+                "known_for_department": "Directing",
+                "name": "Stewart Raffill",
+                "original_name": "Stewart Raffill",
+                "popularity": 0.016,
+                "profile_path": "/4WnWqViSbLR2kTejMLuI5Bi7JrA.jpg",
+                "credit_id": "52fe4725c3a36847f8125bed",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59023,
+                "known_for_department": "Directing",
+                "name": "Stewart Raffill",
+                "original_name": "Stewart Raffill",
+                "popularity": 0.016,
+                "profile_path": "/4WnWqViSbLR2kTejMLuI5Bi7JrA.jpg",
+                "credit_id": "52fe4725c3a36847f8125c13",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1560100,
+                "known_for_department": "Crew",
+                "name": "Fernando Celis",
+                "original_name": "Fernando Celis",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4725c3a36847f8125c19",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417620,
+                "known_for_department": "Crew",
+                "name": "Bill Catching",
+                "original_name": "Bill Catching",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "64bee8a485c0a200ad6143fa",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2470572,
+                "known_for_department": "Directing",
+                "name": "Leonard S. Smith Jr.",
+                "original_name": "Leonard S. Smith Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "672d8a47a818713bdf493ef4",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 33344,
+                "name": "bandit"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "James Brolin",
+            "character": "Stone"
+        },
+        {
+            "actor": "Anthony Quinn",
+            "character": "Mariano"
+        },
+        {
+            "actor": "James Coburn",
+            "character": "Serrano"
+        },
+        {
+            "actor": "Ernest Borgnine",
+            "character": "Clint"
+        },
+        {
+            "actor": "Bruce Davison",
+            "character": "Dan"
+        },
+        {
+            "actor": "Cleavon Little",
+            "character": "Rockney"
+        },
+        {
+            "actor": "Chick Vennera",
+            "character": "Tony"
+        },
+        {
+            "actor": "Lindsay Wagner",
+            "character": "Olivia"
+        },
+        {
+            "actor": "Fernando Celis",
+            "character": "Bandit"
+        }
+    ]
+}

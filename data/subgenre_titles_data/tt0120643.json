@@ -1,0 +1,607 @@
+{
+    "adult": false,
+    "backdrop_path": "/570taJwYEkUnq6VnlayRewl5eKu.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 5332,
+    "imdb_id": "tt0120643",
+    "origin_country": [
+        "US",
+        "IE",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Dancing at Lughnasa",
+    "overview": "Five unmarried sisters make the most of their simple existence in rural Ireland in the 1930s.",
+    "popularity": 1.695,
+    "poster_path": "/4XFmwNRGBDrp3a0WOmsUvqbcSxO.jpg",
+    "production_companies": [
+        {
+            "id": 1898,
+            "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+            "name": "Fís Éireann/Screen Ireland",
+            "origin_country": "IE"
+        },
+        {
+            "id": 1923,
+            "logo_path": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+            "name": "RTÉ",
+            "origin_country": "IE"
+        },
+        {
+            "id": 6705,
+            "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+            "name": "Film4 Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1998-09-04",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Five sisters embrace the spirit of a people.",
+    "title": "Dancing at Lughnasa",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 48,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1999-02-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1998-12-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1998-09-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5064,
+                "known_for_department": "Acting",
+                "name": "Meryl Streep",
+                "original_name": "Meryl Streep",
+                "popularity": 0.154,
+                "profile_path": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+                "cast_id": 2,
+                "character": "Kate Mundy",
+                "credit_id": "52fe4402c3a36847f807d1e9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2462,
+                "known_for_department": "Acting",
+                "name": "Catherine McCormack",
+                "original_name": "Catherine McCormack",
+                "popularity": 0.062,
+                "profile_path": "/vYyMCGKeIUTZMdEgVwQCgX7q1T3.jpg",
+                "cast_id": 3,
+                "character": "Christina 'Chrissy' Mundy",
+                "credit_id": "52fe4402c3a36847f807d1ed",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42601,
+                "known_for_department": "Acting",
+                "name": "Brid Brennan",
+                "original_name": "Brid Brennan",
+                "popularity": 0.016,
+                "profile_path": "/jTekbh99pj2iqWDVHu8IjYdha5G.jpg",
+                "cast_id": 4,
+                "character": "Agnes 'Aggie' Mundy",
+                "credit_id": "52fe4402c3a36847f807d1f1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37759,
+                "known_for_department": "Acting",
+                "name": "Kathy Burke",
+                "original_name": "Kathy Burke",
+                "popularity": 0.041,
+                "profile_path": "/q3z7nP1ryyGuwixShrBmghcmm0F.jpg",
+                "cast_id": 5,
+                "character": "Margaret 'Maggie' Mundy",
+                "credit_id": "52fe4402c3a36847f807d1f5",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32990,
+                "known_for_department": "Acting",
+                "name": "Sophie Thompson",
+                "original_name": "Sophie Thompson",
+                "popularity": 0.057,
+                "profile_path": "/tRPHovRBLwZTeWodLBqUD2arrlH.jpg",
+                "cast_id": 6,
+                "character": "Rose 'Rosie' Mundy",
+                "credit_id": "52fe4402c3a36847f807d1f9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5658,
+                "known_for_department": "Acting",
+                "name": "Michael Gambon",
+                "original_name": "Michael Gambon",
+                "popularity": 0.084,
+                "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg",
+                "cast_id": 7,
+                "character": "Father Jack Mundy",
+                "credit_id": "52fe4402c3a36847f807d1fd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7026,
+                "known_for_department": "Acting",
+                "name": "Rhys Ifans",
+                "original_name": "Rhys Ifans",
+                "popularity": 0.077,
+                "profile_path": "/1D670EEsbky3EtO7XLG32A09p92.jpg",
+                "cast_id": 8,
+                "character": "Gerry Evans",
+                "credit_id": "52fe4402c3a36847f807d201",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42565,
+                "known_for_department": "Acting",
+                "name": "Lorcan Cranitch",
+                "original_name": "Lorcan Cranitch",
+                "popularity": 0.014,
+                "profile_path": "/voQReF44XJqSJbOD382RtwFJaTx.jpg",
+                "cast_id": 9,
+                "character": "Danny Bradley",
+                "credit_id": "52fe4402c3a36847f807d205",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 42835,
+                "known_for_department": "Acting",
+                "name": "Darrell Johnston",
+                "original_name": "Darrell Johnston",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Michael 'Mike' Mundy",
+                "credit_id": "52fe4402c3a36847f807d209",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20282,
+                "known_for_department": "Acting",
+                "name": "John Kavanagh",
+                "original_name": "John Kavanagh",
+                "popularity": 0.017,
+                "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg",
+                "cast_id": 11,
+                "character": "Father Carlin",
+                "credit_id": "52fe4402c3a36847f807d20d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 42836,
+                "known_for_department": "Acting",
+                "name": "Marie Mullen",
+                "original_name": "Marie Mullen",
+                "popularity": 0.004,
+                "profile_path": "/jDkW4AHjBiwEiQY8I3mdEmlLcoF.jpg",
+                "cast_id": 12,
+                "character": "Vera McLoughlin",
+                "credit_id": "52fe4402c3a36847f807d211",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42837,
+                "known_for_department": "Acting",
+                "name": "Dawn Bradfield",
+                "original_name": "Dawn Bradfield",
+                "popularity": 0.021,
+                "profile_path": "/oIadWdU1KNVSZtMERsZBFJMuGj2.jpg",
+                "cast_id": 13,
+                "character": "Sophie McLoughlin",
+                "credit_id": "52fe4402c3a36847f807d215",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42838,
+                "known_for_department": "Acting",
+                "name": "Peter Gowen",
+                "original_name": "Peter Gowen",
+                "popularity": 0.008,
+                "profile_path": "/2Q2JNk5XhJR7Cdo9LuDfXSt1h70.jpg",
+                "cast_id": 14,
+                "character": "Austin Morgan",
+                "credit_id": "52fe4402c3a36847f807d219",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42839,
+                "known_for_department": "Acting",
+                "name": "Kate O'Toole",
+                "original_name": "Kate O'Toole",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Chemist",
+                "credit_id": "52fe4402c3a36847f807d21d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43131,
+                "known_for_department": "Acting",
+                "name": "Gerard McSorley",
+                "original_name": "Gerard McSorley",
+                "popularity": 0.011,
+                "profile_path": "/8lrwOpnfwbNLbBzFvEj0t47aELy.jpg",
+                "cast_id": 26,
+                "character": "Narration",
+                "credit_id": "66bd647bedb283ee014837a9",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43621,
+                "known_for_department": "Writing",
+                "name": "Frank McGuinness",
+                "original_name": "Frank McGuinness",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d223",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19969,
+                "known_for_department": "Directing",
+                "name": "Pat O'Connor",
+                "original_name": "Pat O'Connor",
+                "popularity": 0.006,
+                "profile_path": "/zGk61362umO8TtEOuBbU2trwANs.jpg",
+                "credit_id": "52fe4402c3a36847f807d1e5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43623,
+                "known_for_department": "Sound",
+                "name": "Bill Whelan",
+                "original_name": "Bill Whelan",
+                "popularity": 0.001,
+                "profile_path": "/UCgj3X1vPKmemAaocGPlDuBt8M.jpg",
+                "credit_id": "52fe4402c3a36847f807d23b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43383,
+                "known_for_department": "Production",
+                "name": "Jane Barclay",
+                "original_name": "Jane Barclay",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d235",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 668,
+                "known_for_department": "Production",
+                "name": "Mary Selway",
+                "original_name": "Mary Selway",
+                "popularity": 0.027,
+                "profile_path": "/9dP8WP2KF9TERPLQkaXDwzi3Tjc.jpg",
+                "credit_id": "52fe4402c3a36847f807d24d",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43622,
+                "known_for_department": "Writing",
+                "name": "Brian Friel",
+                "original_name": "Brian Friel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d229",
+                "department": "Writing",
+                "job": "Theatre Play"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33390,
+                "known_for_department": "Production",
+                "name": "Noel Pearson",
+                "original_name": "Noel Pearson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d22f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43625,
+                "known_for_department": "Art",
+                "name": "Mark Geraghty",
+                "original_name": "Mark Geraghty",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d247",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43624,
+                "known_for_department": "Camera",
+                "name": "Kenneth MacMillan",
+                "original_name": "Kenneth MacMillan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4402c3a36847f807d241",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12759,
+                "known_for_department": "Editing",
+                "name": "Humphrey Dixon",
+                "original_name": "Humphrey Dixon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4403c3a36847f807d253",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1468594,
+                "known_for_department": "Crew",
+                "name": "Gerry Grennell",
+                "original_name": "Gerry Grennell",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "62781994389da100508b25d1",
+                "department": "Crew",
+                "job": "Dialogue Coach"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 380,
+                "name": "sibling relationship"
+            },
+            {
+                "id": 2398,
+                "name": "narration"
+            },
+            {
+                "id": 2689,
+                "name": "dementia"
+            },
+            {
+                "id": 10181,
+                "name": "based on play or musical"
+            },
+            {
+                "id": 5923,
+                "name": "sister"
+            },
+            {
+                "id": 9914,
+                "name": "slice of life"
+            },
+            {
+                "id": 11004,
+                "name": "rural area"
+            },
+            {
+                "id": 14735,
+                "name": "motorcycle"
+            },
+            {
+                "id": 14985,
+                "name": "ireland"
+            },
+            {
+                "id": 172391,
+                "name": "catholic priest"
+            },
+            {
+                "id": 191480,
+                "name": "spinsters"
+            },
+            {
+                "id": 214548,
+                "name": "1930s"
+            },
+            {
+                "id": 251613,
+                "name": "period film"
+            },
+            {
+                "id": 280940,
+                "name": "sisters"
+            },
+            {
+                "id": 287539,
+                "name": "donegal"
+            },
+            {
+                "id": 336184,
+                "name": "irish family"
+            },
+            {
+                "id": 336185,
+                "name": "strict sister"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Meryl Streep",
+            "character": "Kate Mundy"
+        },
+        {
+            "actor": "Catherine McCormack",
+            "character": "Christina 'Chrissy' Mundy"
+        },
+        {
+            "actor": "Brid Brennan",
+            "character": "Agnes 'Aggie' Mundy"
+        },
+        {
+            "actor": "Kathy Burke",
+            "character": "Margaret 'Maggie' Mundy"
+        },
+        {
+            "actor": "Sophie Thompson",
+            "character": "Rose 'Rosie' Mundy"
+        },
+        {
+            "actor": "Michael Gambon",
+            "character": "Father Jack Mundy"
+        },
+        {
+            "actor": "Rhys Ifans",
+            "character": "Gerry Evans"
+        },
+        {
+            "actor": "Lorcan Cranitch",
+            "character": "Danny Bradley"
+        },
+        {
+            "actor": "Darrell Johnston",
+            "character": "Michael 'Mike' Mundy"
+        },
+        {
+            "actor": "John Kavanagh",
+            "character": "Father Carlin"
+        },
+        {
+            "actor": "Marie Mullen",
+            "character": "Vera McLoughlin"
+        },
+        {
+            "actor": "Dawn Bradfield",
+            "character": "Sophie McLoughlin"
+        },
+        {
+            "actor": "Peter Gowen",
+            "character": "Austin Morgan"
+        },
+        {
+            "actor": "Kate O'Toole",
+            "character": "Chemist"
+        },
+        {
+            "actor": "Gerard McSorley",
+            "character": "Narration"
+        }
+    ]
+}

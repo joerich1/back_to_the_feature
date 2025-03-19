@@ -1,0 +1,757 @@
+{
+    "adult": false,
+    "backdrop_path": "/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 12761,
+    "imdb_id": "tt0077711",
+    "origin_country": [
+        "DE",
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "Höstsonaten",
+    "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+    "popularity": 3.535,
+    "poster_path": "/ktknJFbWMyoZnnKwKvvpCnR0URW.jpg",
+    "production_companies": [
+        {
+            "id": 26239,
+            "logo_path": null,
+            "name": "Suede Film",
+            "origin_country": ""
+        },
+        {
+            "id": 7447,
+            "logo_path": null,
+            "name": "Personafilm",
+            "origin_country": ""
+        },
+        {
+            "id": 1155,
+            "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+            "name": "ITC Entertainment",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1978-10-08",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A mother and a daughter. What a terrible combination of feelings, confusion and destruction.",
+    "title": "Autumn Sonata",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 624,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-03-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FI",
+                "release_dates": [
+                    {
+                        "certification": "K-12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-12-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-11T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2021-05-01T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2020-05-10T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2000-01-18T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2014-04-29T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "sv",
+                        "note": "(Rated AA)",
+                        "release_date": "1979-03-01T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2003-06-18T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "(Channel 5)",
+                        "release_date": "1986-04-11T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-08-22T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-03-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MX",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2018-07-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-26T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Re-release",
+                        "release_date": "2010-08-19T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2005-11-23T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-08T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-10-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "11",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-08T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Ingmar Bergman’s Cinema Blu-ray",
+                        "release_date": "2018-11-20T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4111,
+                "known_for_department": "Acting",
+                "name": "Ingrid Bergman",
+                "original_name": "Ingrid Bergman",
+                "popularity": 0.033,
+                "profile_path": "/9LdhzK5CVkLZjRdQ08V9C0Oiu9I.jpg",
+                "cast_id": 1,
+                "character": "Charlotte",
+                "credit_id": "52fe451d9251416c7504c375",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11916,
+                "known_for_department": "Acting",
+                "name": "Liv Ullmann",
+                "original_name": "Liv Ullmann",
+                "popularity": 0.047,
+                "profile_path": "/zJcCsL8P3Uf2WXxM2HDy0VaSAWa.jpg",
+                "cast_id": 2,
+                "character": "Eva",
+                "credit_id": "52fe451d9251416c7504c379",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3854,
+                "known_for_department": "Acting",
+                "name": "Lena Nyman",
+                "original_name": "Lena Nyman",
+                "popularity": 0.017,
+                "profile_path": "/4GQFb7wVRQIz5JsaTDxtOOdrWnl.jpg",
+                "cast_id": 3,
+                "character": "Helena",
+                "credit_id": "52fe451d9251416c7504c37d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73595,
+                "known_for_department": "Acting",
+                "name": "Halvar Björk",
+                "original_name": "Halvar Björk",
+                "popularity": 0.006,
+                "profile_path": "/nZZ4MlcrBK2i4mZwaxuYMGMKJ7Q.jpg",
+                "cast_id": 4,
+                "character": "Viktor",
+                "credit_id": "52fe451d9251416c7504c381",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 73596,
+                "known_for_department": "Acting",
+                "name": "Marianne Aminoff",
+                "original_name": "Marianne Aminoff",
+                "popularity": 0.007,
+                "profile_path": "/54hqZA9kzLcHACJrD3UysAB8GBL.jpg",
+                "cast_id": 5,
+                "character": "Charlotte's Private Secretary",
+                "credit_id": "52fe451d9251416c7504c385",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13511,
+                "known_for_department": "Acting",
+                "name": "Arne Bang-Hansen",
+                "original_name": "Arne Bang-Hansen",
+                "popularity": 0.002,
+                "profile_path": "/a1fGJlBmBsesO69mpPjFtPAyocf.jpg",
+                "cast_id": 6,
+                "character": "Uncle Otto",
+                "credit_id": "52fe451d9251416c7504c389",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6649,
+                "known_for_department": "Acting",
+                "name": "Gunnar Björnstrand",
+                "original_name": "Gunnar Björnstrand",
+                "popularity": 0.022,
+                "profile_path": "/vkEY3nex3G0PMMnJ11Kamt4yod.jpg",
+                "cast_id": 23,
+                "character": "Paul",
+                "credit_id": "52fe451d9251416c7504c3d5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38127,
+                "known_for_department": "Acting",
+                "name": "Erland Josephson",
+                "original_name": "Erland Josephson",
+                "popularity": 0.013,
+                "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+                "cast_id": 24,
+                "character": "Josef",
+                "credit_id": "52fe451d9251416c7504c3d9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 435539,
+                "known_for_department": "Acting",
+                "name": "Georg Løkkeberg",
+                "original_name": "Georg Løkkeberg",
+                "popularity": 0.001,
+                "profile_path": "/eLCJHyUkZM0WZD3GiOFTyQIsZvW.jpg",
+                "cast_id": 29,
+                "character": "Leonardo",
+                "credit_id": "5f00e7f8a284eb0038a09f17",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 550539,
+                "known_for_department": "Acting",
+                "name": "Mimi Pollak",
+                "original_name": "Mimi Pollak",
+                "popularity": 0.002,
+                "profile_path": "/bcLWIebH3c2mTxDYVIh7TVcgE94.jpg",
+                "cast_id": 30,
+                "character": "Piano Instructor",
+                "credit_id": "5f00e80915959f003957865a",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2109632,
+                "known_for_department": "Acting",
+                "name": "Linn Ullmann",
+                "original_name": "Linn Ullmann",
+                "popularity": 0.001,
+                "profile_path": "/tsqLpVwqBwWY8dPLCTc0i96UUPh.jpg",
+                "cast_id": 28,
+                "character": "Young Eva",
+                "credit_id": "5c45d6efc3a368477a834f10",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1269951,
+                "known_for_department": "Acting",
+                "name": "Eva von Hanno",
+                "original_name": "Eva von Hanno",
+                "popularity": 0.004,
+                "profile_path": "/80zkCufpH2tj15jzYVqWhmfaXRy.jpg",
+                "cast_id": 31,
+                "character": "Nurse (uncredited)",
+                "credit_id": "5f00e817d0b434003366d709",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227283,
+                "known_for_department": "Acting",
+                "name": "Knut Wigert",
+                "original_name": "Knut Wigert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Professor (uncredited)",
+                "credit_id": "5f00e82415959f003857b96c",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11905,
+                "known_for_department": "Camera",
+                "name": "Sven Nykvist",
+                "original_name": "Sven Nykvist",
+                "popularity": 0.01,
+                "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+                "credit_id": "52fe451d9251416c7504c3b3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24328,
+                "known_for_department": "Production",
+                "name": "Lew Grade",
+                "original_name": "Lew Grade",
+                "popularity": 0.004,
+                "profile_path": "/xy5sJ3nhy5ux40IjAOdnwOBjwqh.jpg",
+                "credit_id": "52fe451d9251416c7504c3a7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6648,
+                "known_for_department": "Directing",
+                "name": "Ingmar Bergman",
+                "original_name": "Ingmar Bergman",
+                "popularity": 0.038,
+                "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+                "credit_id": "52fe451d9251416c7504c38f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 46871,
+                "known_for_department": "Editing",
+                "name": "Sylvia Ingemarsson",
+                "original_name": "Sylvia Ingemarsson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe451d9251416c7504c3b9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6648,
+                "known_for_department": "Directing",
+                "name": "Ingmar Bergman",
+                "original_name": "Ingmar Bergman",
+                "popularity": 0.038,
+                "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+                "credit_id": "52fe451d9251416c7504c395",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1540074,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cecilia Drott",
+                "original_name": "Cecilia Drott",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60bd0d28d7fbda00585708d6",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5996,
+                "known_for_department": "Art",
+                "name": "Anna Asp",
+                "original_name": "Anna Asp",
+                "popularity": 0.006,
+                "profile_path": "/te1STyfTHzLLba9vS8T8lmoo7LB.jpg",
+                "credit_id": "5b7e882292514104eb010b1a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1332141,
+                "known_for_department": "Sound",
+                "name": "Owe Svensson",
+                "original_name": "Owe Svensson",
+                "popularity": 0.001,
+                "profile_path": "/neULjCUlVnHv6roP5crOQdvDNHJ.jpg",
+                "credit_id": "5b7e884492514104e9011fa8",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 150839,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Inger Pehrsson",
+                "original_name": "Inger Pehrsson",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5b7e883092514104e0011bf0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 697,
+                "name": "loss of loved one"
+            },
+            {
+                "id": 6038,
+                "name": "marriage"
+            },
+            {
+                "id": 14743,
+                "name": "pianist"
+            },
+            {
+                "id": 41402,
+                "name": "invalid"
+            },
+            {
+                "id": 208556,
+                "name": "mother daughter reunion"
+            },
+            {
+                "id": 240315,
+                "name": "mother daughter relationship"
+            },
+            {
+                "id": 269808,
+                "name": "introspective"
+            },
+            {
+                "id": 292593,
+                "name": "intimate"
+            },
+            {
+                "id": 311315,
+                "name": "dramatic"
+            },
+            {
+                "id": 321464,
+                "name": "intense"
+            },
+            {
+                "id": 323809,
+                "name": "depressing"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ingrid Bergman",
+            "character": "Charlotte"
+        },
+        {
+            "actor": "Liv Ullmann",
+            "character": "Eva"
+        },
+        {
+            "actor": "Lena Nyman",
+            "character": "Helena"
+        },
+        {
+            "actor": "Halvar Björk",
+            "character": "Viktor"
+        },
+        {
+            "actor": "Marianne Aminoff",
+            "character": "Charlotte's Private Secretary"
+        },
+        {
+            "actor": "Arne Bang-Hansen",
+            "character": "Uncle Otto"
+        },
+        {
+            "actor": "Gunnar Björnstrand",
+            "character": "Paul"
+        },
+        {
+            "actor": "Erland Josephson",
+            "character": "Josef"
+        },
+        {
+            "actor": "Georg Løkkeberg",
+            "character": "Leonardo"
+        },
+        {
+            "actor": "Mimi Pollak",
+            "character": "Piano Instructor"
+        },
+        {
+            "actor": "Linn Ullmann",
+            "character": "Young Eva"
+        },
+        {
+            "actor": "Eva von Hanno",
+            "character": "Nurse (uncredited)"
+        },
+        {
+            "actor": "Knut Wigert",
+            "character": "Professor (uncredited)"
+        }
+    ]
+}

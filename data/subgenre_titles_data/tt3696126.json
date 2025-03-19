@@ -1,0 +1,601 @@
+{
+    "adult": false,
+    "backdrop_path": "/pxiLyTDe09V1crB2pyAnce4jQXB.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 270759,
+    "imdb_id": "tt3696126",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "일대일",
+    "overview": "On May 9th, a female high school student was brutally murdered. There are 7 suspects and 7 shadows that terrorize them. Who are they and which one of them is you?",
+    "popularity": 1.558,
+    "poster_path": "/jnR4Ll0DifT0objM4wGkccQ3XPP.jpg",
+    "production_companies": [
+        {
+            "id": 684,
+            "logo_path": null,
+            "name": "Kim Ki Duk Film",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2014-05-22",
+    "revenue": 0,
+    "runtime": 122,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "One on One",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 44,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-08-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-11-30T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-05-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "(Fantasporto International Film Festival)",
+                        "release_date": "2015-03-01T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024395,
+                "known_for_department": "Acting",
+                "name": "Don Lee",
+                "original_name": "마동석",
+                "popularity": 0.082,
+                "profile_path": "/zt1vx7FesNA4x6mTZtyzu2uco8E.jpg",
+                "cast_id": 1,
+                "character": "Leader of Shadow",
+                "credit_id": "537b5db8c3a3685e29001a27",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4259,
+                "known_for_department": "Acting",
+                "name": "Kim Young-min",
+                "original_name": "김영민",
+                "popularity": 0.019,
+                "profile_path": "/xXbY65ATWU0VGd59Ry16o3mnxps.jpg",
+                "cast_id": 10,
+                "character": "Oh Hyeon",
+                "credit_id": "583890ccc3a368493c001efa",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330446,
+                "known_for_department": "Acting",
+                "name": "Lee Yi-kyung",
+                "original_name": "이이경",
+                "popularity": 0.037,
+                "profile_path": "/arIQjEhzxihRJvkOJjIksPA5EZM.jpg",
+                "cast_id": 3,
+                "character": "Shadow 1",
+                "credit_id": "539b3ac0c3a3684b73001266",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330448,
+                "known_for_department": "Acting",
+                "name": "Cho Dong-in",
+                "original_name": "조동인",
+                "popularity": 0.009,
+                "profile_path": "/1F7HIHWDygM8wLPEbxxC8OeP07b.jpg",
+                "cast_id": 4,
+                "character": "Shadow 2",
+                "credit_id": "539b3ad5c3a3684cb2001380",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1387126,
+                "known_for_department": "Acting",
+                "name": "Teo Yoo",
+                "original_name": "유태오",
+                "popularity": 0.033,
+                "profile_path": "/yaYSLRP41hsb4bdyLlRZSOvBwKu.jpg",
+                "cast_id": 11,
+                "character": "Shadow 3",
+                "credit_id": "5a819ea70e0a262aa9034e72",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 232824,
+                "known_for_department": "Acting",
+                "name": "Ahn Ji-hye",
+                "original_name": "Ahn Ji-hye",
+                "popularity": 0.01,
+                "profile_path": "/wwLTyaZDd7gbHZ3bRVDIcPgQRAa.jpg",
+                "cast_id": 5,
+                "character": "Shadow 4",
+                "credit_id": "539b3b06c3a3684c910011be",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330449,
+                "known_for_department": "Acting",
+                "name": "Cho Jae-ryong",
+                "original_name": "Cho Jae-ryong",
+                "popularity": 0.008,
+                "profile_path": "/ny017Ikxg4SLwuExuWwI3pr0eF9.jpg",
+                "cast_id": 7,
+                "character": "Shadow 5",
+                "credit_id": "539b3b62c3a3684cb2001389",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330450,
+                "known_for_department": "Acting",
+                "name": "Kim Joong-ki",
+                "original_name": "김중기",
+                "popularity": 0.004,
+                "profile_path": "/7LQ4OL5blk46EbB8k6H8EzqAKwl.jpg",
+                "cast_id": 8,
+                "character": "Shadow 6",
+                "credit_id": "539b3b92c3a3684afc001320",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2990449,
+                "known_for_department": "Acting",
+                "name": "Joo Hee-joong",
+                "original_name": "Joo Hee-joong",
+                "popularity": 0.001,
+                "profile_path": "/tv6TBfNMvM5qgBAkixTP9MG6IQS.jpg",
+                "cast_id": 24,
+                "character": "Jeong Yi-se",
+                "credit_id": "6037bc57e62719004029233d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1418581,
+                "known_for_department": "Acting",
+                "name": "Choi Gwi-hwa",
+                "original_name": "최귀화",
+                "popularity": 0.017,
+                "profile_path": "/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg",
+                "cast_id": 25,
+                "character": "Oh Ji-ha",
+                "credit_id": "6037beb44fd141003eaf8eeb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2990463,
+                "known_for_department": "Acting",
+                "name": "Hwang Geon",
+                "original_name": "Hwang Geon",
+                "popularity": 0.001,
+                "profile_path": "/ztSOQBMVIzPJbRa2oLdynYXcujz.jpg",
+                "cast_id": 26,
+                "character": "Oh Jeong-taek",
+                "credit_id": "6037c3963e01ea003e729312",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 138542,
+                "known_for_department": "Acting",
+                "name": "Yoo Yeon-soo",
+                "original_name": "유연수",
+                "popularity": 0.005,
+                "profile_path": "/5ulWWSjE9paR5jbn6YmA3fOy4OM.jpg",
+                "cast_id": 27,
+                "character": "Jin Ho-seong",
+                "credit_id": "6037c3ad3e01ea003c72455b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1333030,
+                "known_for_department": "Acting",
+                "name": "Son Jong-hak",
+                "original_name": "손종학",
+                "popularity": 0.02,
+                "profile_path": "/zJpV04XtqJdtSWxD3ylvT4FU35s.jpg",
+                "cast_id": 28,
+                "character": "Byeon Oh-gu",
+                "credit_id": "6037c3fc87a27a003e148593",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1464070,
+                "known_for_department": "Acting",
+                "name": "Im Hwa-young",
+                "original_name": "임화영",
+                "popularity": 0.017,
+                "profile_path": "/YeXMa8qPDUIdtP1JpOcF8OFjDH.jpg",
+                "cast_id": 9,
+                "character": "Ji-hye",
+                "credit_id": "55cf3afd925141319f004d91",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1879166,
+                "known_for_department": "Acting",
+                "name": "Yeon Ji-hae",
+                "original_name": "Yeon Ji-hae",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Kidnapped High School Girl",
+                "credit_id": "6037ba244fd141003faf5756",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1200395,
+                "known_for_department": "Acting",
+                "name": "Lee Na-ra",
+                "original_name": "이나라",
+                "popularity": 0.036,
+                "profile_path": "/xgO62zJSOVNVd6nXFJJ3LDzUlFe.jpg",
+                "cast_id": 18,
+                "character": "Oh Ji-ha's Wife",
+                "credit_id": "5dd3d2ce2634620016b59125",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2990446,
+                "known_for_department": "Acting",
+                "name": "Sin Minju",
+                "original_name": "Sin Minju",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Mrs. Jeong Lee",
+                "credit_id": "6037bbac4fd141003eaf8ab7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1442583,
+                "known_for_department": "Acting",
+                "name": "Park So-dam",
+                "original_name": "박소담",
+                "popularity": 0.043,
+                "profile_path": "/fGVOikpvivopeATDy6ZzLdKYXDu.jpg",
+                "cast_id": 29,
+                "character": "Coffee Delivery Girl",
+                "credit_id": "6067fd1312c60400572faeed",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 577397,
+                "known_for_department": "Acting",
+                "name": "Kim Jae-rok",
+                "original_name": "김재록",
+                "popularity": 0.01,
+                "profile_path": "/esGLG5p5tlnP7VNFSRyertWeMVS.jpg",
+                "cast_id": 31,
+                "character": "Manager",
+                "credit_id": "637877b5976e4800dcd90572",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1171953,
+                "known_for_department": "Acting",
+                "name": "Kim Jong-goo",
+                "original_name": "김종구",
+                "popularity": 0.02,
+                "profile_path": "/t5CnFB7boQEoNofUmch5wcUn2w3.jpg",
+                "cast_id": 32,
+                "character": "Military General",
+                "credit_id": "637877d8336e0100b4f9c420",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3500384,
+                "known_for_department": "Visual Effects",
+                "name": "Do Gwang-sup",
+                "original_name": "도광섭",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62522d3c447f9c353e3dd237",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188,
+                "known_for_department": "Directing",
+                "name": "Kim Ki-duk",
+                "original_name": "김기덕",
+                "popularity": 0.017,
+                "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+                "credit_id": "537b5d97c3a3685e22001808",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188,
+                "known_for_department": "Directing",
+                "name": "Kim Ki-duk",
+                "original_name": "김기덕",
+                "popularity": 0.017,
+                "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+                "credit_id": "5a819f350e0a262aa6034e11",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188,
+                "known_for_department": "Directing",
+                "name": "Kim Ki-duk",
+                "original_name": "김기덕",
+                "popularity": 0.017,
+                "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+                "credit_id": "5a819f460e0a262ab20350b4",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188,
+                "known_for_department": "Directing",
+                "name": "Kim Ki-duk",
+                "original_name": "김기덕",
+                "popularity": 0.017,
+                "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+                "credit_id": "5a819f22925141410d02f3d1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1188,
+                "known_for_department": "Directing",
+                "name": "Kim Ki-duk",
+                "original_name": "김기덕",
+                "popularity": 0.017,
+                "profile_path": "/jvDwwSEtcPfxcUB1NlLbMHFB5ze.jpg",
+                "credit_id": "5a819f1392514140fb030b8a",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2380881,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lee Jin-suk",
+                "original_name": "Lee Jin-suk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4a9e3f439be1001391a297",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2549425,
+                "known_for_department": "Art",
+                "name": "Kim Deok-du",
+                "original_name": "Kim Deok-du",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e546557a76ac50016a7a134",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2556717,
+                "known_for_department": "Art",
+                "name": "Hong Zi",
+                "original_name": "Hong Zi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e5f902f357c0000112f536d",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Don Lee",
+            "character": "Leader of Shadow"
+        },
+        {
+            "actor": "Kim Young-min",
+            "character": "Oh Hyeon"
+        },
+        {
+            "actor": "Lee Yi-kyung",
+            "character": "Shadow 1"
+        },
+        {
+            "actor": "Cho Dong-in",
+            "character": "Shadow 2"
+        },
+        {
+            "actor": "Teo Yoo",
+            "character": "Shadow 3"
+        },
+        {
+            "actor": "Ahn Ji-hye",
+            "character": "Shadow 4"
+        },
+        {
+            "actor": "Cho Jae-ryong",
+            "character": "Shadow 5"
+        },
+        {
+            "actor": "Kim Joong-ki",
+            "character": "Shadow 6"
+        },
+        {
+            "actor": "Joo Hee-joong",
+            "character": "Jeong Yi-se"
+        },
+        {
+            "actor": "Choi Gwi-hwa",
+            "character": "Oh Ji-ha"
+        },
+        {
+            "actor": "Hwang Geon",
+            "character": "Oh Jeong-taek"
+        },
+        {
+            "actor": "Yoo Yeon-soo",
+            "character": "Jin Ho-seong"
+        },
+        {
+            "actor": "Son Jong-hak",
+            "character": "Byeon Oh-gu"
+        },
+        {
+            "actor": "Im Hwa-young",
+            "character": "Ji-hye"
+        },
+        {
+            "actor": "Yeon Ji-hae",
+            "character": "Kidnapped High School Girl"
+        },
+        {
+            "actor": "Lee Na-ra",
+            "character": "Oh Ji-ha's Wife"
+        },
+        {
+            "actor": "Sin Minju",
+            "character": "Mrs. Jeong Lee"
+        },
+        {
+            "actor": "Park So-dam",
+            "character": "Coffee Delivery Girl"
+        },
+        {
+            "actor": "Kim Jae-rok",
+            "character": "Manager"
+        },
+        {
+            "actor": "Kim Jong-goo",
+            "character": "Military General"
+        }
+    ]
+}

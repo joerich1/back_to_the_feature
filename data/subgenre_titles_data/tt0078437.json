@@ -1,0 +1,462 @@
+{
+    "adult": false,
+    "backdrop_path": "/xVkseUmDqseTua63V48ihhEnq8u.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 30876,
+    "imdb_id": "tt0078437",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Ultimo mondo cannibale",
+    "overview": "An oil prospector escapes from capture by a primitive cannibal tribe in the Philippine rain forest and heads out to locate his missing companion and their plane to return home.",
+    "popularity": 3.318,
+    "poster_path": "/q5MEqvaBLueVEEnetKdhax0DXhy.jpg",
+    "production_companies": [
+        {
+            "id": 55576,
+            "logo_path": null,
+            "name": "Erre Cinematograsica S.r.l.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1977-02-08",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A stone-age world of horrors ... ONLY ONE SURVIVED.",
+    "title": "Last Cannibal World",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 94,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-03-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-10-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VHS",
+                        "release_date": "1981-08-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-02-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-03-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107212,
+                "known_for_department": "Acting",
+                "name": "Massimo Foschi",
+                "original_name": "Massimo Foschi",
+                "popularity": 0.01,
+                "profile_path": "/kQ8SmoPGIfWymWIqfkt7rYcgNsC.jpg",
+                "cast_id": 5,
+                "character": "Robert Harper",
+                "credit_id": "52fe44469251416c9100afd7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 56876,
+                "known_for_department": "Acting",
+                "name": "Me Me Lai",
+                "original_name": "Me Me Lai",
+                "popularity": 0.021,
+                "profile_path": "/iHqEcia3V3xTDhxa3nrLzEgEoQC.jpg",
+                "cast_id": 6,
+                "character": "Pulan",
+                "credit_id": "52fe44469251416c9100afdb",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44961,
+                "known_for_department": "Acting",
+                "name": "Ivan Rassimov",
+                "original_name": "Ivan Rassimov",
+                "popularity": 0.014,
+                "profile_path": "/nawfX5ZPQcjrTecEWZLMiPAQg8Y.jpg",
+                "cast_id": 7,
+                "character": "Rolf",
+                "credit_id": "52fe44469251416c9100afdf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107215,
+                "known_for_department": "Acting",
+                "name": "Sheik Razak Shikur",
+                "original_name": "Sheik Razak Shikur",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Charlie",
+                "credit_id": "52fe44469251416c9100afe3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107217,
+                "known_for_department": "Acting",
+                "name": "Judy Rosly",
+                "original_name": "Judy Rosly",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Swan",
+                "credit_id": "52fe44469251416c9100afe7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338069,
+                "known_for_department": "Directing",
+                "name": "Suleiman",
+                "original_name": "Suleiman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Native Chief",
+                "credit_id": "557f0c20c3a36821b300280f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1477516,
+                "known_for_department": "Acting",
+                "name": "Shamsi",
+                "original_name": "Shamsi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Native Warrior #1",
+                "credit_id": "557f0c329251410a2f00260f",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45572,
+                "known_for_department": "Directing",
+                "name": "Ruggero Deodato",
+                "original_name": "Ruggero Deodato",
+                "popularity": 0.025,
+                "profile_path": "/bNDicvx6S1D5KbYmkWDB6eADPiN.jpg",
+                "credit_id": "52fe44469251416c9100afc1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92928,
+                "known_for_department": "Writing",
+                "name": "Tito Carpi",
+                "original_name": "Tito Carpi",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100afc7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55647,
+                "known_for_department": "Writing",
+                "name": "Gianfranco Clerici",
+                "original_name": "Gianfranco Clerici",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100afcd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40926,
+                "known_for_department": "Writing",
+                "name": "Renzo Genta",
+                "original_name": "Renzo Genta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44469251416c9100afd3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40926,
+                "known_for_department": "Writing",
+                "name": "Renzo Genta",
+                "original_name": "Renzo Genta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0c41c3a36821930025bd",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103612,
+                "known_for_department": "Production",
+                "name": "Giorgio Carlo Rossi",
+                "original_name": "Giorgio Carlo Rossi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0c4e9251410a2a002521",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 103612,
+                "known_for_department": "Production",
+                "name": "Giorgio Carlo Rossi",
+                "original_name": "Giorgio Carlo Rossi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0c5bc3a36821930025c2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 38588,
+                "known_for_department": "Sound",
+                "name": "Ubaldo Continiello",
+                "original_name": "Ubaldo Continiello",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0c67c3a368219c002319",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 18835,
+                "known_for_department": "Camera",
+                "name": "Marcello Masciocchi",
+                "original_name": "Marcello Masciocchi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0c73c3a36821b300282a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59367,
+                "known_for_department": "Editing",
+                "name": "Daniele Alabiso",
+                "original_name": "Daniele Alabiso",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "557f0c7ec3a3682198002655",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38917,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Walter Patriarca",
+                "original_name": "Walter Patriarca",
+                "popularity": 0.002,
+                "profile_path": "/kIPI06rvhzk0IeSoPhggc2RKFNs.jpg",
+                "credit_id": "557f0c8bc3a36821b3002832",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1410031,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marcello Di Paolo",
+                "original_name": "Marcello Di Paolo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0ccdc3a36821b0002586",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1266719,
+                "known_for_department": "Production",
+                "name": "Giovanni Masini",
+                "original_name": "Giovanni Masini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0cdcc3a36821b0002589",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1023549,
+                "known_for_department": "Crew",
+                "name": "Paolo Ricci",
+                "original_name": "Paolo Ricci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "557f0cec9251410a400023f5",
+                "department": "Crew",
+                "job": "Special Effects"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1585,
+                "name": "snake"
+            },
+            {
+                "id": 3185,
+                "name": "crocodile"
+            },
+            {
+                "id": 9743,
+                "name": "stranded"
+            },
+            {
+                "id": 14895,
+                "name": "cannibal"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Massimo Foschi",
+            "character": "Robert Harper"
+        },
+        {
+            "actor": "Me Me Lai",
+            "character": "Pulan"
+        },
+        {
+            "actor": "Ivan Rassimov",
+            "character": "Rolf"
+        },
+        {
+            "actor": "Sheik Razak Shikur",
+            "character": "Charlie"
+        },
+        {
+            "actor": "Judy Rosly",
+            "character": "Swan"
+        },
+        {
+            "actor": "Suleiman",
+            "character": "Native Chief"
+        },
+        {
+            "actor": "Shamsi",
+            "character": "Native Warrior #1"
+        }
+    ]
+}

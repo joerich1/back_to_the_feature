@@ -1,0 +1,794 @@
+{
+    "adult": false,
+    "backdrop_path": "/yriVjtK2wKO2t4bCZ2wH7YXyb8z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 175116,
+    "imdb_id": "tt2751576",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Buongiorno papà",
+    "overview": "Andrea is a handsome and cocky 38-year old man with a successful business career. Shallow, womanizing and a confirmed bachelor, his life seems to be just perfect... until the day he comes home and finds there Layla, a teenage girl who claims to be his daughter. Alongside Layla is her grandfather Enzo, a former rockstar and the father of Andrea's first fleeting and forgotten conquest. And they've come to stay!",
+    "popularity": 3.533,
+    "poster_path": "/i3ZB3GVSJQQYpVgJBDFpDrsaC3Q.jpg",
+    "production_companies": [
+        {
+            "id": 1429,
+            "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+            "name": "Italian International Film",
+            "origin_country": "IT"
+        },
+        {
+            "id": 6246,
+            "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+            "name": "Medusa Film",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "2013-03-14",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Out of the Blue",
+    "video": false,
+    "vote_average": 5.976,
+    "vote_count": 316,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AR",
+                "release_dates": [
+                    {
+                        "certification": "ATP",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2014-12-18T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "hu",
+                        "note": "",
+                        "release_date": "2013-12-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "T",
+                        "descriptors": [],
+                        "iso_639_1": "it",
+                        "note": "",
+                        "release_date": "2013-03-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5412,
+                "known_for_department": "Acting",
+                "name": "Raoul Bova",
+                "original_name": "Raoul Bova",
+                "popularity": 0.06,
+                "profile_path": "/hJQCTTCB6mCspjjhOkXQ5u0ekWj.jpg",
+                "cast_id": 1,
+                "character": "Andrea Manfredini",
+                "credit_id": "52fe4d58c3a36847f825c00f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 146464,
+                "known_for_department": "Acting",
+                "name": "Marco Giallini",
+                "original_name": "Marco Giallini",
+                "popularity": 0.023,
+                "profile_path": "/pa8134Q5oVRuC1xBMsQ73mpXN1v.jpg",
+                "cast_id": 3,
+                "character": "Enzo Brighi",
+                "credit_id": "52fe4d58c3a36847f825c017",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1047948,
+                "known_for_department": "Acting",
+                "name": "Edoardo Leo",
+                "original_name": "Edoardo Leo",
+                "popularity": 0.033,
+                "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg",
+                "cast_id": 9,
+                "character": "Paolo",
+                "credit_id": "58d0f3a9c3a3683908007c52",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 124618,
+                "known_for_department": "Acting",
+                "name": "Nicole Grimaudo",
+                "original_name": "Nicole Grimaudo",
+                "popularity": 0.021,
+                "profile_path": "/1TF2tDGsN8GT0MlhnTdhuB4jo2S.jpg",
+                "cast_id": 5,
+                "character": "Lorenza Metrano",
+                "credit_id": "52fe4d58c3a36847f825c01f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 992808,
+                "known_for_department": "Acting",
+                "name": "Rosabell Laurenti Sellers",
+                "original_name": "Rosabell Laurenti Sellers",
+                "popularity": 0.058,
+                "profile_path": "/54jpEVJpRi74YR019n3XytOF4lb.jpg",
+                "cast_id": 6,
+                "character": "Layla Manfredini",
+                "credit_id": "52fe4d58c3a36847f825c023",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 120111,
+                "known_for_department": "Acting",
+                "name": "Paola Tiziana Cruciani",
+                "original_name": "Paola Tiziana Cruciani",
+                "popularity": 0.004,
+                "profile_path": "/bmEVnHsF858D4diUa6XbGs9kOM5.jpg",
+                "cast_id": 4,
+                "character": "Adele Stramaccioni",
+                "credit_id": "52fe4d58c3a36847f825c01b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8772,
+                "known_for_department": "Acting",
+                "name": "Mattia Sbragia",
+                "original_name": "Mattia Sbragia",
+                "popularity": 0.017,
+                "profile_path": "/uQYa5QiHBMLZ0nAtnWEDMUwrTZa.jpg",
+                "cast_id": 12,
+                "character": "Roberto Manfredini",
+                "credit_id": "596e2bcfc3a3687fc700e408",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78697,
+                "known_for_department": "Acting",
+                "name": "Antonino Bruschetta",
+                "original_name": "Ninni Bruschetta",
+                "popularity": 0.017,
+                "profile_path": "/1GBSY3pCvaSUtHguV8AmTxLYD4K.jpg",
+                "cast_id": 2,
+                "character": "Adriano",
+                "credit_id": "52fe4d58c3a36847f825c013",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128227,
+                "known_for_department": "Acting",
+                "name": "Giorgio Colangeli",
+                "original_name": "Giorgio Colangeli",
+                "popularity": 0.011,
+                "profile_path": "/3LxOBPqDPT4k0CJ4hJGMSrYKtP1.jpg",
+                "cast_id": 11,
+                "character": "Grande Star",
+                "credit_id": "596e2ba1c3a3686b5a005a3c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1095942,
+                "known_for_department": "Acting",
+                "name": "Pamela Saino",
+                "original_name": "Pamela Saino",
+                "popularity": 0.009,
+                "profile_path": "/raz6mB94hmWWXMFioCNtk6e4lkI.jpg",
+                "cast_id": 13,
+                "character": "Angelica/Susy",
+                "credit_id": "596e2be1925141607b0059e6",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1608635,
+                "known_for_department": "Acting",
+                "name": "Giulia Bertini",
+                "original_name": "Giulia Bertini",
+                "popularity": 0.001,
+                "profile_path": "/1sd3igQiOojzAngDLaNE7cpctwD.jpg",
+                "cast_id": 14,
+                "character": "Eva",
+                "credit_id": "596e2c01c3a3687fc700e435",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120640,
+                "known_for_department": "Acting",
+                "name": "Stefano Ambrogi",
+                "original_name": "Stefano Ambrogi",
+                "popularity": 0.008,
+                "profile_path": "/qVr9nEeUCsIqPCIadCQdqiBif1t.jpg",
+                "cast_id": 15,
+                "character": "Bidello",
+                "credit_id": "596e2c10c3a3687fc700e454",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1853723,
+                "known_for_department": "Acting",
+                "name": "Chiara Di Giacomo",
+                "original_name": "Chiara Di Giacomo",
+                "popularity": 0.001,
+                "profile_path": "/xdIy3h2CBuIYgehT5b4tNsyxHyO.jpg",
+                "cast_id": 16,
+                "character": "stagista",
+                "credit_id": "596e2c28c3a368015400e157",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1162466,
+                "known_for_department": "Acting",
+                "name": "Barbara Folchitto",
+                "original_name": "Barbara Folchitto",
+                "popularity": 0.001,
+                "profile_path": "/gT1S5CXi050Y0a76mnVg4knziHh.jpg",
+                "cast_id": 17,
+                "character": "Sposa",
+                "credit_id": "596e2c39925141607b005a56",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 592712,
+                "known_for_department": "Acting",
+                "name": "Paolo Gasparini",
+                "original_name": "Paolo Gasparini",
+                "popularity": 0.003,
+                "profile_path": "/4iw7m0L2CnFJwsXQTZ0rC70ej9n.jpg",
+                "cast_id": 18,
+                "character": "Marco",
+                "credit_id": "596e2c47c3a368015400e17e",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1853724,
+                "known_for_department": "Acting",
+                "name": "Urbano Lione",
+                "original_name": "Urbano Lione",
+                "popularity": 0.001,
+                "profile_path": "/bl8HmCNWNLzF7c81JpqpJqRdNuv.jpg",
+                "cast_id": 19,
+                "character": "sposo",
+                "credit_id": "596e2c589251412a73002ded",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76344,
+                "known_for_department": "Acting",
+                "name": "Remo Remotti",
+                "original_name": "Remo Remotti",
+                "popularity": 0.006,
+                "profile_path": "/2GqiJsAllVUwETkFT4xSDLjiJlc.jpg",
+                "cast_id": 20,
+                "character": "guardone",
+                "credit_id": "596e2c679251412d7b00eabd",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1853725,
+                "known_for_department": "Acting",
+                "name": "Sergio Zecca",
+                "original_name": "Sergio Zecca",
+                "popularity": 0.005,
+                "profile_path": "/1vH8eH5m3m1IqEP2Xmwrxwt0BNe.jpg",
+                "cast_id": 21,
+                "character": "Preside",
+                "credit_id": "596e2c88c3a368014500eb82",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1853727,
+                "known_for_department": "Acting",
+                "name": "Giusy Ricchizzi",
+                "original_name": "Giusy Ricchizzi",
+                "popularity": 0.001,
+                "profile_path": "/fDqssp1WuEqE2L2kDrkDyOY4dJJ.jpg",
+                "cast_id": 22,
+                "character": "Segretaria",
+                "credit_id": "596e2c909251412aa6002e36",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1383737,
+                "known_for_department": "Acting",
+                "name": "Sveva Alviti",
+                "original_name": "Sveva Alviti",
+                "popularity": 0.01,
+                "profile_path": "/sU9x3KL3RTMUWcvk9qcur7Lryrk.jpg",
+                "cast_id": 26,
+                "character": "ragazza mora",
+                "credit_id": "59863bae9251413d53006416",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129020,
+                "known_for_department": "Acting",
+                "name": "Jonis Bashir",
+                "original_name": "Jonis Bashir",
+                "popularity": 0.004,
+                "profile_path": "/gkzkOW0U1oGnjLqqg9A5Wd2Z5ng.jpg",
+                "cast_id": 27,
+                "character": "giaguaro",
+                "credit_id": "59863bc5c3a368329b006bb7",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1779016,
+                "known_for_department": "Acting",
+                "name": "Federica Cifola",
+                "original_name": "Federica Cifola",
+                "popularity": 0.004,
+                "profile_path": "/i1IaTz9gu9okIykh6I146HmHvbs.jpg",
+                "cast_id": 28,
+                "character": "Mary",
+                "credit_id": "59863bdac3a3683276005aa9",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1769875,
+                "known_for_department": "Acting",
+                "name": "Marco Conidi",
+                "original_name": "Marco Conidi",
+                "popularity": 0.001,
+                "profile_path": "/rCLcjIuTBLvVPPegafx1gRnfPcX.jpg",
+                "cast_id": 29,
+                "character": "giaguaro",
+                "credit_id": "59863bee9251413cfc0062ed",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1864291,
+                "known_for_department": "Acting",
+                "name": "Alessio Sardelli",
+                "original_name": "Alessio Sardelli",
+                "popularity": 0.001,
+                "profile_path": "/eWjlStXPEQGRGjxnuuYisoh4l8I.jpg",
+                "cast_id": 30,
+                "character": "regista corsi",
+                "credit_id": "59863c09c3a3683234006d6b",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1864292,
+                "known_for_department": "Acting",
+                "name": "Giulia Vespoli",
+                "original_name": "Giulia Vespoli",
+                "popularity": 0.001,
+                "profile_path": "/6DSenwWh0Qh3fnySJIwQ6v0s9r8.jpg",
+                "cast_id": 31,
+                "character": "segretaria bionda",
+                "credit_id": "59863c1f9251413d420063fa",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1470589,
+                "known_for_department": "Crew",
+                "name": "Lorenzo Di Lucchio",
+                "original_name": "Lorenzo Di Lucchio",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Leo",
+                "credit_id": "59863c31c3a36832420066ce",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3233289,
+                "known_for_department": "Acting",
+                "name": "Francesco Alò",
+                "original_name": "Francesco Alò",
+                "popularity": 0.001,
+                "profile_path": "/2Nl8GzbzgCD6t0oOq9rYaTS3bFe.jpg",
+                "cast_id": 44,
+                "character": "Regista",
+                "credit_id": "673d48151c1866af05455a86",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 229571,
+                "known_for_department": "Writing",
+                "name": "Massimiliano Bruno",
+                "original_name": "Massimiliano Bruno",
+                "popularity": 0.007,
+                "profile_path": "/4V0If33QqDkYuhGehlyqCntkkCG.jpg",
+                "credit_id": "635a9cd9d1a893007abae1ea",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67169,
+                "known_for_department": "Camera",
+                "name": "Arnaldo Catinari",
+                "original_name": "Arnaldo Catinari",
+                "popularity": 0.004,
+                "profile_path": "/5oRxhAs35NPQIQ72sD40lPdamdy.jpg",
+                "credit_id": "635a9cf32d8ef3007c9dcaf1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1306692,
+                "known_for_department": "Sound",
+                "name": "Gianluca Misiti",
+                "original_name": "Gianluca Misiti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635a9d058d2f8d007d2713dc",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1618145,
+                "known_for_department": "Art",
+                "name": "Paki Meduri",
+                "original_name": "Paki Meduri",
+                "popularity": 0.001,
+                "profile_path": "/xSe27RBVWLVoOt2o8KLHT8JvIIc.jpg",
+                "credit_id": "635a9d142495ab0091826f20",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 993849,
+                "known_for_department": "Editing",
+                "name": "Patrizio Marone",
+                "original_name": "Patrizio Marone",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "635a9d2b3c887d007de4a44f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1681851,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Valentina Taviani",
+                "original_name": "Valentina Taviani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635a9d3eb1f68d007af2e4a3",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50629,
+                "known_for_department": "Production",
+                "name": "Fulvio Lucisano",
+                "original_name": "Fulvio Lucisano",
+                "popularity": 0.002,
+                "profile_path": "/cgFr21Vk856gCYUvJE7dvPzHdtw.jpg",
+                "credit_id": "635a9d675258ae0091419bc3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 575797,
+                "known_for_department": "Production",
+                "name": "Federica Lucisano",
+                "original_name": "Federica Lucisano",
+                "popularity": 0.001,
+                "profile_path": "/73ef9OVeLgIaIQB6Y9NJ4crVPFZ.jpg",
+                "credit_id": "635a9d702495ab007f40176c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2612404,
+                "known_for_department": "Sound",
+                "name": "Antongiorgio Sabia",
+                "original_name": "Antongiorgio Sabia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635a9d89c8f3c4007f672235",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2517679,
+                "known_for_department": "Production",
+                "name": "Luciano Lucchi",
+                "original_name": "Luciano Lucchi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635a9d933c887d0091557975",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1274286,
+                "known_for_department": "Production",
+                "name": "Giulio Steve",
+                "original_name": "Giulio Steve",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "635a9da3c8f3c4007f67223e",
+                "department": "Production",
+                "job": "Delegated Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1047948,
+                "known_for_department": "Acting",
+                "name": "Edoardo Leo",
+                "original_name": "Edoardo Leo",
+                "popularity": 0.033,
+                "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg",
+                "credit_id": "58d0f4b39251411ab500900c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 229571,
+                "known_for_department": "Writing",
+                "name": "Massimiliano Bruno",
+                "original_name": "Massimiliano Bruno",
+                "popularity": 0.007,
+                "profile_path": "/4V0If33QqDkYuhGehlyqCntkkCG.jpg",
+                "credit_id": "59863b16c3a3683234006bf3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1047948,
+                "known_for_department": "Acting",
+                "name": "Edoardo Leo",
+                "original_name": "Edoardo Leo",
+                "popularity": 0.033,
+                "profile_path": "/coKBvQI0zhAHz0DwiLEmgpaCvn4.jpg",
+                "credit_id": "59863b259251413d2b00612f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148922,
+                "known_for_department": "Writing",
+                "name": "Herbert Simone Paragnani",
+                "original_name": "Herbert Simone Paragnani",
+                "popularity": 0.008,
+                "profile_path": "/3VsbR7BnXnivoW0vo2y0hwqE0Xh.jpg",
+                "credit_id": "59863b369251413d42006283",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Raoul Bova",
+            "character": "Andrea Manfredini"
+        },
+        {
+            "actor": "Marco Giallini",
+            "character": "Enzo Brighi"
+        },
+        {
+            "actor": "Edoardo Leo",
+            "character": "Paolo"
+        },
+        {
+            "actor": "Nicole Grimaudo",
+            "character": "Lorenza Metrano"
+        },
+        {
+            "actor": "Rosabell Laurenti Sellers",
+            "character": "Layla Manfredini"
+        },
+        {
+            "actor": "Paola Tiziana Cruciani",
+            "character": "Adele Stramaccioni"
+        },
+        {
+            "actor": "Mattia Sbragia",
+            "character": "Roberto Manfredini"
+        },
+        {
+            "actor": "Antonino Bruschetta",
+            "character": "Adriano"
+        },
+        {
+            "actor": "Giorgio Colangeli",
+            "character": "Grande Star"
+        },
+        {
+            "actor": "Pamela Saino",
+            "character": "Angelica/Susy"
+        },
+        {
+            "actor": "Giulia Bertini",
+            "character": "Eva"
+        },
+        {
+            "actor": "Stefano Ambrogi",
+            "character": "Bidello"
+        },
+        {
+            "actor": "Chiara Di Giacomo",
+            "character": "stagista"
+        },
+        {
+            "actor": "Barbara Folchitto",
+            "character": "Sposa"
+        },
+        {
+            "actor": "Paolo Gasparini",
+            "character": "Marco"
+        },
+        {
+            "actor": "Urbano Lione",
+            "character": "sposo"
+        },
+        {
+            "actor": "Remo Remotti",
+            "character": "guardone"
+        },
+        {
+            "actor": "Sergio Zecca",
+            "character": "Preside"
+        },
+        {
+            "actor": "Giusy Ricchizzi",
+            "character": "Segretaria"
+        },
+        {
+            "actor": "Sveva Alviti",
+            "character": "ragazza mora"
+        },
+        {
+            "actor": "Jonis Bashir",
+            "character": "giaguaro"
+        },
+        {
+            "actor": "Federica Cifola",
+            "character": "Mary"
+        },
+        {
+            "actor": "Marco Conidi",
+            "character": "giaguaro"
+        },
+        {
+            "actor": "Alessio Sardelli",
+            "character": "regista corsi"
+        },
+        {
+            "actor": "Giulia Vespoli",
+            "character": "segretaria bionda"
+        },
+        {
+            "actor": "Lorenzo Di Lucchio",
+            "character": "Leo"
+        },
+        {
+            "actor": "Francesco Alò",
+            "character": "Regista"
+        }
+    ]
+}

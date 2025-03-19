@@ -1,0 +1,689 @@
+{
+    "adult": false,
+    "backdrop_path": "/fO2ulA6piUHhKDSiQvC1ulYwZgR.jpg",
+    "belongs_to_collection": null,
+    "budget": 7000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        },
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 18069,
+    "imdb_id": "tt0109021",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "8 Seconds",
+    "overview": "This film chronicles the life of Lane Frost, 1987 PRCA Bull Riding World Champion, his marriage and his friendships with Tuff Hedeman (three-time World Champion) and Cody Lambert.",
+    "popularity": 3.388,
+    "poster_path": "/wqKVkOveZrK6zwfrptGLVPmnMpR.jpg",
+    "production_companies": [
+        {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+        },
+        {
+            "id": 216,
+            "logo_path": "/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png",
+            "name": "Jersey Films",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-02-25",
+    "revenue": 19623396,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The sport made him a legend. His heart made him a hero.",
+    "title": "8 Seconds",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 96,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VHS",
+                        "release_date": "1994-09-06T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-10-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-02-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8395,
+                "known_for_department": "Acting",
+                "name": "Luke Perry",
+                "original_name": "Luke Perry",
+                "popularity": 0.066,
+                "profile_path": "/78TAr0wLoRHyubnYxjyHNCt70V2.jpg",
+                "cast_id": 1,
+                "character": "Lane Frost",
+                "credit_id": "52fe475d9251416c75096c39",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9045,
+                "known_for_department": "Acting",
+                "name": "Stephen Baldwin",
+                "original_name": "Stephen Baldwin",
+                "popularity": 0.043,
+                "profile_path": "/34GOuRYIkAcKW8newjrnYeC1QPK.jpg",
+                "cast_id": 2,
+                "character": "Tuff Hedeman",
+                "credit_id": "52fe475d9251416c75096c3d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 162945,
+                "known_for_department": "Acting",
+                "name": "Cynthia Geary",
+                "original_name": "Cynthia Geary",
+                "popularity": 0.017,
+                "profile_path": "/jAZtCCCyQU18iY0DzpRuevJk57i.jpg",
+                "cast_id": 5,
+                "character": "Kellie Frost",
+                "credit_id": "538bce630e0a266708002e0e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8986,
+                "known_for_department": "Acting",
+                "name": "James Rebhorn",
+                "original_name": "James Rebhorn",
+                "popularity": 0.057,
+                "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg",
+                "cast_id": 6,
+                "character": "Clyde Frost",
+                "credit_id": "538bce6f0e0a26670e002dc3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44831,
+                "known_for_department": "Acting",
+                "name": "Carrie Snodgress",
+                "original_name": "Carrie Snodgress",
+                "popularity": 0.026,
+                "profile_path": "/5Bygw37FqX7qeuNTRycGIKFcaCj.jpg",
+                "cast_id": 7,
+                "character": "Elsie Frost",
+                "credit_id": "538bce7b0e0a266702002d43",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 215830,
+                "known_for_department": "Acting",
+                "name": "Cameron Finley",
+                "original_name": "Cameron Finley",
+                "popularity": 0.005,
+                "profile_path": "/yp1CHqsrRUy99YA8VlfILCeTJ26.jpg",
+                "cast_id": 37,
+                "character": "Young Lane",
+                "credit_id": "679ba34b4448da3d2abd9386",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57251,
+                "known_for_department": "Acting",
+                "name": "Linden Ashby",
+                "original_name": "Linden Ashby",
+                "popularity": 0.025,
+                "profile_path": "/nflhvj2uJAr2S9aWvnbQWCUXC9a.jpg",
+                "cast_id": 8,
+                "character": "Martin Hudson",
+                "credit_id": "538bcead0e0a26670e002dcc",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9137,
+                "known_for_department": "Acting",
+                "name": "Renée Zellweger",
+                "original_name": "Renée Zellweger",
+                "popularity": 0.094,
+                "profile_path": "/iNnPqkEF0hPWhmWpjyuLuUdbKN8.jpg",
+                "cast_id": 9,
+                "character": "Buckle Bunny",
+                "credit_id": "5b016bcdc3a3686c8300d1ba",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15010,
+                "known_for_department": "Acting",
+                "name": "Lori Heuring",
+                "original_name": "Lori Heuring",
+                "popularity": 0.02,
+                "profile_path": "/xhTyGqOcLIxkNKAzeaVQsbpywAc.jpg",
+                "cast_id": 10,
+                "character": "Bridesmaid",
+                "credit_id": "5ebd915dbc8abc0021c21a92",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 227548,
+                "known_for_department": "Acting",
+                "name": "Red Mitchell",
+                "original_name": "Red Mitchell",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Cody Lambert",
+                "credit_id": "5ee85e3c68b7660020ba659e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 161473,
+                "known_for_department": "Acting",
+                "name": "Ronnie Claire Edwards",
+                "original_name": "Ronnie Claire Edwards",
+                "popularity": 0.013,
+                "profile_path": "/7qt56NUxZ2dMzpKnsiit4tjwxTY.jpg",
+                "cast_id": 26,
+                "character": "Carolyn Kyle",
+                "credit_id": "5ee85e6b9715ae0020a76746",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 976690,
+                "known_for_department": "Acting",
+                "name": "John Swasey",
+                "original_name": "John Swasey",
+                "popularity": 0.004,
+                "profile_path": "/uL0SE4AMdY5PXUUMewG8lNnz33B.jpg",
+                "cast_id": 27,
+                "character": "Drunk Cowboy",
+                "credit_id": "5ee85e8e68b7660021ba5c22",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 154778,
+                "known_for_department": "Acting",
+                "name": "Jonathan Joss",
+                "original_name": "Jonathan Joss",
+                "popularity": 0.017,
+                "profile_path": "/zmJhvjjt8ujOLCysbgaRKnNGSDW.jpg",
+                "cast_id": 28,
+                "character": "Medic Del Rio",
+                "credit_id": "5ee85eb188bbe60022cd3d23",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 975230,
+                "known_for_department": "Acting",
+                "name": "Tonie Perensky",
+                "original_name": "Tonie Perensky",
+                "popularity": 0.045,
+                "profile_path": "/l1AZvcoHFwAbqw9jlAdvJAoEBYX.jpg",
+                "cast_id": 29,
+                "character": "Buckle Bunny",
+                "credit_id": "5ee85ee568b7660020ba6662",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 181452,
+                "known_for_department": "Acting",
+                "name": "Kix Brooks",
+                "original_name": "Kix Brooks",
+                "popularity": 0.006,
+                "profile_path": "/mMPdsjUgivwHWb5riP7muaC48gs.jpg",
+                "cast_id": 30,
+                "character": "Brooks & Dunn",
+                "credit_id": "5ee85f0ca4f03c0020254e3c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 181454,
+                "known_for_department": "Acting",
+                "name": "Ronnie Dunn",
+                "original_name": "Ronnie Dunn",
+                "popularity": 0.001,
+                "profile_path": "/bYgGYK4VGk698p9uFflNMeWgN2H.jpg",
+                "cast_id": 31,
+                "character": "Brooks & Dunn",
+                "credit_id": "5ee85f1e9715ae0020a767a7",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 181455,
+                "known_for_department": "Acting",
+                "name": "Vince Gill",
+                "original_name": "Vince Gill",
+                "popularity": 0.01,
+                "profile_path": "/lECxxuWpwtZiXkdE6MUjgVfFHRZ.jpg",
+                "cast_id": 35,
+                "character": "The Vince Gill & Karla Bonoff Band",
+                "credit_id": "645808d61b70ae0166bca194",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2470282,
+                "known_for_department": "Camera",
+                "name": "Daniel Ramos",
+                "original_name": "Daniel Ramos",
+                "popularity": 0.001,
+                "profile_path": "/oXOIHjQm4lSKgCdZaH91PByMG7W.jpg",
+                "cast_id": 36,
+                "character": "Bartender",
+                "credit_id": "6525800c0cb33516f8805172",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1319345,
+                "known_for_department": "Acting",
+                "name": "David Stanford",
+                "original_name": "David Stanford",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Bulldogger (uncredited)",
+                "credit_id": "5ee85fb0a4f03c001d25a604",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 15673,
+                "known_for_department": "Writing",
+                "name": "Monte Merrick",
+                "original_name": "Monte Merrick",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe475d9251416c75096c43",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16513,
+                "known_for_department": "Directing",
+                "name": "John G. Avildsen",
+                "original_name": "John G. Avildsen",
+                "popularity": 0.013,
+                "profile_path": "/vDroEhmg2LLLKvReiHRwVvhtxh0.jpg",
+                "credit_id": "52fe475d9251416c75096c49",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2638699,
+                "known_for_department": "Production",
+                "name": "Cyd LeVin",
+                "original_name": "Cyd LeVin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd917e3d3557001cdd59b8",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5381,
+                "known_for_department": "Production",
+                "name": "Michael Shamberg",
+                "original_name": "Michael Shamberg",
+                "popularity": 0.012,
+                "profile_path": "/iLb0qo8YW21AR6FiU0eud9M8vHp.jpg",
+                "credit_id": "5ebd9188c50ad2002585f481",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2638701,
+                "known_for_department": "Production",
+                "name": "Jeffrey Swab",
+                "original_name": "Jeffrey Swab",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91928586780020e41b20",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10494,
+                "known_for_department": "Sound",
+                "name": "Bill Conti",
+                "original_name": "Bill Conti",
+                "popularity": 0.011,
+                "profile_path": "/6IlggJLlzX3C1UbbaQnYuz8ZjCd.jpg",
+                "credit_id": "5ebd919b6d675a001f7a33fe",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56976,
+                "known_for_department": "Camera",
+                "name": "Victor Hammer",
+                "original_name": "Victor Hammer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91a33d3557001ede747a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2638702,
+                "known_for_department": "Editing",
+                "name": "J. Douglas Seelig",
+                "original_name": "J. Douglas Seelig",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91ac8e2e00002012dc79",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 16516,
+                "known_for_department": "Production",
+                "name": "Caro Jones",
+                "original_name": "Caro Jones",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5ebd91b7076ce8002075fd6e",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16517,
+                "known_for_department": "Art",
+                "name": "William J. Cassidy",
+                "original_name": "William J. Cassidy",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5ebd91c08586780021e54ed3",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59475,
+                "known_for_department": "Art",
+                "name": "John Frick",
+                "original_name": "John Frick",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5ebd91ca8586780021e54efa",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2537762,
+                "known_for_department": "Art",
+                "name": "Jenny C. Patrick",
+                "original_name": "Jenny C. Patrick",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91d43d3557001ede74b7",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14042,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Deena Appel",
+                "original_name": "Deena Appel",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5ebd91de076ce8002075fda3",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457032,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Desne J. Holland",
+                "original_name": "Desne J. Holland",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "5ebd91eac50ad20024875b85",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2638705,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Julie Janes-Love",
+                "original_name": "Julie Janes-Love",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91f38e2e00002113eb6a",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2409000,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Doreen Vantyne",
+                "original_name": "Doreen Vantyne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ebd91fec50ad20024875b99",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1019,
+                "name": "rodeo"
+            },
+            {
+                "id": 155291,
+                "name": "cowboy"
+            },
+            {
+                "id": 190078,
+                "name": "bull riding"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Luke Perry",
+            "character": "Lane Frost"
+        },
+        {
+            "actor": "Stephen Baldwin",
+            "character": "Tuff Hedeman"
+        },
+        {
+            "actor": "Cynthia Geary",
+            "character": "Kellie Frost"
+        },
+        {
+            "actor": "James Rebhorn",
+            "character": "Clyde Frost"
+        },
+        {
+            "actor": "Carrie Snodgress",
+            "character": "Elsie Frost"
+        },
+        {
+            "actor": "Cameron Finley",
+            "character": "Young Lane"
+        },
+        {
+            "actor": "Linden Ashby",
+            "character": "Martin Hudson"
+        },
+        {
+            "actor": "Renée Zellweger",
+            "character": "Buckle Bunny"
+        },
+        {
+            "actor": "Lori Heuring",
+            "character": "Bridesmaid"
+        },
+        {
+            "actor": "Red Mitchell",
+            "character": "Cody Lambert"
+        },
+        {
+            "actor": "Ronnie Claire Edwards",
+            "character": "Carolyn Kyle"
+        },
+        {
+            "actor": "John Swasey",
+            "character": "Drunk Cowboy"
+        },
+        {
+            "actor": "Jonathan Joss",
+            "character": "Medic Del Rio"
+        },
+        {
+            "actor": "Tonie Perensky",
+            "character": "Buckle Bunny"
+        },
+        {
+            "actor": "Kix Brooks",
+            "character": "Brooks & Dunn"
+        },
+        {
+            "actor": "Ronnie Dunn",
+            "character": "Brooks & Dunn"
+        },
+        {
+            "actor": "Vince Gill",
+            "character": "The Vince Gill & Karla Bonoff Band"
+        },
+        {
+            "actor": "Daniel Ramos",
+            "character": "Bartender"
+        },
+        {
+            "actor": "David Stanford",
+            "character": "Bulldogger (uncredited)"
+        }
+    ]
+}

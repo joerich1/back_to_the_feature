@@ -1,0 +1,609 @@
+{
+    "adult": false,
+    "backdrop_path": "/dCZ7RhOIM1E0NEkowGNzDyFYw8K.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 11693,
+    "imdb_id": "tt0997147",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "大日本人",
+    "overview": "Daisato, a second-rate, third-generation superhero, annoys his neighbors with the noise and destruction he causes on the job. But a heroic public image is the least of his concerns. Besides defending Japan from bizarre monsters, he must deal with an agent seeking to brand him with ads, a superhero grandfather with Alzheimer's and a family embarrassed by his incompetence.",
+    "popularity": 3.285,
+    "poster_path": "/pT5ze3fjW8rYPVtqDyHSRNExHTq.jpg",
+    "production_companies": [
+        {
+            "id": 11629,
+            "logo_path": "/bwYUtLEtn2A9lQ3D0Sz7FOftm3C.png",
+            "name": "Yoshimoto Kogyo",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "2007-05-19",
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Big Man Japan",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 93,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-07-17T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-11-05T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-06-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-05-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71080,
+                "known_for_department": "Acting",
+                "name": "Hitoshi Matsumoto",
+                "original_name": "松本人志",
+                "popularity": 0.016,
+                "profile_path": "/Iq03j6VtB9V1wtq8fvGNEcmW9.jpg",
+                "cast_id": 5,
+                "character": "Masaru Daisatô / Dai-Nihonjin",
+                "credit_id": "52fe447a9251416c75036383",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 560284,
+                "known_for_department": "Acting",
+                "name": "UA",
+                "original_name": "UA",
+                "popularity": 0.002,
+                "profile_path": "/gAhZvCQfXI44uK81tEoluWkQSfl.jpg",
+                "cast_id": 6,
+                "character": "Manager Kobori",
+                "credit_id": "52fe447a9251416c75036387",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52809,
+                "known_for_department": "Acting",
+                "name": "Itsuji Itao",
+                "original_name": "板尾創路",
+                "popularity": 0.041,
+                "profile_path": "/pj67MEBcYe79dedigaPZsqK50pS.jpg",
+                "cast_id": 10,
+                "character": "Female Niou-no-jû",
+                "credit_id": "52fe447a9251416c75036397",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 225730,
+                "known_for_department": "Acting",
+                "name": "Ryunosuke Kamiki",
+                "original_name": "神木隆之介",
+                "popularity": 0.037,
+                "profile_path": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg",
+                "cast_id": 7,
+                "character": "Warabe-no-jû",
+                "credit_id": "52fe447a9251416c7503638b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1029280,
+                "known_for_department": "Acting",
+                "name": "Daisuke Miyagawa",
+                "original_name": "宮川大輔",
+                "popularity": 0.005,
+                "profile_path": "/v17zrgCONbiQtCPzXbUhtK0oOJ4.jpg",
+                "cast_id": 13,
+                "character": "Super Justice",
+                "credit_id": "52fe447a9251416c750363a3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70211,
+                "known_for_department": "Acting",
+                "name": "Hiroyuki Miyasako",
+                "original_name": "宮迫博之",
+                "popularity": 0.022,
+                "profile_path": "/bAA7oCa3hcTLqfK547Y427ulfBN.jpg",
+                "cast_id": 11,
+                "character": "Stay With Me",
+                "credit_id": "52fe447a9251416c7503639b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68987,
+                "known_for_department": "Acting",
+                "name": "Riki Takeuchi",
+                "original_name": "竹内力",
+                "popularity": 0.028,
+                "profile_path": "/x8UD5QMakH5OXigfocxyMFO2Rq2.jpg",
+                "cast_id": 4,
+                "character": "Hanerunojyuu",
+                "credit_id": "52fe447a9251416c7503637f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112445,
+                "known_for_department": "Acting",
+                "name": "Unabara Haruka",
+                "original_name": "Unabara Haruka",
+                "popularity": 0.001,
+                "profile_path": "/uZAGl7k0v0KXKl8dwn3nNya3uGc.jpg",
+                "cast_id": 8,
+                "character": "Shimeru-no-jû",
+                "credit_id": "52fe447a9251416c7503638f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112447,
+                "known_for_department": "Acting",
+                "name": "Takayuki Haranishi",
+                "original_name": "原西孝幸",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Male Niou-no-jû",
+                "credit_id": "52fe447a9251416c7503639f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 225536,
+                "known_for_department": "Acting",
+                "name": "Shion Machida",
+                "original_name": "街田しおん",
+                "popularity": 0.016,
+                "profile_path": "/a0eMbNRDjIznMKtWKg0uwf4n92T.jpg",
+                "cast_id": 16,
+                "character": "Daisatô's Ex-wife",
+                "credit_id": "52fe447a9251416c750363af",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101368,
+                "known_for_department": "Acting",
+                "name": "Ryushin Tei",
+                "original_name": "テイ龍進",
+                "popularity": 0.011,
+                "profile_path": "/8BLcMcqZLkkJMOT3m7QvYD7HjaJ.jpg",
+                "cast_id": 19,
+                "character": "",
+                "credit_id": "52fe447a9251416c750363bb",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1191257,
+                "known_for_department": "Acting",
+                "name": "Yumiko Ise",
+                "original_name": "Yumiko Ise",
+                "popularity": 0.001,
+                "profile_path": "/vBzeMZp2Mxo7kQCNrwfHEHAXq24.jpg",
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "52fe447a9251416c750363bf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1112449,
+                "known_for_department": "Acting",
+                "name": "Taichi Yazaki",
+                "original_name": "Taichi Yazaki",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Daisatô's Grandfather",
+                "credit_id": "52fe447a9251416c750363ab",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1112446,
+                "known_for_department": "Writing",
+                "name": "Tomoji Hasegawa",
+                "original_name": "Tomoji Hasegawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Interviewer / Director",
+                "credit_id": "52fe447a9251416c75036393",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112448,
+                "known_for_department": "Acting",
+                "name": "Takuya Hashimoto",
+                "original_name": "橋本拓也",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Midon",
+                "credit_id": "52fe447a9251416c750363a7",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 551592,
+                "known_for_department": "Acting",
+                "name": "Atsuko Nakamura",
+                "original_name": "Atsuko Nakamura",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Bar Proprietress Azusa",
+                "credit_id": "52fe447a9251416c750363b3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112450,
+                "known_for_department": "Acting",
+                "name": "Daisuke Nagakura",
+                "original_name": "永倉大輔",
+                "popularity": 0.019,
+                "profile_path": "/dqBMe1Lm0b1If755bNo3XbiUjCq.jpg",
+                "cast_id": 18,
+                "character": "Daisatô's Grandfather - Younger",
+                "credit_id": "52fe447a9251416c750363b7",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71080,
+                "known_for_department": "Acting",
+                "name": "Hitoshi Matsumoto",
+                "original_name": "松本人志",
+                "popularity": 0.016,
+                "profile_path": "/Iq03j6VtB9V1wtq8fvGNEcmW9.jpg",
+                "credit_id": "52fe447a9251416c7503636f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71081,
+                "known_for_department": "Writing",
+                "name": "Mitsuyoshi Takasu",
+                "original_name": "高須光聖",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe447a9251416c75036375",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 135383,
+                "known_for_department": "Camera",
+                "name": "Hideo Yamamoto",
+                "original_name": "山本英夫",
+                "popularity": 0.003,
+                "profile_path": "/4x5jWPZgLMn1eNCiQVEZWltwWAa.jpg",
+                "credit_id": "56a0b83dc3a36858ce00da4f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 71081,
+                "known_for_department": "Writing",
+                "name": "Mitsuyoshi Takasu",
+                "original_name": "高須光聖",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "58c95905925141111300a6db",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1776977,
+                "known_for_department": "Sound",
+                "name": "TOWA TEI",
+                "original_name": "テイ・トウワ",
+                "popularity": 0.001,
+                "profile_path": "/gblLtJbd9legARaGOXIQ9OX8VYS.jpg",
+                "credit_id": "58c95917c3a36875d5009f3d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 552334,
+                "known_for_department": "Editing",
+                "name": "Soichi Ueno",
+                "original_name": "上野聡一",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58c9592cc3a36875f800a7fe",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1776864,
+                "known_for_department": "Production",
+                "name": "Masunobu Motokawa",
+                "original_name": "元川益暢",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58c95936c3a36875e800a88c",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1776965,
+                "known_for_department": "Art",
+                "name": "Etsuko Aikô",
+                "original_name": "Etsuko Aikô",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58c95942c3a36836b4000bb4",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551554,
+                "known_for_department": "Art",
+                "name": "Yuji Hayashida",
+                "original_name": "林田裕至",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58c9594d92514110fe00a63d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1776966,
+                "known_for_department": "Art",
+                "name": "Yutaka Mogi",
+                "original_name": "茂木豊",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "58c9595892514110f500a6b3",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1776879,
+                "known_for_department": "Sound",
+                "name": "Mitsugu Shiratori",
+                "original_name": "Mitsugu Shiratori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58c9598f92514110f800a8ea",
+                "department": "Sound",
+                "job": "Sound"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9715,
+                "name": "superhero"
+            },
+            {
+                "id": 3240,
+                "name": "giant cockroach"
+            },
+            {
+                "id": 3888,
+                "name": "giant spider"
+            },
+            {
+                "id": 3891,
+                "name": "giant snake"
+            },
+            {
+                "id": 5704,
+                "name": "giant lizard"
+            },
+            {
+                "id": 7035,
+                "name": "giant insect"
+            },
+            {
+                "id": 7034,
+                "name": "riesen käfer"
+            },
+            {
+                "id": 7038,
+                "name": "giant bird"
+            },
+            {
+                "id": 163053,
+                "name": "found footage"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Hitoshi Matsumoto",
+            "character": "Masaru Daisatô / Dai-Nihonjin"
+        },
+        {
+            "actor": "UA",
+            "character": "Manager Kobori"
+        },
+        {
+            "actor": "Itsuji Itao",
+            "character": "Female Niou-no-jû"
+        },
+        {
+            "actor": "Ryunosuke Kamiki",
+            "character": "Warabe-no-jû"
+        },
+        {
+            "actor": "Daisuke Miyagawa",
+            "character": "Super Justice"
+        },
+        {
+            "actor": "Hiroyuki Miyasako",
+            "character": "Stay With Me"
+        },
+        {
+            "actor": "Riki Takeuchi",
+            "character": "Hanerunojyuu"
+        },
+        {
+            "actor": "Unabara Haruka",
+            "character": "Shimeru-no-jû"
+        },
+        {
+            "actor": "Takayuki Haranishi",
+            "character": "Male Niou-no-jû"
+        },
+        {
+            "actor": "Shion Machida",
+            "character": "Daisatô's Ex-wife"
+        },
+        {
+            "actor": "Ryushin Tei",
+            "character": ""
+        },
+        {
+            "actor": "Yumiko Ise",
+            "character": ""
+        },
+        {
+            "actor": "Taichi Yazaki",
+            "character": "Daisatô's Grandfather"
+        },
+        {
+            "actor": "Tomoji Hasegawa",
+            "character": "Interviewer / Director"
+        },
+        {
+            "actor": "Takuya Hashimoto",
+            "character": "Midon"
+        },
+        {
+            "actor": "Atsuko Nakamura",
+            "character": "Bar Proprietress Azusa"
+        },
+        {
+            "actor": "Daisuke Nagakura",
+            "character": "Daisatô's Grandfather - Younger"
+        }
+    ]
+}

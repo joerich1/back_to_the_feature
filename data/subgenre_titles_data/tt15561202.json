@@ -1,0 +1,374 @@
+{
+    "adult": false,
+    "backdrop_path": "/nlDmuxSjJS1Fi2FgVToPm9ytm5S.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 1213076,
+    "imdb_id": "tt15561202",
+    "origin_country": [
+        "IN"
+    ],
+    "original_language": "ta",
+    "original_title": "Fight Club",
+    "overview": "A young boy Selva chasing his football sports dreams suffers a major setback, grows into an angry young man who is drawn into conflicts by evil forces involving him and his family, which he must navigate and reform",
+    "popularity": 0.544,
+    "poster_path": "/1h6t9nCYVWOLRskB35K51payMok.jpg",
+    "production_companies": [
+        {
+            "id": 215017,
+            "logo_path": null,
+            "name": "Reel Good Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2023-12-15",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+        {
+            "english_name": "Tamil",
+            "iso_639_1": "ta",
+            "name": "தமிழ்"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fight Club",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 14,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-12-20T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Prime Video",
+                        "release_date": "2024-03-27T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IN",
+                "release_dates": [
+                    {
+                        "certification": "A",
+                        "descriptors": [],
+                        "iso_639_1": "ta",
+                        "note": "",
+                        "release_date": "2023-12-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1634787,
+                "known_for_department": "Directing",
+                "name": "Vijay Kumar",
+                "original_name": "Vijay Kumar",
+                "popularity": 0.001,
+                "profile_path": "/zdPi3cz1yBK66AZZdAoqSfCKS1y.jpg",
+                "cast_id": 13,
+                "character": "Selva",
+                "credit_id": "656ccb9ee38bd8011a6ccf1b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3531346,
+                "known_for_department": "Directing",
+                "name": "Monisha Mohan Menon",
+                "original_name": "Monisha Mohan Menon",
+                "popularity": 0.001,
+                "profile_path": "/esVfgYcvfriIOIIuW6ulcZfyAKz.jpg",
+                "cast_id": 15,
+                "character": "Shailu",
+                "credit_id": "656ccbcd88634800ea476f56",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1540757,
+                "known_for_department": "Acting",
+                "name": "Avinash Raghudevan",
+                "original_name": "Avinash Raghudevan",
+                "popularity": 0.002,
+                "profile_path": "/AuiRkWkzpmZU2P88s1wwcqVDKJV.jpg",
+                "cast_id": 16,
+                "character": "Joseph Anthony",
+                "credit_id": "656ccbd88eda87013a0ac0a0",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2022562,
+                "known_for_department": "Production",
+                "name": "Kaarthekeyen S",
+                "original_name": "Kaarthekeyen Santhanam",
+                "popularity": 0.001,
+                "profile_path": "/z3VSOoH9bjQoieMhx8uFswUlyai.jpg",
+                "cast_id": 14,
+                "character": "Benjamin Anthony",
+                "credit_id": "656ccba8e38bd8011a6ccf1f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4419928,
+                "known_for_department": "Acting",
+                "name": "Shankar Thas",
+                "original_name": "Shankar Thas",
+                "popularity": 0.001,
+                "profile_path": "/rIbWC5lc7KhoesK48OJD05EwoOq.jpg",
+                "cast_id": 17,
+                "character": "Kiruba",
+                "credit_id": "65736b9e55bc3500ad45c891",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3199752,
+                "known_for_department": "Acting",
+                "name": "Saravana Vel",
+                "original_name": "Saravana Vel",
+                "popularity": 0.001,
+                "profile_path": "/cC4vssFZTESrimv5eQ4WgJ7lUCL.jpg",
+                "cast_id": 18,
+                "character": "Karthi",
+                "credit_id": "65736bbf2811a100ac501d38",
+                "order": 5
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1882390,
+                "known_for_department": "Sound",
+                "name": "Govindh Vasantha",
+                "original_name": "Govindh Vasantha",
+                "popularity": 0.005,
+                "profile_path": "/cAOql1dIlJdDtv5MuNAg54qHkez.jpg",
+                "credit_id": "656cca3ae38bd800fd9d042b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2282765,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Raghu Ram",
+                "original_name": "Raghu Ram",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656ccb376517d600edb1e21a",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4410351,
+                "known_for_department": "Camera",
+                "name": "Leon Britto",
+                "original_name": "Leon Britto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656cca64886348014d84a1d7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4410350,
+                "known_for_department": "Directing",
+                "name": "Abbas A Rahmath",
+                "original_name": "Abbas A Rahmath",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656cca1f880551011d1da48a",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2112010,
+                "known_for_department": "Crew",
+                "name": "Sandy",
+                "original_name": "Sandy",
+                "popularity": 0.001,
+                "profile_path": "/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+                "credit_id": "656ccac4e38bd800aa484ca2",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1649690,
+                "known_for_department": "Sound",
+                "name": "Renganaath Ravee",
+                "original_name": "Renganaath Ravee",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656ccad14a4bf600e9efe350",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4410350,
+                "known_for_department": "Directing",
+                "name": "Abbas A Rahmath",
+                "original_name": "Abbas A Rahmath",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656cca3088634800ade3e368",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4410350,
+                "known_for_department": "Directing",
+                "name": "Abbas A Rahmath",
+                "original_name": "Abbas A Rahmath",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656ccb0b88634800ea476f0c",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2162373,
+                "known_for_department": "Editing",
+                "name": "Kripakaran Purushothaman",
+                "original_name": "Kripakaran Purushothaman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656cca8d6517d600af2893cf",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1634787,
+                "known_for_department": "Directing",
+                "name": "Vijay Kumar",
+                "original_name": "Vijay Kumar",
+                "popularity": 0.001,
+                "profile_path": "/zdPi3cz1yBK66AZZdAoqSfCKS1y.jpg",
+                "credit_id": "656ccafb568463010f835a48",
+                "department": "Writing",
+                "job": "Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2280727,
+                "known_for_department": "Art",
+                "name": "Ezhumalai Adikesavan",
+                "original_name": "Ezhumalai Adikesavan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "656ccaa48eda87011d40a017",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2339047,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Dinesh Manoharan",
+                "original_name": "Dinesh Manoharan",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "656ccb1b0859b4013951e958",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Vijay Kumar",
+            "character": "Selva"
+        },
+        {
+            "actor": "Monisha Mohan Menon",
+            "character": "Shailu"
+        },
+        {
+            "actor": "Avinash Raghudevan",
+            "character": "Joseph Anthony"
+        },
+        {
+            "actor": "Kaarthekeyen S",
+            "character": "Benjamin Anthony"
+        },
+        {
+            "actor": "Shankar Thas",
+            "character": "Kiruba"
+        },
+        {
+            "actor": "Saravana Vel",
+            "character": "Karthi"
+        }
+    ]
+}

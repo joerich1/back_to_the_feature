@@ -1,0 +1,503 @@
+{
+    "adult": false,
+    "backdrop_path": "/3kSrBRmwthT89e9JQ9Df8aJl6XN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 34053,
+    "imdb_id": "tt0095119",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Everybody's All-American",
+    "overview": "Louisiana football star Gavin Grey had it all. He was an All-American champion who married his high-school sweetheart, homecoming queen Babs Rogers, and who was a hero to his hometown. Yet after a failed professional career, Gavin realizes that fame and success have passed him by and that he no longer is the hero everyone keeps reminding him he should still be. His dissatisfaction with his life leads to strains in his marriage, and Gavin begins to wonder who he is, if he's not a hero anymore.",
+    "popularity": 1.588,
+    "poster_path": "/kU8DdARin8VwV0j3G27mFEEitCy.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1988-11-04",
+    "revenue": 12638294,
+    "runtime": 127,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Their life story is a love story",
+    "title": "Everybody's All-American",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 45,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-05-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1988-11-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6065,
+                "known_for_department": "Acting",
+                "name": "Dennis Quaid",
+                "original_name": "Dennis Quaid",
+                "popularity": 0.148,
+                "profile_path": "/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg",
+                "cast_id": 3,
+                "character": "Gavin Grey",
+                "credit_id": "52fe454e9251416c9102dcd9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4431,
+                "known_for_department": "Acting",
+                "name": "Jessica Lange",
+                "original_name": "Jessica Lange",
+                "popularity": 0.075,
+                "profile_path": "/aWcO6trggSWsglUOdTVzjG4LSh3.jpg",
+                "cast_id": 2,
+                "character": "Babs Rogers Grey",
+                "credit_id": "52fe454e9251416c9102dcd5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16327,
+                "known_for_department": "Acting",
+                "name": "Timothy Hutton",
+                "original_name": "Timothy Hutton",
+                "popularity": 0.077,
+                "profile_path": "/gIzPFbDr6pdcdxp2YzobYGkicrT.jpg",
+                "cast_id": 4,
+                "character": "Donnie 'Cake'",
+                "credit_id": "52fe454e9251416c9102dcdd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1230,
+                "known_for_department": "Acting",
+                "name": "John Goodman",
+                "original_name": "John Goodman",
+                "popularity": 0.128,
+                "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+                "cast_id": 5,
+                "character": "Lawrence",
+                "credit_id": "52fe454e9251416c9102dce1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29382,
+                "known_for_department": "Acting",
+                "name": "Carl Lumbly",
+                "original_name": "Carl Lumbly",
+                "popularity": 0.059,
+                "profile_path": "/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg",
+                "cast_id": 6,
+                "character": "Narvel Blue",
+                "credit_id": "52fe454e9251416c9102dce5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12889,
+                "known_for_department": "Acting",
+                "name": "Ray Baker",
+                "original_name": "Ray Baker",
+                "popularity": 0.022,
+                "profile_path": "/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg",
+                "cast_id": 7,
+                "character": "Bolling Kiely",
+                "credit_id": "52fe454e9251416c9102dce9",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 175081,
+                "known_for_department": "Acting",
+                "name": "Savannah Smith Boucher",
+                "original_name": "Savannah Smith Boucher",
+                "popularity": 0.006,
+                "profile_path": "/AbQ0l0t4ywDY3A7VXY3ZYBoVaey.jpg",
+                "cast_id": 8,
+                "character": "Darlene Kiely (as Savannah Smith Bouchér)",
+                "credit_id": "52fe454e9251416c9102dced",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1276,
+                "known_for_department": "Acting",
+                "name": "Patricia Clarkson",
+                "original_name": "Patricia Clarkson",
+                "popularity": 0.058,
+                "profile_path": "/gQwOxRXkmmAhu1urnLtHVPhN2O2.jpg",
+                "cast_id": 9,
+                "character": "Leslie Stone",
+                "credit_id": "52fe454e9251416c9102dcf1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96635,
+                "known_for_department": "Acting",
+                "name": "Aaron Neville",
+                "original_name": "Aaron Neville",
+                "popularity": 0.01,
+                "profile_path": "/oOwN8oFf4cUIVypPCyVKRz9f9hP.jpg",
+                "cast_id": 10,
+                "character": "Man with Gun",
+                "credit_id": "52fe454e9251416c9102dcf5",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4201,
+                "known_for_department": "Acting",
+                "name": "Wayne Knight",
+                "original_name": "Wayne Knight",
+                "popularity": 0.087,
+                "profile_path": "/xlGqbZjn48xAUa7eqTybZP360w0.jpg",
+                "cast_id": 26,
+                "character": "Fraternity Pisser",
+                "credit_id": "6004ed96719aeb0044495757",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18596,
+                "known_for_department": "Directing",
+                "name": "Taylor Hackford",
+                "original_name": "Taylor Hackford",
+                "popularity": 0.015,
+                "profile_path": "/aAP9RYT7XxUiC2NZL9Hi2gEdxGB.jpg",
+                "credit_id": "52fe454e9251416c9102dcd1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1185449,
+                "known_for_department": "Acting",
+                "name": "Frank Deford",
+                "original_name": "Frank Deford",
+                "popularity": 0.002,
+                "profile_path": "/3qhgeCsNqQO9flTHpnUv6GpTTL8.jpg",
+                "credit_id": "52fe454e9251416c9102dcfb",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51627,
+                "known_for_department": "Writing",
+                "name": "Thomas Rickman",
+                "original_name": "Thomas Rickman",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe454e9251416c9102dd01",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1648134,
+                "known_for_department": "Art",
+                "name": "Dan Perri",
+                "original_name": "Dan Perri",
+                "popularity": 0.01,
+                "profile_path": "/mA9uK61agktxuupVxOBiq13L9OL.jpg",
+                "credit_id": "5c1520cd92514132b70aba8b",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213,
+                "known_for_department": "Sound",
+                "name": "James Newton Howard",
+                "original_name": "James Newton Howard",
+                "popularity": 0.014,
+                "profile_path": "/qB4JgzCXCjr7NwW7UNrgBrWZDlo.jpg",
+                "credit_id": "5fc824fd43999b003c14543d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5582,
+                "known_for_department": "Camera",
+                "name": "Stephen Goldblatt",
+                "original_name": "Stephen Goldblatt",
+                "popularity": 0.008,
+                "profile_path": "/97CbNIVSQa6uWY706Ma9lupJE7Q.jpg",
+                "credit_id": "5fc825045f4b730041e4b57a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15005,
+                "known_for_department": "Editing",
+                "name": "Don Zimmerman",
+                "original_name": "Don Zimmerman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5fc8250a383df2003e55db88",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14096,
+                "known_for_department": "Production",
+                "name": "Nancy Klopper",
+                "original_name": "Nancy Klopper",
+                "popularity": 0.01,
+                "profile_path": "/4l4SNkIWeAiG5tLadx6UG3NJ9iX.jpg",
+                "credit_id": "5fc825108261ee00413b997e",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8558,
+                "known_for_department": "Art",
+                "name": "Joe Alves",
+                "original_name": "Joe Alves",
+                "popularity": 0.006,
+                "profile_path": "/4JZz6fd5TpqexJzHTXOvgUpMioK.jpg",
+                "credit_id": "5fc8251866a7c3003f4468ed",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21559,
+                "known_for_department": "Art",
+                "name": "George Jenson",
+                "original_name": "George Jenson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc8251f5f4b730040e4bb04",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13588,
+                "known_for_department": "Art",
+                "name": "Rosemary Brandenburg",
+                "original_name": "Rosemary Brandenburg",
+                "popularity": 0.01,
+                "profile_path": "/rrlIjwGSprN47jjXCVIhoIBjKXr.jpg",
+                "credit_id": "5fc82526dcf875003f3d8a9d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6455,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Theadora Van Runkle",
+                "original_name": "Theadora Van Runkle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc8252d68188800421df647",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7627,
+                "known_for_department": "Production",
+                "name": "Laura Ziskin",
+                "original_name": "Laura Ziskin",
+                "popularity": 0.008,
+                "profile_path": "/nw6ZfMnDdoeWJCMiM4mQp8arZD1.jpg",
+                "credit_id": "5fc82536dcf87500423d817a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18596,
+                "known_for_department": "Directing",
+                "name": "Taylor Hackford",
+                "original_name": "Taylor Hackford",
+                "popularity": 0.015,
+                "profile_path": "/aAP9RYT7XxUiC2NZL9Hi2gEdxGB.jpg",
+                "credit_id": "5fc825555f4b730042e4bb2c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1551930,
+                "known_for_department": "Production",
+                "name": "Stuart Benjamin",
+                "original_name": "Stuart Benjamin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc8255e426ae800427129e1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 414,
+                "known_for_department": "Production",
+                "name": "Alan C. Blomquist",
+                "original_name": "Alan C. Blomquist",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5fc825663f8ede003effc251",
+                "department": "Production",
+                "job": "Co-Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6075,
+                "name": "sports"
+            },
+            {
+                "id": 579,
+                "name": "american football"
+            },
+            {
+                "id": 207125,
+                "name": "all-american"
+            },
+            {
+                "id": 207126,
+                "name": "homecoming queen"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Dennis Quaid",
+            "character": "Gavin Grey"
+        },
+        {
+            "actor": "Jessica Lange",
+            "character": "Babs Rogers Grey"
+        },
+        {
+            "actor": "Timothy Hutton",
+            "character": "Donnie 'Cake'"
+        },
+        {
+            "actor": "John Goodman",
+            "character": "Lawrence"
+        },
+        {
+            "actor": "Carl Lumbly",
+            "character": "Narvel Blue"
+        },
+        {
+            "actor": "Ray Baker",
+            "character": "Bolling Kiely"
+        },
+        {
+            "actor": "Savannah Smith Boucher",
+            "character": "Darlene Kiely (as Savannah Smith Bouchér)"
+        },
+        {
+            "actor": "Patricia Clarkson",
+            "character": "Leslie Stone"
+        },
+        {
+            "actor": "Aaron Neville",
+            "character": "Man with Gun"
+        },
+        {
+            "actor": "Wayne Knight",
+            "character": "Fraternity Pisser"
+        }
+    ]
+}

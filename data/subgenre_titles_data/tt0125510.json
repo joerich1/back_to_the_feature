@@ -1,0 +1,656 @@
+{
+    "adult": false,
+    "backdrop_path": "/x2Aj04sAnLydBeRakOhpT7orIK9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 30996,
+    "imdb_id": "tt0125510",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Splatter University",
+    "overview": "A sociology instructor finds her new teaching duties at a private college interrupted by the presence of a killer.",
+    "popularity": 1.876,
+    "poster_path": "/cJqS0Qyk9QZDvIojWKye9VhuwtO.jpg",
+    "production_companies": [
+        {
+            "id": 34578,
+            "logo_path": null,
+            "name": "Aquifilm",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1984-07-13",
+    "revenue": 0,
+    "runtime": 77,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Earn a higher degree in terror!",
+    "title": "Splatter University",
+    "video": false,
+    "vote_average": 4.255,
+    "vote_count": 53,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "genaues Datum unbekannt",
+                        "release_date": "1987-01-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-ray premiere",
+                        "release_date": "2015-10-25T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1984-07-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 95236,
+                "known_for_department": "Acting",
+                "name": "Forbes Riley",
+                "original_name": "Forbes Riley",
+                "popularity": 0.011,
+                "profile_path": "/46TpGM2yaq0OdfV4GLUMO85Shn.jpg",
+                "cast_id": 3,
+                "character": "Julie Parker",
+                "credit_id": "52fe44539251416c9100cb81",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197044,
+                "known_for_department": "Acting",
+                "name": "Ric Randig",
+                "original_name": "Ric Randig",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Mark Hammond",
+                "credit_id": "52fe44539251416c9100cb85",
+                "order": 1
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 98180,
+                "known_for_department": "Acting",
+                "name": "Dick Biel",
+                "original_name": "Dick Biel",
+                "popularity": 1.38,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Father Janson / Daniel Grayham",
+                "credit_id": "52fe44539251416c9100cb89",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3837915,
+                "known_for_department": "Editing",
+                "name": "Kathy Lacommare",
+                "original_name": "Kathy Lacommare",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Cathy Hunter",
+                "credit_id": "66730e8a3db8aef3588efa6a",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1197046,
+                "known_for_department": "Acting",
+                "name": "Mary Ellen David",
+                "original_name": "Mary Ellen David",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Mrs. Bloom",
+                "credit_id": "52fe44539251416c9100cb91",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371268,
+                "known_for_department": "Acting",
+                "name": "Laura Gold",
+                "original_name": "Laura Gold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Cynthia",
+                "credit_id": "54313a660e0a2656e2001a6c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547062,
+                "known_for_department": "Acting",
+                "name": "Ken Gerson",
+                "original_name": "Ken Gerson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Tom Scavelli",
+                "credit_id": "5668e61fc3a36834c100024c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547063,
+                "known_for_department": "Production",
+                "name": "Sal Lumetta",
+                "original_name": "Sal Lumetta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Wolf",
+                "credit_id": "5668e62bc3a3683609000241",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547064,
+                "known_for_department": "Acting",
+                "name": "Clifford Warren",
+                "original_name": "Clifford Warren",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Classroom Wise Guy",
+                "credit_id": "5668e63ec3a36833b6000245",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547065,
+                "known_for_department": "Acting",
+                "name": "Noel Stilphen",
+                "original_name": "Noel Stilphen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Margaret",
+                "credit_id": "5668e64b92514173fc0045f7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 98185,
+                "known_for_department": "Acting",
+                "name": "Jane Doniger Reibel",
+                "original_name": "Jane Doniger Reibel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Mrs. Hunter",
+                "credit_id": "5668e65cc3a3683609000254",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547066,
+                "known_for_department": "Acting",
+                "name": "Dan Eaton",
+                "original_name": "Dan Eaton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Father Williams",
+                "credit_id": "5668e66c92514174080045af",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107476,
+                "known_for_department": "Writing",
+                "name": "John Elias Michalakis",
+                "original_name": "John Elias Michalakis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "John",
+                "credit_id": "5668e67a9251417411004488",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107478,
+                "known_for_department": "Acting",
+                "name": "George Seminara",
+                "original_name": "George Seminara",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Tony",
+                "credit_id": "5668e686c3a36836a00045c5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547067,
+                "known_for_department": "Acting",
+                "name": "Joanna Mihalakis",
+                "original_name": "Joanna Mihalakis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Doreen",
+                "credit_id": "5668e692c3a368369900438a",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 549532,
+                "known_for_department": "Acting",
+                "name": "Jim Martin",
+                "original_name": "Jim Martin",
+                "popularity": 0.004,
+                "profile_path": "/h7w3gSKoOiMXqH98OvKHVPLKFHU.jpg",
+                "cast_id": 36,
+                "character": "Jimbo",
+                "credit_id": "572b3d5092514106f70026c3",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107482,
+                "known_for_department": "Writing",
+                "name": "Richard W. Haines",
+                "original_name": "Richard W. Haines",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44539251416c9100cb77",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107476,
+                "known_for_department": "Writing",
+                "name": "John Elias Michalakis",
+                "original_name": "John Elias Michalakis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44539251416c9100cb7d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107482,
+                "known_for_department": "Writing",
+                "name": "Richard W. Haines",
+                "original_name": "Richard W. Haines",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54313aa9c3a36831a9002f8b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371269,
+                "known_for_department": "Production",
+                "name": "Miljan Peter Ilich",
+                "original_name": "Miljan Peter Ilich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54313ab8c3a36831bb003157",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107482,
+                "known_for_department": "Writing",
+                "name": "Richard W. Haines",
+                "original_name": "Richard W. Haines",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e6be92514174010048d2",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107476,
+                "known_for_department": "Writing",
+                "name": "John Elias Michalakis",
+                "original_name": "John Elias Michalakis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e6d3c3a36836b40041e5",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107482,
+                "known_for_department": "Writing",
+                "name": "Richard W. Haines",
+                "original_name": "Richard W. Haines",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e6f7c3a36836a60049bc",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107476,
+                "known_for_department": "Writing",
+                "name": "John Elias Michalakis",
+                "original_name": "John Elias Michalakis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e73692514173fc004629",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371269,
+                "known_for_department": "Production",
+                "name": "Miljan Peter Ilich",
+                "original_name": "Miljan Peter Ilich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e74492514174110044a6",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371270,
+                "known_for_department": "Sound",
+                "name": "Christopher Burke",
+                "original_name": "Christopher Burke",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e7529251415618000016",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371271,
+                "known_for_department": "Camera",
+                "name": "Fred Cohen",
+                "original_name": "Fred Cohen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e76592514174110044ac",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 106238,
+                "known_for_department": "Production",
+                "name": "Jim Grib",
+                "original_name": "Jim Grib",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e77ac3a36833b600027d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547068,
+                "known_for_department": "Crew",
+                "name": "Amodio Giordano",
+                "original_name": "Amodio Giordano",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5668e79dc3a36834c1000298",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 549532,
+                "known_for_department": "Acting",
+                "name": "Jim Martin",
+                "original_name": "Jim Martin",
+                "popularity": 0.004,
+                "profile_path": "/h7w3gSKoOiMXqH98OvKHVPLKFHU.jpg",
+                "credit_id": "63bab3dcc0a308008ca201d6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1735225,
+                "known_for_department": "Writing",
+                "name": "Michael Cunningham",
+                "original_name": "Michael Cunningham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "587267f992514135690191f3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1735225,
+                "known_for_department": "Writing",
+                "name": "Michael Cunningham",
+                "original_name": "Michael Cunningham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "587268029251413561018471",
+                "department": "Writing",
+                "job": "Story"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3616,
+                "name": "college"
+            },
+            {
+                "id": 4728,
+                "name": "knife"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10022,
+                "name": "rampage"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 10873,
+                "name": "school"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 13160,
+                "name": "university"
+            },
+            {
+                "id": 14805,
+                "name": "maniac"
+            },
+            {
+                "id": 173298,
+                "name": "escaped mental patient"
+            },
+            {
+                "id": 190007,
+                "name": "mental hospital"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Forbes Riley",
+            "character": "Julie Parker"
+        },
+        {
+            "actor": "Ric Randig",
+            "character": "Mark Hammond"
+        },
+        {
+            "actor": "Dick Biel",
+            "character": "Father Janson / Daniel Grayham"
+        },
+        {
+            "actor": "Kathy Lacommare",
+            "character": "Cathy Hunter"
+        },
+        {
+            "actor": "Mary Ellen David",
+            "character": "Mrs. Bloom"
+        },
+        {
+            "actor": "Laura Gold",
+            "character": "Cynthia"
+        },
+        {
+            "actor": "Ken Gerson",
+            "character": "Tom Scavelli"
+        },
+        {
+            "actor": "Sal Lumetta",
+            "character": "Wolf"
+        },
+        {
+            "actor": "Clifford Warren",
+            "character": "Classroom Wise Guy"
+        },
+        {
+            "actor": "Noel Stilphen",
+            "character": "Margaret"
+        },
+        {
+            "actor": "Jane Doniger Reibel",
+            "character": "Mrs. Hunter"
+        },
+        {
+            "actor": "Dan Eaton",
+            "character": "Father Williams"
+        },
+        {
+            "actor": "John Elias Michalakis",
+            "character": "John"
+        },
+        {
+            "actor": "George Seminara",
+            "character": "Tony"
+        },
+        {
+            "actor": "Joanna Mihalakis",
+            "character": "Doreen"
+        },
+        {
+            "actor": "Jim Martin",
+            "character": "Jimbo"
+        }
+    ]
+}

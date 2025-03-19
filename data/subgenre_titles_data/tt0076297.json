@@ -1,0 +1,755 @@
+{
+    "adult": false,
+    "backdrop_path": "/uVZCGy4TgH0C5m1sfIgCO4ZGR9n.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 55628,
+    "imdb_id": "tt0076297",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Last Remake of Beau Geste",
+    "overview": "Digby Geste joins his brother, Beau, in the Foreign Legion following the theft of a priceless family heirloom.",
+    "popularity": 1.412,
+    "poster_path": "/6GwMgIuOKxf1TCdgZGDQ56Kvyt.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/3wwjVpkZtnog6lSKzWDjvw2Yi00.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1977-06-15",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Last Remake of Beau Geste",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 40,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-12-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-03-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-12-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-06-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13567,
+                "known_for_department": "Acting",
+                "name": "Ann-Margret",
+                "original_name": "Ann-Margret",
+                "popularity": 0.063,
+                "profile_path": "/7cq76gMW4Mal5cctMLCK8wilJ6.jpg",
+                "cast_id": 1,
+                "character": "Flavia Geste",
+                "credit_id": "52fe48d7c3a36847f817c331",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29802,
+                "known_for_department": "Acting",
+                "name": "Marty Feldman",
+                "original_name": "Marty Feldman",
+                "popularity": 0.042,
+                "profile_path": "/jefjQwWMvgg2lDM3gvF8axrAcLO.jpg",
+                "cast_id": 6,
+                "character": "Dagobert 'Digby' Geste",
+                "credit_id": "52fe48d7c3a36847f817c341",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13919,
+                "known_for_department": "Acting",
+                "name": "Michael York",
+                "original_name": "Michael York",
+                "popularity": 0.052,
+                "profile_path": "/tutdIz0uuQ6fyPMoQ4HpCgy2uQu.jpg",
+                "cast_id": 3,
+                "character": "Beau Geste",
+                "credit_id": "52fe48d7c3a36847f817c335",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14501,
+                "known_for_department": "Acting",
+                "name": "Peter Ustinov",
+                "original_name": "Peter Ustinov",
+                "popularity": 0.044,
+                "profile_path": "/7GHLBhcNCiRugTcUt76HgtkZCUg.jpg",
+                "cast_id": 4,
+                "character": "Sergeant Markov",
+                "credit_id": "52fe48d7c3a36847f817c339",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15152,
+                "known_for_department": "Acting",
+                "name": "James Earl Jones",
+                "original_name": "James Earl Jones",
+                "popularity": 0.115,
+                "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+                "cast_id": 5,
+                "character": "Sheikh",
+                "credit_id": "52fe48d7c3a36847f817c33d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12726,
+                "known_for_department": "Acting",
+                "name": "Trevor Howard",
+                "original_name": "Trevor Howard",
+                "popularity": 0.03,
+                "profile_path": "/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg",
+                "cast_id": 9,
+                "character": "Sir Hector",
+                "credit_id": "52fe48d7c3a36847f817c351",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19439,
+                "known_for_department": "Acting",
+                "name": "Henry Gibson",
+                "original_name": "Henry Gibson",
+                "popularity": 0.055,
+                "profile_path": "/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg",
+                "cast_id": 11,
+                "character": "General Pecheur",
+                "credit_id": "52fe48d7c3a36847f817c355",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29427,
+                "known_for_department": "Acting",
+                "name": "Terry-Thomas",
+                "original_name": "Terry-Thomas",
+                "popularity": 0.016,
+                "profile_path": "/NKPVvPZy9NNYES1fhwuhLquHhI.jpg",
+                "cast_id": 12,
+                "character": "Governor",
+                "credit_id": "5eaec4e00b7316001c3fcf37",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3463,
+                "known_for_department": "Acting",
+                "name": "Roy Kinnear",
+                "original_name": "Roy Kinnear",
+                "popularity": 0.031,
+                "profile_path": "/cuKguENjdEiNhNArAL5CqIaTEfE.jpg",
+                "cast_id": 13,
+                "character": "Boldini",
+                "credit_id": "5eaec4ee71f095001dad4c0b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29539,
+                "known_for_department": "Acting",
+                "name": "Spike Milligan",
+                "original_name": "Spike Milligan",
+                "popularity": 0.014,
+                "profile_path": "/jnJjdXDPJaGWm7BSsTphqc48EoJ.jpg",
+                "cast_id": 14,
+                "character": "Crumble",
+                "credit_id": "5eaec50171f095001fad47b5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100624,
+                "known_for_department": "Acting",
+                "name": "Avery Schreiber",
+                "original_name": "Avery Schreiber",
+                "popularity": 0.017,
+                "profile_path": "/kNRVYuvDhYinmCGOKIL4bIE6lHB.jpg",
+                "cast_id": 15,
+                "character": "Sheikh's Aide & Camel Salesman",
+                "credit_id": "5eaec5261a934f0020ea5217",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10021,
+                "known_for_department": "Acting",
+                "name": "Hugh Griffith",
+                "original_name": "Hugh Griffith",
+                "popularity": 0.016,
+                "profile_path": "/xg3tpIaNyBmNBcJMG4Ft1uZTRVh.jpg",
+                "cast_id": 16,
+                "character": "Judge",
+                "credit_id": "5eaec53627d9cc001bd14354",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 79641,
+                "known_for_department": "Acting",
+                "name": "Irene Handl",
+                "original_name": "Irene Handl",
+                "popularity": 0.011,
+                "profile_path": "/34MBakVUAGJo7boUYeLmCNUZfkm.jpg",
+                "cast_id": 17,
+                "character": "Miss Wormwood",
+                "credit_id": "5eaec54727d9cc0022d13ba6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11281,
+                "known_for_department": "Acting",
+                "name": "Sinéad Cusack",
+                "original_name": "Sinéad Cusack",
+                "popularity": 0.025,
+                "profile_path": "/sEYOT1L4t32QDPpRlzYqWBrsXco.jpg",
+                "cast_id": 18,
+                "character": "Isabel Geste",
+                "credit_id": "5eaec55c0c3ec8001fcd39f4",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1217160,
+                "known_for_department": "Acting",
+                "name": "Henry Polic II",
+                "original_name": "Henry Polic II",
+                "popularity": 0.007,
+                "profile_path": "/lIDnm3pJg2OgkJmUEl5y7g9ETts.jpg",
+                "cast_id": 19,
+                "character": "Captain Merdmanger",
+                "credit_id": "5eaec5711a934f001eea5bb4",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9600,
+                "known_for_department": "Acting",
+                "name": "Ted Cassidy",
+                "original_name": "Ted Cassidy",
+                "popularity": 0.045,
+                "profile_path": "/w3KffYtOTw4bf0a72FUFVkVa3au.jpg",
+                "cast_id": 20,
+                "character": "Blindman",
+                "credit_id": "5eaec5861a934f0026ea595c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21944,
+                "known_for_department": "Acting",
+                "name": "Burt Kwouk",
+                "original_name": "Burt Kwouk",
+                "popularity": 0.041,
+                "profile_path": "/h65id1QbugPnKfC45NDkM7uJlSb.jpg",
+                "cast_id": 21,
+                "character": "Father Shapiro",
+                "credit_id": "5eaec5970c3ec8001fcd3a68",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47807,
+                "known_for_department": "Acting",
+                "name": "Val Pringle",
+                "original_name": "Val Pringle",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Dostoevsky",
+                "credit_id": "5eaec5aecdbaff0021b1c88a",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111326,
+                "known_for_department": "Acting",
+                "name": "Gwen Nelson",
+                "original_name": "Gwen Nelson",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Lady in Courtroom",
+                "credit_id": "5eaec5c027d9cc001dd1329d",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1234167,
+                "known_for_department": "Acting",
+                "name": "Roland MacLeod",
+                "original_name": "Roland MacLeod",
+                "popularity": 0.01,
+                "profile_path": "/pxkuHmovAgKjtTIHsAi0ubipnpy.jpg",
+                "cast_id": 24,
+                "character": "Dr. Crippen",
+                "credit_id": "5eaec5e3edeb43001fc7763e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2619487,
+                "known_for_department": "Acting",
+                "name": "Martin Snaric",
+                "original_name": "Martin Snaric",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Valentino",
+                "credit_id": "5eaec5f50c3ec8001fcd3bf0",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84362,
+                "known_for_department": "Acting",
+                "name": "Stephen Lewis",
+                "original_name": "Stephen Lewis",
+                "popularity": 0.01,
+                "profile_path": "/lS3LUmOooxaSr7CYgCaKbjf3N2v.jpg",
+                "cast_id": 26,
+                "character": "Henshaw",
+                "credit_id": "5eaec608edeb43001cc77e22",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112884,
+                "known_for_department": "Acting",
+                "name": "Ed McMahon",
+                "original_name": "Ed McMahon",
+                "popularity": 0.031,
+                "profile_path": "/5rSGcD45NL37zBmuCoLJpyfi5Ys.jpg",
+                "cast_id": 27,
+                "character": "Arab Horseman",
+                "credit_id": "5eaec65a0b7316001c3fd191",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4068,
+                "known_for_department": "Acting",
+                "name": "Gary Cooper",
+                "original_name": "Gary Cooper",
+                "popularity": 0.05,
+                "profile_path": "/9oVpXS8nLUp4teLIrhkY3o1f0oR.jpg",
+                "cast_id": 36,
+                "character": "Beau Geste (archive footage)",
+                "credit_id": "5eaee19a0c3ec8001dcd6fe7",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29802,
+                "known_for_department": "Acting",
+                "name": "Marty Feldman",
+                "original_name": "Marty Feldman",
+                "popularity": 0.042,
+                "profile_path": "/jefjQwWMvgg2lDM3gvF8axrAcLO.jpg",
+                "credit_id": "52fe48d7c3a36847f817c347",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29802,
+                "known_for_department": "Acting",
+                "name": "Marty Feldman",
+                "original_name": "Marty Feldman",
+                "popularity": 0.042,
+                "profile_path": "/jefjQwWMvgg2lDM3gvF8axrAcLO.jpg",
+                "credit_id": "52fe48d7c3a36847f817c34d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40052,
+                "known_for_department": "Camera",
+                "name": "Gerry Fisher",
+                "original_name": "Gerry Fisher",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "666b9bfd27eb968b7e9014cd",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 719,
+                "known_for_department": "Sound",
+                "name": "John Morris",
+                "original_name": "John Morris",
+                "popularity": 0.01,
+                "profile_path": "/jz112syH8RYDrZvbdgiYYWDudu8.jpg",
+                "credit_id": "666b9c0ffee28c301608201e",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4869825,
+                "known_for_department": "Crew",
+                "name": "Gilbert White",
+                "original_name": "Gilbert White",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66b1faee55046cf239eb91b9",
+                "department": "Crew",
+                "job": "Animal Wrangler"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38,
+                "known_for_department": "Editing",
+                "name": "Arthur Schmidt",
+                "original_name": "Arthur Schmidt",
+                "popularity": 0.008,
+                "profile_path": "/bSgfOvtFrtaftXSwXFLcI7Z0zKe.jpg",
+                "credit_id": "64d15cb06d4c9700cb7eedb9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13521,
+                "known_for_department": "Production",
+                "name": "William S. Gilmore",
+                "original_name": "William S. Gilmore",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5eaec679edeb43001cc77eae",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19471,
+                "known_for_department": "Production",
+                "name": "George Shapiro",
+                "original_name": "George Shapiro",
+                "popularity": 0.004,
+                "profile_path": "/5olYuUDiSj94CVrt9ETWrEm04HR.jpg",
+                "credit_id": "5eaec68bedeb43001fc77706",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1223858,
+                "known_for_department": "Production",
+                "name": "Howard West",
+                "original_name": "Howard West",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5eaec69b27d9cc001dd133ea",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2384,
+                "known_for_department": "Production",
+                "name": "Bernard Williams",
+                "original_name": "Bernard Williams",
+                "popularity": 0.016,
+                "profile_path": null,
+                "credit_id": "5eaec6d071f095001fad4a3e",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 214887,
+                "known_for_department": "Writing",
+                "name": "Chris Allen",
+                "original_name": "Chris Allen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5eaec7331a934f001eea5ca4",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 121641,
+                "known_for_department": "Writing",
+                "name": "Sam Bobrick",
+                "original_name": "Sam Bobrick",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5eaec75f27d9cc0022d13e2a",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 116393,
+                "known_for_department": "Writing",
+                "name": "Percival Christopher Wren",
+                "original_name": "Percival Christopher Wren",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5eaec77371f095001fad4aaf",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5058,
+                "known_for_department": "Directing",
+                "name": "Roger Christian",
+                "original_name": "Roger Christian",
+                "popularity": 0.008,
+                "profile_path": "/sEVJCm1WInlVXZP56RHg4pLZZYB.jpg",
+                "credit_id": "5ec521600c0b3800216c24c0",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2905,
+                "name": "foreign legion"
+            },
+            {
+                "id": 4717,
+                "name": "camel"
+            },
+            {
+                "id": 9755,
+                "name": "parody"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ann-Margret",
+            "character": "Flavia Geste"
+        },
+        {
+            "actor": "Marty Feldman",
+            "character": "Dagobert 'Digby' Geste"
+        },
+        {
+            "actor": "Michael York",
+            "character": "Beau Geste"
+        },
+        {
+            "actor": "Peter Ustinov",
+            "character": "Sergeant Markov"
+        },
+        {
+            "actor": "James Earl Jones",
+            "character": "Sheikh"
+        },
+        {
+            "actor": "Trevor Howard",
+            "character": "Sir Hector"
+        },
+        {
+            "actor": "Henry Gibson",
+            "character": "General Pecheur"
+        },
+        {
+            "actor": "Terry-Thomas",
+            "character": "Governor"
+        },
+        {
+            "actor": "Roy Kinnear",
+            "character": "Boldini"
+        },
+        {
+            "actor": "Spike Milligan",
+            "character": "Crumble"
+        },
+        {
+            "actor": "Avery Schreiber",
+            "character": "Sheikh's Aide & Camel Salesman"
+        },
+        {
+            "actor": "Hugh Griffith",
+            "character": "Judge"
+        },
+        {
+            "actor": "Irene Handl",
+            "character": "Miss Wormwood"
+        },
+        {
+            "actor": "Sinéad Cusack",
+            "character": "Isabel Geste"
+        },
+        {
+            "actor": "Henry Polic II",
+            "character": "Captain Merdmanger"
+        },
+        {
+            "actor": "Ted Cassidy",
+            "character": "Blindman"
+        },
+        {
+            "actor": "Burt Kwouk",
+            "character": "Father Shapiro"
+        },
+        {
+            "actor": "Val Pringle",
+            "character": "Dostoevsky"
+        },
+        {
+            "actor": "Gwen Nelson",
+            "character": "Lady in Courtroom"
+        },
+        {
+            "actor": "Roland MacLeod",
+            "character": "Dr. Crippen"
+        },
+        {
+            "actor": "Martin Snaric",
+            "character": "Valentino"
+        },
+        {
+            "actor": "Stephen Lewis",
+            "character": "Henshaw"
+        },
+        {
+            "actor": "Ed McMahon",
+            "character": "Arab Horseman"
+        },
+        {
+            "actor": "Gary Cooper",
+            "character": "Beau Geste (archive footage)"
+        }
+    ]
+}

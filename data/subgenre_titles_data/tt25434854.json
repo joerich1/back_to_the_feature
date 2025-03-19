@@ -1,0 +1,655 @@
+{
+    "adult": false,
+    "backdrop_path": "/e0qcEOrY8QWb1g3C3v9TGctROj1.jpg",
+    "belongs_to_collection": null,
+    "budget": 28700000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 667717,
+    "imdb_id": "tt25434854",
+    "origin_country": [
+        "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "深海",
+    "overview": "Shenxiu has felt a deep sadness since her mother left. A storm plunges her into a dreamlike world of swirling colour. Led by the Hyjinx, and joined by inventive underwater chef Nanhe, she embarks on a quest to find solace in the Eye of the Deep Sea.",
+    "popularity": 3.558,
+    "poster_path": "/znSKKjTpwnFmlieJtnlLoI6McKK.jpg",
+    "production_companies": [
+        {
+            "id": 153486,
+            "logo_path": "/389mBiWxOR04XM8233qcRFfx9TN.png",
+            "name": "October Media",
+            "origin_country": "CN"
+        },
+        {
+            "id": 121042,
+            "logo_path": "/c8y6syie4YoN4Pzz62Lvu11UNz0.png",
+            "name": "Horgos Coloroom Pictures",
+            "origin_country": "CN"
+        },
+        {
+            "id": 4053,
+            "logo_path": null,
+            "name": "Enlight Pictures",
+            "origin_country": "CN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CN",
+            "name": "China"
+        }
+    ],
+    "release_date": "2023-01-22",
+    "revenue": 136090000,
+    "runtime": 112,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Deep Sea",
+    "video": false,
+    "vote_average": 6.921,
+    "vote_count": 114,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CN",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-19T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [
+                            "Threat"
+                        ],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-08-10T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-11-10T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-11-24T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "7",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-05-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-02-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-06-07T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "BFI London Film Festival",
+                        "release_date": "2023-10-07T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Now TV",
+                        "release_date": "2024-07-21T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [
+                            "Fear"
+                        ],
+                        "iso_639_1": "zh",
+                        "note": "",
+                        "release_date": "2024-07-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "QA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-08-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TW",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2025-01-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-06-09T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-11-24T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2079094,
+                "known_for_department": "Acting",
+                "name": "Wang Ting Wen",
+                "original_name": "Wang Ting Wen",
+                "popularity": 0.002,
+                "profile_path": "/ta8JpBM2zvzVLYUeJQEIQeZYr9W.jpg",
+                "cast_id": 4,
+                "character": "Shenxiu (voice)",
+                "credit_id": "635d998666565a007a2fba20",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2181656,
+                "known_for_department": "Acting",
+                "name": "Su Xin",
+                "original_name": "蘇鑫",
+                "popularity": 0.003,
+                "profile_path": "/lqCsXTe3B9PnL6NtrWBd1xhPgE7.jpg",
+                "cast_id": 3,
+                "character": "Nanhe / Xiao Chou (voice)",
+                "credit_id": "635d97c695c0af0098f73614",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3882419,
+                "known_for_department": "Acting",
+                "name": "Kuixing Teng",
+                "original_name": "Kuixing Teng",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Chief Mate (Da Fu) / Father (voice)",
+                "credit_id": "63ca75060398ab00af064b96",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3954698,
+                "known_for_department": "Acting",
+                "name": "Yang Ting",
+                "original_name": "Yang Ting",
+                "popularity": 0.001,
+                "profile_path": "/2PsocrOTMpEoeG9NIH4hINbWd7i.jpg",
+                "cast_id": 10,
+                "character": "Stepmom / Flower (voice)",
+                "credit_id": "6408e30ecfe48f00f7a3e6ec",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2895811,
+                "known_for_department": "Acting",
+                "name": "Ji Jing",
+                "original_name": "Ji Jing",
+                "popularity": 0.001,
+                "profile_path": "/znRs26tHbfFWQ1Ns52afxJDLJMI.jpg",
+                "cast_id": 6,
+                "character": "Mother / Blue Carp (voice)",
+                "credit_id": "63ca754a03f0b600843d720c",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2463715,
+                "known_for_department": "Acting",
+                "name": "Guo Haoran",
+                "original_name": "Guo Haoran",
+                "popularity": 0.008,
+                "profile_path": "/tRDkVIAt8z8jmpnLwH2rbgJ5uln.jpg",
+                "cast_id": 7,
+                "character": "Purple Carp (voice)",
+                "credit_id": "63ca757c03f0b600790474d6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1490566,
+                "known_for_department": "Writing",
+                "name": "Xiaopeng Tian",
+                "original_name": "田晓鹏",
+                "popularity": 0.005,
+                "profile_path": "/u7XMs9pzW9ff1UymKymP4tmi5Dw.jpg",
+                "cast_id": 20,
+                "character": "Clown Fish (voice)",
+                "credit_id": "64669a59d185720161906c0e",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069427,
+                "known_for_department": "Acting",
+                "name": "Fang Taochen",
+                "original_name": "Fang Taochen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Sweet Bean (voice)",
+                "credit_id": "64669a032bcf6700e3b9852e",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4069430,
+                "known_for_department": "Acting",
+                "name": "Dong Yi",
+                "original_name": "Yi Dong",
+                "popularity": 0.001,
+                "profile_path": "/pBVt49DyeZYIJGtrtPVIszEofHH.jpg",
+                "cast_id": 21,
+                "character": "Younger Brother (voice)",
+                "credit_id": "64669aaac3514c015778dea8",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4823270,
+                "known_for_department": "Acting",
+                "name": "Zhou Juan",
+                "original_name": "周娟",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Little Carp",
+                "credit_id": "668f1b0f0be94d61ce883c97",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3234022,
+                "known_for_department": "Writing",
+                "name": "Jing Wang",
+                "original_name": "Jing Wang",
+                "popularity": 0.002,
+                "profile_path": "/dLHjM6wDZgqa887PVhHoXukNfxw.jpg",
+                "credit_id": "64d9b77ea1074b00c7d2c5b8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2397782,
+                "known_for_department": "Writing",
+                "name": "Wei Yunyun",
+                "original_name": "Wei Yunyun",
+                "popularity": 0.001,
+                "profile_path": "/cevtT5Q4IqEeV04vlyNWpJxBtvb.jpg",
+                "credit_id": "63cc4c6d6d97e60089f03160",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069414,
+                "known_for_department": "Production",
+                "name": "Linlin Cao",
+                "original_name": "Linlin Cao",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6466972333a3760101f9d0d4",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069416,
+                "known_for_department": "Production",
+                "name": "Wang Ren",
+                "original_name": "Wang Ren",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6466976933a376011ec2c4cc",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069440,
+                "known_for_department": "Art",
+                "name": "Yin Hongyu",
+                "original_name": "Yin Hongyu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64669b45d1857201402fc0ce",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069417,
+                "known_for_department": "Production",
+                "name": "Wang Ren",
+                "original_name": "Wang Ren",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6466977b2bcf67015581aa35",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069419,
+                "known_for_department": "Production",
+                "name": "Qiao Yi",
+                "original_name": "Qiao Yi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "646697912bcf670172b0276c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069434,
+                "known_for_department": "Camera",
+                "name": "Cheng Mazhiyuan",
+                "original_name": "Cheng Mazhiyuan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64669b0ed1857200e5a30026",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1926588,
+                "known_for_department": "Sound",
+                "name": "Dou Peng",
+                "original_name": "Dou Peng",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6466979b2bcf67015581aa43",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1490566,
+                "known_for_department": "Writing",
+                "name": "Xiaopeng Tian",
+                "original_name": "田晓鹏",
+                "popularity": 0.005,
+                "profile_path": "/u7XMs9pzW9ff1UymKymP4tmi5Dw.jpg",
+                "credit_id": "646696f52bcf67015581aa07",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4069437,
+                "known_for_department": "Editing",
+                "name": "Lin Aner",
+                "original_name": "Lin Aner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64669b2033a3760175d1cae6",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1490566,
+                "known_for_department": "Writing",
+                "name": "Xiaopeng Tian",
+                "original_name": "田晓鹏",
+                "popularity": 0.005,
+                "profile_path": "/u7XMs9pzW9ff1UymKymP4tmi5Dw.jpg",
+                "credit_id": "64669b19d1857201402fc0a5",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1490566,
+                "known_for_department": "Writing",
+                "name": "Xiaopeng Tian",
+                "original_name": "田晓鹏",
+                "popularity": 0.005,
+                "profile_path": "/u7XMs9pzW9ff1UymKymP4tmi5Dw.jpg",
+                "credit_id": "5e3050ab6743fa00151dcc90",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 11322,
+                "name": "female protagonist"
+            },
+            {
+                "id": 194998,
+                "name": "curious"
+            },
+            {
+                "id": 225219,
+                "name": "reflective"
+            },
+            {
+                "id": 278823,
+                "name": "3d animation"
+            },
+            {
+                "id": 291153,
+                "name": "grand"
+            },
+            {
+                "id": 309426,
+                "name": "understated"
+            },
+            {
+                "id": 314398,
+                "name": "幻境"
+            },
+            {
+                "id": 314399,
+                "name": "深海"
+            },
+            {
+                "id": 314400,
+                "name": "拯救"
+            },
+            {
+                "id": 314401,
+                "name": "感动"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Wang Ting Wen",
+            "character": "Shenxiu (voice)"
+        },
+        {
+            "actor": "Su Xin",
+            "character": "Nanhe / Xiao Chou (voice)"
+        },
+        {
+            "actor": "Kuixing Teng",
+            "character": "Chief Mate (Da Fu) / Father (voice)"
+        },
+        {
+            "actor": "Yang Ting",
+            "character": "Stepmom / Flower (voice)"
+        },
+        {
+            "actor": "Ji Jing",
+            "character": "Mother / Blue Carp (voice)"
+        },
+        {
+            "actor": "Guo Haoran",
+            "character": "Purple Carp (voice)"
+        },
+        {
+            "actor": "Xiaopeng Tian",
+            "character": "Clown Fish (voice)"
+        },
+        {
+            "actor": "Fang Taochen",
+            "character": "Sweet Bean (voice)"
+        },
+        {
+            "actor": "Dong Yi",
+            "character": "Younger Brother (voice)"
+        },
+        {
+            "actor": "Zhou Juan",
+            "character": "Little Carp"
+        }
+    ]
+}

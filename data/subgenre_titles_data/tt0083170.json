@@ -1,0 +1,421 @@
+{
+    "adult": false,
+    "backdrop_path": "/vAgTuOX9AlNw3puVwMxPlBbMY9z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 26325,
+    "imdb_id": "tt0083170",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tarzan the Ape Man",
+    "overview": "The Tarzan story from Jane's point of view. Jane Parker visits her father in Africa where she joins him on an expedition. A couple of brief encounters with Tarzan establish a (sexual) bond between her and Tarzan. When the expedition is captured by savages, Tarzan comes to the rescue",
+    "popularity": 3.53,
+    "poster_path": "/nYoH03aBoyi4Bp0VXodrsc4JI6O.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 126949,
+            "logo_path": null,
+            "name": "Svengali Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1981-08-07",
+    "revenue": 36565280,
+    "runtime": 107,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The most beautiful woman of our time in the most erotic adventure of all time.",
+    "title": "Tarzan the Ape Man",
+    "video": false,
+    "vote_average": 4.06,
+    "vote_count": 100,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-09-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-09-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-12-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37995,
+                "known_for_department": "Acting",
+                "name": "Bo Derek",
+                "original_name": "Bo Derek",
+                "popularity": 0.118,
+                "profile_path": "/mmCo56529hEkYZ2KV9ilWS8HXRX.jpg",
+                "cast_id": 1,
+                "character": "Jane Porter",
+                "credit_id": "52fe44fac3a368484e041cd1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 194,
+                "known_for_department": "Acting",
+                "name": "Richard Harris",
+                "original_name": "Richard Harris",
+                "popularity": 0.049,
+                "profile_path": "/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg",
+                "cast_id": 2,
+                "character": "James Porter",
+                "credit_id": "52fe44fac3a368484e041cd5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29426,
+                "known_for_department": "Acting",
+                "name": "John Phillip Law",
+                "original_name": "John Phillip Law",
+                "popularity": 0.026,
+                "profile_path": "/3QTz9geTTDwSt8NGJrc3JY3UGfs.jpg",
+                "cast_id": 3,
+                "character": "Harry Holt",
+                "credit_id": "52fe44fac3a368484e041cd9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45039,
+                "known_for_department": "Acting",
+                "name": "Miles O'Keeffe",
+                "original_name": "Miles O'Keeffe",
+                "popularity": 0.022,
+                "profile_path": "/39WNGWJ4mXYqvIGkrgfW369IrVN.jpg",
+                "cast_id": 4,
+                "character": "Tarzan",
+                "credit_id": "52fe44fac3a368484e041cdd",
+                "order": 3
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 1039440,
+                "known_for_department": "Acting",
+                "name": "Steve Strong",
+                "original_name": "Steve Strong",
+                "popularity": 3.125,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Ivory King",
+                "credit_id": "5e05243f0284200019b7e20a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15387,
+                "known_for_department": "Acting",
+                "name": "Wilfrid Hyde-White",
+                "original_name": "Wilfrid Hyde-White",
+                "popularity": 0.019,
+                "profile_path": "/dqdw6iQgMxHp7v5wdI5a2VI6Rwp.jpg",
+                "cast_id": 13,
+                "character": "Club Member (voice)",
+                "credit_id": "5e0524629566580013ea0399",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93310,
+                "known_for_department": "Acting",
+                "name": "Laurie Main",
+                "original_name": "Laurie Main",
+                "popularity": 0.01,
+                "profile_path": "/k0a0ROBh2BuMShcDdNcZjOXQvoX.jpg",
+                "cast_id": 14,
+                "character": "Club Member (voice)",
+                "credit_id": "5e052473d236e6001699f8d2",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98527,
+                "known_for_department": "Acting",
+                "name": "Harold Ayer",
+                "original_name": "Harold Ayer",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Club Member (voice)",
+                "credit_id": "5e05247b4c1d9a0019dc81a1",
+                "order": 7
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39608,
+                "known_for_department": "Acting",
+                "name": "John Derek",
+                "original_name": "John Derek",
+                "popularity": 0.016,
+                "profile_path": "/eQb5Tq9oyHUVBZsiLyBSMPOfItJ.jpg",
+                "credit_id": "52fe44fac3a368484e041ce3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 125815,
+                "known_for_department": "Sound",
+                "name": "Perry Botkin Jr.",
+                "original_name": "Perry Botkin Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44fac3a368484e041d01",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 63669,
+                "known_for_department": "Production",
+                "name": "Tom Rowe",
+                "original_name": "Tom Rowe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44fac3a368484e041ce9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37995,
+                "known_for_department": "Acting",
+                "name": "Bo Derek",
+                "original_name": "Bo Derek",
+                "popularity": 0.118,
+                "profile_path": "/mmCo56529hEkYZ2KV9ilWS8HXRX.jpg",
+                "credit_id": "52fe44fac3a368484e041cfb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15776,
+                "known_for_department": "Writing",
+                "name": "Edgar Rice Burroughs",
+                "original_name": "Edgar Rice Burroughs",
+                "popularity": 0.01,
+                "profile_path": "/bUDtw9ZMeeTIKGrtZeYFeFfugo4.jpg",
+                "credit_id": "52fe44fac3a368484e041cef",
+                "department": "Writing",
+                "job": "Characters"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70737,
+                "known_for_department": "Production",
+                "name": "Gary Goddard",
+                "original_name": "Gary Goddard",
+                "popularity": 0.008,
+                "profile_path": "/4Lz3MkIa68p8ycPSJdSIRWyziwq.jpg",
+                "credit_id": "52fe44fac3a368484e041cf5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39608,
+                "known_for_department": "Acting",
+                "name": "John Derek",
+                "original_name": "John Derek",
+                "popularity": 0.016,
+                "profile_path": "/eQb5Tq9oyHUVBZsiLyBSMPOfItJ.jpg",
+                "credit_id": "52fe44fac3a368484e041d07",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1717832,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Norma Collins",
+                "original_name": "Norma Collins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0524c74c1d9a0015dd2fb4",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1562806,
+                "known_for_department": "Sound",
+                "name": "Jimmy Ling",
+                "original_name": "Jimmy Ling",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e05248d9bcd0f001a0c3a56",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1129805,
+                "known_for_department": "Art",
+                "name": "Alan Roderick-Jones",
+                "original_name": "Alan Roderick-Jones",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0524af26dac100176dc853",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1459842,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Patricia Edwards",
+                "original_name": "Patricia Edwards",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0524bb9566580011e9f973",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Bo Derek",
+            "character": "Jane Porter"
+        },
+        {
+            "actor": "Richard Harris",
+            "character": "James Porter"
+        },
+        {
+            "actor": "John Phillip Law",
+            "character": "Harry Holt"
+        },
+        {
+            "actor": "Miles O'Keeffe",
+            "character": "Tarzan"
+        },
+        {
+            "actor": "Steve Strong",
+            "character": "Ivory King"
+        },
+        {
+            "actor": "Wilfrid Hyde-White",
+            "character": "Club Member (voice)"
+        },
+        {
+            "actor": "Laurie Main",
+            "character": "Club Member (voice)"
+        },
+        {
+            "actor": "Harold Ayer",
+            "character": "Club Member (voice)"
+        }
+    ]
+}

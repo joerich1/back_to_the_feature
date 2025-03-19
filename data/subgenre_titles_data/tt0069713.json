@@ -1,0 +1,833 @@
+{
+    "adult": false,
+    "backdrop_path": "/v5k7ek69SKPH2r7BNzZhn5GyB9i.jpg",
+    "belongs_to_collection": {
+        "id": 296358,
+        "name": "Even Angels Collection",
+        "poster_path": "/vIT3dlYgULwddvGZg9DRVEj822n.jpg",
+        "backdrop_path": "/gnATQbUi8iQYhepIudAh0s8bKuK.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 11612,
+    "imdb_id": "tt0069713",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Anche gli angeli mangiano fagioli",
+    "overview": "Two mismatched buddies are mistaken for mob enforcers in Depression-era America.",
+    "popularity": 3.53,
+    "poster_path": "/hEeC0pFHZ4gK13czO0BJHwDpdzI.jpg",
+    "production_companies": [
+        {
+            "id": 1602,
+            "logo_path": null,
+            "name": "Les Productions Fox Europa",
+            "origin_country": "FR"
+        },
+        {
+            "id": 1818,
+            "logo_path": null,
+            "name": "Tritone Cinematografica",
+            "origin_country": "IT"
+        },
+        {
+            "id": 7863,
+            "logo_path": null,
+            "name": "Mundial Film",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "1973-03-22",
+    "revenue": 0,
+    "runtime": 118,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Al Capone... Get lost! Dillinger... Phooey on you! Here come the funniest crooks since crime began!",
+    "title": "Even Angels Eat Beans",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 218,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-05-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "11",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-10-29T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2004-11-04T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-04-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-03-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15139,
+                "known_for_department": "Acting",
+                "name": "Giuliano Gemma",
+                "original_name": "Giuliano Gemma",
+                "popularity": 0.022,
+                "profile_path": "/hpWbvBhSFklP9rMms1iA5NvXHNZ.jpg",
+                "cast_id": 1,
+                "character": "Sonny",
+                "credit_id": "52fe44679251416c7503383b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18841,
+                "known_for_department": "Acting",
+                "name": "Bud Spencer",
+                "original_name": "Bud Spencer",
+                "popularity": 0.078,
+                "profile_path": "/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg",
+                "cast_id": 2,
+                "character": "Charlie Smith",
+                "credit_id": "52fe44679251416c7503383f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29363,
+                "known_for_department": "Acting",
+                "name": "Robert Middleton",
+                "original_name": "Robert Middleton",
+                "popularity": 0.046,
+                "profile_path": "/4fRmtJXAIOOCcSpfHphmwepxPO2.jpg",
+                "cast_id": 3,
+                "character": "Angelo",
+                "credit_id": "52fe44679251416c75033843",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29430,
+                "known_for_department": "Acting",
+                "name": "Bill Vanders",
+                "original_name": "Bill Vanders",
+                "popularity": 0.002,
+                "profile_path": "/oLmQ7t3rqb9K75ug62iYal7jd8v.jpg",
+                "cast_id": 18,
+                "character": "McIntosh",
+                "credit_id": "580e1d2892514171a301d2de",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103617,
+                "known_for_department": "Acting",
+                "name": "Riccardo Pizzuti",
+                "original_name": "Riccardo Pizzuti",
+                "popularity": 0.02,
+                "profile_path": "/jca3RJER4wLcTmdNgygl2OZtAdG.jpg",
+                "cast_id": 19,
+                "character": "Cobra",
+                "credit_id": "580e1d3a925141713b01c7c2",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1697895,
+                "known_for_department": "Acting",
+                "name": "Lara Sender",
+                "original_name": "Lara Sender",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Gerace's Daughter",
+                "credit_id": "580e1d4892514171a301d2f4",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 132262,
+                "known_for_department": "Acting",
+                "name": "Steffen Zacharias",
+                "original_name": "Steffen Zacharias",
+                "popularity": 0.016,
+                "profile_path": "/i5RxP1CZgpEK5FnrMksZo9AJKcu.jpg",
+                "cast_id": 21,
+                "character": "Gerace",
+                "credit_id": "580e1d56c3a36823df01c81c",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1268588,
+                "known_for_department": "Acting",
+                "name": "Francy Fair",
+                "original_name": "Francy Fair",
+                "popularity": 0.004,
+                "profile_path": "/29GqumMFywFRavKPTC0zfcN9ZrJ.jpg",
+                "cast_id": 22,
+                "character": "Salvation Army Speaker",
+                "credit_id": "594aa647c3a36832bd000765",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1086949,
+                "known_for_department": "Acting",
+                "name": "Claudio Ruffini",
+                "original_name": "Claudio Ruffini",
+                "popularity": 0.007,
+                "profile_path": "/r7xSrZlACfKa53Yx4jHB02Xgk5b.jpg",
+                "cast_id": 23,
+                "character": "Jim Baxter",
+                "credit_id": "594aa86cc3a368328b000867",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31695,
+                "known_for_department": "Acting",
+                "name": "George Rigaud",
+                "original_name": "George Rigaud",
+                "popularity": 0.011,
+                "profile_path": "/AbLHAUcxvr84ojrVEpBSRa6JCST.jpg",
+                "cast_id": 24,
+                "character": "O'Riordan",
+                "credit_id": "594aac7fc3a3683279000c20",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1088126,
+                "known_for_department": "Directing",
+                "name": "Patrick Morin",
+                "original_name": "Patrick Morin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "",
+                "credit_id": "5e0cebd29974ee0015a497a5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32830,
+                "known_for_department": "Acting",
+                "name": "Víctor Israel",
+                "original_name": "Víctor Israel",
+                "popularity": 0.008,
+                "profile_path": "/5nB8fAvrUPUQP3J6NwPiDrOLZ9n.jpg",
+                "cast_id": 42,
+                "character": "Judas",
+                "credit_id": "5e0cebf29974ee0015a497dc",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36021,
+                "known_for_department": "Acting",
+                "name": "Gérard Landry",
+                "original_name": "Gérard Landry",
+                "popularity": 0.004,
+                "profile_path": "/jKun2PccjJcBOmmER0CYkqqSpU.jpg",
+                "cast_id": 25,
+                "character": "Wrestling Spectator",
+                "credit_id": "594aacfb9251413115000d5d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 144612,
+                "known_for_department": "Acting",
+                "name": "Fortunato Arena",
+                "original_name": "Fortunato Arena",
+                "popularity": 0.008,
+                "profile_path": "/3NzdwyHNAW6y3d2UnYjZmt7eYJi.jpg",
+                "cast_id": 26,
+                "character": "Police Officer",
+                "credit_id": "594aad6fc3a3683265000e9c",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1008488,
+                "known_for_department": "Acting",
+                "name": "Marcello Verziera",
+                "original_name": "Marcello Verziera",
+                "popularity": 0.008,
+                "profile_path": "/3CJe1JK12xaCtsRgk0zrJKQL7iH.jpg",
+                "cast_id": 27,
+                "character": "Angelo's Thug",
+                "credit_id": "594aae45925141311f000e39",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1330041,
+                "known_for_department": "Acting",
+                "name": "Enrico Chiappafreddo",
+                "original_name": "Enrico Chiappafreddo",
+                "popularity": 0.001,
+                "profile_path": "/4oEZGepnnQD7gLeltsj0SXvmkiO.jpg",
+                "cast_id": 43,
+                "character": "McIntosh's Partner",
+                "credit_id": "5e0cec1f6dc6c000134b4030",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102371,
+                "known_for_department": "Acting",
+                "name": "Margherita Horowitz",
+                "original_name": "Margherita Horowitz",
+                "popularity": 0.004,
+                "profile_path": "/2acUHDMwfrWzpCn87sBN4d66w1O.jpg",
+                "cast_id": 28,
+                "character": "Gerace's Wife",
+                "credit_id": "594aaf25925141310c000f66",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1493291,
+                "known_for_department": "Acting",
+                "name": "Denise Bataille",
+                "original_name": "Denise Bataille",
+                "popularity": 0.001,
+                "profile_path": "/h1gGND9I9KBehPG6EkKt9OcMnN1.jpg",
+                "cast_id": 29,
+                "character": "Casino Dancer",
+                "credit_id": "594ab6b3c3a36832ad001445",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239666,
+                "known_for_department": "Acting",
+                "name": "Luigi Antonio Guerra",
+                "original_name": "Luigi Antonio Guerra",
+                "popularity": 0.011,
+                "profile_path": "/2MH1gI5p2Zy0YUfjzeyYlexLj6U.jpg",
+                "cast_id": 44,
+                "character": "",
+                "credit_id": "5e0cec2f68b1ea00187d728c",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3330610,
+                "known_for_department": "Acting",
+                "name": "Gianni Di Segni",
+                "original_name": "Gianni Di Segni",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Wrestling Judge (uncredited)",
+                "credit_id": "61a6b36d00508a00910895c0",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70020,
+                "known_for_department": "Writing",
+                "name": "Marie Claire Solleville",
+                "original_name": "Marie Claire Solleville",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c75033865",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70023,
+                "known_for_department": "Camera",
+                "name": "Francisco Marín",
+                "original_name": "Francisco Marín",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c75033883",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56033,
+                "known_for_department": "Directing",
+                "name": "Enzo Barboni",
+                "original_name": "Enzo Barboni",
+                "popularity": 0.006,
+                "profile_path": "/FNEhWLJlW3xffArVlVvsmv3Wnk.jpg",
+                "credit_id": "52fe44679251416c75033853",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18836,
+                "known_for_department": "Sound",
+                "name": "Guido De Angelis",
+                "original_name": "Guido De Angelis",
+                "popularity": 0.004,
+                "profile_path": "/pUb3QpsOSydPgktwjVoASYRUs8b.jpg",
+                "credit_id": "52fe44679251416c75033877",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18837,
+                "known_for_department": "Sound",
+                "name": "Maurizio De Angelis",
+                "original_name": "Maurizio De Angelis",
+                "popularity": 0.006,
+                "profile_path": "/8HMySntR4AUWHlDVOFI9VAzWOpF.jpg",
+                "credit_id": "52fe44679251416c7503387d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70022,
+                "known_for_department": "Production",
+                "name": "Thomas Sagone",
+                "original_name": "Thomas Sagone",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c75033871",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31338,
+                "known_for_department": "Directing",
+                "name": "Tulio Demicheli",
+                "original_name": "Tulio Demicheli",
+                "popularity": 0.01,
+                "profile_path": "/fSWlptCXHyhok5Im9N6VwmsNv7Z.jpg",
+                "credit_id": "52fe44679251416c7503388f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70021,
+                "known_for_department": "Production",
+                "name": "Antonio Morelli",
+                "original_name": "Antonio Morelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c7503386b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70018,
+                "known_for_department": "Writing",
+                "name": "J. Fortini",
+                "original_name": "J. Fortini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c75033859",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56033,
+                "known_for_department": "Directing",
+                "name": "Enzo Barboni",
+                "original_name": "Enzo Barboni",
+                "popularity": 0.006,
+                "profile_path": "/FNEhWLJlW3xffArVlVvsmv3Wnk.jpg",
+                "credit_id": "52fe44679251416c7503384d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70019,
+                "known_for_department": "Directing",
+                "name": "Ángel G. Gauna",
+                "original_name": "Ángel G. Gauna",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44679251416c7503385f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5821,
+                "known_for_department": "Editing",
+                "name": "Eugenio Alabiso",
+                "original_name": "Eugenio Alabiso",
+                "popularity": 0.004,
+                "profile_path": "/8NXkXuYueRwoHslgCZqHls7U27l.jpg",
+                "credit_id": "52fe44679251416c75033889",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 238476,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Luca Sabatelli",
+                "original_name": "Luca Sabatelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb315541fa00131e2ad7",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98763,
+                "known_for_department": "Directing",
+                "name": "Juan Fortuny",
+                "original_name": "Juan Fortuny",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceaf76dc6c000134b3e8a",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1473193,
+                "known_for_department": "Directing",
+                "name": "Bernard Farrel",
+                "original_name": "Bernard Farrel",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5e0ceb5bc2f44b00132dd810",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1127104,
+                "known_for_department": "Acting",
+                "name": "Emilio Messina",
+                "original_name": "Emilio Messina",
+                "popularity": 0.008,
+                "profile_path": "/kQAEIFNCYVw78q10FxFvgmsFELn.jpg",
+                "credit_id": "5e0ceb8ac2f44b00132dd860",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1875269,
+                "known_for_department": "Production",
+                "name": "Antonio Jover",
+                "original_name": "Antonio Jover",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb4e6dc6c000154af1bc",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1566065,
+                "known_for_department": "Production",
+                "name": "Bruno Frascà",
+                "original_name": "Bruno Frascà",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb3fa84ff7001535b5f3",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1146206,
+                "known_for_department": "Directing",
+                "name": "Giorgio Ubaldi",
+                "original_name": "Giorgio Ubaldi",
+                "popularity": 0.001,
+                "profile_path": "/8xlPKMnAyIkWZsjFhHzW5dVF1By.jpg",
+                "credit_id": "5e0ceb6812c60400123d90b7",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 70019,
+                "known_for_department": "Directing",
+                "name": "Ángel G. Gauna",
+                "original_name": "Ángel G. Gauna",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb776dc6c000154af1d2",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56033,
+                "known_for_department": "Directing",
+                "name": "Enzo Barboni",
+                "original_name": "Enzo Barboni",
+                "popularity": 0.006,
+                "profile_path": "/FNEhWLJlW3xffArVlVvsmv3Wnk.jpg",
+                "credit_id": "5e0ceac4c2f44b00112e10fd",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33786,
+                "known_for_department": "Art",
+                "name": "Juan Alberto Soler",
+                "original_name": "Juan Alberto Soler",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb181511aa0014b23e53",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 26712,
+                "known_for_department": "Art",
+                "name": "Enzo Bulgarelli",
+                "original_name": "Enzo Bulgarelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e0ceb2468b1ea00137d9d9e",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 520,
+                "name": "chicago, illinois"
+            },
+            {
+                "id": 3149,
+                "name": "gangster"
+            },
+            {
+                "id": 5572,
+                "name": "fistfight"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Giuliano Gemma",
+            "character": "Sonny"
+        },
+        {
+            "actor": "Bud Spencer",
+            "character": "Charlie Smith"
+        },
+        {
+            "actor": "Robert Middleton",
+            "character": "Angelo"
+        },
+        {
+            "actor": "Bill Vanders",
+            "character": "McIntosh"
+        },
+        {
+            "actor": "Riccardo Pizzuti",
+            "character": "Cobra"
+        },
+        {
+            "actor": "Lara Sender",
+            "character": "Gerace's Daughter"
+        },
+        {
+            "actor": "Steffen Zacharias",
+            "character": "Gerace"
+        },
+        {
+            "actor": "Francy Fair",
+            "character": "Salvation Army Speaker"
+        },
+        {
+            "actor": "Claudio Ruffini",
+            "character": "Jim Baxter"
+        },
+        {
+            "actor": "George Rigaud",
+            "character": "O'Riordan"
+        },
+        {
+            "actor": "Patrick Morin",
+            "character": ""
+        },
+        {
+            "actor": "Víctor Israel",
+            "character": "Judas"
+        },
+        {
+            "actor": "Gérard Landry",
+            "character": "Wrestling Spectator"
+        },
+        {
+            "actor": "Fortunato Arena",
+            "character": "Police Officer"
+        },
+        {
+            "actor": "Marcello Verziera",
+            "character": "Angelo's Thug"
+        },
+        {
+            "actor": "Enrico Chiappafreddo",
+            "character": "McIntosh's Partner"
+        },
+        {
+            "actor": "Margherita Horowitz",
+            "character": "Gerace's Wife"
+        },
+        {
+            "actor": "Denise Bataille",
+            "character": "Casino Dancer"
+        },
+        {
+            "actor": "Luigi Antonio Guerra",
+            "character": ""
+        },
+        {
+            "actor": "Gianni Di Segni",
+            "character": "Wrestling Judge (uncredited)"
+        }
+    ]
+}

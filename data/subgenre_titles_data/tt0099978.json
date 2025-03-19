@@ -1,0 +1,654 @@
+{
+    "adult": false,
+    "backdrop_path": "/qyLpUSWQPjqykLleHY3pMuOZiJT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 35632,
+    "imdb_id": "tt0099978",
+    "origin_country": [
+        "ZA",
+        "DE",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Laser Mission",
+    "overview": "A CIA agent is sent to get Professor Braun before the KGB can seize him as the Prof's knowledge, together with a recently stolen diamond, could be used to make a laser cannon.",
+    "popularity": 2.506,
+    "poster_path": "/9DVTsh96dGeHJoaUCJd7H6cZE6y.jpg",
+    "production_companies": [
+        {
+            "id": 17552,
+            "logo_path": null,
+            "name": "Karat Film",
+            "origin_country": ""
+        },
+        {
+            "id": 18024,
+            "logo_path": null,
+            "name": "Karat Film International",
+            "origin_country": "ZA"
+        },
+        {
+            "id": 18025,
+            "logo_path": null,
+            "name": "Interfilm L.A.",
+            "origin_country": ""
+        },
+        {
+            "id": 18026,
+            "logo_path": null,
+            "name": "IMV Vertieb Media",
+            "origin_country": ""
+        },
+        {
+            "id": 18027,
+            "logo_path": null,
+            "name": "Azimuth",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "NA",
+            "name": "Namibia"
+        },
+        {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+        }
+    ],
+    "release_date": "1989-11-01",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "«A secret agent. A beautiful accomplice. A daring mission to prevent World War III. One thrilling adventure!»",
+    "title": "Laser Mission",
+    "video": false,
+    "vote_average": 3.9,
+    "vote_count": 71,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "M",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1991-02-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-08-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57700,
+                "known_for_department": "Acting",
+                "name": "Brandon Lee",
+                "original_name": "Brandon Lee",
+                "popularity": 0.029,
+                "profile_path": "/ovdv5DWTW0C3Wmwni25gNbeBsB8.jpg",
+                "cast_id": 4,
+                "character": "Michael Gold",
+                "credit_id": "52fe45ac9251416c9103a6c5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21247,
+                "known_for_department": "Acting",
+                "name": "Debi A. Monahan",
+                "original_name": "Debi A. Monahan",
+                "popularity": 0.01,
+                "profile_path": "/f2UcOJzdM5BTgIe2pVGu4j7cJ4G.jpg",
+                "cast_id": 5,
+                "character": "Alissa",
+                "credit_id": "52fe45ac9251416c9103a6c9",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7502,
+                "known_for_department": "Acting",
+                "name": "Ernest Borgnine",
+                "original_name": "Ernest Borgnine",
+                "popularity": 0.068,
+                "profile_path": "/JSHX01ZFEkIvt17HoeedsvCz1.jpg",
+                "cast_id": 6,
+                "character": "Prof. Braun",
+                "credit_id": "52fe45ac9251416c9103a6cd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114457,
+                "known_for_department": "Acting",
+                "name": "Graham Clarke",
+                "original_name": "Graham Clarke",
+                "popularity": 0.006,
+                "profile_path": "/jx3rbzkIh1F7uCDlADeOvn0nDrw.jpg",
+                "cast_id": 7,
+                "character": "Col. Kalishnakov",
+                "credit_id": "52fe45ac9251416c9103a6d1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36890,
+                "known_for_department": "Acting",
+                "name": "Werner Pochath",
+                "original_name": "Werner Pochath",
+                "popularity": 0.015,
+                "profile_path": "/lGT6Cs0v5BdZg93rcjkdGDtADsp.jpg",
+                "cast_id": 8,
+                "character": "Eckhardt",
+                "credit_id": "52fe45ac9251416c9103a6d5",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 114459,
+                "known_for_department": "Acting",
+                "name": "Maureen Lahoud",
+                "original_name": "Maureen Lahoud",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Roberta",
+                "credit_id": "52fe45ac9251416c9103a6dd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1076773,
+                "known_for_department": "Acting",
+                "name": "Pierre Knoesen",
+                "original_name": "Pierre Knoesen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Mañuel",
+                "credit_id": "535124410e0a26561400114b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114454,
+                "known_for_department": "Directing",
+                "name": "BJ Davis",
+                "original_name": "BJ Davis",
+                "popularity": 0.013,
+                "profile_path": "/2pQ7B35DvNmxuh0Gek0C7wz1Ci9.jpg",
+                "cast_id": 14,
+                "character": "Mercenary",
+                "credit_id": "5b247e590e0a26671d001e80",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1165980,
+                "known_for_department": "Acting",
+                "name": "Richard Cox",
+                "original_name": "Richard Cox",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Calloway",
+                "credit_id": "5ce8f1759251416be3b8770c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320806,
+                "known_for_department": "Acting",
+                "name": "Gerry de Somma",
+                "original_name": "Gerry de Somma",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Ernesto",
+                "credit_id": "5ce8f185c3a3682d8f1e6756",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320807,
+                "known_for_department": "Acting",
+                "name": "Lisa Griffin",
+                "original_name": "Lisa Griffin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Braun's Daughter",
+                "credit_id": "5ce8f19b0e0a266683c9eb27",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320808,
+                "known_for_department": "Acting",
+                "name": "Mark Hodgetts",
+                "original_name": "Mark Hodgetts",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Pilot",
+                "credit_id": "5ce8f1a9c3a368547f1e53e2",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320809,
+                "known_for_department": "Acting",
+                "name": "Karl Johnson",
+                "original_name": "Karl Johnson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Prentice",
+                "credit_id": "5ce8f1cc9251415450bcb0da",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1263386,
+                "known_for_department": "Acting",
+                "name": "Ramolao Makhene",
+                "original_name": "Ramolao Makhene",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Customs Official",
+                "credit_id": "5ce8f1e60e0a266683c9eb86",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320810,
+                "known_for_department": "Acting",
+                "name": "Petro Mchunu",
+                "original_name": "Petro Mchunu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Eckhardt's Team",
+                "credit_id": "5ce8f1ef0e0a26381cd4fa55",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2320811,
+                "known_for_department": "Acting",
+                "name": "Vic Mundy",
+                "original_name": "Vic Mundy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Prison Guard",
+                "credit_id": "5ce8f1f7c3a3685e871e4a3a",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114454,
+                "known_for_department": "Directing",
+                "name": "BJ Davis",
+                "original_name": "BJ Davis",
+                "popularity": 0.013,
+                "profile_path": "/2pQ7B35DvNmxuh0Gek0C7wz1Ci9.jpg",
+                "credit_id": "52fe45ac9251416c9103a6b5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 114455,
+                "known_for_department": "Writing",
+                "name": "David A. Frank",
+                "original_name": "David A. Frank",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45ac9251416c9103a6bb",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1353835,
+                "known_for_department": "Camera",
+                "name": "Hans Kühle Sr.",
+                "original_name": "Hans Kühle Sr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62607c1c7fcab3005096348a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1722893,
+                "known_for_department": "Camera",
+                "name": "Hans Kühle Jr.",
+                "original_name": "Hans Kühle Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b247df40e0a2666fd002146",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1851,
+                "known_for_department": "Editing",
+                "name": "Alexander Berner",
+                "original_name": "Alexander Berner",
+                "popularity": 0.009,
+                "profile_path": "/5z2c8KlCsUjJNPeXrRMlr39KTKk.jpg",
+                "credit_id": "5b66208a0e0a267ee507e28e",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 114456,
+                "known_for_department": "Writing",
+                "name": "Phillip Gutteridge",
+                "original_name": "Phillip Gutteridge",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b66210d925141406a07dbbf",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2099845,
+                "known_for_department": "Editing",
+                "name": "E. Selavie",
+                "original_name": "E. Selavie",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b66214ec3a368188609ba53",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2099846,
+                "known_for_department": "Editing",
+                "name": "Andrea Glück",
+                "original_name": "Andrea Glück",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b6621939251414054079c9d",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1120187,
+                "known_for_department": "Art",
+                "name": "Ruth Strimling",
+                "original_name": "Ruth Strimling",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b66222892514168b600975f",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1930611,
+                "known_for_department": "Art",
+                "name": "Willie Coetzee",
+                "original_name": "Willie Coetzee",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b66225d0e0a267ef4085367",
+                "department": "Art",
+                "job": "Assistant Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 37085,
+                "known_for_department": "Art",
+                "name": "Billy Keam",
+                "original_name": "Billy Keam",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b66227b0e0a267ef8087a0b",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1150011,
+                "known_for_department": "Crew",
+                "name": "Paul Siebert",
+                "original_name": "Paul Siebert",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "5b6622c00e0a267eed08bbfe",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 1701,
+                "name": "hero"
+            },
+            {
+                "id": 591,
+                "name": "central intelligence agency (cia)"
+            },
+            {
+                "id": 6086,
+                "name": "government"
+            },
+            {
+                "id": 1384,
+                "name": "diamond"
+            },
+            {
+                "id": 1930,
+                "name": "kidnapping"
+            },
+            {
+                "id": 470,
+                "name": "spy"
+            },
+            {
+                "id": 1992,
+                "name": "professor"
+            },
+            {
+                "id": 3278,
+                "name": "kgb"
+            },
+            {
+                "id": 3290,
+                "name": "laser"
+            },
+            {
+                "id": 3529,
+                "name": "renegade"
+            },
+            {
+                "id": 3644,
+                "name": "south africa"
+            },
+            {
+                "id": 4289,
+                "name": "secret agent"
+            },
+            {
+                "id": 13116,
+                "name": "one man army"
+            },
+            {
+                "id": 14760,
+                "name": "scientist"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Brandon Lee",
+            "character": "Michael Gold"
+        },
+        {
+            "actor": "Debi A. Monahan",
+            "character": "Alissa"
+        },
+        {
+            "actor": "Ernest Borgnine",
+            "character": "Prof. Braun"
+        },
+        {
+            "actor": "Graham Clarke",
+            "character": "Col. Kalishnakov"
+        },
+        {
+            "actor": "Werner Pochath",
+            "character": "Eckhardt"
+        },
+        {
+            "actor": "Maureen Lahoud",
+            "character": "Roberta"
+        },
+        {
+            "actor": "Pierre Knoesen",
+            "character": "Mañuel"
+        },
+        {
+            "actor": "BJ Davis",
+            "character": "Mercenary"
+        },
+        {
+            "actor": "Richard Cox",
+            "character": "Calloway"
+        },
+        {
+            "actor": "Gerry de Somma",
+            "character": "Ernesto"
+        },
+        {
+            "actor": "Lisa Griffin",
+            "character": "Braun's Daughter"
+        },
+        {
+            "actor": "Mark Hodgetts",
+            "character": "Pilot"
+        },
+        {
+            "actor": "Karl Johnson",
+            "character": "Prentice"
+        },
+        {
+            "actor": "Ramolao Makhene",
+            "character": "Customs Official"
+        },
+        {
+            "actor": "Petro Mchunu",
+            "character": "Eckhardt's Team"
+        },
+        {
+            "actor": "Vic Mundy",
+            "character": "Prison Guard"
+        }
+    ]
+}

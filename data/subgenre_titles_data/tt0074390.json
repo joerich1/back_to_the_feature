@@ -1,0 +1,544 @@
+{
+    "adult": false,
+    "backdrop_path": "/7eMV1iyWAqBp51sJlFpEtWpmIBO.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 85188,
+    "imdb_id": "tt0074390",
+    "origin_country": [
+        "ZA"
+    ],
+    "original_language": "en",
+    "original_title": "The Demon",
+    "overview": "Random people are terrorized by a malevolent man who brings their worst fears to life.",
+    "popularity": 0.918,
+    "poster_path": "/iL09aK8VzXKHvDC7QmNMYK2MJid.jpg",
+    "production_companies": [
+        {
+            "id": 17370,
+            "logo_path": null,
+            "name": "Gold Key Entertainment",
+            "origin_country": ""
+        },
+        {
+            "id": 17371,
+            "logo_path": null,
+            "name": "Hollard Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 17372,
+            "logo_path": null,
+            "name": "Percival Rubens Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+        }
+    ],
+    "release_date": "1979-09-05",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The time of the Demon, your Demon, is drawing close... very close...",
+    "title": "The Demon",
+    "video": false,
+    "vote_average": 4.4,
+    "vote_count": 26,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-04-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Source: Wikipedia",
+                        "release_date": "1981-03-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ZA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-09-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 106666,
+                "known_for_department": "Acting",
+                "name": "Jennifer Holmes",
+                "original_name": "Jennifer Holmes",
+                "popularity": 0.022,
+                "profile_path": "/sdYNtXT4xywczFAfkV8htEL8yUM.jpg",
+                "cast_id": 2,
+                "character": "Mary",
+                "credit_id": "52fe49299251416c910a4a19",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44728,
+                "known_for_department": "Acting",
+                "name": "Cameron Mitchell",
+                "original_name": "Cameron Mitchell",
+                "popularity": 0.028,
+                "profile_path": "/1XXOQC8GayLAsKIDOGGiRWQgXfG.jpg",
+                "cast_id": 3,
+                "character": "Col. Bill Carson",
+                "credit_id": "52fe49299251416c910a4a1d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83460,
+                "known_for_department": "Acting",
+                "name": "Craig Gardner",
+                "original_name": "Craig Gardner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Dean Turner",
+                "credit_id": "52fe49299251416c910a4a21",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1072161,
+                "known_for_department": "Acting",
+                "name": "Zoli Marki",
+                "original_name": "Zoli Marki",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Jo",
+                "credit_id": "52fe49299251416c910a4a25",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1057904,
+                "known_for_department": "Acting",
+                "name": "Peter J. Elliott",
+                "original_name": "Peter J. Elliott",
+                "popularity": 0.002,
+                "profile_path": "/5Jwpcmu2JLMloJHy7pDk3IjExbi.jpg",
+                "cast_id": 6,
+                "character": "Mr. Parker",
+                "credit_id": "52fe49299251416c910a4a29",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1072162,
+                "known_for_department": "Acting",
+                "name": "Moira Winslow",
+                "original_name": "Moira Winslow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Joan Parker",
+                "credit_id": "52fe49299251416c910a4a2d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 106668,
+                "known_for_department": "Acting",
+                "name": "Mark Tanous",
+                "original_name": "Mark Tanous",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Bobby",
+                "credit_id": "52fe49299251416c910a4a31",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1072163,
+                "known_for_department": "Acting",
+                "name": "Diane Burmeister",
+                "original_name": "Diane Burmeister",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "",
+                "credit_id": "52fe49299251416c910a4a35",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1072164,
+                "known_for_department": "Acting",
+                "name": "George Korelin",
+                "original_name": "George Korelin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Dr. Stuart",
+                "credit_id": "52fe49299251416c910a4a39",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1072165,
+                "known_for_department": "Acting",
+                "name": "Vera Blacker",
+                "original_name": "Vera Blacker",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Mrs. Stuart",
+                "credit_id": "52fe49299251416c910a4a3d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1285979,
+                "known_for_department": "Production",
+                "name": "John Parsonson",
+                "original_name": "John Parsonson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "The Truck Driver",
+                "credit_id": "644d8878f90b190582131820",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4035686,
+                "known_for_department": "Acting",
+                "name": "Ashleigh Sendin",
+                "original_name": "Ashleigh Sendin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Emily Parker",
+                "credit_id": "644d88814d23dd050f92be04",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4035687,
+                "known_for_department": "Acting",
+                "name": "Graham Kennard",
+                "original_name": "Graham Kennard",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "The Demon",
+                "credit_id": "644d8888f90b1905a8131829",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4035688,
+                "known_for_department": "Acting",
+                "name": "April Galetti",
+                "original_name": "April Galetti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Girl in alley",
+                "credit_id": "644d88914d23dd02fc92bdd9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1165939,
+                "known_for_department": "Crew",
+                "name": "Jannie Wienand",
+                "original_name": "Jannie Wienand",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Punk in Knife Fight",
+                "credit_id": "644d889b6beaea0a0c2b5523",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4035689,
+                "known_for_department": "Acting",
+                "name": "Amanda Wildman",
+                "original_name": "Amanda Wildman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "644d88a12811a104775195d1",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29328,
+                "known_for_department": "Directing",
+                "name": "Percival Rubens",
+                "original_name": "Percival Rubens",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe49299251416c910a4a15",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29328,
+                "known_for_department": "Directing",
+                "name": "Percival Rubens",
+                "original_name": "Percival Rubens",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "644d8844abdafc07308d3a9c",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1285979,
+                "known_for_department": "Production",
+                "name": "John Parsonson",
+                "original_name": "John Parsonson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "644d885aabdafc04cd8d3a5b",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29328,
+                "known_for_department": "Directing",
+                "name": "Percival Rubens",
+                "original_name": "Percival Rubens",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "644d8851abdafc07308d3a9f",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4062,
+                "name": "skeleton"
+            },
+            {
+                "id": 1299,
+                "name": "monster"
+            },
+            {
+                "id": 1930,
+                "name": "kidnapping"
+            },
+            {
+                "id": 703,
+                "name": "detective"
+            },
+            {
+                "id": 1468,
+                "name": "child murder"
+            },
+            {
+                "id": 5340,
+                "name": "investigation"
+            },
+            {
+                "id": 6152,
+                "name": "supernatural"
+            },
+            {
+                "id": 3644,
+                "name": "south africa"
+            },
+            {
+                "id": 4339,
+                "name": "johannesburg south africa"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10053,
+                "name": "sexploitation"
+            },
+            {
+                "id": 10333,
+                "name": "stalking"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 15001,
+                "name": "demon"
+            },
+            {
+                "id": 155490,
+                "name": "disco"
+            },
+            {
+                "id": 163558,
+                "name": "extrasensory perception"
+            },
+            {
+                "id": 176806,
+                "name": "cape town, south africa"
+            },
+            {
+                "id": 194729,
+                "name": "disco dancing"
+            },
+            {
+                "id": 194735,
+                "name": "western cape"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jennifer Holmes",
+            "character": "Mary"
+        },
+        {
+            "actor": "Cameron Mitchell",
+            "character": "Col. Bill Carson"
+        },
+        {
+            "actor": "Craig Gardner",
+            "character": "Dean Turner"
+        },
+        {
+            "actor": "Zoli Marki",
+            "character": "Jo"
+        },
+        {
+            "actor": "Peter J. Elliott",
+            "character": "Mr. Parker"
+        },
+        {
+            "actor": "Moira Winslow",
+            "character": "Joan Parker"
+        },
+        {
+            "actor": "Mark Tanous",
+            "character": "Bobby"
+        },
+        {
+            "actor": "Diane Burmeister",
+            "character": ""
+        },
+        {
+            "actor": "George Korelin",
+            "character": "Dr. Stuart"
+        },
+        {
+            "actor": "Vera Blacker",
+            "character": "Mrs. Stuart"
+        },
+        {
+            "actor": "John Parsonson",
+            "character": "The Truck Driver"
+        },
+        {
+            "actor": "Ashleigh Sendin",
+            "character": "Emily Parker"
+        },
+        {
+            "actor": "Graham Kennard",
+            "character": "The Demon"
+        },
+        {
+            "actor": "April Galetti",
+            "character": "Girl in alley"
+        },
+        {
+            "actor": "Jannie Wienand",
+            "character": "Punk in Knife Fight"
+        },
+        {
+            "actor": "Amanda Wildman",
+            "character": ""
+        }
+    ]
+}

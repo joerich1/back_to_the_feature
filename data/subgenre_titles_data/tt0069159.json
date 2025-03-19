@@ -1,0 +1,787 @@
+{
+    "adult": false,
+    "backdrop_path": "/iZlI9cEo0DxMwe3ybgi2bgh8R0m.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 37,
+            "name": "Western"
+        }
+    ],
+    "homepage": "",
+    "id": 61237,
+    "imdb_id": "tt0069159",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Una ragione per vivere e una per morire",
+    "overview": "A dishonored Union Army officer leads a group of convicts to retake Fort Holman from the Confederate Army.",
+    "popularity": 1.977,
+    "poster_path": "/bqUc5pQD2pxtHAbQwsICwrlstDQ.jpg",
+    "production_companies": [
+        {
+            "id": 10453,
+            "logo_path": null,
+            "name": "Atlántida Films",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1972-12-27",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A handful of condemned men on an impossible mission, against hopeless odds...",
+    "title": "A Reason to Live, a Reason to Die",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 56,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-12-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-07-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-06-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5563,
+                "known_for_department": "Acting",
+                "name": "James Coburn",
+                "original_name": "James Coburn",
+                "popularity": 0.092,
+                "profile_path": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg",
+                "cast_id": 5,
+                "character": "Colonel Pembroke",
+                "credit_id": "52fe464bc3a368484e088cb7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10169,
+                "known_for_department": "Acting",
+                "name": "Telly Savalas",
+                "original_name": "Telly Savalas",
+                "popularity": 0.053,
+                "profile_path": "/pdJfRVsCdKgrRFXODXkaOfJzAtH.jpg",
+                "cast_id": 2,
+                "character": "Major Ward",
+                "credit_id": "52fe464bc3a368484e088cab",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18841,
+                "known_for_department": "Acting",
+                "name": "Bud Spencer",
+                "original_name": "Bud Spencer",
+                "popularity": 0.078,
+                "profile_path": "/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg",
+                "cast_id": 3,
+                "character": "Eli Sampson",
+                "credit_id": "52fe464bc3a368484e088caf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19632,
+                "known_for_department": "Acting",
+                "name": "Georges Géret",
+                "original_name": "Georges Géret",
+                "popularity": 0.017,
+                "profile_path": "/isgFmyDgtGQ2sDxVH1ofD26IyEB.jpg",
+                "cast_id": 13,
+                "character": "Sergeant Spike",
+                "credit_id": "52fe464bc3a368484e088ce3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38171,
+                "known_for_department": "Acting",
+                "name": "Reinhard Kolldehoff",
+                "original_name": "Reinhard Kolldehoff",
+                "popularity": 0.024,
+                "profile_path": "/VogLnWJGDw6Ukiv5ofTSgcuetg.jpg",
+                "cast_id": 6,
+                "character": "Sergeant Brent",
+                "credit_id": "52fe464bc3a368484e088cbb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32093,
+                "known_for_department": "Acting",
+                "name": "Guy Mairesse",
+                "original_name": "Guy Mairesse",
+                "popularity": 0.005,
+                "profile_path": "/pcFEUrq57Fps2Q2AsYZ48ozshEI.jpg",
+                "cast_id": 16,
+                "character": "Donald MacIvers",
+                "credit_id": "54c57f399251412d9c001f90",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42014,
+                "known_for_department": "Acting",
+                "name": "José Suárez",
+                "original_name": "José Suárez",
+                "popularity": 0.006,
+                "profile_path": "/gKAoWVylyVO9DTrIqomxNbXrVHC.jpg",
+                "cast_id": 4,
+                "character": "Major Charles Ballard",
+                "credit_id": "52fe464bc3a368484e088cb3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 994436,
+                "known_for_department": "Acting",
+                "name": "Ugo Fangareggi",
+                "original_name": "Ugo Fangareggi",
+                "popularity": 0.008,
+                "profile_path": "/1AKjoryKVhHJvTABCjAi2ZgOg5Z.jpg",
+                "cast_id": 17,
+                "character": "Ted Randall",
+                "credit_id": "54c57f639251416eae011016",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4661,
+                "known_for_department": "Acting",
+                "name": "Benito Stefanelli",
+                "original_name": "Benito Stefanelli",
+                "popularity": 0.017,
+                "profile_path": "/g8wrcKWLuxq3Rmtp3LXItaGVLoQ.jpg",
+                "cast_id": 14,
+                "character": "Piggott",
+                "credit_id": "52fe464bc3a368484e088ce7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6787,
+                "known_for_department": "Acting",
+                "name": "Adolfo Lastretti",
+                "original_name": "Adolfo Lastretti",
+                "popularity": 0.007,
+                "profile_path": "/wssCNcdZ7ziWSbNYpABhJ62eHAe.jpg",
+                "cast_id": 15,
+                "character": "Will Colder",
+                "credit_id": "52fe464bc3a368484e088ceb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1019912,
+                "known_for_department": "Acting",
+                "name": "Fabrizio Moresco",
+                "original_name": "Fabrizio Moresco",
+                "popularity": 0.006,
+                "profile_path": "/4XROFygMH6b1kAJjxFqiwpFv49F.jpg",
+                "cast_id": 18,
+                "character": "Wards Sergeant",
+                "credit_id": "54c57faf9251412d9c001f97",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100845,
+                "known_for_department": "Acting",
+                "name": "Francisco Sanz",
+                "original_name": "Francisco Sanz",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Farmer",
+                "credit_id": "54c57fc49251412fdb001f6e",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27390,
+                "known_for_department": "Acting",
+                "name": "Carla Mancini",
+                "original_name": "Carla Mancini",
+                "popularity": 0.016,
+                "profile_path": "/61VB38l1EyKB6owCrzmcxBGQM3N.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "59e9b3799251410c6700c122",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 237352,
+                "known_for_department": "Acting",
+                "name": "Mario Pardo",
+                "original_name": "Mario Pardo",
+                "popularity": 0.002,
+                "profile_path": "/vIXUQPkH32M4LLwCc7WC2TDfvM6.jpg",
+                "cast_id": 42,
+                "character": "Roger, Sohn des Farmers",
+                "credit_id": "5e10be596f43ec00175ac594",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 25262,
+                "known_for_department": "Acting",
+                "name": "Concha Rabal",
+                "original_name": "Concha Rabal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Conchita Rabal",
+                "credit_id": "5e10be6ed64ac2001660f4b2",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371569,
+                "known_for_department": "Acting",
+                "name": "Alejandro de Enciso",
+                "original_name": "Alejandro de Enciso",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "José Antonio Lopez",
+                "credit_id": "5e10be7e8e87020012c081f6",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2053646,
+                "known_for_department": "Acting",
+                "name": "Turam Quibo",
+                "original_name": "Turam Quibo",
+                "popularity": 0.002,
+                "profile_path": "/fphVxsxgB55uHWZFAYJkdBLFohL.jpg",
+                "cast_id": 45,
+                "character": "Jeremy",
+                "credit_id": "5e120d419020120015b5bc06",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1196612,
+                "known_for_department": "Acting",
+                "name": "Paco Sanz",
+                "original_name": "Paco Sanz",
+                "popularity": 0.001,
+                "profile_path": "/n8GUmU5hMkU27NT692zDSrgkyI3.jpg",
+                "cast_id": 46,
+                "character": "Farmer",
+                "credit_id": "5e120df6e78e2d0013771ff5",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2501060,
+                "known_for_department": "Acting",
+                "name": "Giuseppe Pollini",
+                "original_name": "Giuseppe Pollini",
+                "popularity": 0.001,
+                "profile_path": "/qDBecwgeciKUpGgIl7TWpJoXpo4.jpg",
+                "cast_id": 47,
+                "character": "Sergeant der Nordstaaten",
+                "credit_id": "5e120e6fd64ac20018644e38",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57639,
+                "known_for_department": "Directing",
+                "name": "Tonino Valerii",
+                "original_name": "Tonino Valerii",
+                "popularity": 0.009,
+                "profile_path": "/hnBfZg4RnaWuOINmxMquhHPkDtM.jpg",
+                "credit_id": "52fe464bc3a368484e088cc1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37590,
+                "known_for_department": "Writing",
+                "name": "Rafael Azcona",
+                "original_name": "Rafael Azcona",
+                "popularity": 0.017,
+                "profile_path": "/lmNHJhGZAClCrw7YH3l6LMkAA0e.jpg",
+                "credit_id": "52fe464bc3a368484e088cc7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50818,
+                "known_for_department": "Writing",
+                "name": "Ernesto Gastaldi",
+                "original_name": "Ernesto Gastaldi",
+                "popularity": 0.008,
+                "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+                "credit_id": "52fe464bc3a368484e088ccd",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50818,
+                "known_for_department": "Writing",
+                "name": "Ernesto Gastaldi",
+                "original_name": "Ernesto Gastaldi",
+                "popularity": 0.008,
+                "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+                "credit_id": "52fe464bc3a368484e088cd3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57639,
+                "known_for_department": "Directing",
+                "name": "Tonino Valerii",
+                "original_name": "Tonino Valerii",
+                "popularity": 0.009,
+                "profile_path": "/hnBfZg4RnaWuOINmxMquhHPkDtM.jpg",
+                "credit_id": "52fe464bc3a368484e088cd9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57639,
+                "known_for_department": "Directing",
+                "name": "Tonino Valerii",
+                "original_name": "Tonino Valerii",
+                "popularity": 0.009,
+                "profile_path": "/hnBfZg4RnaWuOINmxMquhHPkDtM.jpg",
+                "credit_id": "52fe464bc3a368484e088cdf",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5560,
+                "known_for_department": "Sound",
+                "name": "Michael Billingsley",
+                "original_name": "Michael Billingsley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c58016c3a3681421014744",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418637,
+                "known_for_department": "Production",
+                "name": "Tullio Odevaine",
+                "original_name": "Tullio Odevaine",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c5802ac3a36878fb007b81",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 73631,
+                "known_for_department": "Production",
+                "name": "Alfonso Sansone",
+                "original_name": "Alfonso Sansone",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "54c5803ac3a368792c007cb0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418639,
+                "known_for_department": "Production",
+                "name": "Arthur Steloff",
+                "original_name": "Arthur Steloff",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c5804c925141243200873d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33804,
+                "known_for_department": "Sound",
+                "name": "Riz Ortolani",
+                "original_name": "Riz Ortolani",
+                "popularity": 0.008,
+                "profile_path": "/nFJdprMcg4MJTk9WP5BHfDQvCWm.jpg",
+                "credit_id": "54c58059c3a36878d0008b46",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1418640,
+                "known_for_department": "Editing",
+                "name": "Franklin Boll",
+                "original_name": "Franklin Boll",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c5807b9251412fdb001f7c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52258,
+                "known_for_department": "Editing",
+                "name": "Franco Fraticelli",
+                "original_name": "Franco Fraticelli",
+                "popularity": 0.004,
+                "profile_path": "/wGL7hkypYXMhPTWsq1QOwlEErbH.jpg",
+                "credit_id": "54c5808fc3a36823e3000b6a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1202524,
+                "known_for_department": "Art",
+                "name": "Elio Micheli",
+                "original_name": "Elio Micheli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c580a39251416eae011024",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1202524,
+                "known_for_department": "Art",
+                "name": "Elio Micheli",
+                "original_name": "Elio Micheli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c580b1c3a368789b008bc0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1008504,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Luciano Giustini",
+                "original_name": "Luciano Giustini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54c580d1c3a3681421014753",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98746,
+                "known_for_department": "Camera",
+                "name": "Alejandro Ulloa",
+                "original_name": "Alejandro Ulloa",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "551fcc1d9251415c82001701",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1693958,
+                "known_for_department": "Production",
+                "name": "Enrique Bellot",
+                "original_name": "Enrique Bellot",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bda28e87020014c08278",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1953666,
+                "known_for_department": "Production",
+                "name": "Alfredo Cuomo",
+                "original_name": "Alfredo Cuomo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bdb058361b0010c2eafd",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1089216,
+                "known_for_department": "Acting",
+                "name": "Nino Milano",
+                "original_name": "Nino Milano",
+                "popularity": 0.001,
+                "profile_path": "/8lzvk69thY1rIyOsXKFWF9KxToK.jpg",
+                "credit_id": "5e10bdbdd64ac20014612aa6",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1177248,
+                "known_for_department": "Production",
+                "name": "Antonio Paoletti",
+                "original_name": "Antonio Paoletti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bdc98e87020016c07f55",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1625347,
+                "known_for_department": "Directing",
+                "name": "Tony Brandt",
+                "original_name": "Tony Brandt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bdd85907de0014dad06c",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 114418,
+                "known_for_department": "Directing",
+                "name": "Joe Pollini",
+                "original_name": "Joe Pollini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bde66f43ec00145ae532",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1509725,
+                "known_for_department": "Sound",
+                "name": "Kurt Doubrowsky",
+                "original_name": "Kurt Doubrowsky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e10bdf5d64ac2001660f41b",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1406838,
+                "known_for_department": "Crew",
+                "name": "Miguel Pedregosa",
+                "original_name": "Miguel Pedregosa",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "5e10be0658361b0012c256a0",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 156212,
+                "name": "spaghetti western"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "James Coburn",
+            "character": "Colonel Pembroke"
+        },
+        {
+            "actor": "Telly Savalas",
+            "character": "Major Ward"
+        },
+        {
+            "actor": "Bud Spencer",
+            "character": "Eli Sampson"
+        },
+        {
+            "actor": "Georges Géret",
+            "character": "Sergeant Spike"
+        },
+        {
+            "actor": "Reinhard Kolldehoff",
+            "character": "Sergeant Brent"
+        },
+        {
+            "actor": "Guy Mairesse",
+            "character": "Donald MacIvers"
+        },
+        {
+            "actor": "José Suárez",
+            "character": "Major Charles Ballard"
+        },
+        {
+            "actor": "Ugo Fangareggi",
+            "character": "Ted Randall"
+        },
+        {
+            "actor": "Benito Stefanelli",
+            "character": "Piggott"
+        },
+        {
+            "actor": "Adolfo Lastretti",
+            "character": "Will Colder"
+        },
+        {
+            "actor": "Fabrizio Moresco",
+            "character": "Wards Sergeant"
+        },
+        {
+            "actor": "Francisco Sanz",
+            "character": "Farmer"
+        },
+        {
+            "actor": "Carla Mancini",
+            "character": ""
+        },
+        {
+            "actor": "Mario Pardo",
+            "character": "Roger, Sohn des Farmers"
+        },
+        {
+            "actor": "Concha Rabal",
+            "character": "Conchita Rabal"
+        },
+        {
+            "actor": "Alejandro de Enciso",
+            "character": "José Antonio Lopez"
+        },
+        {
+            "actor": "Turam Quibo",
+            "character": "Jeremy"
+        },
+        {
+            "actor": "Paco Sanz",
+            "character": "Farmer"
+        },
+        {
+            "actor": "Giuseppe Pollini",
+            "character": "Sergeant der Nordstaaten"
+        }
+    ]
+}

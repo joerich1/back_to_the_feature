@@ -1,0 +1,537 @@
+{
+    "adult": false,
+    "backdrop_path": "/leXf341C7aSphqetA82lM2Oad3A.jpg",
+    "belongs_to_collection": {
+        "id": 1286059,
+        "name": "Summer of '42 Collection",
+        "poster_path": null,
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 41357,
+    "imdb_id": "tt0067803",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Summer of '42",
+    "overview": "Over the summer of 1942 on Nantucket Island, three friends -- Hermie, Oscy and Benjie -- are more concerned with getting laid than anything else. Hermie falls in love with the married Dorothy, whose husband is an army pilot recently sent to the battlefront of World War II.",
+    "popularity": 3.53,
+    "poster_path": "/4n7m05C2ee3UM5Co2k2BOWqH5o2.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1971-04-19",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "In everyone's life there's a \"Summer of '42\"",
+    "title": "Summer of '42",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 147,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "IMDB",
+                        "release_date": "1971-04-26T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "IMDB",
+                        "release_date": "2000-01-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-06-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-10-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "New York City, New York",
+                        "release_date": "1971-04-18T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-04-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 26662,
+                "known_for_department": "Acting",
+                "name": "Jennifer O'Neill",
+                "original_name": "Jennifer O'Neill",
+                "popularity": 0.022,
+                "profile_path": "/9lljBGppyGHVs3hwASl3nsiOAKI.jpg",
+                "cast_id": 1,
+                "character": "Dorothy",
+                "credit_id": "52fe45c3c3a36847f80d9337",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119796,
+                "known_for_department": "Acting",
+                "name": "Gary Grimes",
+                "original_name": "Gary Grimes",
+                "popularity": 0.017,
+                "profile_path": "/2Td8f6J2orJ8a6lEWqJxseDoAlp.jpg",
+                "cast_id": 2,
+                "character": "Hermie",
+                "credit_id": "52fe45c3c3a36847f80d933b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51517,
+                "known_for_department": "Acting",
+                "name": "Jerry Houser",
+                "original_name": "Jerry Houser",
+                "popularity": 0.039,
+                "profile_path": "/A3HHKhK5PC5EgL14ENhhkiBvYGQ.jpg",
+                "cast_id": 4,
+                "character": "Oscy",
+                "credit_id": "52fe45c3c3a36847f80d9345",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 937333,
+                "known_for_department": "Acting",
+                "name": "Oliver Conant",
+                "original_name": "Oliver Conant",
+                "popularity": 0.001,
+                "profile_path": "/pYQY8LblR0XqwKGspOuU61k5GwP.jpg",
+                "cast_id": 5,
+                "character": "Benjie",
+                "credit_id": "52fe45c3c3a36847f80d9349",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1276259,
+                "known_for_department": "Acting",
+                "name": "Katherine Allentuck",
+                "original_name": "Katherine Allentuck",
+                "popularity": 0.002,
+                "profile_path": "/4SSsDZgTo1VsafPlAe9IlZtIixv.jpg",
+                "cast_id": 6,
+                "character": "Aggie",
+                "credit_id": "52fe45c3c3a36847f80d934d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 132621,
+                "known_for_department": "Acting",
+                "name": "Christopher Norris",
+                "original_name": "Christopher Norris",
+                "popularity": 0.008,
+                "profile_path": "/k6HIgQzFcW3CFjZCXDiKOy2LA2Q.jpg",
+                "cast_id": 7,
+                "character": "Miriam",
+                "credit_id": "52fe45c3c3a36847f80d9351",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 160969,
+                "known_for_department": "Acting",
+                "name": "Lou Frizzell",
+                "original_name": "Lou Frizzell",
+                "popularity": 0.017,
+                "profile_path": "/5fnUwcvRoQwK1KUcAZWDlaIAvEY.jpg",
+                "cast_id": 8,
+                "character": "Druggist",
+                "credit_id": "52fe45c3c3a36847f80d9355",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16474,
+                "known_for_department": "Crew",
+                "name": "Walter Scott",
+                "original_name": "Walter Scott",
+                "popularity": 0.019,
+                "profile_path": "/A9dmPAJ9RKChD2hOUssR9is9n6R.jpg",
+                "cast_id": 16,
+                "character": "Dorothy's Husband (uncredited)",
+                "credit_id": "60a555f7590086005821dfa4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21151,
+                "known_for_department": "Acting",
+                "name": "Maureen Stapleton",
+                "original_name": "Maureen Stapleton",
+                "popularity": 0.028,
+                "profile_path": "/rXwg71O6oU6x3sB5c4erlAu7mhy.jpg",
+                "cast_id": 17,
+                "character": "Hermie's Mother (voice) (uncredited)",
+                "credit_id": "60a55610e272600058b975d7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8482,
+                "known_for_department": "Directing",
+                "name": "Robert Mulligan",
+                "original_name": "Robert Mulligan",
+                "popularity": 0.017,
+                "profile_path": "/eAvx9P1ZTo4fatQpgRTfviXbg4b.jpg",
+                "cast_id": 18,
+                "character": "Narrator (voice) (uncredited)",
+                "credit_id": "60a5561f590086002926fda0",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8482,
+                "known_for_department": "Directing",
+                "name": "Robert Mulligan",
+                "original_name": "Robert Mulligan",
+                "popularity": 0.017,
+                "profile_path": "/eAvx9P1ZTo4fatQpgRTfviXbg4b.jpg",
+                "credit_id": "52fe45c3c3a36847f80d9341",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1806132,
+                "known_for_department": "Art",
+                "name": "Anthony Goldschmidt",
+                "original_name": "Anthony Goldschmidt",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "618fcc94c3c891008bf53a9c",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 590542,
+                "known_for_department": "Writing",
+                "name": "Herman Raucher",
+                "original_name": "Herman Raucher",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5537ce6d9251414ab90027bf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10934,
+                "known_for_department": "Sound",
+                "name": "Michel Legrand",
+                "original_name": "Michel Legrand",
+                "popularity": 0.014,
+                "profile_path": "/nkhKfgrBjWZ7BVuI8dZztkX7bcV.jpg",
+                "credit_id": "576975e092514153b2002684",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10005,
+                "known_for_department": "Camera",
+                "name": "Robert Surtees",
+                "original_name": "Robert Surtees",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "576975e6c3a36815a60002b5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4309,
+                "known_for_department": "Editing",
+                "name": "Folmar Blangsted",
+                "original_name": "Folmar Blangsted",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "576975edc3a36815a60002b8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1222,
+                "known_for_department": "Art",
+                "name": "Albert Brenner",
+                "original_name": "Albert Brenner",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "576975f6c3a36833a100009e",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8867,
+                "known_for_department": "Art",
+                "name": "Marvin March",
+                "original_name": "Marvin March",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "576975fc92514117a6000053",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11790,
+                "known_for_department": "Production",
+                "name": "Richard A. Roth",
+                "original_name": "Richard A. Roth",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "58d7ace0c3a36812890560f5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1437471,
+                "known_for_department": "Directing",
+                "name": "Don Kranze",
+                "original_name": "Don Kranze",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64cff86b5cd16e00e4506044",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2041,
+                "name": "island"
+            },
+            {
+                "id": 966,
+                "name": "beach"
+            },
+            {
+                "id": 2039,
+                "name": "sexual frustration"
+            },
+            {
+                "id": 965,
+                "name": "age difference"
+            },
+            {
+                "id": 1523,
+                "name": "obsession"
+            },
+            {
+                "id": 1956,
+                "name": "world war ii"
+            },
+            {
+                "id": 5789,
+                "name": "sand"
+            },
+            {
+                "id": 10683,
+                "name": "coming of age"
+            },
+            {
+                "id": 14714,
+                "name": "summer vacation"
+            },
+            {
+                "id": 34145,
+                "name": "beach house"
+            },
+            {
+                "id": 157303,
+                "name": "first love"
+            },
+            {
+                "id": 157799,
+                "name": "older woman younger man relationship"
+            },
+            {
+                "id": 162804,
+                "name": "sexual awakening"
+            },
+            {
+                "id": 207883,
+                "name": "1940s"
+            },
+            {
+                "id": 210459,
+                "name": "summer cottage"
+            },
+            {
+                "id": 212820,
+                "name": "soldier's wife"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jennifer O'Neill",
+            "character": "Dorothy"
+        },
+        {
+            "actor": "Gary Grimes",
+            "character": "Hermie"
+        },
+        {
+            "actor": "Jerry Houser",
+            "character": "Oscy"
+        },
+        {
+            "actor": "Oliver Conant",
+            "character": "Benjie"
+        },
+        {
+            "actor": "Katherine Allentuck",
+            "character": "Aggie"
+        },
+        {
+            "actor": "Christopher Norris",
+            "character": "Miriam"
+        },
+        {
+            "actor": "Lou Frizzell",
+            "character": "Druggist"
+        },
+        {
+            "actor": "Walter Scott",
+            "character": "Dorothy's Husband (uncredited)"
+        },
+        {
+            "actor": "Maureen Stapleton",
+            "character": "Hermie's Mother (voice) (uncredited)"
+        },
+        {
+            "actor": "Robert Mulligan",
+            "character": "Narrator (voice) (uncredited)"
+        }
+    ]
+}

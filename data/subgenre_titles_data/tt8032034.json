@@ -1,0 +1,511 @@
+{
+    "adult": false,
+    "backdrop_path": "/khCf77zTSMdVpAIGgTiPDcwtlkT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "",
+    "id": 1062482,
+    "imdb_id": "tt8032034",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Condor's Nest",
+    "overview": "American war veteran Will Spalding has tracked the sadistic Nazi Colonel who executed his bomber crew during WWII to a remote location in South America. But he is in for more than he bargained for when he uncovers a secret Nazi headquarters known as the Condor's Nest.",
+    "popularity": 0.875,
+    "poster_path": "/aBAsCMzsbGlFtQFqeWsKWM6hvOE.jpg",
+    "production_companies": [
+        {
+            "id": 6626,
+            "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+            "name": "Voltage Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [],
+    "release_date": "2023-01-27",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A hidden Nazi empire. A quest for revenge.",
+    "title": "Condor's Nest",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 24,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA 15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-06-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-03-20T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2023-04-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NZ",
+                "release_dates": [
+                    {
+                        "certification": "R16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-06-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Greensboro, NC",
+                        "release_date": "2022-07-16T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-27T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-01-27T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11086,
+                "known_for_department": "Acting",
+                "name": "Michael Ironside",
+                "original_name": "Michael Ironside",
+                "popularity": 0.087,
+                "profile_path": "/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg",
+                "cast_id": 10,
+                "character": "Agent Astakhov",
+                "credit_id": "639dcb69f12cf4007ac7abfc",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16743,
+                "known_for_department": "Acting",
+                "name": "Arnold Vosloo",
+                "original_name": "Arnold Vosloo",
+                "popularity": 0.073,
+                "profile_path": "/o23Z1EvWEYR7PArq2w5UpreVipV.jpg",
+                "cast_id": 11,
+                "character": "Colonel Martin Bach",
+                "credit_id": "639dcb81b5400200c3b5c265",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84215,
+                "known_for_department": "Acting",
+                "name": "Jackson Rathbone",
+                "original_name": "Jackson Rathbone",
+                "popularity": 0.037,
+                "profile_path": "/v48wbH6SKmV8fgzJ0h5wwEl0xbV.jpg",
+                "cast_id": 7,
+                "character": "Fritz Ziegler",
+                "credit_id": "639dcb224f33ad00c32bc601",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1215525,
+                "known_for_department": "Acting",
+                "name": "Jorge Garcia",
+                "original_name": "Jorge Garcia",
+                "popularity": 0.055,
+                "profile_path": "/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg",
+                "cast_id": 8,
+                "character": "Proprietor Hipolito",
+                "credit_id": "639dcb3fb5400200961d10f4",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52374,
+                "known_for_department": "Acting",
+                "name": "Bruce Davison",
+                "original_name": "Bruce Davison",
+                "popularity": 0.103,
+                "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+                "cast_id": 9,
+                "character": "Gerhardt Schrude",
+                "credit_id": "639dcb562f3b170094c9469e",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58528,
+                "known_for_department": "Acting",
+                "name": "James Urbaniak",
+                "original_name": "James Urbaniak",
+                "popularity": 0.053,
+                "profile_path": "/7KUK2x6OI5XdPX5xrYAo9hxL49Z.jpg",
+                "cast_id": 6,
+                "character": "Heinrich Himmler",
+                "credit_id": "639dcb0f9bcd0f007bf30b84",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3066567,
+                "known_for_department": "Acting",
+                "name": "Brandon Tyler Moore",
+                "original_name": "Brandon Tyler Moore",
+                "popularity": 0.005,
+                "profile_path": "/cM77RIrLOohQ78Oqpd62e5yrsC4.jpg",
+                "cast_id": 13,
+                "character": "Trooper Olbricht",
+                "credit_id": "63dec686e559370083a4e0c8",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1649059,
+                "known_for_department": "Acting",
+                "name": "Michael Tourek",
+                "original_name": "Michael Tourek",
+                "popularity": 0.015,
+                "profile_path": "/iUGIH6gdNdKfmkDHd9mEuRaiw6t.jpg",
+                "cast_id": 14,
+                "character": "Rudolf Zinke",
+                "credit_id": "63dec694373ac2007c1fe6d7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1469407,
+                "known_for_department": "Acting",
+                "name": "Greg Kriek",
+                "original_name": "Greg Kriek",
+                "popularity": 0.009,
+                "profile_path": "/isdXPMMvrnHutuVjudqKULNWbnn.jpg",
+                "cast_id": 15,
+                "character": "Josef Krekeler",
+                "credit_id": "63dec6a3ce5d8200f3c0f865",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2568538,
+                "known_for_department": "Acting",
+                "name": "Jamie Roy",
+                "original_name": "Jamie Roy",
+                "popularity": 0.011,
+                "profile_path": "/nYy56LbMANPBVGW0VD1VxoKd75B.jpg",
+                "cast_id": 16,
+                "character": "Sergeant Lewis",
+                "credit_id": "63dec6b18741c4007db015c2",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2548563,
+                "known_for_department": "Acting",
+                "name": "Jacob Keohane",
+                "original_name": "Jacob Keohane",
+                "popularity": 0.004,
+                "profile_path": "/vrkfGjx0Pk8nx0GwLeCgS8hYoSP.jpg",
+                "cast_id": 3,
+                "character": "Will Spaulding",
+                "credit_id": "639dcaceb5400200c3b5c20b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2175375,
+                "known_for_department": "Acting",
+                "name": "Corinne Britti",
+                "original_name": "Corinne Britti",
+                "popularity": 0.001,
+                "profile_path": "/s5NPWc9zpxvhoVLxQOJZ1RamB2w.jpg",
+                "cast_id": 5,
+                "character": "Leyna Rahn",
+                "credit_id": "639dcaf69bcd0f00d90c98a3",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1010349,
+                "known_for_department": "Acting",
+                "name": "Adrienne McQueen",
+                "original_name": "Adrienne McQueen",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Schnelling",
+                "credit_id": "63dec6c6e559370083a4e0d6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2063183,
+                "known_for_department": "Acting",
+                "name": "Al Pagano",
+                "original_name": "Al Pagano",
+                "popularity": 0.001,
+                "profile_path": "/Anl9wmmP5gbguSUfOKGUi7ExkAl.jpg",
+                "cast_id": 4,
+                "character": "Albert Vogel",
+                "credit_id": "639dcae09bcd0f007bf30b73",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3866105,
+                "known_for_department": "Acting",
+                "name": "Hunter Thore",
+                "original_name": "Hunter Thore",
+                "popularity": 0.02,
+                "profile_path": "/iaMwWx2wBMWzBtvV5kzlbXphOcs.jpg",
+                "cast_id": 18,
+                "character": "German Guard",
+                "credit_id": "63dec6da9974ee0083610b19",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2311212,
+                "known_for_department": "Acting",
+                "name": "Jason Alan Cook",
+                "original_name": "Jason Alan Cook",
+                "popularity": 0.005,
+                "profile_path": "/xjKPJYfaqYFJAZfntNDwtH0jdr6.jpg",
+                "cast_id": 12,
+                "character": "Blegen",
+                "credit_id": "63a07e058ddc34149eeedbdb",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1086026,
+                "known_for_department": "Acting",
+                "name": "Matthew Ewald",
+                "original_name": "Matthew Ewald",
+                "popularity": 0.005,
+                "profile_path": "/3kBLue6t5eyHXeDtACM4Z260hqn.jpg",
+                "cast_id": 19,
+                "character": "Sergeant Kelly",
+                "credit_id": "63dec72b6ee3d7007a7dae39",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1991639,
+                "known_for_department": "Acting",
+                "name": "Chad Ayers",
+                "original_name": "Chad Ayers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Trooper Müncheberg",
+                "credit_id": "63dec738e5593700c745204e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3906085,
+                "known_for_department": "Acting",
+                "name": "Scott Schneider",
+                "original_name": "Scott Schneider",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Walter Roth",
+                "credit_id": "6431b0371b72940110bdb374",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2239701,
+                "known_for_department": "Directing",
+                "name": "Phil Blattenberger",
+                "original_name": "Phil Blattenberger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639dca694f33ad00c32bc5bc",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2239701,
+                "known_for_department": "Directing",
+                "name": "Phil Blattenberger",
+                "original_name": "Phil Blattenberger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "639dca70be6d88008caf3e95",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Michael Ironside",
+            "character": "Agent Astakhov"
+        },
+        {
+            "actor": "Arnold Vosloo",
+            "character": "Colonel Martin Bach"
+        },
+        {
+            "actor": "Jackson Rathbone",
+            "character": "Fritz Ziegler"
+        },
+        {
+            "actor": "Jorge Garcia",
+            "character": "Proprietor Hipolito"
+        },
+        {
+            "actor": "Bruce Davison",
+            "character": "Gerhardt Schrude"
+        },
+        {
+            "actor": "James Urbaniak",
+            "character": "Heinrich Himmler"
+        },
+        {
+            "actor": "Brandon Tyler Moore",
+            "character": "Trooper Olbricht"
+        },
+        {
+            "actor": "Michael Tourek",
+            "character": "Rudolf Zinke"
+        },
+        {
+            "actor": "Greg Kriek",
+            "character": "Josef Krekeler"
+        },
+        {
+            "actor": "Jamie Roy",
+            "character": "Sergeant Lewis"
+        },
+        {
+            "actor": "Jacob Keohane",
+            "character": "Will Spaulding"
+        },
+        {
+            "actor": "Corinne Britti",
+            "character": "Leyna Rahn"
+        },
+        {
+            "actor": "Adrienne McQueen",
+            "character": "Schnelling"
+        },
+        {
+            "actor": "Al Pagano",
+            "character": "Albert Vogel"
+        },
+        {
+            "actor": "Hunter Thore",
+            "character": "German Guard"
+        },
+        {
+            "actor": "Jason Alan Cook",
+            "character": "Blegen"
+        },
+        {
+            "actor": "Matthew Ewald",
+            "character": "Sergeant Kelly"
+        },
+        {
+            "actor": "Chad Ayers",
+            "character": "Trooper Müncheberg"
+        },
+        {
+            "actor": "Scott Schneider",
+            "character": "Walter Roth"
+        }
+    ]
+}

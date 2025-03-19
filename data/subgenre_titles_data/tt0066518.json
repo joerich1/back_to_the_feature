@@ -1,0 +1,976 @@
+{
+    "adult": false,
+    "backdrop_path": "/25XGxo0qRz5TWiX7rgn0io35KQP.jpg",
+    "belongs_to_collection": {
+        "id": 960149,
+        "name": "Karnstein (Hammer) Collection",
+        "poster_path": "/tUu3qhFHNhgwI0GTsmVrREX4EYb.jpg",
+        "backdrop_path": "/lhCUCJJbfawERDxLY8yBbI5ZgUj.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 31952,
+    "imdb_id": "tt0066518",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Vampire Lovers",
+    "overview": "In the heart of Styria the Karnstein Family, even after their mortal deaths, rise from their tombs spreading evil in the countryside in their lust for fresh blood. Baron Hartog whose family are all victims of Karnstein vampirism, opens their graves and drives a stake through their diabolical hearts. One grave he cannot locate is that of the legendary beautiful Mircalla Karnstein. Years of peace follow that grisly night until Mircalla reappears to avenge her family's decimation and satisfy her desire for blood.",
+    "popularity": 3.53,
+    "poster_path": "/6MTiYnp62i2kdweHjhchwJscQrj.jpg",
+    "production_companies": [
+        {
+            "id": 1314,
+            "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+            "name": "Hammer Film Productions",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1970-10-04",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "An erotic nightmare of tormented lusts that throb in headless, undead bodies!",
+    "title": "The Vampire Lovers",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 197,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1973-05-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1970-10-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1970-10-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1970-10-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 83739,
+                "known_for_department": "Acting",
+                "name": "Ingrid Pitt",
+                "original_name": "Ingrid Pitt",
+                "popularity": 0.02,
+                "profile_path": "/ebACAZrdo5e0H78hWpje4Lkpwea.jpg",
+                "cast_id": 1,
+                "character": "Marcilla / Carmilla",
+                "credit_id": "52fe44ab9251416c91018ce9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5,
+                "known_for_department": "Acting",
+                "name": "Peter Cushing",
+                "original_name": "Peter Cushing",
+                "popularity": 0.055,
+                "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
+                "cast_id": 2,
+                "character": "General von Spielsdorf",
+                "credit_id": "52fe44ab9251416c91018ced",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47722,
+                "known_for_department": "Acting",
+                "name": "George Cole",
+                "original_name": "George Cole",
+                "popularity": 0.026,
+                "profile_path": "/cPgVhIM4NK4dvuLkzRK8zBZyoJk.jpg",
+                "cast_id": 12,
+                "character": "Roger Morton",
+                "credit_id": "52fe44ac9251416c91018d1b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 30765,
+                "known_for_department": "Acting",
+                "name": "Kate O'Mara",
+                "original_name": "Kate O'Mara",
+                "popularity": 0.022,
+                "profile_path": "/fLHUID9NGMN3H0W3PWRfqgL7goD.jpg",
+                "cast_id": 13,
+                "character": "The Governess (Mme. Perrodot)",
+                "credit_id": "52fe44ac9251416c91018d1f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26557,
+                "known_for_department": "Acting",
+                "name": "Ferdy Mayne",
+                "original_name": "Ferdy Mayne",
+                "popularity": 0.034,
+                "profile_path": "/7l73nDzdFBae78sEaY4xWxEmRV4.jpg",
+                "cast_id": 14,
+                "character": "Doctor",
+                "credit_id": "52fe44ac9251416c91018d23",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89065,
+                "known_for_department": "Acting",
+                "name": "Douglas Wilmer",
+                "original_name": "Douglas Wilmer",
+                "popularity": 0.019,
+                "profile_path": "/lLDEShggC8rMma9xRYwp5nNdPmQ.jpg",
+                "cast_id": 15,
+                "character": "Baron Joachim von Hartog",
+                "credit_id": "52fe44ac9251416c91018d27",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 30577,
+                "known_for_department": "Acting",
+                "name": "Madeline Smith",
+                "original_name": "Madeline Smith",
+                "popularity": 0.016,
+                "profile_path": "/xivbxX80KtHYWRKVjNu7FtgDzmZ.jpg",
+                "cast_id": 16,
+                "character": "Emma Morton",
+                "credit_id": "52fe44ac9251416c91018d2b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 72717,
+                "known_for_department": "Acting",
+                "name": "Dawn Addams",
+                "original_name": "Dawn Addams",
+                "popularity": 0.012,
+                "profile_path": "/jdkF0IUkajyfcyKtD1OB3RqC2M4.jpg",
+                "cast_id": 17,
+                "character": "The Countess",
+                "credit_id": "52fe44ac9251416c91018d2f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 185027,
+                "known_for_department": "Acting",
+                "name": "Pippa Steel",
+                "original_name": "Pippa Steel",
+                "popularity": 0.001,
+                "profile_path": "/1xc63fpeCZbN2A993ivFwgUFW1N.jpg",
+                "cast_id": 28,
+                "character": "Laura",
+                "credit_id": "5ae85bb5c3a3681343017a50",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8223,
+                "known_for_department": "Acting",
+                "name": "Jon Finch",
+                "original_name": "Jon Finch",
+                "popularity": 0.013,
+                "profile_path": "/q0bqeLBrpYcEnE2A2HktLjdajoj.jpg",
+                "cast_id": 24,
+                "character": "Carl Ebhardt",
+                "credit_id": "54804c75c3a36829a7002308",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 185019,
+                "known_for_department": "Acting",
+                "name": "Kirsten Lindholm",
+                "original_name": "Kirsten Lindholm",
+                "popularity": 0.01,
+                "profile_path": "/8VfcPysRRtzt4xafRlQ9dhKuMGq.jpg",
+                "cast_id": 25,
+                "character": "First Vampire",
+                "credit_id": "54804c869251414efa002326",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 95515,
+                "known_for_department": "Acting",
+                "name": "John Forbes-Robertson",
+                "original_name": "John Forbes-Robertson",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Man in Black",
+                "credit_id": "54804c979251416e740024ca",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107265,
+                "known_for_department": "Acting",
+                "name": "Shelagh Wilcocks",
+                "original_name": "Shelagh Wilcocks",
+                "popularity": 0.002,
+                "profile_path": "/vK848nZgvT3xoHanTwgySjkNSgl.jpg",
+                "cast_id": 42,
+                "character": "Housekeeper",
+                "credit_id": "624de6457e12f00069f29655",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26120,
+                "known_for_department": "Acting",
+                "name": "Harvey Hall",
+                "original_name": "Harvey Hall",
+                "popularity": 0.005,
+                "profile_path": "/kqa91yQZ6X36mxiiT1x1ZL4mIoJ.jpg",
+                "cast_id": 43,
+                "character": "Renton",
+                "credit_id": "624de6539ae61300642a8aa3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100298,
+                "known_for_department": "Acting",
+                "name": "Janet Key",
+                "original_name": "Janet Key",
+                "popularity": 0.009,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Gretchin",
+                "credit_id": "624de6637e12f000538e074d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82558,
+                "known_for_department": "Acting",
+                "name": "Charles Farrell",
+                "original_name": "Charles Farrell",
+                "popularity": 0.005,
+                "profile_path": "/k1tSksVwScfwabDD3qwmzAHT95O.jpg",
+                "cast_id": 45,
+                "character": "Landlord",
+                "credit_id": "624de68776eecf0223fa4601",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3488351,
+                "known_for_department": "Acting",
+                "name": "Joanna Shelley",
+                "original_name": "Joanna Shelley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 46,
+                "character": "Woodman's Daughter",
+                "credit_id": "624de6ab1684f700656f69d3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100103,
+                "known_for_department": "Acting",
+                "name": "Olga Anthony",
+                "original_name": "Olga Anthony",
+                "popularity": 0.004,
+                "profile_path": "/7JO3MdEFYbWtlz0CqFqKG0fL7AN.jpg",
+                "cast_id": 47,
+                "character": "Village Girl",
+                "credit_id": "624de6d33d3557006745b18e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30768,
+                "known_for_department": "Acting",
+                "name": "Graham James",
+                "original_name": "Graham James",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Young Man",
+                "credit_id": "624de717387651009a058050",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3495943,
+                "known_for_department": "Acting",
+                "name": "Tom Browne",
+                "original_name": "Tom Browne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Young Man",
+                "credit_id": "624de7e897a4e6006643db15",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2262359,
+                "known_for_department": "Acting",
+                "name": "Roy Beck",
+                "original_name": "Roy Beck",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 50,
+                "character": "",
+                "credit_id": "637f06422222f6008eeeb700",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2449540,
+                "known_for_department": "Acting",
+                "name": "Jill Easter",
+                "original_name": "Jill Easter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 51,
+                "character": "",
+                "credit_id": "637f0653a4af8f007eec13e1",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1271074,
+                "known_for_department": "Acting",
+                "name": "Salo Gardner",
+                "original_name": "Salo Gardner",
+                "popularity": 0.01,
+                "profile_path": "/bISshTOC6mOua9nhFvDflJIxBTX.jpg",
+                "cast_id": 52,
+                "character": "",
+                "credit_id": "637f066dfa4046007c00c43d",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3800449,
+                "known_for_department": "Acting",
+                "name": "Hubert Hill",
+                "original_name": "Hubert Hill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "",
+                "credit_id": "637f0765514c4a009998c577",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3800451,
+                "known_for_department": "Acting",
+                "name": "Gordon Humphries",
+                "original_name": "Gordon Humphries",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 54,
+                "character": "",
+                "credit_id": "637f0786a410c800a4315d10",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1070713,
+                "known_for_department": "Acting",
+                "name": "Sion Probert",
+                "original_name": "Sion Probert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 55,
+                "character": "",
+                "credit_id": "637f07a5514c4a009998c592",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1678560,
+                "known_for_department": "Acting",
+                "name": "Roy Seely",
+                "original_name": "Roy Seely",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "",
+                "credit_id": "637f07eca3d027009f09bb8b",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1336771,
+                "known_for_department": "Acting",
+                "name": "Vicki Woolf",
+                "original_name": "Vicki Woolf",
+                "popularity": 0.003,
+                "profile_path": "/2lxqnKqbaFLqDRw40daOslgp75M.jpg",
+                "cast_id": 57,
+                "character": "",
+                "credit_id": "637f07fca3d027007bd4cfe6",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102037,
+                "known_for_department": "Production",
+                "name": "Harry Fine",
+                "original_name": "Harry Fine",
+                "popularity": 0.001,
+                "profile_path": "/cDanQlGgFNXsDrrB5sZ5orG4Bak.jpg",
+                "credit_id": "52fe44ab9251416c91018cf9",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30172,
+                "known_for_department": "Editing",
+                "name": "James Needs",
+                "original_name": "James Needs",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d17",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102038,
+                "known_for_department": "Production",
+                "name": "Michael Style",
+                "original_name": "Michael Style",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d05",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29885,
+                "known_for_department": "Writing",
+                "name": "Tudor Gates",
+                "original_name": "Tudor Gates",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018cff",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30761,
+                "known_for_department": "Camera",
+                "name": "Moray Grant",
+                "original_name": "Moray Grant",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d11",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11573,
+                "known_for_department": "Writing",
+                "name": "Sheridan Le Fanu",
+                "original_name": "Sheridan Le Fanu",
+                "popularity": 0.003,
+                "profile_path": "/bjvU12t8Qlk60OU82Lw1TbKlBW8.jpg",
+                "credit_id": "52fe44ac9251416c91018d35",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26134,
+                "known_for_department": "Directing",
+                "name": "Roy Ward Baker",
+                "original_name": "Roy Ward Baker",
+                "popularity": 0.008,
+                "profile_path": "/8y7ip2Nhos2I0UfLOFz3kSlmoJp.jpg",
+                "credit_id": "52fe44ab9251416c91018cf3",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559704,
+                "known_for_department": "Sound",
+                "name": "Harry Robertson",
+                "original_name": "Harry Robertson",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d47",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30574,
+                "known_for_department": "Art",
+                "name": "Scott MacGregor",
+                "original_name": "Scott MacGregor",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d4d",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102038,
+                "known_for_department": "Production",
+                "name": "Michael Style",
+                "original_name": "Michael Style",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44ac9251416c91018d41",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102037,
+                "known_for_department": "Production",
+                "name": "Harry Fine",
+                "original_name": "Harry Fine",
+                "popularity": 0.001,
+                "profile_path": "/cDanQlGgFNXsDrrB5sZ5orG4Bak.jpg",
+                "credit_id": "52fe44ac9251416c91018d3b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2662856,
+                "known_for_department": "Art",
+                "name": "Bill Greene",
+                "original_name": "Bill Greene",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de56555c1f4006646bae7",
+                "department": "Art",
+                "job": "Construction Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1649110,
+                "known_for_department": "Directing",
+                "name": "Betty Harley",
+                "original_name": "Betty Harley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de51a76eecf0054d047ad",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1704923,
+                "known_for_department": "Directing",
+                "name": "Derek Whitehurst",
+                "original_name": "Derek Whitehurst",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de4c297a4e60051e0f310",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21788,
+                "known_for_department": "Sound",
+                "name": "Claude Hitchcock",
+                "original_name": "Claude Hitchcock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de4d9cf9ba3005230fe98",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 30763,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pearl Tipaldi",
+                "original_name": "Pearl Tipaldi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de53754508d0050f04396",
+                "department": "Costume & Make-Up",
+                "job": "Hair Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1588529,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Laura Nightingale",
+                "original_name": "Laura Nightingale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de54a46aed400ae0e113e",
+                "department": "Costume & Make-Up",
+                "job": "Wardrobe Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1179379,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Brian Cox",
+                "original_name": "Brian Cox",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de44846aed400ae0e0cc0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1588242,
+                "known_for_department": "Sound",
+                "name": "Philip Martell",
+                "original_name": "Philip Martell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de48dfc5f06009e27445e",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 996046,
+                "known_for_department": "Editing",
+                "name": "Roy Hyde",
+                "original_name": "Roy Hyde",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de4eb76eecf009e5df0a5",
+                "department": "Sound",
+                "job": "Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1370844,
+                "known_for_department": "Camera",
+                "name": "Neil Binney",
+                "original_name": "Neil Binney",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de50b9ae613004e9c03f6",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1056753,
+                "known_for_department": "Production",
+                "name": "Tom Sachs",
+                "original_name": "Tom Sachs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de4add9554b00a98fe405",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1588245,
+                "known_for_department": "Sound",
+                "name": "Dennis Whitlock",
+                "original_name": "Dennis Whitlock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "624de57c97a4e6009e92a12d",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29885,
+                "known_for_department": "Writing",
+                "name": "Tudor Gates",
+                "original_name": "Tudor Gates",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "54804cb79251416e780022e2",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10407,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tom Smith",
+                "original_name": "Tom Smith",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5c104d9d0e0a2638b80ece19",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5600,
+                "name": "daughter"
+            },
+            {
+                "id": 3133,
+                "name": "vampire"
+            },
+            {
+                "id": 2804,
+                "name": "exploitation"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ingrid Pitt",
+            "character": "Marcilla / Carmilla"
+        },
+        {
+            "actor": "Peter Cushing",
+            "character": "General von Spielsdorf"
+        },
+        {
+            "actor": "George Cole",
+            "character": "Roger Morton"
+        },
+        {
+            "actor": "Kate O'Mara",
+            "character": "The Governess (Mme. Perrodot)"
+        },
+        {
+            "actor": "Ferdy Mayne",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Douglas Wilmer",
+            "character": "Baron Joachim von Hartog"
+        },
+        {
+            "actor": "Madeline Smith",
+            "character": "Emma Morton"
+        },
+        {
+            "actor": "Dawn Addams",
+            "character": "The Countess"
+        },
+        {
+            "actor": "Pippa Steel",
+            "character": "Laura"
+        },
+        {
+            "actor": "Jon Finch",
+            "character": "Carl Ebhardt"
+        },
+        {
+            "actor": "Kirsten Lindholm",
+            "character": "First Vampire"
+        },
+        {
+            "actor": "John Forbes-Robertson",
+            "character": "Man in Black"
+        },
+        {
+            "actor": "Shelagh Wilcocks",
+            "character": "Housekeeper"
+        },
+        {
+            "actor": "Harvey Hall",
+            "character": "Renton"
+        },
+        {
+            "actor": "Janet Key",
+            "character": "Gretchin"
+        },
+        {
+            "actor": "Charles Farrell",
+            "character": "Landlord"
+        },
+        {
+            "actor": "Joanna Shelley",
+            "character": "Woodman's Daughter"
+        },
+        {
+            "actor": "Olga Anthony",
+            "character": "Village Girl"
+        },
+        {
+            "actor": "Graham James",
+            "character": "Young Man"
+        },
+        {
+            "actor": "Tom Browne",
+            "character": "Young Man"
+        },
+        {
+            "actor": "Roy Beck",
+            "character": ""
+        },
+        {
+            "actor": "Jill Easter",
+            "character": ""
+        },
+        {
+            "actor": "Salo Gardner",
+            "character": ""
+        },
+        {
+            "actor": "Hubert Hill",
+            "character": ""
+        },
+        {
+            "actor": "Gordon Humphries",
+            "character": ""
+        },
+        {
+            "actor": "Sion Probert",
+            "character": ""
+        },
+        {
+            "actor": "Roy Seely",
+            "character": ""
+        },
+        {
+            "actor": "Vicki Woolf",
+            "character": ""
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "adult": false,
+    "backdrop_path": "/uuPB4j1O4lz44SPpM9un8QygZym.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "",
+    "id": 66034,
+    "imdb_id": "tt0116953",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mad Dog Time",
+    "overview": "With his boss in the madhouse, a mobster is temporary boss of the criminal empire just as vicious rivals threaten the control of the empire.",
+    "popularity": 1.553,
+    "poster_path": "/rpKyVUVmFtg6BvYDrGnBfPv4jVH.jpg",
+    "production_companies": [
+        {
+            "id": 169996,
+            "logo_path": null,
+            "name": "Skylight Films",
+            "origin_country": ""
+        },
+        {
+            "id": 36001,
+            "logo_path": null,
+            "name": "Dreyfuss / James Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1996-11-08",
+    "revenue": 107874,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "No laws. No meaning. No exit.",
+    "title": "Mad Dog Time",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 44,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-08-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1997-10-16T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-07-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1996-11-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3037,
+                "known_for_department": "Acting",
+                "name": "Richard Dreyfuss",
+                "original_name": "Richard Dreyfuss",
+                "popularity": 0.088,
+                "profile_path": "/q2BPu6zWwFtnzQfpl4fgbKqURXM.jpg",
+                "cast_id": 1,
+                "character": "Vic",
+                "credit_id": "52fe4726c3a368484e0b7733",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6913,
+                "known_for_department": "Acting",
+                "name": "Ellen Barkin",
+                "original_name": "Ellen Barkin",
+                "popularity": 0.064,
+                "profile_path": "/k8L89k5xEk7hN3TUKkEFUcPzSxh.jpg",
+                "cast_id": 2,
+                "character": "Rita Everly",
+                "credit_id": "52fe4726c3a368484e0b7737",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4785,
+                "known_for_department": "Acting",
+                "name": "Jeff Goldblum",
+                "original_name": "Jeff Goldblum",
+                "popularity": 0.158,
+                "profile_path": "/o3PahuK7OmCI0RAQUq38CUBWYZ9.jpg",
+                "cast_id": 3,
+                "character": "Mickey Holliday",
+                "credit_id": "52fe4726c3a368484e0b773b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5168,
+                "known_for_department": "Acting",
+                "name": "Gabriel Byrne",
+                "original_name": "Gabriel Byrne",
+                "popularity": 0.06,
+                "profile_path": "/9r9oDGENg92VYYFMkV4C09IUlrb.jpg",
+                "cast_id": 5,
+                "character": "Ben London",
+                "credit_id": "52fe4726c3a368484e0b7745",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2882,
+                "known_for_department": "Acting",
+                "name": "Diane Lane",
+                "original_name": "Diane Lane",
+                "popularity": 0.15,
+                "profile_path": "/o9pPS52JrleScO4Qq6q1nYlaxWz.jpg",
+                "cast_id": 6,
+                "character": "Grace Everly",
+                "credit_id": "52fe4726c3a368484e0b7749",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16475,
+                "known_for_department": "Acting",
+                "name": "Burt Reynolds",
+                "original_name": "Burt Reynolds",
+                "popularity": 0.09,
+                "profile_path": "/5FNuc4f1OR9EF9QcrcnFIr3zZQr.jpg",
+                "cast_id": 7,
+                "character": "'Wacky' Jacky Jackson",
+                "credit_id": "52fe4726c3a368484e0b774d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34721,
+                "known_for_department": "Acting",
+                "name": "Larry Bishop",
+                "original_name": "Larry Bishop",
+                "popularity": 0.009,
+                "profile_path": "/6ThKAvkJChVh6yIeYv4wiKu0eoB.jpg",
+                "cast_id": 8,
+                "character": "Nick",
+                "credit_id": "52fe4726c3a368484e0b7751",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4361,
+                "known_for_department": "Acting",
+                "name": "Joey Bishop",
+                "original_name": "Joey Bishop",
+                "popularity": 0.012,
+                "profile_path": "/3iDZ0usbPT35aHydBkMsUFzSdMk.jpg",
+                "cast_id": 9,
+                "character": "Mr. Gottlieb",
+                "credit_id": "52fe4726c3a368484e0b7755",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6677,
+                "known_for_department": "Acting",
+                "name": "Kyle MacLachlan",
+                "original_name": "Kyle MacLachlan",
+                "popularity": 0.07,
+                "profile_path": "/ooI51tWwL5qVHV6KrOdbi01s2ib.jpg",
+                "cast_id": 10,
+                "character": "Jake Parker",
+                "credit_id": "52fe4726c3a368484e0b7759",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58312,
+                "known_for_department": "Acting",
+                "name": "Angie Everhart",
+                "original_name": "Angie Everhart",
+                "popularity": 0.091,
+                "profile_path": "/2jLxkMzqHkCGbBWGkeMixJbOg85.jpg",
+                "cast_id": 11,
+                "character": "Gabriella",
+                "credit_id": "52fe4726c3a368484e0b775d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14731,
+                "known_for_department": "Acting",
+                "name": "Henry Silva",
+                "original_name": "Henry Silva",
+                "popularity": 0.037,
+                "profile_path": "/pTdxR3Z0DHVpnFEkllEA4Uduwu8.jpg",
+                "cast_id": 12,
+                "character": "Sleepy Joe Carlisle",
+                "credit_id": "52fe4726c3a368484e0b7761",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6451,
+                "known_for_department": "Acting",
+                "name": "Michael J. Pollard",
+                "original_name": "Michael J. Pollard",
+                "popularity": 0.032,
+                "profile_path": "/tKoA5p1EkdLzkj4DB8PCkxFxbg0.jpg",
+                "cast_id": 13,
+                "character": "Red Mash",
+                "credit_id": "52fe4726c3a368484e0b7765",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66804,
+                "known_for_department": "Acting",
+                "name": "Gregory Hines",
+                "original_name": "Gregory Hines",
+                "popularity": 0.026,
+                "profile_path": "/tQDKvHbKAu6Jf90owFAvtYs0ADR.jpg",
+                "cast_id": 14,
+                "character": "Jules Flamingo",
+                "credit_id": "52fe4726c3a368484e0b7769",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80117,
+                "known_for_department": "Acting",
+                "name": "Billy Idol",
+                "original_name": "Billy Idol",
+                "popularity": 0.043,
+                "profile_path": "/gD88JwPMDds3QLyDwqhbNfEWAo0.jpg",
+                "cast_id": 15,
+                "character": "Lee Turner",
+                "credit_id": "52fe4726c3a368484e0b776d",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1275,
+                "known_for_department": "Acting",
+                "name": "Billy Drago",
+                "original_name": "Billy Drago",
+                "popularity": 0.032,
+                "profile_path": "/nKasMpo67KrJtKSVU14by5M6WXd.jpg",
+                "cast_id": 16,
+                "character": "Wells",
+                "credit_id": "52fe4726c3a368484e0b7771",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 122632,
+                "known_for_department": "Acting",
+                "name": "Christopher Jones",
+                "original_name": "Christopher Jones",
+                "popularity": 0.007,
+                "profile_path": "/tvEOn2EILX9tqBAwF1t385WgdZE.jpg",
+                "cast_id": 17,
+                "character": "Nicholas Falco",
+                "credit_id": "5b009c550e0a2623c7002cc9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9309,
+                "known_for_department": "Acting",
+                "name": "Richard Pryor",
+                "original_name": "Richard Pryor",
+                "popularity": 0.044,
+                "profile_path": "/5hLh0btIkqYPbDmJ0i4WZo9OAt2.jpg",
+                "cast_id": 18,
+                "character": "Jimmy the Gravedigger",
+                "credit_id": "5e65a6d4357c0000113888f7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3026,
+                "known_for_department": "Acting",
+                "name": "Rob Reiner",
+                "original_name": "Rob Reiner",
+                "popularity": 0.076,
+                "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg",
+                "cast_id": 19,
+                "character": "Albert the Chauffeur",
+                "credit_id": "5e65a71f459ad60011599dcf",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1607,
+                "known_for_department": "Acting",
+                "name": "Juan Fernández",
+                "original_name": "Juan Fernández",
+                "popularity": 0.013,
+                "profile_path": "/gd5gNboWvdpoEtiNtIUJoWn8SSR.jpg",
+                "cast_id": 31,
+                "character": "Davis",
+                "credit_id": "65e2baa61ad93b018605ca63",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77260,
+                "known_for_department": "Acting",
+                "name": "Paul Anka",
+                "original_name": "Paul Anka",
+                "popularity": 0.026,
+                "profile_path": "/8Qx0tMaYEPAWkUOwOnsnm4lZad5.jpg",
+                "cast_id": 32,
+                "character": "Danny Marks",
+                "credit_id": "65e2c04e2ac499014aecf5d2",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34721,
+                "known_for_department": "Acting",
+                "name": "Larry Bishop",
+                "original_name": "Larry Bishop",
+                "popularity": 0.009,
+                "profile_path": "/6ThKAvkJChVh6yIeYv4wiKu0eoB.jpg",
+                "credit_id": "52fe4726c3a368484e0b7741",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 92201,
+                "known_for_department": "Production",
+                "name": "Leonard Shapiro",
+                "original_name": "Leonard Shapiro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60e2245a83ee670027bf7d92",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 62144,
+                "known_for_department": "Art",
+                "name": "Kathy Lucas",
+                "original_name": "Kathy Lucas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60e2249b22e480002dec3b78",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1987485,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ileane Meltzer",
+                "original_name": "Ileane Meltzer",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "60e224a8258823002d868dbc",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 11373,
+                "known_for_department": "Art",
+                "name": "Dina Lipton",
+                "original_name": "Dina Lipton",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "60e22487a1d332005e409117",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1536543,
+                "known_for_department": "Production",
+                "name": "Judith James",
+                "original_name": "Judith James",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60e224452f266b005e8a2034",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27569,
+                "known_for_department": "Editing",
+                "name": "Norman Hollyn",
+                "original_name": "Norman Hollyn",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "60e2247bb76cbb005dfa1a63",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1375562,
+                "known_for_department": "Sound",
+                "name": "Earl Rose",
+                "original_name": "Earl Rose",
+                "popularity": 0.001,
+                "profile_path": "/2SSZJH1SaAVlIMg89WwhkKBXA24.jpg",
+                "credit_id": "60e22465258823002d868d13",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15804,
+                "known_for_department": "Camera",
+                "name": "Frank Byers",
+                "original_name": "Frank Byers",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "60e22471caa508002efceaef",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16493,
+                "known_for_department": "Art",
+                "name": "Michael Atwell",
+                "original_name": "Michael Atwell",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "60e22491caa50800801a6284",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34721,
+                "known_for_department": "Acting",
+                "name": "Larry Bishop",
+                "original_name": "Larry Bishop",
+                "popularity": 0.009,
+                "profile_path": "/6ThKAvkJChVh6yIeYv4wiKu0eoB.jpg",
+                "credit_id": "5ea6f2cddb72c0001dbed487",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1275373,
+                "known_for_department": "Sound",
+                "name": "Harvey Mason",
+                "original_name": "Harvey Mason",
+                "popularity": 0.001,
+                "profile_path": "/r3v1dQqZJTTiMWWNljHlMu3qbDX.jpg",
+                "credit_id": "5ea6f2acdb72c0001fbeda9c",
+                "department": "Sound",
+                "job": "Musician"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Richard Dreyfuss",
+            "character": "Vic"
+        },
+        {
+            "actor": "Ellen Barkin",
+            "character": "Rita Everly"
+        },
+        {
+            "actor": "Jeff Goldblum",
+            "character": "Mickey Holliday"
+        },
+        {
+            "actor": "Gabriel Byrne",
+            "character": "Ben London"
+        },
+        {
+            "actor": "Diane Lane",
+            "character": "Grace Everly"
+        },
+        {
+            "actor": "Burt Reynolds",
+            "character": "'Wacky' Jacky Jackson"
+        },
+        {
+            "actor": "Larry Bishop",
+            "character": "Nick"
+        },
+        {
+            "actor": "Joey Bishop",
+            "character": "Mr. Gottlieb"
+        },
+        {
+            "actor": "Kyle MacLachlan",
+            "character": "Jake Parker"
+        },
+        {
+            "actor": "Angie Everhart",
+            "character": "Gabriella"
+        },
+        {
+            "actor": "Henry Silva",
+            "character": "Sleepy Joe Carlisle"
+        },
+        {
+            "actor": "Michael J. Pollard",
+            "character": "Red Mash"
+        },
+        {
+            "actor": "Gregory Hines",
+            "character": "Jules Flamingo"
+        },
+        {
+            "actor": "Billy Idol",
+            "character": "Lee Turner"
+        },
+        {
+            "actor": "Billy Drago",
+            "character": "Wells"
+        },
+        {
+            "actor": "Christopher Jones",
+            "character": "Nicholas Falco"
+        },
+        {
+            "actor": "Richard Pryor",
+            "character": "Jimmy the Gravedigger"
+        },
+        {
+            "actor": "Rob Reiner",
+            "character": "Albert the Chauffeur"
+        },
+        {
+            "actor": "Juan Fernández",
+            "character": "Davis"
+        },
+        {
+            "actor": "Paul Anka",
+            "character": "Danny Marks"
+        }
+    ]
+}

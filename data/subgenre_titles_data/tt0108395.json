@@ -1,0 +1,692 @@
+{
+    "adult": false,
+    "backdrop_path": "/hFzF11NnlzcblQCLK6KRYMafIBB.jpg",
+    "belongs_to_collection": null,
+    "budget": 23000000,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 35614,
+    "imdb_id": "tt0108395",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Troll in Central Park",
+    "overview": "A friendly troll with a magic green thumb grows one flower too many for the queen, whose laws require all trolls to be mean ugly and scare humans whenever possible. As a punishment, he is exiled to a world of concrete, where he should live a life of proper trolldom: Manhattan.",
+    "popularity": 3.53,
+    "poster_path": "/5RH87MTTrQwfX3HgYD444naIWn7.jpg",
+    "production_companies": [
+        {
+            "id": 6422,
+            "logo_path": null,
+            "name": "Sullivan Bluth Studios",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-10-07",
+    "revenue": 71368,
+    "runtime": 76,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Believe in Yourself and You Can Do Anything!",
+    "title": "A Troll in Central Park",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 148,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "0",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-06-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "VHS (Warner Home Vidéo)",
+                        "release_date": "1995-09-05T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD (Les Films du Paradoxe)",
+                        "release_date": "2018-11-07T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "Canal J",
+                        "release_date": "1998-12-31T00:00:00.000Z",
+                        "type": 6
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "France 5",
+                        "release_date": "2004-12-29T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-06-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VHS",
+                        "release_date": "1996-03-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "Btl",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VHS",
+                        "release_date": "1996-03-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-10-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6844,
+                "known_for_department": "Acting",
+                "name": "Dom DeLuise",
+                "original_name": "Dom DeLuise",
+                "popularity": 0.069,
+                "profile_path": "/3k45LlomavX4f2f3FnjtKhjojuf.jpg",
+                "cast_id": 1,
+                "character": "Stanley (voice)",
+                "credit_id": "52fe45ab9251416c9103a3f9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40348,
+                "known_for_department": "Acting",
+                "name": "Phillip Glasser",
+                "original_name": "Phillip Glasser",
+                "popularity": 0.017,
+                "profile_path": "/hak1JvlAozZJmEuzxM50brnYw6c.jpg",
+                "cast_id": 2,
+                "character": "Gus (voice)",
+                "credit_id": "52fe45ab9251416c9103a3fd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 114423,
+                "known_for_department": "Acting",
+                "name": "Tawny Sunshine Glover",
+                "original_name": "Tawny Sunshine Glover",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Rosie (voice)",
+                "credit_id": "52fe45ab9251416c9103a401",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9599,
+                "known_for_department": "Acting",
+                "name": "Cloris Leachman",
+                "original_name": "Cloris Leachman",
+                "popularity": 0.074,
+                "profile_path": "/vsaw9iOVSuluGsOgIGfyGTW9znG.jpg",
+                "cast_id": 4,
+                "character": "Queen Gnorga (voice)",
+                "credit_id": "52fe45ab9251416c9103a405",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 36819,
+                "known_for_department": "Acting",
+                "name": "Hayley Mills",
+                "original_name": "Hayley Mills",
+                "popularity": 0.049,
+                "profile_path": "/4kbO4AS4RhQihF1xFzCqnhNLYpr.jpg",
+                "cast_id": 5,
+                "character": "Hilary (voice)",
+                "credit_id": "52fe45ab9251416c9103a409",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 378,
+                "known_for_department": "Acting",
+                "name": "Jonathan Pryce",
+                "original_name": "Jonathan Pryce",
+                "popularity": 0.091,
+                "profile_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg",
+                "cast_id": 6,
+                "character": "Alan (voice)",
+                "credit_id": "52fe45ab9251416c9103a40d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1211888,
+                "known_for_department": "Acting",
+                "name": "Charles Nelson Reilly",
+                "original_name": "Charles Nelson Reilly",
+                "popularity": 0.023,
+                "profile_path": "/m2blS5vRA2Rtlk49F48sDJ7VspP.jpg",
+                "cast_id": 39,
+                "character": "Llort (voice)",
+                "credit_id": "5a4d64ba925141076a00b155",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19545,
+                "known_for_department": "Acting",
+                "name": "Jack Angel",
+                "original_name": "Jack Angel",
+                "popularity": 0.037,
+                "profile_path": "/5MsVwIULYJotUSbDs61uSJff7ei.jpg",
+                "cast_id": 40,
+                "character": "Trolls (voice)",
+                "credit_id": "5ab41c35c3a368615b01094c",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64951,
+                "known_for_department": "Acting",
+                "name": "Neil Ross",
+                "original_name": "Neil Ross",
+                "popularity": 0.033,
+                "profile_path": "/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg",
+                "cast_id": 41,
+                "character": "Generic Pansy (voice)",
+                "credit_id": "63e15404e9c0dc007c95d246",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40352,
+                "known_for_department": "Acting",
+                "name": "Will Ryan",
+                "original_name": "Will Ryan",
+                "popularity": 0.024,
+                "profile_path": "/qRkyGcSju2VmEb7RTBM3Wpa0rvI.jpg",
+                "cast_id": 42,
+                "character": "Boss (voice)",
+                "credit_id": "63e1541ee9c0dc00de6b51af",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35349,
+                "known_for_department": "Acting",
+                "name": "Pat Musick",
+                "original_name": "Pat Musick",
+                "popularity": 0.022,
+                "profile_path": "/fzU0j6mMi5xIfnT92bOheFOYTOk.jpg",
+                "cast_id": 43,
+                "character": "Snuffy (voice)",
+                "credit_id": "63e154303679a1008fa43479",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40345,
+                "known_for_department": "Directing",
+                "name": "Don Bluth",
+                "original_name": "Don Bluth",
+                "popularity": 0.039,
+                "profile_path": "/vzeIEidWO7v2Dfw7iMv3Xjnmfwd.jpg",
+                "credit_id": "52fe45ab9251416c9103a413",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39056,
+                "known_for_department": "Production",
+                "name": "John Pomeroy",
+                "original_name": "John Pomeroy",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "52fe45ab9251416c9103a41f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12881,
+                "known_for_department": "Production",
+                "name": "Gary Goldman",
+                "original_name": "Gary Goldman",
+                "popularity": 0.016,
+                "profile_path": "/5h4NQ8dj2zWvd3rYGUFCGsPaCJn.jpg",
+                "credit_id": "52fe45ab9251416c9103a42b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12881,
+                "known_for_department": "Production",
+                "name": "Gary Goldman",
+                "original_name": "Gary Goldman",
+                "popularity": 0.016,
+                "profile_path": "/5h4NQ8dj2zWvd3rYGUFCGsPaCJn.jpg",
+                "credit_id": "52fe45ab9251416c9103a419",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40345,
+                "known_for_department": "Directing",
+                "name": "Don Bluth",
+                "original_name": "Don Bluth",
+                "popularity": 0.039,
+                "profile_path": "/vzeIEidWO7v2Dfw7iMv3Xjnmfwd.jpg",
+                "credit_id": "52fe45ab9251416c9103a425",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72405,
+                "known_for_department": "Writing",
+                "name": "Stu Krieger",
+                "original_name": "Stu Krieger",
+                "popularity": 0.007,
+                "profile_path": "/2oGh8IS2sFWVcranaL1ow9Sw9YV.jpg",
+                "credit_id": "545674e70e0a261ad1000cfa",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1447333,
+                "known_for_department": "Visual Effects",
+                "name": "Dan Harder",
+                "original_name": "Dan Harder",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "554423c4c3a36856e50002cd",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1462792,
+                "known_for_department": "Camera",
+                "name": "Jeannette Maher-Manifold",
+                "original_name": "Jeannette Maher-Manifold",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5546e16392514118890011a1",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1463245,
+                "known_for_department": "Directing",
+                "name": "Fred A. Reilly",
+                "original_name": "Fred A. Reilly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55491069c3a36841b20001c4",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1113194,
+                "known_for_department": "Visual Effects",
+                "name": "Dave Kupczyk",
+                "original_name": "Dave Kupczyk",
+                "popularity": 0.007,
+                "profile_path": "/voeG3J2kOzOrdZe3iWGQ7jhhvWG.jpg",
+                "credit_id": "5552486692514113f0001bf5",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1460455,
+                "known_for_department": "Crew",
+                "name": "Sandro Cleuzo",
+                "original_name": "Sandro Cleuzo",
+                "popularity": 0.001,
+                "profile_path": "/3WPEmIBQzmAAGBecEHVrbEBaZzA.jpg",
+                "credit_id": "65d48049bbcae0014903bba4",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 43393,
+                "known_for_department": "Sound",
+                "name": "Robert Folk",
+                "original_name": "Robert Folk",
+                "popularity": 0.004,
+                "profile_path": "/mrWixKfRo6gWCzrPLr4Q3NyaAv8.jpg",
+                "credit_id": "59158a39c3a3683fb601a730",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928942,
+                "known_for_department": "Sound",
+                "name": "Steve Maslow",
+                "original_name": "Steve Maslow",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "59158acd92514105da013b39",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69613,
+                "known_for_department": "Editing",
+                "name": "John K. Carr",
+                "original_name": "John K. Carr",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "59158adf92514156f501c98a",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1552863,
+                "known_for_department": "Art",
+                "name": "David Goetz",
+                "original_name": "David Goetz",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "59158a2ec3a3683fb601a72a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 74810,
+                "known_for_department": "Sound",
+                "name": "Douglas M. Lackey",
+                "original_name": "Douglas M. Lackey",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "59158b01925141061e014378",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1748503,
+                "known_for_department": "Art",
+                "name": "Don Moore",
+                "original_name": "Don Moore",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59158aac925141580d01bff0",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 73102,
+                "known_for_department": "Production",
+                "name": "Gerry Shirren",
+                "original_name": "Gerry Shirren",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "59158b27925141585201c609",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1341781,
+                "known_for_department": "Sound",
+                "name": "Gregg Landaker",
+                "original_name": "Gregg Landaker",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "59158ac2c3a36840aa019dc6",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53344,
+                "known_for_department": "Editing",
+                "name": "Fiona Trayler",
+                "original_name": "Fiona Trayler",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "59158963c3a36840aa019cd2",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4838390,
+                "known_for_department": "Visual Effects",
+                "name": "Oliver Wade",
+                "original_name": "Oliver Wade",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "669ab5210afcd466f95a985b",
+                "department": "Visual Effects",
+                "job": "Character Designer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2011,
+                "name": "queen"
+            },
+            {
+                "id": 1964,
+                "name": "cave"
+            },
+            {
+                "id": 11173,
+                "name": "troll"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Dom DeLuise",
+            "character": "Stanley (voice)"
+        },
+        {
+            "actor": "Phillip Glasser",
+            "character": "Gus (voice)"
+        },
+        {
+            "actor": "Tawny Sunshine Glover",
+            "character": "Rosie (voice)"
+        },
+        {
+            "actor": "Cloris Leachman",
+            "character": "Queen Gnorga (voice)"
+        },
+        {
+            "actor": "Hayley Mills",
+            "character": "Hilary (voice)"
+        },
+        {
+            "actor": "Jonathan Pryce",
+            "character": "Alan (voice)"
+        },
+        {
+            "actor": "Charles Nelson Reilly",
+            "character": "Llort (voice)"
+        },
+        {
+            "actor": "Jack Angel",
+            "character": "Trolls (voice)"
+        },
+        {
+            "actor": "Neil Ross",
+            "character": "Generic Pansy (voice)"
+        },
+        {
+            "actor": "Will Ryan",
+            "character": "Boss (voice)"
+        },
+        {
+            "actor": "Pat Musick",
+            "character": "Snuffy (voice)"
+        }
+    ]
+}

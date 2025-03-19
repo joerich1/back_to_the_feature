@@ -1,0 +1,412 @@
+{
+    "adult": false,
+    "backdrop_path": "/absFB96aPHqqoBmNhmhKOJrmsHh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 58432,
+    "imdb_id": "tt0484273",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La hora fría",
+    "overview": "The eight years boy Jesús has been living in a crumbling underground facility since he was born with eight survivors of an apocalyptical war: the leader Maria and her lover Pablo; the gays Lucas and Mateo; the astronomer Magdalena and the teenager Ana; the soldier Pedro and the lonely Judas. They are permanently is state of surveillance, threatened by the contaminated mutants The Strangers and once a day they have to lock themselves in their rooms without heating to protect against the dangerous ghosts The Invisibles that attack in the Cold Hour. They cannot go to the surface, destroyed by a nuclear war. When they need supplies, medications and ammunitions, they organize expeditions to a store. When the menace of The Invisibles affects the safety of the group of survivors, they need to reach the surface. Written by Claudio Carvalho, Rio de Janeiro, Brazil",
+    "popularity": 2.084,
+    "poster_path": "/l7plpd2fK9pgrxprjecADaSpjjY.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "2006-10-06",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Dark Hour",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 59,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "2007-10-11T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-09-14T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "Sitges International Festival of Fantastic and Horror Cinema",
+                        "release_date": "2006-10-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-09-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 25216,
+                "known_for_department": "Acting",
+                "name": "Silke",
+                "original_name": "Silke",
+                "popularity": 0.01,
+                "profile_path": "/yHRXT8OxgkAHte8ivRNwTNLqljw.jpg",
+                "cast_id": 3,
+                "character": "Maria",
+                "credit_id": "52fe4962c3a36847f819751f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588320,
+                "known_for_department": "Acting",
+                "name": "Omar Muñoz",
+                "original_name": "Omar Muñoz",
+                "popularity": 0.002,
+                "profile_path": "/njUvircD3TKi7Ue785SJy9ThOhj.jpg",
+                "cast_id": 4,
+                "character": "Jesus",
+                "credit_id": "52fe4962c3a36847f8197523",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16874,
+                "known_for_department": "Acting",
+                "name": "Pepo Oliva",
+                "original_name": "Pepo Oliva",
+                "popularity": 0.002,
+                "profile_path": "/11dZDDSF1IvjeyDKIzcp2pYguH.jpg",
+                "cast_id": 5,
+                "character": "Judas",
+                "credit_id": "52fe4962c3a36847f8197527",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 588321,
+                "known_for_department": "Acting",
+                "name": "Carola Manzanares",
+                "original_name": "Carola Manzanares",
+                "popularity": 0.001,
+                "profile_path": "/o6KcK2f6jxPrwuVUGCLGSpPH89r.jpg",
+                "cast_id": 6,
+                "character": "Magda",
+                "credit_id": "52fe4962c3a36847f819752b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 588322,
+                "known_for_department": "Acting",
+                "name": "Jorge Casalduero",
+                "original_name": "Jorge Casalduero",
+                "popularity": 0.001,
+                "profile_path": "/9YmzbW1NrO8NnjLVD9VNtwLnCoj.jpg",
+                "cast_id": 7,
+                "character": "Pedro",
+                "credit_id": "52fe4962c3a36847f819752f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588323,
+                "known_for_department": "Acting",
+                "name": "Julio Perillán",
+                "original_name": "Julio Perillán",
+                "popularity": 0.016,
+                "profile_path": "/9I8hltk6BQZZcwL0pvyh4sWpvW3.jpg",
+                "cast_id": 8,
+                "character": "Pablo",
+                "credit_id": "52fe4962c3a36847f8197533",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588324,
+                "known_for_department": "Acting",
+                "name": "Sergio Villanueva",
+                "original_name": "Sergio Villanueva",
+                "popularity": 0.002,
+                "profile_path": "/1YWPgNxNfXW51Rw1X7nzkCHNkjk.jpg",
+                "cast_id": 9,
+                "character": "Mateo",
+                "credit_id": "52fe4962c3a36847f8197537",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 186391,
+                "known_for_department": "Acting",
+                "name": "Pablo Scola",
+                "original_name": "Pablo Scola",
+                "popularity": 0.011,
+                "profile_path": "/r02XlYAN1nnVhRGauxWERUY2hda.jpg",
+                "cast_id": 10,
+                "character": "Lucas",
+                "credit_id": "52fe4962c3a36847f819753b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98358,
+                "known_for_department": "Acting",
+                "name": "Nadia de Santiago",
+                "original_name": "Nadia de Santiago",
+                "popularity": 0.01,
+                "profile_path": "/1ovFkRvABlQEfdnWVVmr7PqqTpI.jpg",
+                "cast_id": 11,
+                "character": "Ana",
+                "credit_id": "52fe4962c3a36847f819753f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 588325,
+                "known_for_department": "Acting",
+                "name": "Marco González",
+                "original_name": "Marco González",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Saulo",
+                "credit_id": "52fe4962c3a36847f8197543",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1036577,
+                "known_for_department": "Directing",
+                "name": "Elio Quiroga",
+                "original_name": "Elio Quiroga",
+                "popularity": 0.006,
+                "profile_path": "/dVEty3FmUtvVfeytNcRN8aqiTgU.jpg",
+                "credit_id": "52fe4962c3a36847f8197561",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 34628,
+                "known_for_department": "Camera",
+                "name": "Ángel Luis Fernández",
+                "original_name": "Ángel Luis Fernández",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4962c3a36847f819754f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 588332,
+                "known_for_department": "Production",
+                "name": "Octavio Fernández-Roces",
+                "original_name": "Octavio Fernández-Roces",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4962c3a36847f819755b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 66799,
+                "known_for_department": "Sound",
+                "name": "Alfons Conde",
+                "original_name": "Alfons Conde",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4962c3a36847f8197549",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 588331,
+                "known_for_department": "Production",
+                "name": "Jerôme Debève",
+                "original_name": "Jerôme Debève",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4962c3a36847f8197555",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1036577,
+                "known_for_department": "Directing",
+                "name": "Elio Quiroga",
+                "original_name": "Elio Quiroga",
+                "popularity": 0.006,
+                "profile_path": "/dVEty3FmUtvVfeytNcRN8aqiTgU.jpg",
+                "credit_id": "59d7b20f925141251401340d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1036577,
+                "known_for_department": "Directing",
+                "name": "Elio Quiroga",
+                "original_name": "Elio Quiroga",
+                "popularity": 0.006,
+                "profile_path": "/dVEty3FmUtvVfeytNcRN8aqiTgU.jpg",
+                "credit_id": "59d7b206c3a36861ec012cfa",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2321,
+                "name": "bunker"
+            },
+            {
+                "id": 4458,
+                "name": "post-apocalyptic future"
+            },
+            {
+                "id": 10349,
+                "name": "survival"
+            },
+            {
+                "id": 162515,
+                "name": "contamination"
+            },
+            {
+                "id": 194713,
+                "name": "post nuclear"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Silke",
+            "character": "Maria"
+        },
+        {
+            "actor": "Omar Muñoz",
+            "character": "Jesus"
+        },
+        {
+            "actor": "Pepo Oliva",
+            "character": "Judas"
+        },
+        {
+            "actor": "Carola Manzanares",
+            "character": "Magda"
+        },
+        {
+            "actor": "Jorge Casalduero",
+            "character": "Pedro"
+        },
+        {
+            "actor": "Julio Perillán",
+            "character": "Pablo"
+        },
+        {
+            "actor": "Sergio Villanueva",
+            "character": "Mateo"
+        },
+        {
+            "actor": "Pablo Scola",
+            "character": "Lucas"
+        },
+        {
+            "actor": "Nadia de Santiago",
+            "character": "Ana"
+        },
+        {
+            "actor": "Marco González",
+            "character": "Saulo"
+        }
+    ]
+}

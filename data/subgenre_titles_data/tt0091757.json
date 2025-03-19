@@ -1,0 +1,592 @@
+{
+    "adult": false,
+    "backdrop_path": "/eu4djO43goqQAMAp4kX6aflvRa.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 11483,
+    "imdb_id": "tt0091757",
+    "origin_country": [
+        "FR",
+        "PL",
+        "TN"
+    ],
+    "original_language": "en",
+    "original_title": "Pirates",
+    "overview": "The adventures of pirate Captain Red and his first mate Frog.",
+    "popularity": 3.53,
+    "poster_path": "/kPHxXi5Dn89TLM7CsbZUC13OBtJ.jpg",
+    "production_companies": [
+        {
+            "id": 76167,
+            "logo_path": null,
+            "name": "Cominco",
+            "origin_country": ""
+        },
+        {
+            "id": 20395,
+            "logo_path": null,
+            "name": "Carthago Films",
+            "origin_country": "IT"
+        },
+        {
+            "id": 76168,
+            "logo_path": null,
+            "name": "Accent Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+        },
+        {
+            "iso_3166_1": "TN",
+            "name": "Tunisia"
+        }
+    ],
+    "release_date": "1986-05-08",
+    "revenue": 1641825,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Our Ship's Highly-Trained Staff Awaits You.",
+    "title": "Pirates",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 269,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1986-09-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1986-12-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-05-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-07-18T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6837,
+                "known_for_department": "Acting",
+                "name": "Walter Matthau",
+                "original_name": "Walter Matthau",
+                "popularity": 0.048,
+                "profile_path": "/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg",
+                "cast_id": 1,
+                "character": "Captain Thomas Bartholomew Red",
+                "credit_id": "52fe44499251416c7502f613",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69563,
+                "known_for_department": "Acting",
+                "name": "Cris Campion",
+                "original_name": "Cris Campion",
+                "popularity": 0.004,
+                "profile_path": "/5mtmigX1uo9rC9G7ItRmpLl9ELJ.jpg",
+                "cast_id": 2,
+                "character": "Jean-Baptiste \"The Frog\"",
+                "credit_id": "52fe44499251416c7502f617",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26679,
+                "known_for_department": "Acting",
+                "name": "Damien Thomas",
+                "original_name": "Damien Thomas",
+                "popularity": 0.019,
+                "profile_path": "/9uJWHe9GFOmABmlIl38nJ6wzN9C.jpg",
+                "cast_id": 3,
+                "character": "Don Alfonso de la Torré",
+                "credit_id": "52fe44499251416c7502f61b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69565,
+                "known_for_department": "Acting",
+                "name": "Olu Jacobs",
+                "original_name": "Olu Jacobs",
+                "popularity": 0.006,
+                "profile_path": "/A1gMaHtaizMKwxNdMxGrs9xplzS.jpg",
+                "cast_id": 4,
+                "character": "Boomako",
+                "credit_id": "52fe44499251416c7502f61f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42558,
+                "known_for_department": "Acting",
+                "name": "Charlotte Lewis",
+                "original_name": "Charlotte Lewis",
+                "popularity": 0.034,
+                "profile_path": "/17nWvGDfg4lJmtMR2WdhsDwnuUb.jpg",
+                "cast_id": 15,
+                "character": "María-Dolores de la Jenya de la Calde",
+                "credit_id": "52fe44499251416c7502f65f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3463,
+                "known_for_department": "Acting",
+                "name": "Roy Kinnear",
+                "original_name": "Roy Kinnear",
+                "popularity": 0.031,
+                "profile_path": "/cuKguENjdEiNhNArAL5CqIaTEfE.jpg",
+                "cast_id": 16,
+                "character": "Dutch",
+                "credit_id": "587b6d3b9251413eec00de00",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20243,
+                "known_for_department": "Acting",
+                "name": "Roger Ashton-Griffiths",
+                "original_name": "Roger Ashton-Griffiths",
+                "popularity": 0.026,
+                "profile_path": "/dl5Otj3C7tQVrPJvTWh9Iei1Ofy.jpg",
+                "cast_id": 18,
+                "character": "Moonhead",
+                "credit_id": "587b6df992514141010039ff",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1282,
+                "known_for_department": "Acting",
+                "name": "David Kelly",
+                "original_name": "David Kelly",
+                "popularity": 0.03,
+                "profile_path": "/6nk5gVXHpOV9gqWrjR4lis1BCP7.jpg",
+                "cast_id": 19,
+                "character": "Surgeon",
+                "credit_id": "587b6e57c3a3684a6500ec36",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1821,
+                "known_for_department": "Acting",
+                "name": "Michael Elphick",
+                "original_name": "Michael Elphick",
+                "popularity": 0.017,
+                "profile_path": "/xVmedV04Myv3doYwlL3Tf2YWOjw.jpg",
+                "cast_id": 20,
+                "character": "Sentry",
+                "credit_id": "5a027766c3a368637f008e96",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26557,
+                "known_for_department": "Acting",
+                "name": "Ferdy Mayne",
+                "original_name": "Ferdy Mayne",
+                "popularity": 0.034,
+                "profile_path": "/7l73nDzdFBae78sEaY4xWxEmRV4.jpg",
+                "cast_id": 21,
+                "character": "Captain Linares",
+                "credit_id": "5a0e0ec0c3a368628c001460",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1140806,
+                "known_for_department": "Acting",
+                "name": "Władysław Komar",
+                "original_name": "Władysław Komar",
+                "popularity": 0.001,
+                "profile_path": "/dREbUskTvVrbhdfq78QRJKN666G.jpg",
+                "cast_id": 22,
+                "character": "Jesus",
+                "credit_id": "61f84e15b7abb500beba70d4",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13843,
+                "known_for_department": "Acting",
+                "name": "Daniel Emilfork",
+                "original_name": "Daniel Emilfork",
+                "popularity": 0.01,
+                "profile_path": "/nMu4muxktiEHfy8811fhAwAqrEv.jpg",
+                "cast_id": 23,
+                "character": "Secretaire",
+                "credit_id": "63a711b14dc34a00c4bb4733",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17789,
+                "known_for_department": "Acting",
+                "name": "Bill Stewart",
+                "original_name": "Bill Stewart",
+                "popularity": 0.021,
+                "profile_path": "/yUtmupQO9oRaz6NowP5LCqp3cyo.jpg",
+                "cast_id": 25,
+                "character": "Ginge",
+                "credit_id": "64e369c6d75bd600aca45a5c",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3556,
+                "known_for_department": "Directing",
+                "name": "Roman Polanski",
+                "original_name": "Roman Polanski",
+                "popularity": 0.044,
+                "profile_path": "/5Kks5RMO2az5YOcFJjYXiDt4qH1.jpg",
+                "credit_id": "52fe44499251416c7502f625",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3556,
+                "known_for_department": "Directing",
+                "name": "Roman Polanski",
+                "original_name": "Roman Polanski",
+                "popularity": 0.044,
+                "profile_path": "/5Kks5RMO2az5YOcFJjYXiDt4qH1.jpg",
+                "credit_id": "52fe44499251416c7502f62b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2356,
+                "known_for_department": "Writing",
+                "name": "Gérard Brach",
+                "original_name": "Gérard Brach",
+                "popularity": 0.016,
+                "profile_path": "/mwHDbpsJEIiMCi78UpY1MSFPTdI.jpg",
+                "credit_id": "52fe44499251416c7502f631",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8909,
+                "known_for_department": "Writing",
+                "name": "John Brownjohn",
+                "original_name": "John Brownjohn",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe44499251416c7502f637",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16787,
+                "known_for_department": "Production",
+                "name": "Tarak Ben Ammar",
+                "original_name": "Tarak Ben Ammar",
+                "popularity": 0.008,
+                "profile_path": "/zEhGCxlrFtZRr9XqibR3ncPEUmF.jpg",
+                "credit_id": "52fe44499251416c7502f63d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4052,
+                "known_for_department": "Production",
+                "name": "Thom Mount",
+                "original_name": "Thom Mount",
+                "popularity": 0.007,
+                "profile_path": "/uQJrKXoZKXF0O2kHALycEdDxhw8.jpg",
+                "credit_id": "52fe44499251416c7502f643",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20075,
+                "known_for_department": "Sound",
+                "name": "Philippe Sarde",
+                "original_name": "Philippe Sarde",
+                "popularity": 0.01,
+                "profile_path": "/hXtnCk9CAtUzn4pR1974EosvQOZ.jpg",
+                "credit_id": "52fe44499251416c7502f649",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7094,
+                "known_for_department": "Camera",
+                "name": "Witold Sobociński",
+                "original_name": "Witold Sobociński",
+                "popularity": 0.001,
+                "profile_path": "/bojo8NAabUmnnanHZJkzfPRsoqm.jpg",
+                "credit_id": "52fe44499251416c7502f64f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3564,
+                "known_for_department": "Editing",
+                "name": "Hervé de Luze",
+                "original_name": "Hervé de Luze",
+                "popularity": 0.004,
+                "profile_path": "/3icrkbx6ipKdh3AEvJ6WXJHUQaJ.jpg",
+                "credit_id": "52fe44499251416c7502f655",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3099,
+                "known_for_department": "Editing",
+                "name": "William Reynolds",
+                "original_name": "William Reynolds",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44499251416c7502f65b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1007737,
+                "known_for_department": "Directing",
+                "name": "Andrzej Kostenko",
+                "original_name": "Andrzej Kostenko",
+                "popularity": 0.009,
+                "profile_path": "/onIjyT3LtlOvOyzpxAhlt6wtBDh.jpg",
+                "credit_id": "665c752c2bdfdf7022c26840",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1616303,
+                "known_for_department": "Acting",
+                "name": "Richard Graydon",
+                "original_name": "Richard Graydon",
+                "popularity": 0.01,
+                "profile_path": "/8T9i8DUKbk8pco4UG5KjzKWLnZX.jpg",
+                "credit_id": "64c6d10acadb6b01440e2312",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8922,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anthony Powell",
+                "original_name": "Anthony Powell",
+                "popularity": 0.004,
+                "profile_path": "/hFMRAnpPqstSRWBtrYoVA03vnJ3.jpg",
+                "credit_id": "66df20fa87f2936e3ec266ef",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 658,
+                "name": "sea"
+            },
+            {
+                "id": 6206,
+                "name": "float"
+            },
+            {
+                "id": 12988,
+                "name": "pirate"
+            },
+            {
+                "id": 185200,
+                "name": "pirate ship"
+            },
+            {
+                "id": 207750,
+                "name": "cabin boy"
+            },
+            {
+                "id": 207941,
+                "name": "17th century"
+            },
+            {
+                "id": 247799,
+                "name": "action comedy"
+            },
+            {
+                "id": 318655,
+                "name": "1650s"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Walter Matthau",
+            "character": "Captain Thomas Bartholomew Red"
+        },
+        {
+            "actor": "Cris Campion",
+            "character": "Jean-Baptiste \"The Frog\""
+        },
+        {
+            "actor": "Damien Thomas",
+            "character": "Don Alfonso de la Torré"
+        },
+        {
+            "actor": "Olu Jacobs",
+            "character": "Boomako"
+        },
+        {
+            "actor": "Charlotte Lewis",
+            "character": "María-Dolores de la Jenya de la Calde"
+        },
+        {
+            "actor": "Roy Kinnear",
+            "character": "Dutch"
+        },
+        {
+            "actor": "Roger Ashton-Griffiths",
+            "character": "Moonhead"
+        },
+        {
+            "actor": "David Kelly",
+            "character": "Surgeon"
+        },
+        {
+            "actor": "Michael Elphick",
+            "character": "Sentry"
+        },
+        {
+            "actor": "Ferdy Mayne",
+            "character": "Captain Linares"
+        },
+        {
+            "actor": "Władysław Komar",
+            "character": "Jesus"
+        },
+        {
+            "actor": "Daniel Emilfork",
+            "character": "Secretaire"
+        },
+        {
+            "actor": "Bill Stewart",
+            "character": "Ginge"
+        }
+    ]
+}

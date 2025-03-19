@@ -1,0 +1,913 @@
+{
+    "adult": false,
+    "backdrop_path": "/gGW1Je4CaAc1m5QEre6WjA97VKP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81660270",
+    "id": 1127108,
+    "imdb_id": "tt27411270",
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_title": "En del av dig",
+    "overview": "A teenager struggles to pick up the pieces of her shattered world in this emotional and bittersweet coming-of-age drama about those who are left behind.",
+    "popularity": 3.08,
+    "poster_path": "/rv3FLJ4kLoeFpL6sLSB3tCWLO9f.jpg",
+    "production_companies": [
+        {
+            "id": 6181,
+            "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+            "name": "SF Studios",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2024-05-31",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Part of You",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 85,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "19",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "M18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TH",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TW",
+                "release_dates": [
+                    {
+                        "certification": "15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2024-05-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2837349,
+                "known_for_department": "Acting",
+                "name": "Felicia Truedsson",
+                "original_name": "Felicia Truedsson",
+                "popularity": 0.013,
+                "profile_path": "/cdJwDjAH4VqnNHfNmRWz4kXZKjz.jpg",
+                "cast_id": 1,
+                "character": "Agnes",
+                "credit_id": "6461e8aee3fa2f012446938d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 997644,
+                "known_for_department": "Acting",
+                "name": "Edvin Ryding",
+                "original_name": "Edvin Ryding",
+                "popularity": 0.055,
+                "profile_path": "/95mT0rw94k1MhrPRzdnEkokVXHQ.jpg",
+                "cast_id": 2,
+                "character": "Noel",
+                "credit_id": "6461e8b7a6725401010a1dcc",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1689254,
+                "known_for_department": "Acting",
+                "name": "Zara Larsson",
+                "original_name": "Zara Larsson",
+                "popularity": 0.008,
+                "profile_path": "/p0JzomnJqCo6i122XOg5x8KiKQP.jpg",
+                "cast_id": 3,
+                "character": "Julia",
+                "credit_id": "6461e8c0ef8b3200fe7dd464",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1153813,
+                "known_for_department": "Acting",
+                "name": "Ida Engvoll",
+                "original_name": "Ida Engvoll",
+                "popularity": 0.048,
+                "profile_path": "/9i2P7nQHXRDtvTf6CuC86PQDKsJ.jpg",
+                "cast_id": 10,
+                "character": "Carina",
+                "credit_id": "6461e9806e0d72013dccb51c",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2051467,
+                "known_for_department": "Directing",
+                "name": "Mustafa Al-Mashhadani",
+                "original_name": "Mustafa Al-Mashhadani",
+                "popularity": 0.002,
+                "profile_path": "/x5uJVLpLukn8ruWS9N1oY7mnbWl.jpg",
+                "cast_id": 11,
+                "character": "Amir",
+                "credit_id": "6461e985e3fa2f01662184ba",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3007398,
+                "known_for_department": "Acting",
+                "name": "Alva Bratt",
+                "original_name": "Alva Bratt",
+                "popularity": 0.011,
+                "profile_path": "/kUopEWBOyPU14qOVoqah72jaqcw.jpg",
+                "cast_id": 12,
+                "character": "Esther",
+                "credit_id": "6461e98be3fa2f01662184c2",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2076695,
+                "known_for_department": "Acting",
+                "name": "Emil Hedayat",
+                "original_name": "Emil Hedayat",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Sam",
+                "credit_id": "6461e98fa6725401010a1e5b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4063005,
+                "known_for_department": "Acting",
+                "name": "Olivia Essén",
+                "original_name": "Olivia Essén",
+                "popularity": 0.001,
+                "profile_path": "/i8q3jvwgCd8aHCTd6DXEmMCkxWy.jpg",
+                "cast_id": 14,
+                "character": "Fanna",
+                "credit_id": "6461e996a672540143675f13",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3967020,
+                "known_for_department": "Acting",
+                "name": "Maxwell Cunningham",
+                "original_name": "Maxwell Cunningham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Adrian",
+                "credit_id": "6461e99e6e0d7200ff4c2b5d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3402627,
+                "known_for_department": "Acting",
+                "name": "Nikki Hanseblad",
+                "original_name": "Nikki Hanseblad",
+                "popularity": 0.001,
+                "profile_path": "/AbiMBNxHOkwFLEEqD9jTps85c7c.jpg",
+                "cast_id": 18,
+                "character": "Lydia",
+                "credit_id": "665c6f497d8e209005107613",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4750395,
+                "known_for_department": "Acting",
+                "name": "Leo Algert",
+                "original_name": "Leo Algert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Doctor",
+                "credit_id": "665c7019b66d0548a45f1efe",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4750399,
+                "known_for_department": "Acting",
+                "name": "Julian Carwell",
+                "original_name": "Julian Carwell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "665c705bd493afb568596d7f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4750403,
+                "known_for_department": "Acting",
+                "name": "Noel Gisselsson",
+                "original_name": "Noel Gisselsson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "665c70a58f6772e4dc73275d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4260277,
+                "known_for_department": "Acting",
+                "name": "Hvila Green",
+                "original_name": "Hvila Green",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "665c70dbafb65188c65f1e74",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 3,
+                "id": 4624743,
+                "known_for_department": "Acting",
+                "name": "Emil Hernried",
+                "original_name": "Emil Hernried",
+                "popularity": 0.001,
+                "profile_path": "/kXfKK2YeNyKNw4Zz1IKeZnm5aXi.jpg",
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "665c714b1334be13f8481803",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4750410,
+                "known_for_department": "Acting",
+                "name": "Samuel Kostov",
+                "original_name": "Samuel Kostov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "665c72ae48bbb0816ec8e4c4",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4750414,
+                "known_for_department": "Acting",
+                "name": "Oliver Lavecchia",
+                "original_name": "Oliver Lavecchia",
+                "popularity": 0.001,
+                "profile_path": "/8ANCPXazyMsVO4VaASxU48D9ucq.jpg",
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "665c734df21319aeca81c036",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4750419,
+                "known_for_department": "Acting",
+                "name": "Summer Starling",
+                "original_name": "Summer Starling",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "665c73d4a7facc2fa681c076",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4750420,
+                "known_for_department": "Acting",
+                "name": "Greta Wallén",
+                "original_name": "Greta Wallén",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "665c73f9aff8861768a62abf",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4750421,
+                "known_for_department": "Acting",
+                "name": "Hugo Warpman",
+                "original_name": "Hugo Warpman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "665c741f3300f3b83b8817ff",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4750422,
+                "known_for_department": "Acting",
+                "name": "Jane Åman-Dahlin",
+                "original_name": "Jane Åman-Dahlin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "665c7456100b412d68595c8f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4838108,
+                "known_for_department": "Acting",
+                "name": "Patrik Andersson Walle",
+                "original_name": "Patrik Andersson Walle",
+                "popularity": 0.001,
+                "profile_path": "/77HTbXIEJoWPbhB7po5ZUpZel.jpg",
+                "cast_id": 30,
+                "character": "Makeout Couple",
+                "credit_id": "6700c3936fc74e5756f8339a",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3375683,
+                "known_for_department": "Production",
+                "name": "Tim King",
+                "original_name": "Tim King",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "654b2a5641a561336b79b774",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1253787,
+                "known_for_department": "Production",
+                "name": "Sigge Eklund",
+                "original_name": "Sigge Eklund",
+                "popularity": 0.002,
+                "profile_path": "/tXadM2S6svOGhFNT6i3RslvPqOu.jpg",
+                "credit_id": "6461e8ddef8b3201555577c9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2183066,
+                "known_for_department": "Production",
+                "name": "Stefan H. Lindén",
+                "original_name": "Stefan H. Lindén",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6461e8f66e0d72015c0f5d74",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4063001,
+                "known_for_department": "Production",
+                "name": "Alexandra Thönnersten",
+                "original_name": "Alexandra Thönnersten",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6461e8feef8b3201555577e9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4063002,
+                "known_for_department": "Writing",
+                "name": "Michaela Hamilton",
+                "original_name": "Michaela Hamilton",
+                "popularity": 0.001,
+                "profile_path": "/qCItMxI5v9BiWPxEgtnbJXEScLA.jpg",
+                "credit_id": "6461e949a6725400e3d261ba",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3152119,
+                "known_for_department": "Acting",
+                "name": "Fredrik Lehmann",
+                "original_name": "Fredrik Lehmann",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6461e963ef8b32015555782e",
+                "department": "Production",
+                "job": "Casting Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2191831,
+                "known_for_department": "Production",
+                "name": "Erik Lundqvist",
+                "original_name": "Erik Lundqvist",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021ca5f878adfed08589d9",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1730459,
+                "known_for_department": "Production",
+                "name": "Jon Nohrstedt",
+                "original_name": "Jon Nohrstedt",
+                "popularity": 0.001,
+                "profile_path": "/cODZ3j3bANf1US0Y4NHZXeAFZvI.jpg",
+                "credit_id": "67021cb5f878adfed08589e0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4435959,
+                "known_for_department": "Production",
+                "name": "Linnéa Sandström",
+                "original_name": "Linnéa Sandström",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021cd7f878adfed08589e8",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2168216,
+                "known_for_department": "Production",
+                "name": "Natalie Wadlert",
+                "original_name": "Natalie Wadlert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021cf5f3495d72c4f79fbb",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1986776,
+                "known_for_department": "Camera",
+                "name": "Josephine Owe",
+                "original_name": "Josephine Owe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021d3af878adfed0858a10",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2263177,
+                "known_for_department": "Editing",
+                "name": "Sarah Patient Nicastro",
+                "original_name": "Sarah Patient Nicastro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021d5cc9a10d46ea7d337f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4983282,
+                "known_for_department": "Art",
+                "name": "Manuela Vintilescu",
+                "original_name": "Manuela Vintilescu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021d821592ef1ba98574fb",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2106561,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anna Sheild",
+                "original_name": "Anna Sheild",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021d9cf878adfed0858a1e",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4983283,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Felicia Martín Andersson",
+                "original_name": "Felicia Martín Andersson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021dbbf3495d72c4f79fd8",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4983284,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vera Fahleson Ekman",
+                "original_name": "Vera Fahleson Ekman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021dcb67c6fb09fff86890",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2293629,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jenny Hildrin",
+                "original_name": "Jenny Hildrin",
+                "popularity": 0.001,
+                "profile_path": "/rPRyLmx9UfxUZ32nR0GT71wshgf.jpg",
+                "credit_id": "67021de467c6fb09fff8689d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3967063,
+                "known_for_department": "Production",
+                "name": "Linn Lagergren",
+                "original_name": "Linn Lagergren",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67021df1f3495d72c4f79fdc",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4983280,
+                "known_for_department": "Sound",
+                "name": "Wilhelm Börjesson",
+                "original_name": "Wilhelm Börjesson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a002470d19f30ac19580ad",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4983281,
+                "known_for_department": "Sound",
+                "name": "Oskar Rindborg",
+                "original_name": "Oskar Rindborg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a002546b609118d12614d1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 931,
+                "name": "jealousy"
+            },
+            {
+                "id": 8085,
+                "name": "stockholm, sweden"
+            },
+            {
+                "id": 34079,
+                "name": "death"
+            },
+            {
+                "id": 157215,
+                "name": "death of sister"
+            },
+            {
+                "id": 233617,
+                "name": "popular girl"
+            },
+            {
+                "id": 257889,
+                "name": "jealous of someone's success"
+            },
+            {
+                "id": 280940,
+                "name": "sisters"
+            },
+            {
+                "id": 296608,
+                "name": "teenager"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Felicia Truedsson",
+            "character": "Agnes"
+        },
+        {
+            "actor": "Edvin Ryding",
+            "character": "Noel"
+        },
+        {
+            "actor": "Zara Larsson",
+            "character": "Julia"
+        },
+        {
+            "actor": "Ida Engvoll",
+            "character": "Carina"
+        },
+        {
+            "actor": "Mustafa Al-Mashhadani",
+            "character": "Amir"
+        },
+        {
+            "actor": "Alva Bratt",
+            "character": "Esther"
+        },
+        {
+            "actor": "Emil Hedayat",
+            "character": "Sam"
+        },
+        {
+            "actor": "Olivia Essén",
+            "character": "Fanna"
+        },
+        {
+            "actor": "Maxwell Cunningham",
+            "character": "Adrian"
+        },
+        {
+            "actor": "Nikki Hanseblad",
+            "character": "Lydia"
+        },
+        {
+            "actor": "Leo Algert",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Julian Carwell",
+            "character": ""
+        },
+        {
+            "actor": "Noel Gisselsson",
+            "character": ""
+        },
+        {
+            "actor": "Hvila Green",
+            "character": ""
+        },
+        {
+            "actor": "Emil Hernried",
+            "character": ""
+        },
+        {
+            "actor": "Samuel Kostov",
+            "character": ""
+        },
+        {
+            "actor": "Oliver Lavecchia",
+            "character": ""
+        },
+        {
+            "actor": "Summer Starling",
+            "character": ""
+        },
+        {
+            "actor": "Greta Wallén",
+            "character": ""
+        },
+        {
+            "actor": "Hugo Warpman",
+            "character": ""
+        },
+        {
+            "actor": "Jane Åman-Dahlin",
+            "character": ""
+        },
+        {
+            "actor": "Patrik Andersson Walle",
+            "character": "Makeout Couple"
+        }
+    ]
+}

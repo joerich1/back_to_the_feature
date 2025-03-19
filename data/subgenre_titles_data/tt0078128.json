@@ -1,0 +1,691 @@
+{
+    "adult": false,
+    "backdrop_path": "/o4qLEcOtQ88cw4NfnIH6TDLQr8Z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 18760,
+    "imdb_id": "tt0078128",
+    "origin_country": [
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "拳精",
+    "overview": "Jackie Chan plays the part of the class clown in a shaolin temple whose deadliest secret is stolen. All is lost until Jackie's character discovers dancing blue ghosts with bright red hair who haunt the library.",
+    "popularity": 3.212,
+    "poster_path": "/5NwhAvXqaVDacl3fvXlfsYXt8Dw.jpg",
+    "production_companies": [
+        {
+            "id": 6378,
+            "logo_path": null,
+            "name": "Lo Wei Motion Picture Company",
+            "origin_country": "HK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        }
+    ],
+    "release_date": "1978-11-23",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Spiritual Kung Fu",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 91,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1997-12-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1983-03-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1978-11-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-06-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "cast_id": 1,
+                "character": "Yi-Lang",
+                "credit_id": "52fe47979251416c7509ef4d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62427,
+                "known_for_department": "Acting",
+                "name": "James Tien Chun",
+                "original_name": "田俊",
+                "popularity": 0.032,
+                "profile_path": "/wSlkjKKcJWX1YpXPFbAikUjIMwo.jpg",
+                "cast_id": 5,
+                "character": "Lu Qing",
+                "credit_id": "52fe47979251416c7509ef5d",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3570324,
+                "known_for_department": "Acting",
+                "name": "Wu Wen-Siu",
+                "original_name": "Wu Wen-Siu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Miss Fong",
+                "credit_id": "64f119c3e0ca7f00ec86f4e1",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 125288,
+                "known_for_department": "Acting",
+                "name": "Li Kun",
+                "original_name": "李昆",
+                "popularity": 0.008,
+                "profile_path": "/nNGB7Q7gR7tGVZszSCeILgzfhoc.jpg",
+                "cast_id": 8,
+                "character": "Monk",
+                "credit_id": "574306c5925141541f001c00",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26727,
+                "known_for_department": "Acting",
+                "name": "Dean Shek Tin",
+                "original_name": "石天",
+                "popularity": 0.023,
+                "profile_path": "/f8u4H51lZl3xzbREHepikjXsZu0.jpg",
+                "cast_id": 9,
+                "character": "Shaolin Student",
+                "credit_id": "574306cb925141541f001c03",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119645,
+                "known_for_department": "Acting",
+                "name": "Mu Szu-Cheng",
+                "original_name": "Mu Szu-Cheng",
+                "popularity": 0.002,
+                "profile_path": "/6xhguYgv6tqSIgnNWnfP7ft2fLJ.jpg",
+                "cast_id": 10,
+                "character": "",
+                "credit_id": "574306d2925141541f001c05",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535198,
+                "known_for_department": "Acting",
+                "name": "Lee Hae-ryong",
+                "original_name": "이해룡",
+                "popularity": 0.002,
+                "profile_path": "/appl5NLWkVV9xdLaL2WHrX4QffM.jpg",
+                "cast_id": 37,
+                "character": "Blind abbot",
+                "credit_id": "64f11a2c5f2b8d0139cd0d9f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 990468,
+                "known_for_department": "Acting",
+                "name": "Wong Ching",
+                "original_name": "Wong Ching",
+                "popularity": 0.014,
+                "profile_path": "/705aMSjEM81NZRkcczIuBhGbh5z.jpg",
+                "cast_id": 14,
+                "character": "Lu Qing's man",
+                "credit_id": "574306f7c3a36852d100079d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1297724,
+                "known_for_department": "Acting",
+                "name": "Bang Su-il",
+                "original_name": "방수일",
+                "popularity": 0.002,
+                "profile_path": "/qKcrOaIwcOGLsmR94S87VaisWId.jpg",
+                "cast_id": 15,
+                "character": "",
+                "credit_id": "574306fcc3a36816880000fe",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1624791,
+                "known_for_department": "Acting",
+                "name": "Mo Man-Sau",
+                "original_name": "Mo Man-Sau",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Ms. Fong",
+                "credit_id": "574306af925141111a00213d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1624792,
+                "known_for_department": "Acting",
+                "name": "Li Tong-Chun",
+                "original_name": "Li Tong-Chun",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "",
+                "credit_id": "574306b5925141111a002145",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1623674,
+                "known_for_department": "Acting",
+                "name": "Chui Yuen",
+                "original_name": "Chui Yuen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "",
+                "credit_id": "574307179251416ce6002ee7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1740016,
+                "known_for_department": "Acting",
+                "name": "Chiang Long-Sheng",
+                "original_name": "Chiang Long-Sheng",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "",
+                "credit_id": "67cfeac827c3960c2d1de0c0",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1620832,
+                "known_for_department": "Acting",
+                "name": "Wu Te-Shan",
+                "original_name": "Wu Te-Shan",
+                "popularity": 0.001,
+                "profile_path": "/vJ7JluKyiBz6WgVda7RWStKT4ec.jpg",
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "574307229251411dc800211b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1089467,
+                "known_for_department": "Acting",
+                "name": "Wang Yao",
+                "original_name": "Wang Yao",
+                "popularity": 0.003,
+                "profile_path": "/i2xa3oSO7aaLtX4Zs3qQCkMyCSM.jpg",
+                "cast_id": 41,
+                "character": "Monk",
+                "credit_id": "664b56c9e2ea0743a41dd086",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1589272,
+                "known_for_department": "Acting",
+                "name": "Peng Gang",
+                "original_name": "Peng Gang",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "574307369251411dc800211e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1624795,
+                "known_for_department": "Acting",
+                "name": "Xie Jian-Wen",
+                "original_name": "Xie Jian-Wen",
+                "popularity": 0.001,
+                "profile_path": "/eIhMtUuFjOyZZSCFODnM8ZHYNgy.jpg",
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "5743073d9251413467000128",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1615866,
+                "known_for_department": "Acting",
+                "name": "Lee Ching-Foo",
+                "original_name": "Lee Ching-Foo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "57430742c3a3686942001e01",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 125297,
+                "known_for_department": "Acting",
+                "name": "Hsiu-yi Fang",
+                "original_name": "Hsiu-yi Fang",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "634f8f422da846007ca7e4f5",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3747273,
+                "known_for_department": "Acting",
+                "name": "Hong Hsu",
+                "original_name": "Hong Hsu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "634f8fbbd363e5007a65e791",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3747274,
+                "known_for_department": "Acting",
+                "name": "Kap-Sung Ra",
+                "original_name": "Kap-Sung Ra",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "634f9128e86017008a45a5d6",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1134506,
+                "known_for_department": "Acting",
+                "name": "Lee Man-Tai",
+                "original_name": "Lee Man-Tai",
+                "popularity": 0.005,
+                "profile_path": "/4MBxFVili07H86Dar7WpnaXk7x8.jpg",
+                "cast_id": 38,
+                "character": "Senior monk",
+                "credit_id": "64f11a723a993700e2f7dfa8",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1134507,
+                "known_for_department": "Acting",
+                "name": "Wang Kuang-Yu",
+                "original_name": "Wang Kuang-Yu",
+                "popularity": 0.005,
+                "profile_path": "/ywSZKgnem0VfLfKykzhoR7hXhxh.jpg",
+                "cast_id": 39,
+                "character": "Monk",
+                "credit_id": "64f11a7de0ca7f014f6a6458",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1368191,
+                "known_for_department": "Acting",
+                "name": "Wang Tai-Lang",
+                "original_name": "Wang Tai-Lang",
+                "popularity": 0.001,
+                "profile_path": "/le8pSfjjDCfzqo6uxEoVDXb6Utk.jpg",
+                "cast_id": 42,
+                "character": "Ghost",
+                "credit_id": "67cfdb4a13990a058b607a78",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83542,
+                "known_for_department": "Directing",
+                "name": "Pan Lei",
+                "original_name": "Pan Lei",
+                "popularity": 0.001,
+                "profile_path": "/ucLe3qSQcbAf6ek2thIKt6GjILt.jpg",
+                "credit_id": "52fe47979251416c7509ef59",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70334,
+                "known_for_department": "Directing",
+                "name": "Lo Wei",
+                "original_name": "Lo Wei",
+                "popularity": 0.025,
+                "profile_path": "/qo5dFi2icEcJPDxQy1VdU0uJgcO.jpg",
+                "credit_id": "52fe47979251416c7509ef53",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "credit_id": "64e4f3045258ae014df0a19d",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1637710,
+                "known_for_department": "Art",
+                "name": "Chih-Liang Chou",
+                "original_name": "Chih-Liang Chou",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64e4f335c613ce00ac4007d6",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119470,
+                "known_for_department": "Editing",
+                "name": "Vincent Leung Wing-Chan",
+                "original_name": "Vincent Leung Wing-Chan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64e4f2c906f98400ae474810",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1540817,
+                "known_for_department": "Production",
+                "name": "Hsu Li-Hwa",
+                "original_name": "Hsu Li-Hwa",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "64e633ece894a600ae732bd4",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70334,
+                "known_for_department": "Directing",
+                "name": "Lo Wei",
+                "original_name": "Lo Wei",
+                "popularity": 0.025,
+                "profile_path": "/qo5dFi2icEcJPDxQy1VdU0uJgcO.jpg",
+                "credit_id": "64e633c85258ae00c94b22c8",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1700588,
+                "known_for_department": "Camera",
+                "name": "Chen Jung-Shu",
+                "original_name": "Chen Jung-Shu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67cfef0d4bf426c77a1dea33",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1011224,
+                "known_for_department": "Acting",
+                "name": "Frankie Chan Fan-Kei",
+                "original_name": "陳勳奇",
+                "popularity": 0.022,
+                "profile_path": "/7QhbscCqK0yVzL22H8fdQsI9ezb.jpg",
+                "credit_id": "67cfef20b5ee0e397c607fee",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 1530,
+                "name": "temple"
+            },
+            {
+                "id": 4613,
+                "name": "training"
+            },
+            {
+                "id": 9390,
+                "name": "shaolin"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jackie Chan",
+            "character": "Yi-Lang"
+        },
+        {
+            "actor": "James Tien Chun",
+            "character": "Lu Qing"
+        },
+        {
+            "actor": "Wu Wen-Siu",
+            "character": "Miss Fong"
+        },
+        {
+            "actor": "Li Kun",
+            "character": "Monk"
+        },
+        {
+            "actor": "Dean Shek Tin",
+            "character": "Shaolin Student"
+        },
+        {
+            "actor": "Mu Szu-Cheng",
+            "character": ""
+        },
+        {
+            "actor": "Lee Hae-ryong",
+            "character": "Blind abbot"
+        },
+        {
+            "actor": "Wong Ching",
+            "character": "Lu Qing's man"
+        },
+        {
+            "actor": "Bang Su-il",
+            "character": ""
+        },
+        {
+            "actor": "Mo Man-Sau",
+            "character": "Ms. Fong"
+        },
+        {
+            "actor": "Li Tong-Chun",
+            "character": ""
+        },
+        {
+            "actor": "Chui Yuen",
+            "character": ""
+        },
+        {
+            "actor": "Chiang Long-Sheng",
+            "character": ""
+        },
+        {
+            "actor": "Wu Te-Shan",
+            "character": ""
+        },
+        {
+            "actor": "Wang Yao",
+            "character": "Monk"
+        },
+        {
+            "actor": "Peng Gang",
+            "character": ""
+        },
+        {
+            "actor": "Xie Jian-Wen",
+            "character": ""
+        },
+        {
+            "actor": "Lee Ching-Foo",
+            "character": ""
+        },
+        {
+            "actor": "Hsiu-yi Fang",
+            "character": ""
+        },
+        {
+            "actor": "Hong Hsu",
+            "character": ""
+        },
+        {
+            "actor": "Kap-Sung Ra",
+            "character": ""
+        },
+        {
+            "actor": "Lee Man-Tai",
+            "character": "Senior monk"
+        },
+        {
+            "actor": "Wang Kuang-Yu",
+            "character": "Monk"
+        },
+        {
+            "actor": "Wang Tai-Lang",
+            "character": "Ghost"
+        }
+    ]
+}

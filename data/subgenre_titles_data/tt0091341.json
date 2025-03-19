@@ -1,0 +1,673 @@
+{
+    "adult": false,
+    "backdrop_path": "/bQH7fkTezPpsJnEhQIZQ1oZAk6Q.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 20874,
+    "imdb_id": "tt0091341",
+    "origin_country": [
+        "SU"
+    ],
+    "original_language": "ru",
+    "original_title": "Кин-дза-дза!",
+    "overview": "Two Soviet humans previously unknown to each other are transported to the planet Pluke in the Kin-dza-da galaxy due to a chance encounter with an alien teleportation device. They must come to grips with a language barrier and Plukian social norms (not to mention the laws of space and time) if they ever hope to return to Earth.",
+    "popularity": 3.53,
+    "poster_path": "/xp7rAEgkoPUBWk5XZcAai8gDZT1.jpg",
+    "production_companies": [
+        {
+            "id": 344,
+            "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+            "name": "Mosfilm",
+            "origin_country": "SU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SU",
+            "name": "Soviet Union"
+        }
+    ],
+    "release_date": "1986-12-01",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+        {
+            "english_name": "Georgian",
+            "iso_639_1": "ka",
+            "name": "ქართული"
+        },
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kin-dza-dza!",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 249,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "ru",
+                        "note": "Wiederaufführung",
+                        "release_date": "2020-09-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-12-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86689,
+                "known_for_department": "Acting",
+                "name": "Stanislav Lyubshin",
+                "original_name": "Станислав Любшин",
+                "popularity": 0.01,
+                "profile_path": "/50oT7LIotfQLL2NQitMpr92RzR8.jpg",
+                "cast_id": 3,
+                "character": "Vladimir Nikolaevich Mashkov - 'Uncle Vova'",
+                "credit_id": "52fe43fec3a368484e009b0f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86664,
+                "known_for_department": "Acting",
+                "name": "Evgeni Leonov",
+                "original_name": "Евгений Леонов",
+                "popularity": 0.012,
+                "profile_path": "/9r1p4ZQoCSdkOmyclt6xj3E2kWo.jpg",
+                "cast_id": 6,
+                "character": "Wef - The Wandering Chatlanian Singer",
+                "credit_id": "52fe43fec3a368484e009b19",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1190374,
+                "known_for_department": "Acting",
+                "name": "Yuriy Yakovlev",
+                "original_name": "Юрий Яковлев",
+                "popularity": 0.011,
+                "profile_path": "/eNMHZqtuaZtMKpXMpkxUpbo4TEE.jpg",
+                "cast_id": 12,
+                "character": "Bee - The Wandering Patsak Singer",
+                "credit_id": "52fe43fec3a368484e009b31",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86688,
+                "known_for_department": "Directing",
+                "name": "Levan Gabriadze",
+                "original_name": "Levan Gabriadze",
+                "popularity": 0.002,
+                "profile_path": "/zZoQnhYpaStr5SRbrC0PEvfGsJV.jpg",
+                "cast_id": 7,
+                "character": "Gedevan Alexandrovich Alexidze - 'Fiddler'",
+                "credit_id": "52fe43fec3a368484e009b1d",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240596,
+                "known_for_department": "Acting",
+                "name": "Lev Perfilov",
+                "original_name": "Лев Перфилов",
+                "popularity": 0.006,
+                "profile_path": "/16aIwqZdx9fBPcVul4icOYuWjxp.jpg",
+                "cast_id": 10,
+                "character": "Kyrr - The Chatlanian-Dissident",
+                "credit_id": "52fe43fec3a368484e009b29",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 385729,
+                "known_for_department": "Acting",
+                "name": "Irina Shmeleva",
+                "original_name": "Ирина Шмелёва",
+                "popularity": 0.008,
+                "profile_path": "/aF9YABmUVRs2GDHWfoqvhzBliem.jpg",
+                "cast_id": 8,
+                "character": "Tsan - The Desert Stage-Cart Driver",
+                "credit_id": "52fe43fec3a368484e009b21",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99266,
+                "known_for_department": "Acting",
+                "name": "Olga Mashnaya",
+                "original_name": "Ольга Машная",
+                "popularity": 0.008,
+                "profile_path": "/aqlj6B9lSBzInz6nHzuztEg7RwI.jpg",
+                "cast_id": 9,
+                "character": "Decont - A Teleportation Officer at Alpha",
+                "credit_id": "52fe43fec3a368484e009b25",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98835,
+                "known_for_department": "Directing",
+                "name": "Georgiy Daneliya",
+                "original_name": "Георгий Данелия",
+                "popularity": 0.008,
+                "profile_path": "/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg",
+                "cast_id": 11,
+                "character": "Abradox - The Governor of Alpha",
+                "credit_id": "52fe43fec3a368484e009b2d",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1820942,
+                "known_for_department": "Acting",
+                "name": "Aleksandra Dorokhina",
+                "original_name": "Александра Дорохина",
+                "popularity": 0.001,
+                "profile_path": "/n3MfJkkLxqjzDdR3OYQvMCpelNC.jpg",
+                "cast_id": 24,
+                "character": "woman in tunnel",
+                "credit_id": "629066fb9a643500aa04f093",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1717596,
+                "known_for_department": "Directing",
+                "name": "Galina Daneliya-Yurkova",
+                "original_name": "Галина Юркова-Данелия",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Mashkov's wife",
+                "credit_id": "6290670b76eecf0065238b0f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96521,
+                "known_for_department": "Acting",
+                "name": "Vladimir Fyodorov",
+                "original_name": "Владимир Фёдоров",
+                "popularity": 0.001,
+                "profile_path": "/xf1xj9rdZNdNqjIt1fp0QEo3MTP.jpg",
+                "cast_id": 26,
+                "character": "Yellow Pants",
+                "credit_id": "629067297f0540009f7b121f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1390766,
+                "known_for_department": "Acting",
+                "name": "Aleksandr Gorbachev",
+                "original_name": "Александр Горбачёв",
+                "popularity": 0.001,
+                "profile_path": "/deSNfb5kR1DRrziuLAWXRRrB8HW.jpg",
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "6290674cd48cee0b764edb43",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 627993,
+                "known_for_department": "Acting",
+                "name": "Nina Ter-Osipyan",
+                "original_name": "Нина Тер-Осипян",
+                "popularity": 0.001,
+                "profile_path": "/kaXFX6WnpzCHJrw5ah7AUmCyuWA.jpg",
+                "cast_id": 28,
+                "character": "mother",
+                "credit_id": "6290676b89b561009f1e1eb2",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1980436,
+                "known_for_department": "Acting",
+                "name": "Viktor Makhmutov",
+                "original_name": "Виктор Махмутов",
+                "popularity": 0.001,
+                "profile_path": "/Ao9H5qPxdkuIURsraamCm6RsjAv.jpg",
+                "cast_id": 29,
+                "character": "Red",
+                "credit_id": "6290678d76eecf0065238c5e",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3115261,
+                "known_for_department": "Acting",
+                "name": "Aleksandr Litovkin",
+                "original_name": "Aleksandr Litovkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "smuggler",
+                "credit_id": "629067ab3780620050e589f0",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2063155,
+                "known_for_department": "Acting",
+                "name": "Igor Bogolyubov",
+                "original_name": "Игорь Боголюбов",
+                "popularity": 0.001,
+                "profile_path": "/wxL7nHqaNW5RfojfxQuuLRYRWCR.jpg",
+                "cast_id": 31,
+                "character": "Ku",
+                "credit_id": "629067b9a24232009b5907b0",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 929685,
+                "known_for_department": "Acting",
+                "name": "Ivan Krivoruchko",
+                "original_name": "Иван Криворучко",
+                "popularity": 0.001,
+                "profile_path": "/2qxs3fIzXO3wplMXqiBHnak7Yrn.jpg",
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "629067f2df86a8508500cd50",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4484257,
+                "known_for_department": "Acting",
+                "name": "Rene Khobua",
+                "original_name": "Рене Хобуа",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "(credit only)",
+                "credit_id": "65a6d9851feac1012245dc28",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98835,
+                "known_for_department": "Directing",
+                "name": "Georgiy Daneliya",
+                "original_name": "Георгий Данелия",
+                "popularity": 0.008,
+                "profile_path": "/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg",
+                "credit_id": "52fe43fec3a368484e009b15",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1138402,
+                "known_for_department": "Writing",
+                "name": "Revaz Gabriadze",
+                "original_name": "რევაზ გაბრიაძე",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "53a2ef650e0a26227400175e",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98835,
+                "known_for_department": "Directing",
+                "name": "Georgiy Daneliya",
+                "original_name": "Георгий Данелия",
+                "popularity": 0.008,
+                "profile_path": "/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg",
+                "credit_id": "53a2ef6d0e0a26227100177f",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69538,
+                "known_for_department": "Camera",
+                "name": "Pavel Lebeshev",
+                "original_name": "Павел Лебешев",
+                "popularity": 0.006,
+                "profile_path": "/rNZSI2cZmApIRaofla8Ocx0mtAu.jpg",
+                "credit_id": "57636cf6c3a36816a1000527",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1584745,
+                "known_for_department": "Art",
+                "name": "Aleksandr Samulekin",
+                "original_name": "Aleksandr Samulekin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e4d31892514141f3001a0b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1683709,
+                "known_for_department": "Editing",
+                "name": "Natalya Dobrunova",
+                "original_name": "Natalya Dobrunova",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e4d311c3a3682cb3009d32",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1683712,
+                "known_for_department": "Sound",
+                "name": "Ekaterina Popova-Evans",
+                "original_name": "Ekaterina Popova-Evans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e4d33092514142780019f2",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 141174,
+                "known_for_department": "Sound",
+                "name": "Gia Kancheli",
+                "original_name": "Gia Kancheli",
+                "popularity": 0.001,
+                "profile_path": "/eZm96ExlK2zAF7raGxoLumHaoSa.jpg",
+                "credit_id": "57e4d2fe92514140f4001a8f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1683711,
+                "known_for_department": "Directing",
+                "name": "Sergei Khramtsov",
+                "original_name": "Sergei Khramtsov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e4d32792514140f4001aae",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1683710,
+                "known_for_department": "Art",
+                "name": "Teodor Tezhik",
+                "original_name": "Teodor Tezhik",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e4d31f92514140f4001aa7",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2815707,
+                "known_for_department": "Production",
+                "name": "Leonid Bits",
+                "original_name": "Leonid Bits",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67c403568ac38c7b854e1be7",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2611072,
+                "known_for_department": "Directing",
+                "name": "Karen Gevorkyan",
+                "original_name": "Karen Gevorkyan",
+                "popularity": 0.001,
+                "profile_path": "/dY9mejHM4LIzAgqMLgE3TQhQvPh.jpg",
+                "credit_id": "67c40363defa42aa0f4aff0b",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4797338,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tatyana Proshina",
+                "original_name": "Татьяна Прошина",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67c4039edefa42aa0f4aff1f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1637379,
+                "known_for_department": "Editing",
+                "name": "Tatyana Egorycheva",
+                "original_name": "Татьяна Егорычева",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67c403ac04b6b222cf4e107e",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5259875,
+                "known_for_department": "Costume & Make-Up",
+                "name": "N. Nasekina",
+                "original_name": "N. Nasekina",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67c403b5111cdd4ed8b4944a",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4506982,
+                "known_for_department": "Acting",
+                "name": "Nikolai Garo",
+                "original_name": "Nikolai Garo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67c403e8defa42aa0f4aff33",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1612,
+                "name": "spacecraft"
+            },
+            {
+                "id": 2111,
+                "name": "soviet union"
+            },
+            {
+                "id": 4458,
+                "name": "post-apocalyptic future"
+            },
+            {
+                "id": 15325,
+                "name": "universe"
+            },
+            {
+                "id": 178712,
+                "name": "totalitarianism"
+            },
+            {
+                "id": 204390,
+                "name": "cosmos"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Stanislav Lyubshin",
+            "character": "Vladimir Nikolaevich Mashkov - 'Uncle Vova'"
+        },
+        {
+            "actor": "Evgeni Leonov",
+            "character": "Wef - The Wandering Chatlanian Singer"
+        },
+        {
+            "actor": "Yuriy Yakovlev",
+            "character": "Bee - The Wandering Patsak Singer"
+        },
+        {
+            "actor": "Levan Gabriadze",
+            "character": "Gedevan Alexandrovich Alexidze - 'Fiddler'"
+        },
+        {
+            "actor": "Lev Perfilov",
+            "character": "Kyrr - The Chatlanian-Dissident"
+        },
+        {
+            "actor": "Irina Shmeleva",
+            "character": "Tsan - The Desert Stage-Cart Driver"
+        },
+        {
+            "actor": "Olga Mashnaya",
+            "character": "Decont - A Teleportation Officer at Alpha"
+        },
+        {
+            "actor": "Georgiy Daneliya",
+            "character": "Abradox - The Governor of Alpha"
+        },
+        {
+            "actor": "Aleksandra Dorokhina",
+            "character": "woman in tunnel"
+        },
+        {
+            "actor": "Galina Daneliya-Yurkova",
+            "character": "Mashkov's wife"
+        },
+        {
+            "actor": "Vladimir Fyodorov",
+            "character": "Yellow Pants"
+        },
+        {
+            "actor": "Aleksandr Gorbachev",
+            "character": ""
+        },
+        {
+            "actor": "Nina Ter-Osipyan",
+            "character": "mother"
+        },
+        {
+            "actor": "Viktor Makhmutov",
+            "character": "Red"
+        },
+        {
+            "actor": "Aleksandr Litovkin",
+            "character": "smuggler"
+        },
+        {
+            "actor": "Igor Bogolyubov",
+            "character": "Ku"
+        },
+        {
+            "actor": "Ivan Krivoruchko",
+            "character": ""
+        },
+        {
+            "actor": "Rene Khobua",
+            "character": "(credit only)"
+        }
+    ]
+}

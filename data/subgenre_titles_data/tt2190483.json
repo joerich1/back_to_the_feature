@@ -1,0 +1,616 @@
+{
+    "adult": false,
+    "backdrop_path": "/oq153wuHYMIyQ1FAkeJl2sZ6y3k.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 144804,
+    "imdb_id": "tt2190483",
+    "origin_country": [
+        "RU"
+    ],
+    "original_language": "ru",
+    "original_title": "Жить",
+    "overview": "In the second feature film by Russian director Vasily Sigarev, fate brings ordeals to characters that find themselves immersed in deep crisis; they must seek the strength to cope with adversity. In a remote and cold region of Russia, Galya, a middle-aged woman with a drinking problem, has been separated from her twin daughters and she wants them back. On the other hand, Grishka and Anton are a young couple who decide to get married, but right after the wedding their relationship is put to the test in a brutal way. While Artyom longs to see his missing father, but his mother objects. There is only one element that brings all of these characters together: misfortune.",
+    "popularity": 1.274,
+    "poster_path": "/xzA7NMuR4MtlZUxp4yzdkRMaWEf.jpg",
+    "production_companies": [
+        {
+            "id": 76049,
+            "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+            "name": "Cinema Foundation of Russia",
+            "origin_country": "RU"
+        },
+        {
+            "id": 7157,
+            "logo_path": null,
+            "name": "Koktebel Film Company",
+            "origin_country": "RU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+        }
+    ],
+    "release_date": "2012-08-30",
+    "revenue": 0,
+    "runtime": 119,
+    "spoken_languages": [
+        {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Living",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 36,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-08-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 584045,
+                "known_for_department": "Acting",
+                "name": "Olga Lapshina",
+                "original_name": "Ольга Лапшина",
+                "popularity": 0.01,
+                "profile_path": "/g8RNLIB9hJXMZwRlQ5aK9dENEJj.jpg",
+                "cast_id": 9,
+                "character": "Kapustina",
+                "credit_id": "54038b0f0e0a2658f10081db",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1121495,
+                "known_for_department": "Acting",
+                "name": "Marina Gavrilova",
+                "original_name": "Марина Гаврилова",
+                "popularity": 0.001,
+                "profile_path": "/8grd835J70CwtGD0UfKxeIgBbVu.jpg",
+                "cast_id": 5,
+                "character": "Kapustina's Daughter",
+                "credit_id": "52fe4b429251416c750fd411",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2034737,
+                "known_for_department": "Acting",
+                "name": "Alexandra Gavrilova",
+                "original_name": "Александра Гаврилова",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Kapustina's Daughter",
+                "credit_id": "5e30b1feac8e6b0011be7ae5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 143657,
+                "known_for_department": "Acting",
+                "name": "Yana Troyanova",
+                "original_name": "Яна Троянова",
+                "popularity": 0.009,
+                "profile_path": "/eRUrbf0wJSFOYOsTVCNnlOAQO3Z.jpg",
+                "cast_id": 10,
+                "character": "Grishka",
+                "credit_id": "54038b580e0a2658f10081e1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239680,
+                "known_for_department": "Acting",
+                "name": "Aleksey Filimonov",
+                "original_name": "Алексей Филимонов",
+                "popularity": 0.012,
+                "profile_path": "/6jmeSK7KEc5ssEzfhvZzKg3xbE3.jpg",
+                "cast_id": 3,
+                "character": "Anton",
+                "credit_id": "52fe4b429251416c750fd409",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2523658,
+                "known_for_department": "Acting",
+                "name": "Alexey Pustovoitov",
+                "original_name": "Alexey Pustovoitov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Artyom",
+                "credit_id": "5e30b2aa98f1f10018fe832d",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 142505,
+                "known_for_department": "Acting",
+                "name": "Yevgeni Syty",
+                "original_name": "Евгений Сытый",
+                "popularity": 0.007,
+                "profile_path": "/uukLzLLzimQt1JEjBwJRi3nJpWD.jpg",
+                "cast_id": 11,
+                "character": "Artyom's Father",
+                "credit_id": "54038b980e0a2658e20084ba",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 393420,
+                "known_for_department": "Acting",
+                "name": "Anna Ukolova",
+                "original_name": "Анна Уколова",
+                "popularity": 0.013,
+                "profile_path": "/zOIYZR6ULLjuakujnHiBk9vAHgZ.jpg",
+                "cast_id": 8,
+                "character": "Artyom's Mother",
+                "credit_id": "54038a4f0e0a260c85000a2c",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1112012,
+                "known_for_department": "Acting",
+                "name": "Dmitriy Kulichkov",
+                "original_name": "Дмитрий Куличков",
+                "popularity": 0.01,
+                "profile_path": "/fpzttqO2qzzR0uh2n3SpwG9yxbJ.jpg",
+                "cast_id": 12,
+                "character": "Igor",
+                "credit_id": "54038bba0e0a2658f10081f1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2523660,
+                "known_for_department": "Acting",
+                "name": "Alyona Lapteva",
+                "original_name": "Alyona Lapteva",
+                "popularity": 0.001,
+                "profile_path": "/bvKLqNC0uoQg3GevFoWGgNtpmHN.jpg",
+                "cast_id": 29,
+                "character": "Police Woman",
+                "credit_id": "5e30b370326c1900121d960d",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1121493,
+                "known_for_department": "Acting",
+                "name": "Irma Arendt",
+                "original_name": "Irma Arendt",
+                "popularity": 0.001,
+                "profile_path": "/v45rSs5a4TUN5IXUiMAjf0A7dTP.jpg",
+                "cast_id": 2,
+                "character": "Stout Woman",
+                "credit_id": "52fe4b429251416c750fd405",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1163602,
+                "known_for_department": "Acting",
+                "name": "Yana Sekste",
+                "original_name": "Яна Сексте",
+                "popularity": 0.013,
+                "profile_path": "/3k1YH1vO9VfFQICeaVNwbg9PKFG.jpg",
+                "cast_id": 13,
+                "character": "Tomka",
+                "credit_id": "54038bf40e0a2658e20084c4",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2523665,
+                "known_for_department": "Acting",
+                "name": "Aleksandr Serikov",
+                "original_name": "Aleksandr Serikov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Policeman in the Hospital",
+                "credit_id": "5e30b5b5ac8e6b0015be82f1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2523666,
+                "known_for_department": "Acting",
+                "name": "Larisa Varava",
+                "original_name": "Larisa Varava",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Nurse",
+                "credit_id": "5e30b6a66743fa00111e0d23",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1257301,
+                "known_for_department": "Acting",
+                "name": "Alexey Litvinenko",
+                "original_name": "Алексей Литвиненко",
+                "popularity": 0.001,
+                "profile_path": "/3Aht7RWziZxWwlSKJ9DRhovkECl.jpg",
+                "cast_id": 33,
+                "character": "Boy in the Hospital",
+                "credit_id": "5e30b70aeda4b70017f15914",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1571089,
+                "known_for_department": "Acting",
+                "name": "Robert Vaab",
+                "original_name": "Роберт Вааб",
+                "popularity": 0.001,
+                "profile_path": "/56l0ht04MkN43g98gRZjWxP31xy.jpg",
+                "cast_id": 19,
+                "character": "Priest",
+                "credit_id": "5b052ebb9251414696005e62",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 932525,
+                "known_for_department": "Acting",
+                "name": "Aleksey Maslodudov",
+                "original_name": "Алексей Маслодудов",
+                "popularity": 0.011,
+                "profile_path": "/yWpf98zfFBLLy1Ir99i65Zp6UfF.jpg",
+                "cast_id": 18,
+                "character": "Boy on the Train",
+                "credit_id": "5ac123d40e0a260c1400a6ba",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1121494,
+                "known_for_department": "Acting",
+                "name": "Konstantin Gatsalov",
+                "original_name": "Константин Гацалов",
+                "popularity": 0.001,
+                "profile_path": "/gWXeweCH4mP8dcdLmftMmuNFZfI.jpg",
+                "cast_id": 4,
+                "character": "Edik",
+                "credit_id": "52fe4b429251416c750fd40d",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1638438,
+                "known_for_department": "Acting",
+                "name": "Olga Gileva",
+                "original_name": "Olga Gileva",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Doctor",
+                "credit_id": "5e30b89c98f1f10018fe8ad5",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2437314,
+                "known_for_department": "Acting",
+                "name": "Vladimir Kostin",
+                "original_name": "Владимир Костин",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Policeman in the Hospital",
+                "credit_id": "667d1aadca2bbd7b5c93bfc8",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1380689,
+                "known_for_department": "Crew",
+                "name": "Kirill Bobrov",
+                "original_name": "Kirill Bobrov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "643793bec2679601268f398a",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3749299,
+                "known_for_department": "Camera",
+                "name": "Nina Zaytseva",
+                "original_name": "Nina Zaytseva",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "643793ca4a52f801138c5d68",
+                "department": "Camera",
+                "job": "Additional Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1436574,
+                "known_for_department": "Crew",
+                "name": "Pyotr Gorshenin",
+                "original_name": "Pyotr Gorshenin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "643793dd1d538600d5676180",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1544081,
+                "known_for_department": "Writing",
+                "name": "Vasiliy Sigarev",
+                "original_name": "Василий Сигарев",
+                "popularity": 0.001,
+                "profile_path": "/oxSST5jrXEb4IG3i5ZtaNwO8IZh.jpg",
+                "credit_id": "5aa199f20e0a260d54002905",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 238623,
+                "known_for_department": "Sound",
+                "name": "Vladimir Golovnitsky",
+                "original_name": "Vladimir Golovnitsky",
+                "popularity": 0.001,
+                "profile_path": "/l31CZDOz3llbpOHVBM38kI1Ov5w.jpg",
+                "credit_id": "5aa1a9b80e0a260d54003b71",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2523639,
+                "known_for_department": "Sound",
+                "name": "Pavel Dodonov",
+                "original_name": "Павел Додонов",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e30af7bac8e6b0018be40ce",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2523640,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Viktoriya Vinogradova",
+                "original_name": "Viktoriya Vinogradova",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e30afba6743fa00151e1b40",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2523641,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Viktoriya Kalmykova",
+                "original_name": "Viktoriya Kalmykova",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e30afd2ac8e6b0018be411f",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2523642,
+                "known_for_department": "Art",
+                "name": "Lyudmila Dyupina",
+                "original_name": "Lyudmila Dyupina",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e30aff4ac8e6b0011be79c8",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1784466,
+                "known_for_department": "Camera",
+                "name": "Alisher Khamidkhodzhaev",
+                "original_name": "Alisher Khamidkhodzhaev",
+                "popularity": 0.001,
+                "profile_path": "/qyiufBsvyLH6oNPlVUIx2OJXxtO.jpg",
+                "credit_id": "5e30b05b98f1f10018fe8128",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1544081,
+                "known_for_department": "Writing",
+                "name": "Vasiliy Sigarev",
+                "original_name": "Василий Сигарев",
+                "popularity": 0.001,
+                "profile_path": "/oxSST5jrXEb4IG3i5ZtaNwO8IZh.jpg",
+                "credit_id": "5e30b0736743fa00111e0b91",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2523644,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Artyom Krylov",
+                "original_name": "Artyom Krylov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e30b098fe63fa00168bc5b5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2682144,
+                "known_for_department": "Editing",
+                "name": "Daria Danilova",
+                "original_name": "Дарья Данилова",
+                "popularity": 0.001,
+                "profile_path": "/nuO7OclkBnZeFPuhpOgdelb2Xc8.jpg",
+                "credit_id": "6004210fa67254003d131b3a",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Olga Lapshina",
+            "character": "Kapustina"
+        },
+        {
+            "actor": "Marina Gavrilova",
+            "character": "Kapustina's Daughter"
+        },
+        {
+            "actor": "Alexandra Gavrilova",
+            "character": "Kapustina's Daughter"
+        },
+        {
+            "actor": "Yana Troyanova",
+            "character": "Grishka"
+        },
+        {
+            "actor": "Aleksey Filimonov",
+            "character": "Anton"
+        },
+        {
+            "actor": "Alexey Pustovoitov",
+            "character": "Artyom"
+        },
+        {
+            "actor": "Yevgeni Syty",
+            "character": "Artyom's Father"
+        },
+        {
+            "actor": "Anna Ukolova",
+            "character": "Artyom's Mother"
+        },
+        {
+            "actor": "Dmitriy Kulichkov",
+            "character": "Igor"
+        },
+        {
+            "actor": "Alyona Lapteva",
+            "character": "Police Woman"
+        },
+        {
+            "actor": "Irma Arendt",
+            "character": "Stout Woman"
+        },
+        {
+            "actor": "Yana Sekste",
+            "character": "Tomka"
+        },
+        {
+            "actor": "Aleksandr Serikov",
+            "character": "Policeman in the Hospital"
+        },
+        {
+            "actor": "Larisa Varava",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Alexey Litvinenko",
+            "character": "Boy in the Hospital"
+        },
+        {
+            "actor": "Robert Vaab",
+            "character": "Priest"
+        },
+        {
+            "actor": "Aleksey Maslodudov",
+            "character": "Boy on the Train"
+        },
+        {
+            "actor": "Konstantin Gatsalov",
+            "character": "Edik"
+        },
+        {
+            "actor": "Olga Gileva",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Vladimir Kostin",
+            "character": "Policeman in the Hospital"
+        }
+    ]
+}

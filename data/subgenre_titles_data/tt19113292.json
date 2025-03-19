@@ -1,0 +1,548 @@
+{
+    "adult": false,
+    "backdrop_path": "/sQhxo9G2AldUwBzLsBsQHUwExod.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81671836",
+    "id": 1082168,
+    "imdb_id": "tt19113292",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "警視庁捜査一課 ルーシー・ブラックマン事件",
+    "overview": "July 1, 2000. British 21-year-old Lucie Blackman goes missing in Tokyo, sparking an international investigation — and an unyielding quest for justice.",
+    "popularity": 2.05,
+    "poster_path": "/6zNf7MXyHkCauIc066SbVoA7wLR.jpg",
+    "production_companies": [
+        {
+            "id": 203248,
+            "logo_path": "/rtKeqyKuZEQlDsp0JKCFRd9SHvt.png",
+            "name": "Vesuvius Pictures",
+            "origin_country": "JP"
+        },
+        {
+            "id": 71519,
+            "logo_path": "/tp2GdaPoC7f0pY8ekGFqoedD4U4.png",
+            "name": "Beach House Pictures",
+            "origin_country": "SG"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        },
+        {
+            "iso_3166_1": "SG",
+            "name": "Singapore"
+        }
+    ],
+    "release_date": "2023-07-26",
+    "revenue": 0,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Missing: The Lucie Blackman Case",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 57,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [
+                            "Sexual Content",
+                            "Violence"
+                        ],
+                        "iso_639_1": "pt",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PR",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "NC16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-07-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4138830,
+                "known_for_department": "Acting",
+                "name": "Tim Blackman",
+                "original_name": "Tim Blackman",
+                "popularity": 0.001,
+                "profile_path": "/eycmFkcsGQ74MGIxMP1JV7x6wkP.jpg",
+                "cast_id": 2,
+                "character": "Self - Lucie's Father",
+                "credit_id": "649f01e4d6590b00ab74e995",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2117515,
+                "known_for_department": "Writing",
+                "name": "Jake Adelstein",
+                "original_name": "Jake Adelstein",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Self - Journalist",
+                "credit_id": "64c864d41fa1c800eeae4d80",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4190799,
+                "known_for_department": "Acting",
+                "name": "Lucie Blackman",
+                "original_name": "Lucie Blackman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Self (archive footage)",
+                "credit_id": "64c8650a89f74901456fb919",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4190800,
+                "known_for_department": "Acting",
+                "name": "Sophie Blackman",
+                "original_name": "Sophie Blackman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Self - Lucie's Sister (archive footage)",
+                "credit_id": "64c8652189f74900e8cc32a1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4203295,
+                "known_for_department": "Acting",
+                "name": "Tom Fellows",
+                "original_name": "Tom Fellows",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Narrator (voice)",
+                "credit_id": "64d19a4c6d4c9700afaef566",
+                "order": 4
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1432860,
+                "known_for_department": "Writing",
+                "name": "Hyōe Yamamoto",
+                "original_name": "Hyōe Yamamoto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f015bedeb4300e3db545c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4138833,
+                "known_for_department": "Production",
+                "name": "Deborah Barillas",
+                "original_name": "Deborah Barillas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f029fedeb4300c6f7f1aa",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1714073,
+                "known_for_department": "Directing",
+                "name": "Donovan Chan",
+                "original_name": "Donovan Chan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f035a3af9290125393f5d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2579890,
+                "known_for_department": "Production",
+                "name": "Jocelyn Little",
+                "original_name": "Jocelyn Little",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f0390edeb43013a69437c",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2233341,
+                "known_for_department": "Production",
+                "name": "Rob Sixsmith",
+                "original_name": "Rob Sixsmith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f03aa85867800ebb60274",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3826595,
+                "known_for_department": "Camera",
+                "name": "Alexandre Bartholo",
+                "original_name": "Alexandre Bartholo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f03e93af92900adc45e9a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2987884,
+                "known_for_department": "Editing",
+                "name": "Alexander Sanchez",
+                "original_name": "Alexander Sanchez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "649f04583af92900e7fbb7fc",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4138835,
+                "known_for_department": "Writing",
+                "name": "Shoji Takao",
+                "original_name": "Shoji Takao",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19a72549dda00e2de73ba",
+                "department": "Writing",
+                "job": "Book"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4203305,
+                "known_for_department": "Production",
+                "name": "Anastasia Arsan",
+                "original_name": "Anastasia Arsan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b11549dda00ffa52a4b",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1018668,
+                "known_for_department": "Editing",
+                "name": "David Fairhead",
+                "original_name": "David Fairhead",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b270dea6e013bf891c3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4203309,
+                "known_for_department": "Editing",
+                "name": "Eiji Iwakawa",
+                "original_name": "Eiji Iwakawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b3b945d3601394ec432",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2579882,
+                "known_for_department": "Editing",
+                "name": "Razin Ramzi",
+                "original_name": "Razin Ramzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b466d4c97010d51e418",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404128,
+                "known_for_department": "Editing",
+                "name": "Danny Collins",
+                "original_name": "Danny Collins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b5a85090f00c87e4420",
+                "department": "Editing",
+                "job": "Consulting Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1742270,
+                "known_for_department": "Sound",
+                "name": "Anne Nikitin",
+                "original_name": "Anne Nikitin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b680dea6e010117d490",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1850833,
+                "known_for_department": "Sound",
+                "name": "Rob Manning",
+                "original_name": "Rob Manning",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19b726d4c9700cb7f0b83",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4203318,
+                "known_for_department": "Sound",
+                "name": "Tom Kinsella",
+                "original_name": "Tom Kinsella",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19bbac3bffe0100d72da8",
+                "department": "Sound",
+                "job": "Additional Soundtrack"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1742270,
+                "known_for_department": "Sound",
+                "name": "Anne Nikitin",
+                "original_name": "Anne Nikitin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19bc5d9f4a603b876cc6d",
+                "department": "Sound",
+                "job": "Orchestrator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1850833,
+                "known_for_department": "Sound",
+                "name": "Rob Manning",
+                "original_name": "Rob Manning",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64d19bcd6d4c97014f43657a",
+                "department": "Sound",
+                "job": "Orchestrator"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 5340,
+                "name": "investigation"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 33722,
+                "name": "true crime"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Tim Blackman",
+            "character": "Self - Lucie's Father"
+        },
+        {
+            "actor": "Jake Adelstein",
+            "character": "Self - Journalist"
+        },
+        {
+            "actor": "Lucie Blackman",
+            "character": "Self (archive footage)"
+        },
+        {
+            "actor": "Sophie Blackman",
+            "character": "Self - Lucie's Sister (archive footage)"
+        },
+        {
+            "actor": "Tom Fellows",
+            "character": "Narrator (voice)"
+        }
+    ]
+}

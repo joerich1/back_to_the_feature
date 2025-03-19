@@ -1,0 +1,648 @@
+{
+    "adult": false,
+    "backdrop_path": "/t4d80bW4Vn86EVIQW0eV2NjhFBh.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 26932,
+    "imdb_id": "tt0076210",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Island of Dr. Moreau",
+    "overview": "A ship-wrecked man floats ashore on an island in the Pacific Ocean. The island is inhabited by a scientist, Dr. Moreau, who in an experiment has turned beasts into human beings.",
+    "popularity": 3.535,
+    "poster_path": "/q5kWAWxb3eWCkxFNT6WCipAnpQe.jpg",
+    "production_companies": [
+        {
+            "id": 9266,
+            "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+            "name": "American International Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 13812,
+            "logo_path": null,
+            "name": "Major Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1977-07-13",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A tropical paradise, untouched by man... where a bizarre civilization exists.",
+    "title": "The Island of Dr. Moreau",
+    "video": false,
+    "vote_average": 5.493,
+    "vote_count": 151,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-11-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "(Rated A)",
+                        "release_date": "1977-07-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-09-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "VM14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2009-12-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-07-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13784,
+                "known_for_department": "Acting",
+                "name": "Burt Lancaster",
+                "original_name": "Burt Lancaster",
+                "popularity": 0.059,
+                "profile_path": "/hQBgFAdk1BrSum7LN4B67m3gj0U.jpg",
+                "cast_id": 4,
+                "character": "Dr. Paul Moreau",
+                "credit_id": "52fe4522c3a368484e04a575",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13919,
+                "known_for_department": "Acting",
+                "name": "Michael York",
+                "original_name": "Michael York",
+                "popularity": 0.052,
+                "profile_path": "/tutdIz0uuQ6fyPMoQ4HpCgy2uQu.jpg",
+                "cast_id": 5,
+                "character": "Andrew Braddock",
+                "credit_id": "52fe4522c3a368484e04a579",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13327,
+                "known_for_department": "Acting",
+                "name": "Nigel Davenport",
+                "original_name": "Nigel Davenport",
+                "popularity": 0.026,
+                "profile_path": "/v7ebqfzimSOjRc1vFGgTCSP1P6a.jpg",
+                "cast_id": 6,
+                "character": "Montgomery",
+                "credit_id": "52fe4522c3a368484e04a57d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10938,
+                "known_for_department": "Acting",
+                "name": "Barbara Carrera",
+                "original_name": "Barbara Carrera",
+                "popularity": 0.025,
+                "profile_path": "/q9XOgZ5wocNPbgotNctkczF8D54.jpg",
+                "cast_id": 7,
+                "character": "Maria",
+                "credit_id": "52fe4522c3a368484e04a581",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5403,
+                "known_for_department": "Acting",
+                "name": "Richard Basehart",
+                "original_name": "Richard Basehart",
+                "popularity": 0.032,
+                "profile_path": "/4q9KoGOolSOzHNekVm3JhZFuCmJ.jpg",
+                "cast_id": 8,
+                "character": "Sayer of the Law",
+                "credit_id": "52fe4522c3a368484e04a585",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69934,
+                "known_for_department": "Acting",
+                "name": "Nick Cravat",
+                "original_name": "Nick Cravat",
+                "popularity": 0.012,
+                "profile_path": "/bODGLcc1Jim10yaIQTZ4Lf8Y16h.jpg",
+                "cast_id": 9,
+                "character": "M'Ling",
+                "credit_id": "52fe4522c3a368484e04a589",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2804847,
+                "known_for_department": "Crew",
+                "name": "The Great John L.",
+                "original_name": "The Great John L.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Boarman",
+                "credit_id": "5fa758e0fcb8cc004182e772",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1365358,
+                "known_for_department": "Acting",
+                "name": "Bob Ozman",
+                "original_name": "Bob Ozman",
+                "popularity": 0.001,
+                "profile_path": "/b5gUjrcUEp3xyLtPzAJjjVXI5df.jpg",
+                "cast_id": 27,
+                "character": "Bullman",
+                "credit_id": "5e3c8a49ac8e6b001acbd310",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1074242,
+                "known_for_department": "Acting",
+                "name": "Fumio Demura",
+                "original_name": "Fumio Demura",
+                "popularity": 0.008,
+                "profile_path": "/oux9JQALPLPTlGRdtoTfq44W8kK.jpg",
+                "cast_id": 28,
+                "character": "Hyena Man",
+                "credit_id": "5e3c8a6498f1f100180cbc31",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1535407,
+                "known_for_department": "Crew",
+                "name": "Gary Baxley",
+                "original_name": "Gary Baxley",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Lionman",
+                "credit_id": "5fa75904fcb8cc0040821ca5",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2847470,
+                "known_for_department": "Acting",
+                "name": "John Gillespie",
+                "original_name": "John Gillespie",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Tigerman",
+                "credit_id": "5fa7598e700bf7003d594281",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81693,
+                "known_for_department": "Directing",
+                "name": "David S. Cass Sr.",
+                "original_name": "David S. Cass Sr.",
+                "popularity": 0.011,
+                "profile_path": "/tSo4s2Hb2UficxzMqU26bJhwg7i.jpg",
+                "cast_id": 32,
+                "character": "Bearman",
+                "credit_id": "5fa759b05aadc4004184907f",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11624,
+                "known_for_department": "Writing",
+                "name": "H.G. Wells",
+                "original_name": "H.G. Wells",
+                "popularity": 0.01,
+                "profile_path": "/3qON4KdxVvoyeiDML4CmGMtZf41.jpg",
+                "credit_id": "52fe4522c3a368484e04a56b",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9108,
+                "known_for_department": "Directing",
+                "name": "Don Taylor",
+                "original_name": "Don Taylor",
+                "popularity": 0.038,
+                "profile_path": "/6Gg2DR2oP3qUPTEomlJi7i4dne9.jpg",
+                "credit_id": "52fe4522c3a368484e04a565",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 96626,
+                "known_for_department": "Writing",
+                "name": "Al Ramrus",
+                "original_name": "Al Ramrus",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4522c3a368484e04a571",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40052,
+                "known_for_department": "Camera",
+                "name": "Gerry Fisher",
+                "original_name": "Gerry Fisher",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "666b87b2f6866a3026080542",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52025,
+                "known_for_department": "Sound",
+                "name": "Laurence Rosenthal",
+                "original_name": "Laurence Rosenthal",
+                "popularity": 0.004,
+                "profile_path": "/x42luiFBuPbMFmKG4gnwaEKXiI5.jpg",
+                "credit_id": "666b87c1a919039ee5a7a29f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2202100,
+                "known_for_department": "Camera",
+                "name": "Mike Rutter",
+                "original_name": "Mike Rutter",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5c28473c92514138c8bffcce",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1390216,
+                "known_for_department": "Production",
+                "name": "Skip Steloff",
+                "original_name": "Skip Steloff",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c425dc3a368049c838f6d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8883,
+                "known_for_department": "Art",
+                "name": "Philip M. Jefferies",
+                "original_name": "Philip M. Jefferies",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5c4c42a10e0a26494fd35800",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102650,
+                "known_for_department": "Writing",
+                "name": "John Herman Shaner",
+                "original_name": "John Herman Shaner",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5c4c4221c3a36847898ef18d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1342072,
+                "known_for_department": "Crew",
+                "name": "Cliff Wenger",
+                "original_name": "Cliff Wenger",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5c4c43bec3a368576a8edbbe",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1424032,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joe DiBella",
+                "original_name": "Joe DiBella",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5c4c4379c3a368477a90077d",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101427,
+                "known_for_department": "Crew",
+                "name": "Thomas R. Burman",
+                "original_name": "Thomas R. Burman",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "5c4c42f19251410e1b59ea58",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30904,
+                "known_for_department": "Production",
+                "name": "Samuel Z. Arkoff",
+                "original_name": "Samuel Z. Arkoff",
+                "popularity": 0.014,
+                "profile_path": "/2HduSEowO35hhpZrkCj2sdmxe4R.jpg",
+                "credit_id": "5c4c423e0e0a264965d349c1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14436,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Edwin Butterworth",
+                "original_name": "Edwin Butterworth",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c42ff9251410e1b59ea68",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38062,
+                "known_for_department": "Production",
+                "name": "John Temple-Smith",
+                "original_name": "John Temple-Smith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c426bc3a36847828f9ac6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16596,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Richard La Motte",
+                "original_name": "Richard La Motte",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5c4c42b89251410e0a59bf27",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1550903,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Richard Cobos",
+                "original_name": "Richard Cobos",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c43689251410e0a59c0d5",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2110879,
+                "known_for_department": "Crew",
+                "name": "Cliff Wenger Jr.",
+                "original_name": "Cliff Wenger Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c43a90e0a264962d39780",
+                "department": "Crew",
+                "job": "Special Effects Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102232,
+                "known_for_department": "Production",
+                "name": "Sandy Howard",
+                "original_name": "Sandy Howard",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c4c424cc3a368576a8ed7e3",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18651,
+                "known_for_department": "Editing",
+                "name": "Marion Rothman",
+                "original_name": "Marion Rothman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5c4c42879251410e1b59e9b9",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2041,
+                "name": "island"
+            },
+            {
+                "id": 1706,
+                "name": "experiment"
+            },
+            {
+                "id": 6017,
+                "name": "genetics"
+            },
+            {
+                "id": 1852,
+                "name": "mutant"
+            },
+            {
+                "id": 9410,
+                "name": "hybrid"
+            },
+            {
+                "id": 9714,
+                "name": "remake"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Burt Lancaster",
+            "character": "Dr. Paul Moreau"
+        },
+        {
+            "actor": "Michael York",
+            "character": "Andrew Braddock"
+        },
+        {
+            "actor": "Nigel Davenport",
+            "character": "Montgomery"
+        },
+        {
+            "actor": "Barbara Carrera",
+            "character": "Maria"
+        },
+        {
+            "actor": "Richard Basehart",
+            "character": "Sayer of the Law"
+        },
+        {
+            "actor": "Nick Cravat",
+            "character": "M'Ling"
+        },
+        {
+            "actor": "The Great John L.",
+            "character": "Boarman"
+        },
+        {
+            "actor": "Bob Ozman",
+            "character": "Bullman"
+        },
+        {
+            "actor": "Fumio Demura",
+            "character": "Hyena Man"
+        },
+        {
+            "actor": "Gary Baxley",
+            "character": "Lionman"
+        },
+        {
+            "actor": "John Gillespie",
+            "character": "Tigerman"
+        },
+        {
+            "actor": "David S. Cass Sr.",
+            "character": "Bearman"
+        }
+    ]
+}

@@ -1,0 +1,675 @@
+{
+    "adult": false,
+    "backdrop_path": "/2bkkKlk6GuEYZ4DL7mfSGSvxyB1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://glassjawmovie.com",
+    "id": 553884,
+    "imdb_id": "tt3643544",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Glass Jaw",
+    "overview": "Glass Jaw is the redemption story of Travis Austin, a one time champion boxer who goes to prison and loses everything. After his release, he experiences the trials and tribulations of redeeming his reputation, his belt, and his true love.",
+    "popularity": 0.361,
+    "poster_path": "/kkrI87cjUIny32LB0nEIojVhMx0.jpg",
+    "production_companies": [
+        {
+            "id": 82774,
+            "logo_path": "/8zRDewTqfb9iaBO7pBMzwMMcMfa.png",
+            "name": "AZ Film Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 110579,
+            "logo_path": null,
+            "name": "Eleven Seven Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2018-10-26",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Glass Jaw",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 10,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2018-10-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2021-12-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2018-10-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928674,
+                "known_for_department": "Acting",
+                "name": "Lee Kholafai",
+                "original_name": "Lee Kholafai",
+                "popularity": 0.003,
+                "profile_path": "/aOqGlw5qL1nHcCRkPCn505iDV1P.jpg",
+                "cast_id": 32,
+                "character": "Travis Austin",
+                "credit_id": "5cc39f3ac3a36820b5803c15",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1169764,
+                "known_for_department": "Acting",
+                "name": "Korrina Rico",
+                "original_name": "Korrina Rico",
+                "popularity": 0.006,
+                "profile_path": "/8YjcDzifQr6n00oLR0qtXv6vyxM.jpg",
+                "cast_id": 8,
+                "character": "Dana Sasso",
+                "credit_id": "5bd3ce210e0a2622dd00f2b7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9629,
+                "known_for_department": "Acting",
+                "name": "Jon Gries",
+                "original_name": "Jon Gries",
+                "popularity": 0.127,
+                "profile_path": "/nX69eyOvpmJ0YEpm2Qz2ZISngqw.jpg",
+                "cast_id": 1,
+                "character": "Sam Austin",
+                "credit_id": "5bd3cdd50e0a2622da00e7c0",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1855143,
+                "known_for_department": "Acting",
+                "name": "Brandon Sklenar",
+                "original_name": "Brandon Sklenar",
+                "popularity": 0.051,
+                "profile_path": "/6e4ixMQZVTMfTaUyGZoP6Lpn9nT.jpg",
+                "cast_id": 12,
+                "character": "Joe",
+                "credit_id": "5bd3ce42c3a368210b00d083",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52946,
+                "known_for_department": "Acting",
+                "name": "Reynaldo Gallegos",
+                "original_name": "Reynaldo Gallegos",
+                "popularity": 0.03,
+                "profile_path": "/x1JFYhTI4Pu1Dtj45YRf5mIHBtK.jpg",
+                "cast_id": 9,
+                "character": "Eddy Abundez",
+                "credit_id": "5bd3ce290e0a2622c800dc6c",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6576,
+                "known_for_department": "Acting",
+                "name": "Mark Rolston",
+                "original_name": "Mark Rolston",
+                "popularity": 0.049,
+                "profile_path": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg",
+                "cast_id": 2,
+                "character": "Frank Maloney",
+                "credit_id": "5bd3cde00e0a2622c800dc1f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51579,
+                "known_for_department": "Acting",
+                "name": "Steven Williams",
+                "original_name": "Steven Williams",
+                "popularity": 0.065,
+                "profile_path": "/aiu0GuxB3RbxowHcvWHC7EegHMq.jpg",
+                "cast_id": 5,
+                "character": "Harry",
+                "credit_id": "5bd3cdffc3a36820ec00ff2b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77078,
+                "known_for_department": "Acting",
+                "name": "Malcolm David Kelley",
+                "original_name": "Malcolm David Kelley",
+                "popularity": 0.015,
+                "profile_path": "/8RZ00Ei4u37zXlusUgvlQoR3xvF.jpg",
+                "cast_id": 6,
+                "character": "Dennis",
+                "credit_id": "5bd3ce090e0a2622c300d287",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1352328,
+                "known_for_department": "Acting",
+                "name": "Dana Melanie",
+                "original_name": "Dana Melanie",
+                "popularity": 0.011,
+                "profile_path": "/lmPuemvxG9ULt4FD8GBig8lm0tG.jpg",
+                "cast_id": 11,
+                "character": "Ashley",
+                "credit_id": "5bd3ce3b0e0a2622dd00f2c6",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 557386,
+                "known_for_department": "Acting",
+                "name": "Boosie Badazz",
+                "original_name": "Boosie Badazz",
+                "popularity": 0.002,
+                "profile_path": "/mAlQJTZsu6tC2KHxHYMTl7A9ETB.jpg",
+                "cast_id": 37,
+                "character": "Rico",
+                "credit_id": "64aab4893e2ec8012ee3b2b2",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89339,
+                "known_for_department": "Acting",
+                "name": "John Lewis",
+                "original_name": "John Lewis",
+                "popularity": 0.006,
+                "profile_path": "/tEpBURhEttWGiBHZH8fjI5SEJZ4.jpg",
+                "cast_id": 34,
+                "character": "Booger",
+                "credit_id": "5f13ea03d46537003667b94c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 545087,
+                "known_for_department": "Acting",
+                "name": "Jaime Camil",
+                "original_name": "Jaime Camil",
+                "popularity": 0.045,
+                "profile_path": "/njvdXEGN3bSSXpsyVnyKQTXdf1V.jpg",
+                "cast_id": 3,
+                "character": "Erik Ryan",
+                "credit_id": "5bd3cde90e0a2622dd00f294",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26491,
+                "known_for_department": "Acting",
+                "name": "Vernon Wells",
+                "original_name": "Vernon Wells",
+                "popularity": 0.029,
+                "profile_path": "/rpKjskAbftBMFi1HWZ0Jo6lZgod.jpg",
+                "cast_id": 4,
+                "character": "Happy",
+                "credit_id": "5bd3cdf10e0a2622da00e7d6",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 145553,
+                "known_for_department": "Acting",
+                "name": "Devanny Pinn",
+                "original_name": "Devanny Pinn",
+                "popularity": 0.01,
+                "profile_path": "/jt4o5VgyGQYPSpDa336uOIR9ewn.jpg",
+                "cast_id": 7,
+                "character": "Party Girl",
+                "credit_id": "5bd3ce14c3a36820e900fd83",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2162097,
+                "known_for_department": "Acting",
+                "name": "Wyatt McClure",
+                "original_name": "Wyatt McClure",
+                "popularity": 0.011,
+                "profile_path": "/rR5JHdWGvvle1RBByvnnNGGlG2J.jpg",
+                "cast_id": 10,
+                "character": "Ronnie",
+                "credit_id": "5bd3ce320e0a2622d100e293",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 565413,
+                "known_for_department": "Acting",
+                "name": "Kevin Kiley Jr.",
+                "original_name": "Kevin Kiley Jr.",
+                "popularity": 0.001,
+                "profile_path": "/8AA322jwBwncOTRNvtmATnKwFFh.jpg",
+                "cast_id": 13,
+                "character": "Mike Mathews",
+                "credit_id": "5bd3ce500e0a2622c800dc8e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1850355,
+                "known_for_department": "Acting",
+                "name": "Jack Fisher",
+                "original_name": "Jack Fisher",
+                "popularity": 0.021,
+                "profile_path": "/nEVLXTTWB1DpOzBWdLlzwKFvgSr.jpg",
+                "cast_id": 15,
+                "character": "Young Travis",
+                "credit_id": "5bd3ce72c3a368210000fa8f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2444831,
+                "known_for_department": "Acting",
+                "name": "Edie Youmans",
+                "original_name": "Edie Youmans",
+                "popularity": 0.001,
+                "profile_path": "/yfQvWAS9xgsVjrA7Mq5pnl1xFII.jpg",
+                "cast_id": 33,
+                "character": "Kelly",
+                "credit_id": "5db9dc2e89d97f0013bee0b5",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1957717,
+                "known_for_department": "Art",
+                "name": "Demetrios Katsantonis",
+                "original_name": "Demetrios Katsantonis",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "654987d1532acb011b106d05",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1316296,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Scott H. Eddo",
+                "original_name": "Scott H. Eddo",
+                "popularity": 0.013,
+                "profile_path": null,
+                "credit_id": "619ca5c2497560002c018f31",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91243,
+                "known_for_department": "Crew",
+                "name": "Charlie Picerni",
+                "original_name": "Charlie Picerni",
+                "popularity": 0.048,
+                "profile_path": "/kRO5tGbhZOPnUH46keu01i5UYd.jpg",
+                "credit_id": "6441ef95cee2f6044b35b7b4",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93922,
+                "known_for_department": "Directing",
+                "name": "Jeff Celentano",
+                "original_name": "Jeff Celentano",
+                "popularity": 0.008,
+                "profile_path": "/529TK0OU7AmosBtsqVrOV3cB5sg.jpg",
+                "credit_id": "5bd37ce6c3a36820f000859d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928674,
+                "known_for_department": "Acting",
+                "name": "Lee Kholafai",
+                "original_name": "Lee Kholafai",
+                "popularity": 0.003,
+                "profile_path": "/aOqGlw5qL1nHcCRkPCn505iDV1P.jpg",
+                "credit_id": "5bd3ceae0e0a2622da00e857",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1530829,
+                "known_for_department": "Production",
+                "name": "Lisa Ystrom",
+                "original_name": "Lisa Ystrom",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5bd3cf93c3a36820ec0101d1",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1522313,
+                "known_for_department": "Production",
+                "name": "Zeus Zamani",
+                "original_name": "Zeus Zamani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5bd3cf76925141038d00d8e5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4699,
+                "known_for_department": "Production",
+                "name": "Steve Perry",
+                "original_name": "Steve Perry",
+                "popularity": 0.018,
+                "profile_path": null,
+                "credit_id": "5bd3cf64925141038900c6f0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 961600,
+                "known_for_department": "Art",
+                "name": "Steven Legler",
+                "original_name": "Steven Legler",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5bd3cfac925141038700ce59",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1169764,
+                "known_for_department": "Acting",
+                "name": "Korrina Rico",
+                "original_name": "Korrina Rico",
+                "popularity": 0.006,
+                "profile_path": "/8YjcDzifQr6n00oLR0qtXv6vyxM.jpg",
+                "credit_id": "5bd3cec2c3a36820f500d360",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1169764,
+                "known_for_department": "Acting",
+                "name": "Korrina Rico",
+                "original_name": "Korrina Rico",
+                "popularity": 0.006,
+                "profile_path": "/8YjcDzifQr6n00oLR0qtXv6vyxM.jpg",
+                "credit_id": "5bd3cf6c0e0a2622bd00ea87",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1944197,
+                "known_for_department": "Acting",
+                "name": "Tori Letzler",
+                "original_name": "Tori Letzler",
+                "popularity": 0.001,
+                "profile_path": "/chBe4fpzwKN1MjBiDkR1uCEznWB.jpg",
+                "credit_id": "5bd3cef6c3a36820ec01011e",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2162100,
+                "known_for_department": "Directing",
+                "name": "Brandon Espy",
+                "original_name": "Brandon Espy",
+                "popularity": 0.002,
+                "profile_path": "/5RNO027emXH7FOcCXN1l1suoIIh.jpg",
+                "credit_id": "5bd3cea3c3a36820f500d348",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 904,
+                "known_for_department": "Camera",
+                "name": "Jeffrey L. Kimball",
+                "original_name": "Jeffrey L. Kimball",
+                "popularity": 0.005,
+                "profile_path": "/u4rpPmwZMJ6REuC1bd3VufCtKEC.jpg",
+                "credit_id": "5bd3cedac3a368210000faf9",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15354,
+                "known_for_department": "Sound",
+                "name": "Stephen M. Davis",
+                "original_name": "Stephen M. Davis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5bd3cee9c3a36820ec010112",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2019481,
+                "known_for_department": "Production",
+                "name": "Michael Wigle",
+                "original_name": "Michael Wigle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5bd3cfa0c3a36820f500d3fb",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1324017,
+                "known_for_department": "Production",
+                "name": "Michael Testa",
+                "original_name": "Michael Testa",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5cb04eeb0e0a2626c5c41934",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1324017,
+                "known_for_department": "Production",
+                "name": "Michael Testa",
+                "original_name": "Michael Testa",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5cb04efdc3a3683c2bac21d8",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Lee Kholafai",
+            "character": "Travis Austin"
+        },
+        {
+            "actor": "Korrina Rico",
+            "character": "Dana Sasso"
+        },
+        {
+            "actor": "Jon Gries",
+            "character": "Sam Austin"
+        },
+        {
+            "actor": "Brandon Sklenar",
+            "character": "Joe"
+        },
+        {
+            "actor": "Reynaldo Gallegos",
+            "character": "Eddy Abundez"
+        },
+        {
+            "actor": "Mark Rolston",
+            "character": "Frank Maloney"
+        },
+        {
+            "actor": "Steven Williams",
+            "character": "Harry"
+        },
+        {
+            "actor": "Malcolm David Kelley",
+            "character": "Dennis"
+        },
+        {
+            "actor": "Dana Melanie",
+            "character": "Ashley"
+        },
+        {
+            "actor": "Boosie Badazz",
+            "character": "Rico"
+        },
+        {
+            "actor": "John Lewis",
+            "character": "Booger"
+        },
+        {
+            "actor": "Jaime Camil",
+            "character": "Erik Ryan"
+        },
+        {
+            "actor": "Vernon Wells",
+            "character": "Happy"
+        },
+        {
+            "actor": "Devanny Pinn",
+            "character": "Party Girl"
+        },
+        {
+            "actor": "Wyatt McClure",
+            "character": "Ronnie"
+        },
+        {
+            "actor": "Kevin Kiley Jr.",
+            "character": "Mike Mathews"
+        },
+        {
+            "actor": "Jack Fisher",
+            "character": "Young Travis"
+        },
+        {
+            "actor": "Edie Youmans",
+            "character": "Kelly"
+        }
+    ]
+}

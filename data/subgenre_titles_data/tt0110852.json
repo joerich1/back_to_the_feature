@@ -1,0 +1,972 @@
+{
+    "adult": false,
+    "backdrop_path": "/6BUFKormkmqdao9vUUBeFexkblz.jpg",
+    "belongs_to_collection": {
+        "id": 1450363,
+        "name": "周星驰合集",
+        "poster_path": "/36HXO8vus0m2reB1uEc1NJ64FWX.jpg",
+        "backdrop_path": "/pASZ5Z3LZoKy6ZBvYA99opzfIEf.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 53163,
+    "imdb_id": "tt0110852",
+    "origin_country": [
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "破壞之王",
+    "overview": "Ho Kam-An is a lovestruck dim sum delivery boy who falls for a beautiful judo student. After being humiliated by her boyfriend, Ho Kam-An seeks the services of an aging master who teaches him a half-assed style of kung fu, \"Karate Kid\"-style.",
+    "popularity": 3.141,
+    "poster_path": "/9OVkDveP5OrgAoV4fwWy7zoMLr5.jpg",
+    "production_companies": [
+        {
+            "id": 46634,
+            "logo_path": null,
+            "name": "Cosmopolitan Film Productions Co., Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 5798,
+            "logo_path": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+            "name": "Shaw Brothers",
+            "origin_country": "HK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        }
+    ],
+    "release_date": "1994-02-04",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Love on Delivery",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 89,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-02-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-01-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57607,
+                "known_for_department": "Acting",
+                "name": "Stephen Chow Sing-Chi",
+                "original_name": "周星馳",
+                "popularity": 0.073,
+                "profile_path": "/vCCyAspvQDFmOB2SJj0X7Wr2gil.jpg",
+                "cast_id": 1,
+                "character": "Ho Kam An",
+                "credit_id": "52fe4856c3a36847f81625d9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70437,
+                "known_for_department": "Acting",
+                "name": "Richard Ng Man-Tat",
+                "original_name": "吳孟達",
+                "popularity": 0.041,
+                "profile_path": "/nu5qhbsfrQeTUGNJAkf7yCJQqY2.jpg",
+                "cast_id": 3,
+                "character": "Devil's Killer Tat",
+                "credit_id": "52fe4856c3a36847f81625e1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 54615,
+                "known_for_department": "Acting",
+                "name": "Christy Chung Lai-Tai",
+                "original_name": "鍾麗緹",
+                "popularity": 0.026,
+                "profile_path": "/eJk7Nz4koZGp8wq2ODJqlIE1n4O.jpg",
+                "cast_id": 2,
+                "character": "Lily",
+                "credit_id": "52fe4856c3a36847f81625dd",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110844,
+                "known_for_department": "Acting",
+                "name": "Ben Lam Kwok-Bun",
+                "original_name": "林國斌",
+                "popularity": 0.017,
+                "profile_path": "/z0hDAp9xHxaENYPpBi3ExAX4LDM.jpg",
+                "cast_id": 9,
+                "character": "Master of Karate Tuen Shui Lau",
+                "credit_id": "571fb376c3a368339f004392",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 936010,
+                "known_for_department": "Acting",
+                "name": "Joe Cheng Cho",
+                "original_name": "鄭祖",
+                "popularity": 0.004,
+                "profile_path": "/dIQc13rN1xfcr3GW17nsixdAMoo.jpg",
+                "cast_id": 10,
+                "character": "Master Blackbear",
+                "credit_id": "571fb386925141531b0000c7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239961,
+                "known_for_department": "Acting",
+                "name": "Billy Chow Bei-Lei",
+                "original_name": "周比利",
+                "popularity": 0.022,
+                "profile_path": "/9Z9s5Udn1hFhDypNzfJeQdBmEsV.jpg",
+                "cast_id": 11,
+                "character": "Taekwando Master",
+                "credit_id": "571fb392925141531b0000cb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1236321,
+                "known_for_department": "Acting",
+                "name": "Leo Ku",
+                "original_name": "古巨基",
+                "popularity": 0.008,
+                "profile_path": "/k42LQ3Ej4Z0o4lkBlNGcbR3PNF6.jpg",
+                "cast_id": 12,
+                "character": "Cafe Waiter",
+                "credit_id": "571fb39dc3a368339300448a",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 956575,
+                "known_for_department": "Acting",
+                "name": "Wong Yat-Fei",
+                "original_name": "黃一飛",
+                "popularity": 0.049,
+                "profile_path": "/eMpNYfWMxmIPWvDd1npajeDweI7.jpg",
+                "cast_id": 13,
+                "character": "Cafe Boss",
+                "credit_id": "571fb3a892514152e70000bd",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65934,
+                "known_for_department": "Acting",
+                "name": "Vincent Kok Tak-Chiu",
+                "original_name": "谷德昭",
+                "popularity": 0.028,
+                "profile_path": "/cqtx2omdRUFyQsoPbWcGkP4oI8I.jpg",
+                "cast_id": 14,
+                "character": "Ah Niu",
+                "credit_id": "571fb3b39251414df4003682",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1329775,
+                "known_for_department": "Acting",
+                "name": "Gabriel Wong Yat-Shan",
+                "original_name": "黃一山",
+                "popularity": 0.026,
+                "profile_path": "/e3om7myl5ZKXt1KaRbSYvAd0N35.jpg",
+                "cast_id": 15,
+                "character": "Woo",
+                "credit_id": "571fb3c0c3a3686241001600",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1191058,
+                "known_for_department": "Acting",
+                "name": "Peter Lai Bei-Dak",
+                "original_name": "Peter Lai Bei-Dak",
+                "popularity": 0.008,
+                "profile_path": "/yWz7XCVwzw8ZD2e9FpMF5ma4CyX.jpg",
+                "cast_id": 16,
+                "character": "Cafe Patron",
+                "credit_id": "571fb3e492514164b2000f6a",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 118355,
+                "known_for_department": "Directing",
+                "name": "Lee Lik-Chi",
+                "original_name": "李力持",
+                "popularity": 0.028,
+                "profile_path": "/cm7st03PT5oFzyM89616OQF8yBg.jpg",
+                "cast_id": 17,
+                "character": "TV Producer / Judo Student",
+                "credit_id": "571fb3f69251414df400368e",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87733,
+                "known_for_department": "Acting",
+                "name": "Paul Chun Pui",
+                "original_name": "秦沛",
+                "popularity": 0.029,
+                "profile_path": "/v1G2sIZzKDBcex2nFKpNk9SVBD0.jpg",
+                "cast_id": 18,
+                "character": "Elite Center's Principal Chan",
+                "credit_id": "571fb445925141531b0000e7",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1338533,
+                "known_for_department": "Camera",
+                "name": "Radium Cheung",
+                "original_name": "Radium Cheung",
+                "popularity": 0.001,
+                "profile_path": "/7g0oORXvFSZOVWu0r7HkJLYC5mV.jpg",
+                "cast_id": 19,
+                "character": "Elite Center's Student",
+                "credit_id": "571fb4529251416f33003bb5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70591,
+                "known_for_department": "Acting",
+                "name": "Philip Chan Yan-Kin",
+                "original_name": "陈欣健",
+                "popularity": 0.028,
+                "profile_path": "/2eEbrWbpdm8EHvhQsjmpIu3wjlt.jpg",
+                "cast_id": 30,
+                "character": "Singer in Yang Yin Pill's Ad",
+                "credit_id": "64c194d0db4ed600aeb03423",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25245,
+                "known_for_department": "Acting",
+                "name": "Jacky Cheung Hok-yau",
+                "original_name": "張學友",
+                "popularity": 0.023,
+                "profile_path": "/eoh2sI1IBYmQSuIapr32EUbl3Nw.jpg",
+                "cast_id": 4,
+                "character": "Self",
+                "credit_id": "52fe4856c3a36847f81625e5",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413337,
+                "known_for_department": "Acting",
+                "name": "Lee Man-Piu",
+                "original_name": "Lee Man-Piu",
+                "popularity": 0.001,
+                "profile_path": "/6TornVtFKkxS39iO1plbSbKLfK0.jpg",
+                "cast_id": 40,
+                "character": "Master of Kendo",
+                "credit_id": "6776149d05c46ab3fc92fd45",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1407528,
+                "known_for_department": "Acting",
+                "name": "Joey Leung Wing-Chung",
+                "original_name": "梁榮忠",
+                "popularity": 0.005,
+                "profile_path": "/c1zeeZX5wUbpccJARI6Tx81HaxC.jpg",
+                "cast_id": 20,
+                "character": "Match Announcer",
+                "credit_id": "5ae6e57a0e0a2610720091cc",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25251,
+                "known_for_department": "Acting",
+                "name": "Lam Suet",
+                "original_name": "林雪",
+                "popularity": 0.039,
+                "profile_path": "/5ZvphtA3dwsDu81lF3TV8rIwt4l.jpg",
+                "cast_id": 27,
+                "character": "Garbage Man",
+                "credit_id": "5e6dc1b32f3b17001743e99e",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1119710,
+                "known_for_department": "Directing",
+                "name": "Philip Chan",
+                "original_name": "陳志良",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "",
+                "credit_id": "677615083615c1a3761291e5",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 130317,
+                "known_for_department": "Production",
+                "name": "Tommy Leung Ga-Shu",
+                "original_name": "Tommy Leung Ga-Shu",
+                "popularity": 0.011,
+                "profile_path": "/zxJkmUxpPacnEp5I2TCArzjKCuP.jpg",
+                "cast_id": 31,
+                "character": "Policeman",
+                "credit_id": "65502f40ea84c70139a0e8dd",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1193837,
+                "known_for_department": "Acting",
+                "name": "San Sin",
+                "original_name": "神仙",
+                "popularity": 0.008,
+                "profile_path": "/of60F0kdrhLHKEvXGGfCMUodkRg.jpg",
+                "cast_id": 42,
+                "character": "Match Judge from Eagle Claw School",
+                "credit_id": "677615341bd56c23e3928190",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 581135,
+                "known_for_department": "Acting",
+                "name": "Cheng Ka-Sang",
+                "original_name": "鄭家生",
+                "popularity": 0.012,
+                "profile_path": "/kzlYS5H5INiJrEcebxRk6evX4QV.jpg",
+                "cast_id": 43,
+                "character": "Match Referee Wen, the Rolling Thunder",
+                "credit_id": "6776154f3615c1a3761291ee",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 112984,
+                "known_for_department": "Acting",
+                "name": "Hau Woon-Ling",
+                "original_name": "侯煥玲",
+                "popularity": 0.005,
+                "profile_path": "/1o3War0lEetv0rMYz8MihWq6jY6.jpg",
+                "cast_id": 44,
+                "character": "Ticket Scalper's Grandmother",
+                "credit_id": "6776156a05c46ab3fc92fd4c",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 237235,
+                "known_for_department": "Acting",
+                "name": "Lee Kin-Yan",
+                "original_name": "李健仁",
+                "popularity": 0.028,
+                "profile_path": "/xMd5r7sU8mip07LNO88EDO6nuoA.jpg",
+                "cast_id": 35,
+                "character": "Judo Student",
+                "credit_id": "66fa6869c59a2db32dd00106",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417211,
+                "known_for_department": "Acting",
+                "name": "Jacky Cheung Chun-Hung",
+                "original_name": "Jacky Cheung Chun-Hung",
+                "popularity": 0.002,
+                "profile_path": "/aoTkzz7baQApAiQeHP2r3RVxRRx.jpg",
+                "cast_id": 33,
+                "character": "Lau's Match Assistant",
+                "credit_id": "66ab0b5db16b86de7046761f",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5153343,
+                "known_for_department": "Acting",
+                "name": "Tong Wai-Na",
+                "original_name": "Tong Wai-Na",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Lily's Buddy in Judo Class",
+                "credit_id": "677615f55b8f422b6012dc5b",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 135840,
+                "known_for_department": "Production",
+                "name": "Chiu Chi-Shing",
+                "original_name": "趙志誠",
+                "popularity": 0.007,
+                "profile_path": "/jvKOdZK0bZe30ZmXrSD4IFyFzcD.jpg",
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "626a04ca322b2b00a7ffb826",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2752611,
+                "known_for_department": "Acting",
+                "name": "Jackson Ha Chak-Shun",
+                "original_name": "Jackson Ha Chak-Shun",
+                "popularity": 0.006,
+                "profile_path": "/wRA2pwe9w4jS7pi9sL88NUnF9jt.jpg",
+                "cast_id": 38,
+                "character": "Judo Student",
+                "credit_id": "674c011558de7676b8e855f5",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4755032,
+                "known_for_department": "Acting",
+                "name": "Sam Kin-Sang",
+                "original_name": "Sam Kin-Sang",
+                "popularity": 0.001,
+                "profile_path": "/v3tEqWzXMJxF5CeYSnek7r5vW7o.jpg",
+                "cast_id": 46,
+                "character": "Policeman",
+                "credit_id": "67761629fbe3722a9861c7a3",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1840447,
+                "known_for_department": "Acting",
+                "name": "Leung Kei-Hei",
+                "original_name": "梁其禧",
+                "popularity": 0.003,
+                "profile_path": "/vchaFlGeZ6WgD3YFM5X5N4NrMdu.jpg",
+                "cast_id": 47,
+                "character": "",
+                "credit_id": "67761638dd179c5b35928088",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1404930,
+                "known_for_department": "Acting",
+                "name": "Law Wai-Kai",
+                "original_name": "羅偉佳",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Lau's Match Assistant",
+                "credit_id": "6776164105c46ab3fc92fd81",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1632759,
+                "known_for_department": "Acting",
+                "name": "Choi Kin-Shing",
+                "original_name": "蔡堅成",
+                "popularity": 0.004,
+                "profile_path": "/stEHtXaUIf21lGdwjvrIvesoCDS.jpg",
+                "cast_id": 49,
+                "character": "",
+                "credit_id": "6776164f05c46ab3fc92fd84",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1270653,
+                "known_for_department": "Acting",
+                "name": "Tang Tai-Wo",
+                "original_name": "Tang Tai-Wo",
+                "popularity": 0.001,
+                "profile_path": "/jU6TPrDPUU8T33dcL9Ywv96bEPb.jpg",
+                "cast_id": 50,
+                "character": "",
+                "credit_id": "677616582efbf3b41d92c14e",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2224719,
+                "known_for_department": "Acting",
+                "name": "Lau Tung-Ching",
+                "original_name": "劉冬青",
+                "popularity": 0.001,
+                "profile_path": "/hGjrXhCYlL8cIRIwS3npCHf7LAG.jpg",
+                "cast_id": 51,
+                "character": "",
+                "credit_id": "67761667185486515d12a728",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1633177,
+                "known_for_department": "Acting",
+                "name": "Lam Kwok-Kit",
+                "original_name": "林國傑",
+                "popularity": 0.007,
+                "profile_path": "/sijJ3Fa3osgubSNcVmee3IEGw0u.jpg",
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "66beaf4a6c5ded02e49ba847",
+                "order": 35
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1367467,
+                "known_for_department": "Acting",
+                "name": "Lui Siu-Ming",
+                "original_name": "雷小明",
+                "popularity": 0.006,
+                "profile_path": "/9SMpyEeVM6ytj2wgc2mhMQ6b1j3.jpg",
+                "cast_id": 52,
+                "character": "",
+                "credit_id": "6776167efbe3722a9861c7ce",
+                "order": 36
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1361019,
+                "known_for_department": "Acting",
+                "name": "Wong Wai-Shun",
+                "original_name": "王偉順",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 53,
+                "character": "",
+                "credit_id": "6776168f185486515d12a72c",
+                "order": 37
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1340353,
+                "known_for_department": "Acting",
+                "name": "Lee Tat-Chiu",
+                "original_name": "Lee Tat-Chiu",
+                "popularity": 0.007,
+                "profile_path": "/jnW6iQV6Pn9bzm6et61cpXxuu1Z.jpg",
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "6636e3f883ee670124419359",
+                "order": 38
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 118355,
+                "known_for_department": "Directing",
+                "name": "Lee Lik-Chi",
+                "original_name": "李力持",
+                "popularity": 0.028,
+                "profile_path": "/cm7st03PT5oFzyM89616OQF8yBg.jpg",
+                "credit_id": "52fe4856c3a36847f81625f1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 135840,
+                "known_for_department": "Production",
+                "name": "Chiu Chi-Shing",
+                "original_name": "趙志誠",
+                "popularity": 0.007,
+                "profile_path": "/jvKOdZK0bZe30ZmXrSD4IFyFzcD.jpg",
+                "credit_id": "626a12b2394a870069f91410",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 70676,
+                "known_for_department": "Production",
+                "name": "Mona Fong Yat-Wah",
+                "original_name": "方逸华",
+                "popularity": 0.011,
+                "profile_path": "/mN6EcDGA88kSRPxofy8DcRvAT3H.jpg",
+                "credit_id": "53156bdfc3a3681399000044",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65934,
+                "known_for_department": "Acting",
+                "name": "Vincent Kok Tak-Chiu",
+                "original_name": "谷德昭",
+                "popularity": 0.028,
+                "profile_path": "/cqtx2omdRUFyQsoPbWcGkP4oI8I.jpg",
+                "credit_id": "53156bd4c3a368137b00006f",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65961,
+                "known_for_department": "Camera",
+                "name": "David Chung",
+                "original_name": "鍾志文",
+                "popularity": 0.004,
+                "profile_path": "/4SYDQUVqb74V8zMPvUOGICXg16o.jpg",
+                "credit_id": "5d4bb388c68b694baf0e4b7a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1759700,
+                "known_for_department": "Editing",
+                "name": "Ma Chung-Yiu",
+                "original_name": "Ma Chung-Yiu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4bb3b0c68b694baf0e4bf2",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65993,
+                "known_for_department": "Sound",
+                "name": "William Wu Wai-Lap",
+                "original_name": "胡偉立",
+                "popularity": 0.006,
+                "profile_path": "/wsI0uLmYCSGM1vJWtUg2Bgv3W0r.jpg",
+                "credit_id": "5d4bb3e04dc34a001162856a",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1925551,
+                "known_for_department": "Editing",
+                "name": "Chu San-Kit",
+                "original_name": "朱晨傑",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4bb3c54dc34a0011628530",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1924985,
+                "known_for_department": "Art",
+                "name": "Luk Chi-Fung",
+                "original_name": "Luk Chi-Fung",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4bb4030021340012273d02",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548474,
+                "known_for_department": "Writing",
+                "name": "Wong Jing",
+                "original_name": "王晶",
+                "popularity": 0.048,
+                "profile_path": "/gMmaDRst3OwnY1wClKt541AmslD.jpg",
+                "credit_id": "671aa1ff5be9e8759da70b1c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236116,
+                "known_for_department": "Acting",
+                "name": "Dion Lam Dik-On",
+                "original_name": "林迪安",
+                "popularity": 0.011,
+                "profile_path": "/8J139Cfjqsqbop95v7BHhYFUy1I.jpg",
+                "credit_id": "67214e4218827a9329f16011",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67259,
+                "known_for_department": "Directing",
+                "name": "Tony Ching Siu-Tung",
+                "original_name": "程小東",
+                "popularity": 0.023,
+                "profile_path": "/iqw8vUPyZ5TMbk9G2XPYHTTyxZN.jpg",
+                "credit_id": "6765cf17ae1b411f405e0f89",
+                "department": "Crew",
+                "job": "Choreographer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Stephen Chow Sing-Chi",
+            "character": "Ho Kam An"
+        },
+        {
+            "actor": "Richard Ng Man-Tat",
+            "character": "Devil's Killer Tat"
+        },
+        {
+            "actor": "Christy Chung Lai-Tai",
+            "character": "Lily"
+        },
+        {
+            "actor": "Ben Lam Kwok-Bun",
+            "character": "Master of Karate Tuen Shui Lau"
+        },
+        {
+            "actor": "Joe Cheng Cho",
+            "character": "Master Blackbear"
+        },
+        {
+            "actor": "Billy Chow Bei-Lei",
+            "character": "Taekwando Master"
+        },
+        {
+            "actor": "Leo Ku",
+            "character": "Cafe Waiter"
+        },
+        {
+            "actor": "Wong Yat-Fei",
+            "character": "Cafe Boss"
+        },
+        {
+            "actor": "Vincent Kok Tak-Chiu",
+            "character": "Ah Niu"
+        },
+        {
+            "actor": "Gabriel Wong Yat-Shan",
+            "character": "Woo"
+        },
+        {
+            "actor": "Peter Lai Bei-Dak",
+            "character": "Cafe Patron"
+        },
+        {
+            "actor": "Lee Lik-Chi",
+            "character": "TV Producer / Judo Student"
+        },
+        {
+            "actor": "Paul Chun Pui",
+            "character": "Elite Center's Principal Chan"
+        },
+        {
+            "actor": "Radium Cheung",
+            "character": "Elite Center's Student"
+        },
+        {
+            "actor": "Philip Chan Yan-Kin",
+            "character": "Singer in Yang Yin Pill's Ad"
+        },
+        {
+            "actor": "Jacky Cheung Hok-yau",
+            "character": "Self"
+        },
+        {
+            "actor": "Lee Man-Piu",
+            "character": "Master of Kendo"
+        },
+        {
+            "actor": "Joey Leung Wing-Chung",
+            "character": "Match Announcer"
+        },
+        {
+            "actor": "Lam Suet",
+            "character": "Garbage Man"
+        },
+        {
+            "actor": "Philip Chan",
+            "character": ""
+        },
+        {
+            "actor": "Tommy Leung Ga-Shu",
+            "character": "Policeman"
+        },
+        {
+            "actor": "San Sin",
+            "character": "Match Judge from Eagle Claw School"
+        },
+        {
+            "actor": "Cheng Ka-Sang",
+            "character": "Match Referee Wen, the Rolling Thunder"
+        },
+        {
+            "actor": "Hau Woon-Ling",
+            "character": "Ticket Scalper's Grandmother"
+        },
+        {
+            "actor": "Lee Kin-Yan",
+            "character": "Judo Student"
+        },
+        {
+            "actor": "Jacky Cheung Chun-Hung",
+            "character": "Lau's Match Assistant"
+        },
+        {
+            "actor": "Tong Wai-Na",
+            "character": "Lily's Buddy in Judo Class"
+        },
+        {
+            "actor": "Chiu Chi-Shing",
+            "character": ""
+        },
+        {
+            "actor": "Jackson Ha Chak-Shun",
+            "character": "Judo Student"
+        },
+        {
+            "actor": "Sam Kin-Sang",
+            "character": "Policeman"
+        },
+        {
+            "actor": "Leung Kei-Hei",
+            "character": ""
+        },
+        {
+            "actor": "Law Wai-Kai",
+            "character": "Lau's Match Assistant"
+        },
+        {
+            "actor": "Choi Kin-Shing",
+            "character": ""
+        },
+        {
+            "actor": "Tang Tai-Wo",
+            "character": ""
+        },
+        {
+            "actor": "Lau Tung-Ching",
+            "character": ""
+        },
+        {
+            "actor": "Lam Kwok-Kit",
+            "character": ""
+        },
+        {
+            "actor": "Lui Siu-Ming",
+            "character": ""
+        },
+        {
+            "actor": "Wong Wai-Shun",
+            "character": ""
+        },
+        {
+            "actor": "Lee Tat-Chiu",
+            "character": ""
+        }
+    ]
+}

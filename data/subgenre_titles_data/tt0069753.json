@@ -1,0 +1,620 @@
+{
+    "adult": false,
+    "backdrop_path": "/zXWeiuM3Gk5aMlAaXiGaICvSBf4.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 55689,
+    "imdb_id": "tt0069753",
+    "origin_country": [
+        "FR",
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Baba Yaga",
+    "overview": "Carroll Baker stars in this psychedelic shocker about a mysterious witch who casts a spell over attractive, youthful fashion photographer Valentina Rosselli. Thrust into a world of sadism, Valentina must figure out whether the torture being inflicted on her is because of one woman's twisted agenda … or a curse known as Baba Yaga.",
+    "popularity": 2.471,
+    "poster_path": "/9jXaty7Z7WpZBFFb1zB5ztI7IN9.jpg",
+    "production_companies": [
+        {
+            "id": 34038,
+            "logo_path": null,
+            "name": "Productions Simone Allouche",
+            "origin_country": ""
+        },
+        {
+            "id": 19485,
+            "logo_path": null,
+            "name": "14 Luglio Cinematografica",
+            "origin_country": ""
+        },
+        {
+            "id": 83303,
+            "logo_path": null,
+            "name": "Rewind Film",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1973-09-20",
+    "revenue": 0,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Is it real or is it a dream.",
+    "title": "Baba Yaga",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 70,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-09-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14701,
+                "known_for_department": "Acting",
+                "name": "Carroll Baker",
+                "original_name": "Carroll Baker",
+                "popularity": 0.037,
+                "profile_path": "/ui9gwewS5Ofb2sop0ZWN9G8Yako.jpg",
+                "cast_id": 1,
+                "character": "Baba Yaga",
+                "credit_id": "52fe48dbc3a36847f817d0df",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33807,
+                "known_for_department": "Acting",
+                "name": "George Eastman",
+                "original_name": "George Eastman",
+                "popularity": 0.019,
+                "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+                "cast_id": 2,
+                "character": "Arno Treves",
+                "credit_id": "52fe48dbc3a36847f817d0e3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 39236,
+                "known_for_department": "Acting",
+                "name": "Isabelle De Funès",
+                "original_name": "Isabelle De Funès",
+                "popularity": 0.002,
+                "profile_path": "/p9m3eDY06ojZXNqToI03ctdBQnR.jpg",
+                "cast_id": 3,
+                "character": "Valentina Rosselli",
+                "credit_id": "52fe48dbc3a36847f817d0e7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99482,
+                "known_for_department": "Acting",
+                "name": "Ely Galleani",
+                "original_name": "Ely Galleani",
+                "popularity": 0.009,
+                "profile_path": "/2DOedcOahRKzji23YHaKly7CpRi.jpg",
+                "cast_id": 9,
+                "character": "Annette",
+                "credit_id": "54267f220e0a2659fd0012c6",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1368041,
+                "known_for_department": "Acting",
+                "name": "Daniela Balzaretti",
+                "original_name": "Daniela Balzaretti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Romina",
+                "credit_id": "54267f34c3a3681c2b001341",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1368042,
+                "known_for_department": "Acting",
+                "name": "Mario Mattia Giorgetti",
+                "original_name": "Mario Mattia Giorgetti",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Carlo, Hippie in the Demonstration",
+                "credit_id": "54267f480e0a265a0b001273",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1414563,
+                "known_for_department": "Acting",
+                "name": "Sergio Masieri",
+                "original_name": "Sergio Masieri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Sandro",
+                "credit_id": "54ba4fe2c3a368142100300f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111278,
+                "known_for_department": "Acting",
+                "name": "Angela Covello",
+                "original_name": "Angela Covello",
+                "popularity": 0.01,
+                "profile_path": "/iLDAUQ3roxFHGD0s2fcmNyKGHHP.jpg",
+                "cast_id": 13,
+                "character": "Toni",
+                "credit_id": "54ba4ff09251411d79005f80",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4886021,
+                "known_for_department": "Acting",
+                "name": "Cesarina Amendola",
+                "original_name": "Cesarina Amendola",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Baba Yaga's Neighbor",
+                "credit_id": "66bce512ca3fc886c9ebe016",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4886022,
+                "known_for_department": "Acting",
+                "name": "Maria Paolo Giordani",
+                "original_name": "Maria Paolo Giordani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "66bce524be7893d0942162c8",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 27390,
+                "known_for_department": "Acting",
+                "name": "Carla Mancini",
+                "original_name": "Carla Mancini",
+                "popularity": 0.016,
+                "profile_path": "/61VB38l1EyKB6owCrzmcxBGQM3N.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "66bce540f226245ba888f716",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4886024,
+                "known_for_department": "Acting",
+                "name": "Giorgio Pellizzone",
+                "original_name": "Giorgio Pellizzone",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "66bce55defab099fced05957",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 556750,
+                "known_for_department": "Acting",
+                "name": "Lorenzo Piani",
+                "original_name": "Lorenzo Piani",
+                "popularity": 0.006,
+                "profile_path": "/fdF9wf0TQdWIujCKw2HijEaHJ6E.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "66bce57f5f89935a6eebdfa4",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4886026,
+                "known_for_department": "Acting",
+                "name": "Natalie E. Spleptzow",
+                "original_name": "Natalie E. Spleptzow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "66bce5a227a56f3f3488f7a2",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2081634,
+                "known_for_department": "Acting",
+                "name": "Rodolfo Zola",
+                "original_name": "Rodolfo Zola",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "66bce5b2e0e6dfe3d3d05986",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1013895,
+                "known_for_department": "Directing",
+                "name": "Corrado Farina",
+                "original_name": "Corrado Farina",
+                "popularity": 0.004,
+                "profile_path": "/xdgY5KVbdBGBlJhT8FlY2FHPSU6.jpg",
+                "credit_id": "52fe48dbc3a36847f817d0ed",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1368039,
+                "known_for_department": "Writing",
+                "name": "Guido Crepax",
+                "original_name": "Guido Crepax",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54267ef90e0a2659f6001348",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1013895,
+                "known_for_department": "Directing",
+                "name": "Corrado Farina",
+                "original_name": "Corrado Farina",
+                "popularity": 0.004,
+                "profile_path": "/xdgY5KVbdBGBlJhT8FlY2FHPSU6.jpg",
+                "credit_id": "54267ebe0e0a265a0500131a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91546,
+                "known_for_department": "Sound",
+                "name": "Piero Umiliani",
+                "original_name": "Piero Umiliani",
+                "popularity": 0.001,
+                "profile_path": "/fvUySwSc1IzL1OmO6biTUWDSzi0.jpg",
+                "credit_id": "54ba50329251411d6a00681d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1414564,
+                "known_for_department": "Production",
+                "name": "Simone Allouche",
+                "original_name": "Simone Allouche",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54ba5009c3a3681411003239",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33814,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giulia Mafai",
+                "original_name": "Giulia Mafai",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54ba505f9251411d6a006824",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33814,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giulia Mafai",
+                "original_name": "Giulia Mafai",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54ba510a9251411d79005f8c",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 224439,
+                "known_for_department": "Production",
+                "name": "Pino de Martino",
+                "original_name": "Pino de Martino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54ba501fc3a368145e0038ed",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1529413,
+                "known_for_department": "Writing",
+                "name": "Giulio Berruti",
+                "original_name": "Giulio Berruti",
+                "popularity": 0.001,
+                "profile_path": "/ip5LXKQPXpXmuBNzSIU4QeZcYcx.jpg",
+                "credit_id": "5633cb4d9251414ad8013981",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 51836,
+                "known_for_department": "Production",
+                "name": "François de Lannurien",
+                "original_name": "François de Lannurien",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6442de89651fcf04b29cbf3e",
+                "department": "Crew",
+                "job": "Additional Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1731394,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sergio Gennari",
+                "original_name": "Sergio Gennari",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6442deedad87f7046dcc7e6d",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 224439,
+                "known_for_department": "Production",
+                "name": "Pino de Martino",
+                "original_name": "Pino de Martino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6442df03ad87f704ebcc7e74",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50749,
+                "known_for_department": "Camera",
+                "name": "Aiace Parolin",
+                "original_name": "Aiace Parolin",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "6442de68e2bca80461437c21",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1529413,
+                "known_for_department": "Writing",
+                "name": "Giulio Berruti",
+                "original_name": "Giulio Berruti",
+                "popularity": 0.001,
+                "profile_path": "/ip5LXKQPXpXmuBNzSIU4QeZcYcx.jpg",
+                "credit_id": "6442deabb3f6f502fc9e18cd",
+                "department": "Crew",
+                "job": "Additional Writing"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1568867,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Orietta Melaranci",
+                "original_name": "Orietta Melaranci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6442dedfe2bca8048b438147",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 616,
+                "name": "witch"
+            },
+            {
+                "id": 1566,
+                "name": "dreams"
+            },
+            {
+                "id": 3030,
+                "name": "nightmare"
+            },
+            {
+                "id": 2343,
+                "name": "magic"
+            },
+            {
+                "id": 1003,
+                "name": "photographer"
+            },
+            {
+                "id": 6152,
+                "name": "supernatural"
+            },
+            {
+                "id": 9717,
+                "name": "based on comic"
+            },
+            {
+                "id": 9707,
+                "name": "evil doll"
+            },
+            {
+                "id": 10541,
+                "name": "curse"
+            },
+            {
+                "id": 34079,
+                "name": "death"
+            },
+            {
+                "id": 156174,
+                "name": "occult"
+            },
+            {
+                "id": 197582,
+                "name": "mysterious"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Carroll Baker",
+            "character": "Baba Yaga"
+        },
+        {
+            "actor": "George Eastman",
+            "character": "Arno Treves"
+        },
+        {
+            "actor": "Isabelle De Funès",
+            "character": "Valentina Rosselli"
+        },
+        {
+            "actor": "Ely Galleani",
+            "character": "Annette"
+        },
+        {
+            "actor": "Daniela Balzaretti",
+            "character": "Romina"
+        },
+        {
+            "actor": "Mario Mattia Giorgetti",
+            "character": "Carlo, Hippie in the Demonstration"
+        },
+        {
+            "actor": "Sergio Masieri",
+            "character": "Sandro"
+        },
+        {
+            "actor": "Angela Covello",
+            "character": "Toni"
+        },
+        {
+            "actor": "Cesarina Amendola",
+            "character": "Baba Yaga's Neighbor"
+        },
+        {
+            "actor": "Maria Paolo Giordani",
+            "character": ""
+        },
+        {
+            "actor": "Carla Mancini",
+            "character": ""
+        },
+        {
+            "actor": "Giorgio Pellizzone",
+            "character": ""
+        },
+        {
+            "actor": "Lorenzo Piani",
+            "character": ""
+        },
+        {
+            "actor": "Natalie E. Spleptzow",
+            "character": ""
+        },
+        {
+            "actor": "Rodolfo Zola",
+            "character": ""
+        }
+    ]
+}

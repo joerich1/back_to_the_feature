@@ -1,0 +1,471 @@
+{
+    "adult": false,
+    "backdrop_path": "/tAfLlU2ZoGu1z4jsWyiuPZIK1bi.jpg",
+    "belongs_to_collection": {
+        "id": 48194,
+        "name": "Ator Collection",
+        "poster_path": "/qM9cfZVEKZwWPxCfWA2pKlua07v.jpg",
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 48193,
+    "imdb_id": "tt0093276",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Ator il guerriero di ferro",
+    "overview": "The Fighting Eagle returns again, sans Thong, to the legendary realm of Dragor to do battle with Phaedra, an evil sorceress. Her main weapon is an unstoppable warrior, known as the Master of the Sword, who continuously battles Ator to a draw, until finally revealing his secret connection to the Blademaster.",
+    "popularity": 0.812,
+    "poster_path": "/a1ufdI5znyl6nu7nXZpryra5ZvW.jpg",
+    "production_companies": [
+        {
+            "id": 1386,
+            "logo_path": null,
+            "name": "Filmirage S.r.l.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1987-01-09",
+    "revenue": 0,
+    "runtime": 82,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Born of a sorceress... sired by a dragon... baptized in blood!",
+    "title": "Iron Warrior",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 23,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-01-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45039,
+                "known_for_department": "Acting",
+                "name": "Miles O'Keeffe",
+                "original_name": "Miles O'Keeffe",
+                "popularity": 0.022,
+                "profile_path": "/39WNGWJ4mXYqvIGkrgfW369IrVN.jpg",
+                "cast_id": 2,
+                "character": "Ator",
+                "credit_id": "52fe4758c3a36847f8130b4f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 103130,
+                "known_for_department": "Acting",
+                "name": "Savina Geršak",
+                "original_name": "Savina Geršak",
+                "popularity": 0.008,
+                "profile_path": "/qAYu5GkO6myRkoIzE50ADqw9N08.jpg",
+                "cast_id": 3,
+                "character": "Princess Janna",
+                "credit_id": "52fe4758c3a36847f8130b53",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 136813,
+                "known_for_department": "Acting",
+                "name": "Elisabeth Kaza",
+                "original_name": "Elisabeth Kaza",
+                "popularity": 0.007,
+                "profile_path": "/6Y9dXdVAC7L9G10iiRhAcAC3Q6z.jpg",
+                "cast_id": 4,
+                "character": "Phoedra",
+                "credit_id": "52fe4758c3a36847f8130b57",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41342,
+                "known_for_department": "Acting",
+                "name": "Iris Peynado",
+                "original_name": "Iris Peynado",
+                "popularity": 0.013,
+                "profile_path": "/qKnBy0Bp4Qqnm7MY4MPtxpW2zqQ.jpg",
+                "cast_id": 5,
+                "character": "Deeva",
+                "credit_id": "52fe4758c3a36847f8130b5b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 565403,
+                "known_for_department": "Acting",
+                "name": "Tiziana Altieri",
+                "original_name": "Tiziana Altieri",
+                "popularity": 0.001,
+                "profile_path": "/8VE9rOcKqZvFX70pPAx0HnmPSDO.jpg",
+                "cast_id": 18,
+                "character": "Young Phoedra",
+                "credit_id": "590f59f1c3a368646b024b21",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1812353,
+                "known_for_department": "Acting",
+                "name": "Josie Coppini",
+                "original_name": "Josie Coppini",
+                "popularity": 0.001,
+                "profile_path": "/7YIDQEGLpvRx7Vcg1kWndiFRCDu.jpg",
+                "cast_id": 20,
+                "character": "King Impostor",
+                "credit_id": "590f5a019251414e85023061",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101324,
+                "known_for_department": "Acting",
+                "name": "Franco Daddi",
+                "original_name": "Franco Daddi",
+                "popularity": 0.005,
+                "profile_path": "/wEtUTXPJ97Js4pRfEFeqeKU1BRD.jpg",
+                "cast_id": 19,
+                "character": "Trogar",
+                "credit_id": "590f59fa9251414e92023096",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1812352,
+                "known_for_department": "Acting",
+                "name": "Tim Lane",
+                "original_name": "Tim Lane",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "King",
+                "credit_id": "590f59e99251414e85023040",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1812354,
+                "known_for_department": "Acting",
+                "name": "Malcolm Borg",
+                "original_name": "Malcolm Borg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Young Ator",
+                "credit_id": "590f5a099251414ead021927",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1812355,
+                "known_for_department": "Acting",
+                "name": "Conrad Borg",
+                "original_name": "Conrad Borg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Young Trogar",
+                "credit_id": "590f5a109251414edb0230b7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1812356,
+                "known_for_department": "Acting",
+                "name": "Jon Rosser",
+                "original_name": "Jon Rosser",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Nekron",
+                "credit_id": "590f5a17c3a368646b024b53",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1173036,
+                "known_for_department": "Acting",
+                "name": "Anna Cachia",
+                "original_name": "Anna Cachia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Seductress (uncredited)",
+                "credit_id": "590f5a1f9251414e8d02211a",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91820,
+                "known_for_department": "Acting",
+                "name": "Carolyn De Fonseca",
+                "original_name": "Carolyn De Fonseca",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Deeva (voice) (uncredited)",
+                "credit_id": "590f5a27c3a3686519020379",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1177305,
+                "known_for_department": "Camera",
+                "name": "Maurizio Maggi",
+                "original_name": "Maurizio Maggi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b79",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41147,
+                "known_for_department": "Directing",
+                "name": "Alfonso Brescia",
+                "original_name": "Alfonso Brescia",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b67",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1289428,
+                "known_for_department": "Acting",
+                "name": "Steven Luotto",
+                "original_name": "Steven Luotto",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b61",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53687,
+                "known_for_department": "Editing",
+                "name": "Roberto Silvi",
+                "original_name": "Roberto Silvi",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b8b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41147,
+                "known_for_department": "Directing",
+                "name": "Alfonso Brescia",
+                "original_name": "Alfonso Brescia",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b73",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41147,
+                "known_for_department": "Directing",
+                "name": "Alfonso Brescia",
+                "original_name": "Alfonso Brescia",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4758c3a36847f8130b4b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103129,
+                "known_for_department": "Production",
+                "name": "Ovidio G. Assonitis",
+                "original_name": "Ovidio G. Assonitis",
+                "popularity": 0.008,
+                "profile_path": "/btzm2MP7JB63pOZFTgHEkRLfcFK.jpg",
+                "credit_id": "60a2dc267d5f4b004137fb4a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1289428,
+                "known_for_department": "Acting",
+                "name": "Steven Luotto",
+                "original_name": "Steven Luotto",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "58bc5e31925141609b03facc",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42054,
+                "known_for_department": "Sound",
+                "name": "Carlo Maria Cordio",
+                "original_name": "Carlo Maria Cordio",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5906e581c3a3684a4e02c99f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1289431,
+                "known_for_department": "Crew",
+                "name": "Wally Gentleman",
+                "original_name": "Wally Gentleman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5906e58a92514169e102bf7a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5147,
+                "name": "sorcery"
+            },
+            {
+                "id": 9663,
+                "name": "sequel"
+            },
+            {
+                "id": 234213,
+                "name": "sword and sorcery"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Miles O'Keeffe",
+            "character": "Ator"
+        },
+        {
+            "actor": "Savina Geršak",
+            "character": "Princess Janna"
+        },
+        {
+            "actor": "Elisabeth Kaza",
+            "character": "Phoedra"
+        },
+        {
+            "actor": "Iris Peynado",
+            "character": "Deeva"
+        },
+        {
+            "actor": "Tiziana Altieri",
+            "character": "Young Phoedra"
+        },
+        {
+            "actor": "Josie Coppini",
+            "character": "King Impostor"
+        },
+        {
+            "actor": "Franco Daddi",
+            "character": "Trogar"
+        },
+        {
+            "actor": "Tim Lane",
+            "character": "King"
+        },
+        {
+            "actor": "Malcolm Borg",
+            "character": "Young Ator"
+        },
+        {
+            "actor": "Conrad Borg",
+            "character": "Young Trogar"
+        },
+        {
+            "actor": "Jon Rosser",
+            "character": "Nekron"
+        },
+        {
+            "actor": "Anna Cachia",
+            "character": "Seductress (uncredited)"
+        },
+        {
+            "actor": "Carolyn De Fonseca",
+            "character": "Deeva (voice) (uncredited)"
+        }
+    ]
+}

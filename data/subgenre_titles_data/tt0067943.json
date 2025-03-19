@@ -1,0 +1,544 @@
+{
+    "adult": false,
+    "backdrop_path": "/ay3HAK3IbyuW7fMPz5UFSPvIBrE.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 76871,
+    "imdb_id": "tt0067943",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "La Veuve Couderc",
+    "overview": "The relationship between a middle-aged French widow and a young drifter takes a turn when her young niece pays a visit.",
+    "popularity": 2.965,
+    "poster_path": "/gsQbfn2E250eaBki0vSkg5NTf7e.jpg",
+    "production_companies": [
+        {
+            "id": 10522,
+            "logo_path": "/yah2JnPzeYIjOMq7YsCMoPvnFIs.png",
+            "name": "Lira Films",
+            "origin_country": "FR"
+        },
+        {
+            "id": 26288,
+            "logo_path": null,
+            "name": "Pegaso Cinematografica",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1971-09-15",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Their interests were worlds apart but strange events brought them close together",
+    "title": "The Widow Couderc",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 84,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-03-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1971-09-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "11",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-08-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12266,
+                "known_for_department": "Acting",
+                "name": "Simone Signoret",
+                "original_name": "Simone Signoret",
+                "popularity": 0.021,
+                "profile_path": "/vRI2Vt3HX911uDrVK170waQsL8b.jpg",
+                "cast_id": 2,
+                "character": "la veuve Couderc",
+                "credit_id": "52fe4952c3a368484e12585f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15135,
+                "known_for_department": "Acting",
+                "name": "Alain Delon",
+                "original_name": "Alain Delon",
+                "popularity": 0.119,
+                "profile_path": "/dRPDxFehaVGbHojEUsCvqLSNfqH.jpg",
+                "cast_id": 3,
+                "character": "Jean Lavigne",
+                "credit_id": "52fe4952c3a368484e125863",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15138,
+                "known_for_department": "Acting",
+                "name": "Ottavia Piccolo",
+                "original_name": "Ottavia Piccolo",
+                "popularity": 0.008,
+                "profile_path": "/opG0RW7PuAdDrdXmrYMxwHhrSNs.jpg",
+                "cast_id": 4,
+                "character": "Félicie",
+                "credit_id": "52fe4952c3a368484e125867",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39180,
+                "known_for_department": "Acting",
+                "name": "Jean Tissier",
+                "original_name": "Jean Tissier",
+                "popularity": 0.008,
+                "profile_path": "/aAm4MMYrxQOPkUKXegDU5vRHqsL.jpg",
+                "cast_id": 5,
+                "character": "Henri",
+                "credit_id": "52fe4952c3a368484e12586b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 36315,
+                "known_for_department": "Acting",
+                "name": "Monique Chaumette",
+                "original_name": "Monique Chaumette",
+                "popularity": 0.007,
+                "profile_path": "/r0CbDI2pWFGToHm2jkCTRx3JTab.jpg",
+                "cast_id": 6,
+                "character": "Françoise",
+                "credit_id": "52fe4952c3a368484e12586f",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32323,
+                "known_for_department": "Acting",
+                "name": "Boby Lapointe",
+                "original_name": "Boby Lapointe",
+                "popularity": 0.008,
+                "profile_path": "/pFRFg1KCYQQYRQ5WUOGjnN4h1Tg.jpg",
+                "cast_id": 7,
+                "character": "Désiré",
+                "credit_id": "52fe4952c3a368484e125873",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37309,
+                "known_for_department": "Acting",
+                "name": "Pierre Collet",
+                "original_name": "Pierre Collet",
+                "popularity": 0.011,
+                "profile_path": "/m5Emh7o0nLuZy6uDQS5HYZen7TS.jpg",
+                "cast_id": 8,
+                "character": "le commissaire Mallet",
+                "credit_id": "52fe4952c3a368484e125877",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20800,
+                "known_for_department": "Acting",
+                "name": "Jean-Pierre Castaldi",
+                "original_name": "Jean-Pierre Castaldi",
+                "popularity": 0.019,
+                "profile_path": "/hDv3yBt7UtN9mznxwziTHQ0YtKc.jpg",
+                "cast_id": 9,
+                "character": "l'inspecteur",
+                "credit_id": "52fe4952c3a368484e12587b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 277526,
+                "known_for_department": "Acting",
+                "name": "Robert Favart",
+                "original_name": "Robert Favart",
+                "popularity": 0.005,
+                "profile_path": "/8cl0swqve20OXIfANJoyVGGCX61.jpg",
+                "cast_id": 10,
+                "character": "le préfet",
+                "credit_id": "52fe4952c3a368484e12587f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 580705,
+                "known_for_department": "Acting",
+                "name": "André Rouyer",
+                "original_name": "André Rouyer",
+                "popularity": 0.006,
+                "profile_path": "/bYTIBzwpu2A8fQDttiUgj1N0YvU.jpg",
+                "cast_id": 11,
+                "character": "un gendarme",
+                "credit_id": "52fe4952c3a368484e125883",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 580782,
+                "known_for_department": "Acting",
+                "name": "François Valorbe",
+                "original_name": "François Valorbe",
+                "popularity": 0.002,
+                "profile_path": "/9tmBNiPhuCxRt8UBzFJvtnBhiJv.jpg",
+                "cast_id": 12,
+                "character": "le colonel Luc de Mortemont",
+                "credit_id": "52fe4952c3a368484e125887",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32096,
+                "known_for_department": "Directing",
+                "name": "Pierre Granier-Deferre",
+                "original_name": "Pierre Granier-Deferre",
+                "popularity": 0.008,
+                "profile_path": "/c6PP3Og7YA2jDdnsToIUSLy9INo.jpg",
+                "credit_id": "52fe4952c3a368484e12585b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32096,
+                "known_for_department": "Directing",
+                "name": "Pierre Granier-Deferre",
+                "original_name": "Pierre Granier-Deferre",
+                "popularity": 0.008,
+                "profile_path": "/c6PP3Og7YA2jDdnsToIUSLy9INo.jpg",
+                "credit_id": "57e760309251416c690051af",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26184,
+                "known_for_department": "Art",
+                "name": "Charles Merangel",
+                "original_name": "Charles Merangel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e7606ac3a368222700d1ea",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41837,
+                "known_for_department": "Production",
+                "name": "Ralph Baum",
+                "original_name": "Ralph Baum",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "57e7607ac3a368220e00cb70",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32013,
+                "known_for_department": "Writing",
+                "name": "Pascal Jardin",
+                "original_name": "Pascal Jardin",
+                "popularity": 0.011,
+                "profile_path": "/ylsHIApE3hUUUeD6lzs3kTGfum8.jpg",
+                "credit_id": "57e76036c3a368352100cdc7",
+                "department": "Writing",
+                "job": "Adaptation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32097,
+                "known_for_department": "Camera",
+                "name": "Walter Wottitz",
+                "original_name": "Walter Wottitz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e760539251416c690051c7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1684600,
+                "known_for_department": "Production",
+                "name": "Lionel de Sousa",
+                "original_name": "Lionel de Sousa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57e760949251412ae300dcdc",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32071,
+                "known_for_department": "Production",
+                "name": "Raymond Danon",
+                "original_name": "Raymond Danon",
+                "popularity": 0.001,
+                "profile_path": "/rPhdwZeclhnXcwSY9jUiVfyKlh5.jpg",
+                "credit_id": "57e7603e9251412b1e00db57",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70270,
+                "known_for_department": "Production",
+                "name": "Maurice Jacquin",
+                "original_name": "Maurice Jacquin",
+                "popularity": 0.004,
+                "profile_path": "/eV1vcdUt71mBUCkfB6Nwnxxl1GC.jpg",
+                "credit_id": "57e76045c3a368352500d17a",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24297,
+                "known_for_department": "Art",
+                "name": "Jacques Saulnier",
+                "original_name": "Jacques Saulnier",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "57e760649251412b1e00db70",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18567,
+                "known_for_department": "Production",
+                "name": "Alain Belmondo",
+                "original_name": "Alain Belmondo",
+                "popularity": 0.01,
+                "profile_path": "/14joWbpKevwpaEHuco9iqj51ZzD.jpg",
+                "credit_id": "57e7608dc3a368222700d212",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20075,
+                "known_for_department": "Sound",
+                "name": "Philippe Sarde",
+                "original_name": "Philippe Sarde",
+                "popularity": 0.01,
+                "profile_path": "/hXtnCk9CAtUzn4pR1974EosvQOZ.jpg",
+                "credit_id": "57e7604cc3a368220e00cb5d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32321,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jacques Cottin",
+                "original_name": "Jacques Cottin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "57e76071c3a36835a200d568",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24534,
+                "known_for_department": "Writing",
+                "name": "Georges Simenon",
+                "original_name": "Georges Simenon",
+                "popularity": 0.013,
+                "profile_path": "/oxehFO24YpEMhK4YUlL50px6C8v.jpg",
+                "credit_id": "57e760279251416c690051a8",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9958,
+                "known_for_department": "Editing",
+                "name": "Jean Ravel",
+                "original_name": "Jean Ravel",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "57e7605c9251412ae300dcb5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2527576,
+                "known_for_department": "Directing",
+                "name": "Philippe Lefebvre",
+                "original_name": "Philippe Lefebvre",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e36d2c30c2710001871a5ce",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4932,
+                "name": "farm"
+            },
+            {
+                "id": 15009,
+                "name": "criminal"
+            },
+            {
+                "id": 214548,
+                "name": "1930s"
+            },
+            {
+                "id": 324886,
+                "name": "bitter"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Simone Signoret",
+            "character": "la veuve Couderc"
+        },
+        {
+            "actor": "Alain Delon",
+            "character": "Jean Lavigne"
+        },
+        {
+            "actor": "Ottavia Piccolo",
+            "character": "Félicie"
+        },
+        {
+            "actor": "Jean Tissier",
+            "character": "Henri"
+        },
+        {
+            "actor": "Monique Chaumette",
+            "character": "Françoise"
+        },
+        {
+            "actor": "Boby Lapointe",
+            "character": "Désiré"
+        },
+        {
+            "actor": "Pierre Collet",
+            "character": "le commissaire Mallet"
+        },
+        {
+            "actor": "Jean-Pierre Castaldi",
+            "character": "l'inspecteur"
+        },
+        {
+            "actor": "Robert Favart",
+            "character": "le préfet"
+        },
+        {
+            "actor": "André Rouyer",
+            "character": "un gendarme"
+        },
+        {
+            "actor": "François Valorbe",
+            "character": "le colonel Luc de Mortemont"
+        }
+    ]
+}

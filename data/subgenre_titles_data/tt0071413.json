@@ -1,0 +1,772 @@
+{
+    "adult": false,
+    "backdrop_path": "/cvvDneITQM7ZZSAqUTzzmpwxf5L.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 72648,
+    "imdb_id": "tt0071413",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Devil Times Five",
+    "overview": "Five extremely disturbed, sociopathic children escape from their psychiatric transport and are taken in unwittingly by a group of adult villagers on winter vacation.",
+    "popularity": 1.835,
+    "poster_path": "/8wccgiKXUAFxdCS2pPc9B6qq8uw.jpg",
+    "production_companies": [
+        {
+            "id": 14237,
+            "logo_path": null,
+            "name": "Barrister Productions Inc.",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1974-05-31",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "What Wendy just saw them do will make you sick to your stomach...if it doesn't make you faint first!",
+    "title": "Devil Times Five",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 52,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-05-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-10-31T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1974-05-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40191,
+                "known_for_department": "Acting",
+                "name": "Sorrell Booke",
+                "original_name": "Sorrell Booke",
+                "popularity": 0.028,
+                "profile_path": "/2fHx8TKyiieBr5Sonk5R5olVfMH.jpg",
+                "cast_id": 7,
+                "character": "Harvey Beckman",
+                "credit_id": "52fe4877c3a368484e0f9cdb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89582,
+                "known_for_department": "Acting",
+                "name": "Gene Evans",
+                "original_name": "Gene Evans",
+                "popularity": 0.043,
+                "profile_path": "/h8G0iqraU7LHwU8DzlBp2ZcgkyY.jpg",
+                "cast_id": 8,
+                "character": "Papa Doc",
+                "credit_id": "52fe4877c3a368484e0f9cdf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87475,
+                "known_for_department": "Acting",
+                "name": "Taylor Lacher",
+                "original_name": "Taylor Lacher",
+                "popularity": 0.016,
+                "profile_path": "/1Yy9FSx6AZ1oSN0rwkApT4gQaIp.jpg",
+                "cast_id": 9,
+                "character": "Rick",
+                "credit_id": "52fe4877c3a368484e0f9ce3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 119967,
+                "known_for_department": "Acting",
+                "name": "Joan McCall",
+                "original_name": "Joan McCall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Julie",
+                "credit_id": "52fe4877c3a368484e0f9ce7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44897,
+                "known_for_department": "Acting",
+                "name": "Shelley Morrison",
+                "original_name": "Shelley Morrison",
+                "popularity": 0.017,
+                "profile_path": "/kFCRZZ7T47CVCeBMpQP8Ba7PGaF.jpg",
+                "cast_id": 11,
+                "character": "Ruth",
+                "credit_id": "52fe4877c3a368484e0f9ceb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 153548,
+                "known_for_department": "Acting",
+                "name": "Carolyn Stellar",
+                "original_name": "Carolyn Stellar",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Lovely",
+                "credit_id": "52fe4877c3a368484e0f9cef",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113933,
+                "known_for_department": "Acting",
+                "name": "John Durren",
+                "original_name": "John Durren",
+                "popularity": 0.006,
+                "profile_path": "/tK6r6HfVsUOUaP5JeRHFN5wQDB2.jpg",
+                "cast_id": 13,
+                "character": "Ralph",
+                "credit_id": "52fe4877c3a368484e0f9cf3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2883,
+                "known_for_department": "Acting",
+                "name": "Leif Garrett",
+                "original_name": "Leif Garrett",
+                "popularity": 0.012,
+                "profile_path": "/cWyLRXlmshJnbtxx5eepZ1fTuFJ.jpg",
+                "cast_id": 14,
+                "character": "David",
+                "credit_id": "52fe4877c3a368484e0f9cf7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646191,
+                "known_for_department": "Acting",
+                "name": "Gail Smale",
+                "original_name": "Gail Smale",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Sister Hannah",
+                "credit_id": "577d1ac69251415d9e000103",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161568,
+                "known_for_department": "Acting",
+                "name": "Dawn Lyn",
+                "original_name": "Dawn Lyn",
+                "popularity": 0.012,
+                "profile_path": "/ytNCPi9tckDxJtfs2iHG0bL47VM.jpg",
+                "cast_id": 16,
+                "character": "Moe",
+                "credit_id": "577d1ad39251415d9b0000f9",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63426,
+                "known_for_department": "Crew",
+                "name": "Tierre Turner",
+                "original_name": "Tierre Turner",
+                "popularity": 0.017,
+                "profile_path": "/ypGghkVrWWDCmzFZPbc7vjzfJgH.jpg",
+                "cast_id": 17,
+                "character": "Brian",
+                "credit_id": "577d1ae3c3a36817e6000236",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646194,
+                "known_for_department": "Acting",
+                "name": "Tia Thompson",
+                "original_name": "Tia Thompson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Susan",
+                "credit_id": "577d1aee9251415d9500010d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33479,
+                "known_for_department": "Acting",
+                "name": "Henry Beckman",
+                "original_name": "Henry Beckman",
+                "popularity": 0.02,
+                "profile_path": "/MgjILlMRbl2VUAwt2ebr4VJIO2.jpg",
+                "cast_id": 19,
+                "character": "Dr. Brown",
+                "credit_id": "577d1af99251415da4000110",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1076175,
+                "known_for_department": "Writing",
+                "name": "Sandra Lee Blowitz",
+                "original_name": "Sandra Lee Blowitz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4877c3a368484e0f9cbf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113933,
+                "known_for_department": "Acting",
+                "name": "John Durren",
+                "original_name": "John Durren",
+                "popularity": 0.006,
+                "profile_path": "/tK6r6HfVsUOUaP5JeRHFN5wQDB2.jpg",
+                "credit_id": "52fe4877c3a368484e0f9cc5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1076174,
+                "known_for_department": "Directing",
+                "name": "Sean MacGregor",
+                "original_name": "Sean MacGregor",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4877c3a368484e0f9cb9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 181647,
+                "known_for_department": "Acting",
+                "name": "Dylan Jones",
+                "original_name": "Dylan Jones",
+                "popularity": 0.001,
+                "profile_path": "/xQBBPpuw6MGqKiBB4VkVwsUbvf2.jpg",
+                "credit_id": "52fe4877c3a368484e0f9cd1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44606,
+                "known_for_department": "Sound",
+                "name": "William Loose",
+                "original_name": "William Loose",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4877c3a368484e0f9cd7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1076176,
+                "known_for_department": "Production",
+                "name": "Michael Blowitz",
+                "original_name": "Michael Blowitz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4877c3a368484e0f9ccb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 181647,
+                "known_for_department": "Acting",
+                "name": "Dylan Jones",
+                "original_name": "Dylan Jones",
+                "popularity": 0.001,
+                "profile_path": "/xQBBPpuw6MGqKiBB4VkVwsUbvf2.jpg",
+                "credit_id": "577d1b17c3a36817f1000112",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45497,
+                "known_for_department": "Camera",
+                "name": "Paul Hipp",
+                "original_name": "Paul Hipp",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "577d1b529251415da100013b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1646202,
+                "known_for_department": "Art",
+                "name": "Jac McAnelly",
+                "original_name": "Jac McAnelly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "577d1e43c3a36817fb000219",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102972,
+                "known_for_department": "Acting",
+                "name": "Albert Cole",
+                "original_name": "Albert Cole",
+                "popularity": 0.004,
+                "profile_path": "/vSfdioVP87Jta20gh7hm8aUyvTP.jpg",
+                "credit_id": "577d1b279251415d9b000113",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1646196,
+                "known_for_department": "Production",
+                "name": "Jordan M. Wank",
+                "original_name": "Jordan M. Wank",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "577d1b369251415d9800010b",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13941,
+                "known_for_department": "Editing",
+                "name": "Byron 'Buzz' Brandt",
+                "original_name": "Byron 'Buzz' Brandt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "577d1e379251415d95000233",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1759540,
+                "known_for_department": "Camera",
+                "name": "Michael Shea",
+                "original_name": "Michael Shea",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58a69c7fc3a368672e004ceb",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2248030,
+                "known_for_department": "Editing",
+                "name": "Beryl Gelfond",
+                "original_name": "Beryl Gelfond",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744307c040cf477631eb35",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1076175,
+                "known_for_department": "Writing",
+                "name": "Sandra Lee Blowitz",
+                "original_name": "Sandra Lee Blowitz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "667442fb85700055a431eb51",
+                "department": "Production",
+                "job": "Executive In Charge Of Production"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3110589,
+                "known_for_department": "Directing",
+                "name": "Hap Weyman",
+                "original_name": "Hap Weyman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744326fb8b05f6f2235dfb",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3461525,
+                "known_for_department": "Art",
+                "name": "Dennis Nodine",
+                "original_name": "Dennis Nodine",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744332fa31c2ff8b93de46",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785466,
+                "known_for_department": "Directing",
+                "name": "Walter Dominguez",
+                "original_name": "Walter Dominguez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6674431712bd1d117c4ebb2a",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785512,
+                "known_for_department": "Sound",
+                "name": "Jeff Jarvis",
+                "original_name": "Jeff Jarvis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744c3488db04b80e93e506",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785513,
+                "known_for_department": "Sound",
+                "name": "Larry Merrill",
+                "original_name": "Larry Merrill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744c45822b35e7a5ba55c2",
+                "department": "Sound",
+                "job": "Sound Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2102558,
+                "known_for_department": "Lighting",
+                "name": "Robert McVay",
+                "original_name": "Robert McVay",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744ce5e29f067ad58f2056",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785518,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Judy Durren",
+                "original_name": "Judy Durren",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744d06b224a85e1693db24",
+                "department": "Costume & Make-Up",
+                "job": "Wardrobe Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785516,
+                "known_for_department": "Camera",
+                "name": "Mike Paladin",
+                "original_name": "Mike Paladin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744cef2fb8bba29616c895",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785517,
+                "known_for_department": "Camera",
+                "name": "Mike Petrich",
+                "original_name": "Mike Petrich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744cfa169091fb92a3c95a",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1044415,
+                "known_for_department": "Production",
+                "name": "Hannah Hempstead",
+                "original_name": "Hannah Hempstead",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744d4417265dc1cfc4f4ba",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4785515,
+                "known_for_department": "Camera",
+                "name": "Michael Cohan",
+                "original_name": "Michael Cohan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744cad564c14c281a3c69a",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44606,
+                "known_for_department": "Sound",
+                "name": "William Loose",
+                "original_name": "William Loose",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744d257469d57868fc601b",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 933465,
+                "known_for_department": "Crew",
+                "name": "Paul Nuckles",
+                "original_name": "Paul Nuckles",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "66744c6cfa31c2ff8b93dee9",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2781778,
+                "known_for_department": "Sound",
+                "name": "Clark Will",
+                "original_name": "Clark Will",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744c547469d57868fc600b",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67348,
+                "known_for_department": "Editing",
+                "name": "George C. Villaseñor",
+                "original_name": "George C. Villaseñor",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66744d1578af22e21516d49e",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 10685,
+                "name": "escape"
+            },
+            {
+                "id": 745,
+                "name": "nun"
+            },
+            {
+                "id": 2565,
+                "name": "bath tub"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 10794,
+                "name": "snow"
+            },
+            {
+                "id": 34079,
+                "name": "death"
+            },
+            {
+                "id": 41329,
+                "name": "mental illness"
+            },
+            {
+                "id": 173298,
+                "name": "escaped mental patient"
+            },
+            {
+                "id": 177201,
+                "name": "evil child"
+            },
+            {
+                "id": 190624,
+                "name": "killer child"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Sorrell Booke",
+            "character": "Harvey Beckman"
+        },
+        {
+            "actor": "Gene Evans",
+            "character": "Papa Doc"
+        },
+        {
+            "actor": "Taylor Lacher",
+            "character": "Rick"
+        },
+        {
+            "actor": "Joan McCall",
+            "character": "Julie"
+        },
+        {
+            "actor": "Shelley Morrison",
+            "character": "Ruth"
+        },
+        {
+            "actor": "Carolyn Stellar",
+            "character": "Lovely"
+        },
+        {
+            "actor": "John Durren",
+            "character": "Ralph"
+        },
+        {
+            "actor": "Leif Garrett",
+            "character": "David"
+        },
+        {
+            "actor": "Gail Smale",
+            "character": "Sister Hannah"
+        },
+        {
+            "actor": "Dawn Lyn",
+            "character": "Moe"
+        },
+        {
+            "actor": "Tierre Turner",
+            "character": "Brian"
+        },
+        {
+            "actor": "Tia Thompson",
+            "character": "Susan"
+        },
+        {
+            "actor": "Henry Beckman",
+            "character": "Dr. Brown"
+        }
+    ]
+}

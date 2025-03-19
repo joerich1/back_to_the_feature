@@ -1,0 +1,929 @@
+{
+    "adult": false,
+    "backdrop_path": "/wzdYR1HUMUAPkWwOQYUgpBfhO8y.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 10450,
+    "imdb_id": "tt0111190",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Il silenzio dei prosciutti",
+    "overview": "The federal agent Joe Dee Foster is currently investigating a serial killer, helped by doctor Animal who is isolated in a maximum security jail.",
+    "popularity": 3.53,
+    "poster_path": "/s4mxntM3FM7joVGz1LECSGfvYtm.jpg",
+    "production_companies": [
+        {
+            "id": 8694,
+            "logo_path": null,
+            "name": "Silvio Berlusconi Communications",
+            "origin_country": "IT"
+        },
+        {
+            "id": 67409,
+            "logo_path": null,
+            "name": "Thirtieth Century Wolf",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1994-03-11",
+    "revenue": 0,
+    "runtime": 81,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Slark, raving comedy.",
+    "title": "The Silence of the Hams",
+    "video": false,
+    "vote_average": 4.859,
+    "vote_count": 184,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "12+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-11-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1994-09-01T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "DVD/Blu-ray",
+                        "release_date": "2020-12-11T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "1994-07-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "T",
+                        "descriptors": [],
+                        "iso_639_1": "it",
+                        "note": "",
+                        "release_date": "1994-03-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Veronica",
+                        "release_date": "2008-03-25T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1994-07-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52329,
+                "known_for_department": "Acting",
+                "name": "Ezio Greggio",
+                "original_name": "Ezio Greggio",
+                "popularity": 0.016,
+                "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg",
+                "cast_id": 1,
+                "character": "Antonio Motel",
+                "credit_id": "52fe43739251416c75010e67",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6844,
+                "known_for_department": "Acting",
+                "name": "Dom DeLuise",
+                "original_name": "Dom DeLuise",
+                "popularity": 0.069,
+                "profile_path": "/3k45LlomavX4f2f3FnjtKhjojuf.jpg",
+                "cast_id": 2,
+                "character": "Dr. Animal Cannibal Pizza",
+                "credit_id": "52fe43739251416c75010e6b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1954,
+                "known_for_department": "Acting",
+                "name": "Billy Zane",
+                "original_name": "Billy Zane",
+                "popularity": 0.102,
+                "profile_path": "/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg",
+                "cast_id": 3,
+                "character": "Jo Dee Foster",
+                "credit_id": "52fe43739251416c75010e6f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 36059,
+                "known_for_department": "Acting",
+                "name": "Joanna Pacula",
+                "original_name": "Joanna Pacuła",
+                "popularity": 0.035,
+                "profile_path": "/oGzAZY8L1KjsFtFoLpsqUwvBA4k.jpg",
+                "cast_id": 4,
+                "character": "Lily Wine",
+                "credit_id": "52fe43739251416c75010e73",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21862,
+                "known_for_department": "Acting",
+                "name": "Charlene Tilton",
+                "original_name": "Charlene Tilton",
+                "popularity": 0.031,
+                "profile_path": "/wFiE4xU1mmQ0EWcUoFdV10ZzaR8.jpg",
+                "cast_id": 15,
+                "character": "Jane Wine",
+                "credit_id": "52fe43749251416c75010ead",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1936,
+                "known_for_department": "Acting",
+                "name": "Martin Balsam",
+                "original_name": "Martin Balsam",
+                "popularity": 0.044,
+                "profile_path": "/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg",
+                "cast_id": 16,
+                "character": "Det. Martin Balsam",
+                "credit_id": "52fe43749251416c75010eb1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52043,
+                "known_for_department": "Acting",
+                "name": "Stuart Pankin",
+                "original_name": "Stuart Pankin",
+                "popularity": 0.047,
+                "profile_path": "/9Zjv5YDfjrBKwCCEslb4Rkrx87V.jpg",
+                "cast_id": 17,
+                "character": "Insp. Pete Putrid",
+                "credit_id": "52fe43749251416c75010eb5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41230,
+                "known_for_department": "Acting",
+                "name": "John Astin",
+                "original_name": "John Astin",
+                "popularity": 0.059,
+                "profile_path": "/xczlYoJJblfyoOudcn7riLqsbXW.jpg",
+                "cast_id": 18,
+                "character": "The Ranger",
+                "credit_id": "52fe43749251416c75010eb9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 89784,
+                "known_for_department": "Acting",
+                "name": "Phyllis Diller",
+                "original_name": "Phyllis Diller",
+                "popularity": 0.029,
+                "profile_path": "/bPu5PcL6cwxKJ7xuBHcdgsdKk1H.jpg",
+                "cast_id": 19,
+                "character": "Old Secretary",
+                "credit_id": "52fe43749251416c75010ebd",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57349,
+                "known_for_department": "Acting",
+                "name": "Bubba Smith",
+                "original_name": "Bubba Smith",
+                "popularity": 0.018,
+                "profile_path": "/ew7CpCLyD4FP1zqgtxUV8jDg8cX.jpg",
+                "cast_id": 20,
+                "character": "Olaf",
+                "credit_id": "52fe43749251416c75010ec1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151644,
+                "known_for_department": "Acting",
+                "name": "Larry Storch",
+                "original_name": "Larry Storch",
+                "popularity": 0.019,
+                "profile_path": "/jg4W842FpPMgYe6bO5TtiB59Ebp.jpg",
+                "cast_id": 21,
+                "character": "Sergeant",
+                "credit_id": "52fe43749251416c75010ec5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37438,
+                "known_for_department": "Acting",
+                "name": "Rip Taylor",
+                "original_name": "Rip Taylor",
+                "popularity": 0.026,
+                "profile_path": "/8Dcp66lNJeGlgVCt6eELmv9pLBE.jpg",
+                "cast_id": 22,
+                "character": "Mr. Laurel",
+                "credit_id": "52fe43749251416c75010ec9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7632,
+                "known_for_department": "Acting",
+                "name": "Shelley Winters",
+                "original_name": "Shelley Winters",
+                "popularity": 0.071,
+                "profile_path": "/nCWHQ21r83JmcEVEvOAIzUyiuBh.jpg",
+                "cast_id": 23,
+                "character": "Mrs. Motel (The Mother)",
+                "credit_id": "52fe43749251416c75010ecd",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14731,
+                "known_for_department": "Acting",
+                "name": "Henry Silva",
+                "original_name": "Henry Silva",
+                "popularity": 0.037,
+                "profile_path": "/pTdxR3Z0DHVpnFEkllEA4Uduwu8.jpg",
+                "cast_id": 24,
+                "character": "Police Chief",
+                "credit_id": "52fe43749251416c75010ed1",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4610,
+                "known_for_department": "Directing",
+                "name": "John Landis",
+                "original_name": "John Landis",
+                "popularity": 0.062,
+                "profile_path": "/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg",
+                "cast_id": 25,
+                "character": "FBI Agent",
+                "credit_id": "52fe43749251416c75010ed5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4600,
+                "known_for_department": "Directing",
+                "name": "Joe Dante",
+                "original_name": "Joe Dante",
+                "popularity": 0.038,
+                "profile_path": "/AghJPGRamlgJCPJYgX92Utehcak.jpg",
+                "cast_id": 26,
+                "character": "Dying Man",
+                "credit_id": "52fe43749251416c75010ed9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11770,
+                "known_for_department": "Directing",
+                "name": "John Carpenter",
+                "original_name": "John Carpenter",
+                "popularity": 0.121,
+                "profile_path": "/ghBgALx0z2hGdY32eG9VL6dPyhz.jpg",
+                "cast_id": 27,
+                "character": "Trenchcoat Man / Gimp",
+                "credit_id": "52fe43749251416c75010edd",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14639,
+                "known_for_department": "Acting",
+                "name": "Mel Brooks",
+                "original_name": "Mel Brooks",
+                "popularity": 0.082,
+                "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg",
+                "cast_id": 28,
+                "character": "Checkout Guest (uncredited)",
+                "credit_id": "52fe43749251416c75010ee1",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3041,
+                "known_for_department": "Acting",
+                "name": "Marshall Bell",
+                "original_name": "Marshall Bell",
+                "popularity": 0.046,
+                "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg",
+                "cast_id": 29,
+                "character": "Cross Dressing Agent",
+                "credit_id": "59c0c6e49251417dc300dcf9",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77150,
+                "known_for_department": "Acting",
+                "name": "Sal Landi",
+                "original_name": "Sal Landi",
+                "popularity": 0.028,
+                "profile_path": "/9poWGqC7UG2iaT0cPYVSpI93v0y.jpg",
+                "cast_id": 30,
+                "character": "Agent #2",
+                "credit_id": "59c0c6f79251417dea00de0e",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13592,
+                "known_for_department": "Acting",
+                "name": "Irwin Keyes",
+                "original_name": "Irwin Keyes",
+                "popularity": 0.015,
+                "profile_path": "/bfNqPAk536o4AYxunTmZmsVGBJE.jpg",
+                "cast_id": 31,
+                "character": "Guard",
+                "credit_id": "59c0c708c3a36804f900e5b3",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 155924,
+                "known_for_department": "Acting",
+                "name": "Kimber Sissons",
+                "original_name": "Kimber Sissons",
+                "popularity": 0.013,
+                "profile_path": "/haDmw3AvB4WVS2TkNpoiq40YIR4.jpg",
+                "cast_id": 32,
+                "character": "Push-Up Lady",
+                "credit_id": "59c0c71f9251417d7d00ea20",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42362,
+                "known_for_department": "Acting",
+                "name": "Eddie Deezen",
+                "original_name": "Eddie Deezen",
+                "popularity": 0.026,
+                "profile_path": "/AqjxoV14Jd3p5uvPsSPoAHmzQHI.jpg",
+                "cast_id": 33,
+                "character": "Video Cameraman",
+                "credit_id": "59c0c7299251417de000e504",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6734,
+                "known_for_department": "Acting",
+                "name": "Ken Davitian",
+                "original_name": "Ken Davitian",
+                "popularity": 0.038,
+                "profile_path": "/odykKQKSJDDJ5O5Drq1RVNaTbqM.jpg",
+                "cast_id": 34,
+                "character": "Luciano Pavarotti",
+                "credit_id": "59c0c743c3a36804b100dde2",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 118463,
+                "known_for_department": "Acting",
+                "name": "Peter DeLuise",
+                "original_name": "Peter DeLuise",
+                "popularity": 0.035,
+                "profile_path": "/sLkSOm6HBLB4VCfshQLdSEq63tr.jpg",
+                "cast_id": 35,
+                "character": "Checkout Guard",
+                "credit_id": "59c0c756c3a36804ec00e268",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 167529,
+                "known_for_department": "Acting",
+                "name": "Heather Elizabeth Parkhurst",
+                "original_name": "Heather Elizabeth Parkhurst",
+                "popularity": 0.019,
+                "profile_path": "/vG7P4T44tXn3f3Z9S2bZ7yOnuTX.jpg",
+                "cast_id": 36,
+                "character": "Beautiful Woman",
+                "credit_id": "59c0c76b9251417d7d00ea97",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1235953,
+                "known_for_department": "Acting",
+                "name": "Jim Maniaci",
+                "original_name": "Jim Maniaci",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Rape Culturist #1",
+                "credit_id": "6150acab058224008ddcbaa7",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19754,
+                "known_for_department": "Acting",
+                "name": "Tony Cox",
+                "original_name": "Tony Cox",
+                "popularity": 0.05,
+                "profile_path": "/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg",
+                "cast_id": 44,
+                "character": "Jail Guard",
+                "credit_id": "67344f631baedda17b97f39c",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1218761,
+                "known_for_department": "Acting",
+                "name": "John Roarke",
+                "original_name": "John Roarke",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "George H.W. Bush",
+                "credit_id": "67344f8757cee02f7d44310b",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27585,
+                "known_for_department": "Acting",
+                "name": "Wilhelm von Homburg",
+                "original_name": "Norbert Grupe",
+                "popularity": 0.01,
+                "profile_path": "/dfX2YeRSHQusMcddYn5Db7aEv09.jpg",
+                "cast_id": 46,
+                "character": "Maitre 'D",
+                "credit_id": "678a37f255e49bed5e97b44e",
+                "order": 29
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52329,
+                "known_for_department": "Acting",
+                "name": "Ezio Greggio",
+                "original_name": "Ezio Greggio",
+                "popularity": 0.016,
+                "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg",
+                "credit_id": "52fe43739251416c75010e79",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52329,
+                "known_for_department": "Acting",
+                "name": "Ezio Greggio",
+                "original_name": "Ezio Greggio",
+                "popularity": 0.016,
+                "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg",
+                "credit_id": "52fe43739251416c75010e7f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52329,
+                "known_for_department": "Acting",
+                "name": "Ezio Greggio",
+                "original_name": "Ezio Greggio",
+                "popularity": 0.016,
+                "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg",
+                "credit_id": "52fe43739251416c75010e85",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52329,
+                "known_for_department": "Acting",
+                "name": "Ezio Greggio",
+                "original_name": "Ezio Greggio",
+                "popularity": 0.016,
+                "profile_path": "/pBtWq5X8oOyCkCcKtZ2FWQimuao.jpg",
+                "credit_id": "52fe43739251416c75010e8b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 65350,
+                "known_for_department": "Sound",
+                "name": "Parmer Fuller",
+                "original_name": "Parmer Fuller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe43739251416c75010e91",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13670,
+                "known_for_department": "Camera",
+                "name": "Jacques Haitkin",
+                "original_name": "Jacques Haitkin",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe43739251416c75010e97",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 65351,
+                "known_for_department": "Editing",
+                "name": "Robert Barrere",
+                "original_name": "Robert Barrere",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe43739251416c75010e9d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60411,
+                "known_for_department": "Editing",
+                "name": "Andy Horvitch",
+                "original_name": "Andy Horvitch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe43749251416c75010ea3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102428,
+                "known_for_department": "Production",
+                "name": "Julie Corman",
+                "original_name": "Julie Corman",
+                "popularity": 0.003,
+                "profile_path": "/17okiof7sOlqt7vLqVyexs2yzyT.jpg",
+                "credit_id": "52fe43749251416c75010ea9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99856,
+                "known_for_department": "Crew",
+                "name": "Steven Lambert",
+                "original_name": "Steven Lambert",
+                "popularity": 0.031,
+                "profile_path": "/4xXQXJHECq50ea7C8VeBY0uN3ms.jpg",
+                "credit_id": "635f7cd41b7294009488f446",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2493716,
+                "known_for_department": "Crew",
+                "name": "Patricia M. Peters",
+                "original_name": "Patricia M. Peters",
+                "popularity": 0.013,
+                "profile_path": "/ogwFoDxu1sDaDFXEN6VjLF19hTC.jpg",
+                "credit_id": "63a9de5ee4b576007a96f27e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1988081,
+                "known_for_department": "Production",
+                "name": "Luca Oddo",
+                "original_name": "Luca Oddo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66834908969e944cd62be5e2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 16426,
+                "known_for_department": "Art",
+                "name": "Russell J. Smith",
+                "original_name": "Russell J. Smith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66834925c6d339e3811b8127",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1341926,
+                "known_for_department": "Art",
+                "name": "Natalie Pope",
+                "original_name": "Natalie Pope",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "668349361ed9271c091e5645",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1224156,
+                "known_for_department": "Acting",
+                "name": "Tom Morga",
+                "original_name": "Tom Morga",
+                "popularity": 0.015,
+                "profile_path": null,
+                "credit_id": "66a6bb0a4df5b07f2eb175cf",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6259,
+                "name": "psychopath"
+            },
+            {
+                "id": 1812,
+                "name": "fbi"
+            },
+            {
+                "id": 4735,
+                "name": "pizza"
+            },
+            {
+                "id": 11931,
+                "name": "spoof"
+            },
+            {
+                "id": 161814,
+                "name": "psycho killer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ezio Greggio",
+            "character": "Antonio Motel"
+        },
+        {
+            "actor": "Dom DeLuise",
+            "character": "Dr. Animal Cannibal Pizza"
+        },
+        {
+            "actor": "Billy Zane",
+            "character": "Jo Dee Foster"
+        },
+        {
+            "actor": "Joanna Pacula",
+            "character": "Lily Wine"
+        },
+        {
+            "actor": "Charlene Tilton",
+            "character": "Jane Wine"
+        },
+        {
+            "actor": "Martin Balsam",
+            "character": "Det. Martin Balsam"
+        },
+        {
+            "actor": "Stuart Pankin",
+            "character": "Insp. Pete Putrid"
+        },
+        {
+            "actor": "John Astin",
+            "character": "The Ranger"
+        },
+        {
+            "actor": "Phyllis Diller",
+            "character": "Old Secretary"
+        },
+        {
+            "actor": "Bubba Smith",
+            "character": "Olaf"
+        },
+        {
+            "actor": "Larry Storch",
+            "character": "Sergeant"
+        },
+        {
+            "actor": "Rip Taylor",
+            "character": "Mr. Laurel"
+        },
+        {
+            "actor": "Shelley Winters",
+            "character": "Mrs. Motel (The Mother)"
+        },
+        {
+            "actor": "Henry Silva",
+            "character": "Police Chief"
+        },
+        {
+            "actor": "John Landis",
+            "character": "FBI Agent"
+        },
+        {
+            "actor": "Joe Dante",
+            "character": "Dying Man"
+        },
+        {
+            "actor": "John Carpenter",
+            "character": "Trenchcoat Man / Gimp"
+        },
+        {
+            "actor": "Mel Brooks",
+            "character": "Checkout Guest (uncredited)"
+        },
+        {
+            "actor": "Marshall Bell",
+            "character": "Cross Dressing Agent"
+        },
+        {
+            "actor": "Sal Landi",
+            "character": "Agent #2"
+        },
+        {
+            "actor": "Irwin Keyes",
+            "character": "Guard"
+        },
+        {
+            "actor": "Kimber Sissons",
+            "character": "Push-Up Lady"
+        },
+        {
+            "actor": "Eddie Deezen",
+            "character": "Video Cameraman"
+        },
+        {
+            "actor": "Ken Davitian",
+            "character": "Luciano Pavarotti"
+        },
+        {
+            "actor": "Peter DeLuise",
+            "character": "Checkout Guard"
+        },
+        {
+            "actor": "Heather Elizabeth Parkhurst",
+            "character": "Beautiful Woman"
+        },
+        {
+            "actor": "Jim Maniaci",
+            "character": "Rape Culturist #1"
+        },
+        {
+            "actor": "Tony Cox",
+            "character": "Jail Guard"
+        },
+        {
+            "actor": "John Roarke",
+            "character": "George H.W. Bush"
+        },
+        {
+            "actor": "Wilhelm von Homburg",
+            "character": "Maitre 'D"
+        }
+    ]
+}

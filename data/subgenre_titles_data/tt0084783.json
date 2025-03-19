@@ -1,0 +1,686 @@
+{
+    "adult": false,
+    "backdrop_path": "/tew0Z5gYtvkzOgrSfg1qol0pmc2.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 27332,
+    "imdb_id": "tt0084783",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tex",
+    "overview": "After their mother dies and their father leaves them, teenage brothers Tex and Mason McCormick struggle to make it on their own.",
+    "popularity": 1.8,
+    "poster_path": "/7WIIIZJ1iv2UCbYDiLHeGr1LOGV.jpg",
+    "production_companies": [
+        {
+            "id": 3166,
+            "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+            "name": "Walt Disney Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1982-07-30",
+    "revenue": 0,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tex",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 51,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1984-06-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-07-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2876,
+                "known_for_department": "Acting",
+                "name": "Matt Dillon",
+                "original_name": "Matt Dillon",
+                "popularity": 0.09,
+                "profile_path": "/wVoSUexYH79igPgxIXKWRlV2uBk.jpg",
+                "cast_id": 4,
+                "character": "Tex McCormick",
+                "credit_id": "52fe4542c3a368484e04ff9d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79740,
+                "known_for_department": "Acting",
+                "name": "Jim Metzler",
+                "original_name": "Jim Metzler",
+                "popularity": 0.025,
+                "profile_path": "/1suCtSYliqGRdN6BOSWsvPZoHDz.jpg",
+                "cast_id": 5,
+                "character": "Mason McCormick",
+                "credit_id": "52fe4542c3a368484e04ffa1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 39117,
+                "known_for_department": "Acting",
+                "name": "Meg Tilly",
+                "original_name": "Meg Tilly",
+                "popularity": 0.055,
+                "profile_path": "/4MDWyMrHzSjPGvAnuCon9cx9SoO.jpg",
+                "cast_id": 6,
+                "character": "Jamie Collins",
+                "credit_id": "52fe4542c3a368484e04ffa5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16555,
+                "known_for_department": "Acting",
+                "name": "Bill McKinney",
+                "original_name": "Bill McKinney",
+                "popularity": 0.052,
+                "profile_path": "/bXGJNizj5SbEFPjeBupnRxgwPq0.jpg",
+                "cast_id": 10,
+                "character": "Pop McCormick",
+                "credit_id": "52fe4542c3a368484e04ffb7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1070,
+                "known_for_department": "Acting",
+                "name": "Frances Lee McCain",
+                "original_name": "Frances Lee McCain",
+                "popularity": 0.022,
+                "profile_path": "/cpG16FA90mQ4xC6xxTsUu1p2yRr.jpg",
+                "cast_id": 11,
+                "character": "Mrs. Johnson",
+                "credit_id": "52fe4542c3a368484e04ffbb",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8258,
+                "known_for_department": "Acting",
+                "name": "Ben Johnson",
+                "original_name": "Ben Johnson",
+                "popularity": 0.041,
+                "profile_path": "/VJYWJAOLcLE1WyG1v8W2h7TahA.jpg",
+                "cast_id": 8,
+                "character": "Cole Collins",
+                "credit_id": "52fe4542c3a368484e04ffad",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2880,
+                "known_for_department": "Acting",
+                "name": "Emilio Estevez",
+                "original_name": "Emilio Estevez",
+                "popularity": 0.074,
+                "profile_path": "/6TNIik0wBLo8DTvmJNDkKDqKWme.jpg",
+                "cast_id": 7,
+                "character": "Johnny Collins",
+                "credit_id": "52fe4542c3a368484e04ffa9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14320,
+                "known_for_department": "Acting",
+                "name": "Jack Thibeau",
+                "original_name": "Jack Thibeau",
+                "popularity": 0.02,
+                "profile_path": "/cKJ2ck7NfxY7KXS9jZInnluKMig.jpg",
+                "cast_id": 14,
+                "character": "Coach Jackson",
+                "credit_id": "52fe4542c3a368484e04ffc7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6752,
+                "known_for_department": "Acting",
+                "name": "Zeljko Ivanek",
+                "original_name": "Zeljko Ivanek",
+                "popularity": 0.077,
+                "profile_path": "/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg",
+                "cast_id": 15,
+                "character": "Hitchhiker",
+                "credit_id": "52fe4542c3a368484e04ffcb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38709,
+                "known_for_department": "Acting",
+                "name": "Tom Virtue",
+                "original_name": "Tom Virtue",
+                "popularity": 0.062,
+                "profile_path": "/etCc7aFC9gOzOctFERT7e6qC83C.jpg",
+                "cast_id": 16,
+                "character": "Bob Collins",
+                "credit_id": "52fe4542c3a368484e04ffcf",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 554192,
+                "known_for_department": "Acting",
+                "name": "Pamela Ludwig",
+                "original_name": "Pamela Ludwig",
+                "popularity": 0.007,
+                "profile_path": "/7LKxTLe2GHCco3rpy3dDP9q8Uhf.jpg",
+                "cast_id": 13,
+                "character": "Connie",
+                "credit_id": "52fe4542c3a368484e04ffc3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3323308,
+                "known_for_department": "Acting",
+                "name": "Jeff Fleury",
+                "original_name": "Jeff Fleury",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Roger",
+                "credit_id": "64b919c66aa8e0012fd570b5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2038797,
+                "known_for_department": "Acting",
+                "name": "Suzanne Costollos",
+                "original_name": "Suzanne Costollos",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Fortune Teller",
+                "credit_id": "64b919cf4d23dd01448c8554",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4171635,
+                "known_for_department": "Acting",
+                "name": "Marilyn Redfield",
+                "original_name": "Marilyn Redfield",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Ms. Carlson",
+                "credit_id": "64b919e0ab6849011c06d0e6",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 132726,
+                "known_for_department": "Acting",
+                "name": "Mark Arnott",
+                "original_name": "Mark Arnott",
+                "popularity": 0.007,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Kelly",
+                "credit_id": "64b919e911386c00caf7875b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4171637,
+                "known_for_department": "Acting",
+                "name": "Jill Clark",
+                "original_name": "Jill Clark",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Marcie",
+                "credit_id": "64b91a0d27db6100ff8fbe95",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3311410,
+                "known_for_department": "Acting",
+                "name": "Sheryl Briedel",
+                "original_name": "Sheryl Briedel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Lisa",
+                "credit_id": "64b91a174d23dd00c813eac7",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4171638,
+                "known_for_department": "Acting",
+                "name": "Lisa Mirkin",
+                "original_name": "Lisa Mirkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Shelly",
+                "credit_id": "64b91a273009aa013967b68e",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16174,
+                "known_for_department": "Writing",
+                "name": "Charles S. Haas",
+                "original_name": "Charles S. Haas",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe4542c3a368484e04ff99",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15858,
+                "known_for_department": "Directing",
+                "name": "Tim Hunter",
+                "original_name": "Tim Hunter",
+                "popularity": 0.017,
+                "profile_path": "/n03G1gCKqxpi6udwINygNiLoGdn.jpg",
+                "credit_id": "52fe4542c3a368484e04ff93",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2868,
+                "known_for_department": "Writing",
+                "name": "S.E. Hinton",
+                "original_name": "S.E. Hinton",
+                "popularity": 0.018,
+                "profile_path": "/nIXzHUlp1LzclFkiQAGY40bw65b.jpg",
+                "credit_id": "52fe4542c3a368484e04ffb3",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15858,
+                "known_for_department": "Directing",
+                "name": "Tim Hunter",
+                "original_name": "Tim Hunter",
+                "popularity": 0.017,
+                "profile_path": "/n03G1gCKqxpi6udwINygNiLoGdn.jpg",
+                "credit_id": "53204ef39251411f890012d5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12993,
+                "known_for_department": "Production",
+                "name": "Tim Zinnemann",
+                "original_name": "Tim Zinnemann",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "55952017925141683b001d54",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1728,
+                "known_for_department": "Camera",
+                "name": "Ric Waite",
+                "original_name": "Ric Waite",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5595203fc3a36870d5002ae0",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12866,
+                "known_for_department": "Production",
+                "name": "Pam Polifroni",
+                "original_name": "Pam Polifroni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55952062c3a36870d5002ae7",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10853,
+                "known_for_department": "Editing",
+                "name": "Howard E. Smith",
+                "original_name": "Howard E. Smith",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "55952052c3a368146d000a72",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6347,
+                "known_for_department": "Production",
+                "name": "Margery Simkin",
+                "original_name": "Margery Simkin",
+                "popularity": 0.01,
+                "profile_path": "/4k2WBcsejt4VJtz3V5NDZP24eKN.jpg",
+                "credit_id": "64b91a893009aa00e2643610",
+                "department": "Production",
+                "job": "Location Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10796,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Robert J. Schiffer",
+                "original_name": "Robert J. Schiffer",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "64b91ae06aa8e0010ec83d17",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1561105,
+                "known_for_department": "Costume & Make-Up",
+                "name": "James R. Scribner",
+                "original_name": "James R. Scribner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64b91aea11386c010c1802f7",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6924,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Dan Moore",
+                "original_name": "Dan Moore",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "64b91ac927db6100c53c075d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2032,
+                "known_for_department": "Art",
+                "name": "Jack T. Collis",
+                "original_name": "Jack T. Collis",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "64b91aa227db6100ff8fbef7",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14138,
+                "known_for_department": "Sound",
+                "name": "Pino Donaggio",
+                "original_name": "Pino Donaggio",
+                "popularity": 0.005,
+                "profile_path": "/726TMxralQqvrQZTW3PvMi9u9Z2.jpg",
+                "credit_id": "64b91a5711386c00eb6d73b1",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1371062,
+                "known_for_department": "Art",
+                "name": "Donald J. Remacle",
+                "original_name": "Donald J. Remacle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64b91ab43009aa00ffbeff33",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1483907,
+                "known_for_department": "Production",
+                "name": "Lisa Clarkson",
+                "original_name": "Lisa Clarkson",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "64b91a7d11386c00caf787a6",
+                "department": "Production",
+                "job": "Location Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12869,
+                "known_for_department": "Art",
+                "name": "John B. Mansbridge",
+                "original_name": "John B. Mansbridge",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "64b91aac3009aa00ad61fe25",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 12871,
+                "known_for_department": "Art",
+                "name": "Roger M. Shook",
+                "original_name": "Roger M. Shook",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64b91abd3009aa00ffbeff3f",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12863,
+                "known_for_department": "Production",
+                "name": "Ron Miller",
+                "original_name": "Ron Miller",
+                "popularity": 0.006,
+                "profile_path": "/7MykSUBCEXunBBJfujaVMiiZFgv.jpg",
+                "credit_id": "602a2bbe2e2b2c00404e88be",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 818,
+                "name": "based on novel or book"
+            },
+            {
+                "id": 2493,
+                "name": "oklahoma"
+            },
+            {
+                "id": 10683,
+                "name": "coming of age"
+            },
+            {
+                "id": 200552,
+                "name": "tulsa, oklahoma"
+            },
+            {
+                "id": 296608,
+                "name": "teenager"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Matt Dillon",
+            "character": "Tex McCormick"
+        },
+        {
+            "actor": "Jim Metzler",
+            "character": "Mason McCormick"
+        },
+        {
+            "actor": "Meg Tilly",
+            "character": "Jamie Collins"
+        },
+        {
+            "actor": "Bill McKinney",
+            "character": "Pop McCormick"
+        },
+        {
+            "actor": "Frances Lee McCain",
+            "character": "Mrs. Johnson"
+        },
+        {
+            "actor": "Ben Johnson",
+            "character": "Cole Collins"
+        },
+        {
+            "actor": "Emilio Estevez",
+            "character": "Johnny Collins"
+        },
+        {
+            "actor": "Jack Thibeau",
+            "character": "Coach Jackson"
+        },
+        {
+            "actor": "Zeljko Ivanek",
+            "character": "Hitchhiker"
+        },
+        {
+            "actor": "Tom Virtue",
+            "character": "Bob Collins"
+        },
+        {
+            "actor": "Pamela Ludwig",
+            "character": "Connie"
+        },
+        {
+            "actor": "Jeff Fleury",
+            "character": "Roger"
+        },
+        {
+            "actor": "Suzanne Costollos",
+            "character": "Fortune Teller"
+        },
+        {
+            "actor": "Marilyn Redfield",
+            "character": "Ms. Carlson"
+        },
+        {
+            "actor": "Mark Arnott",
+            "character": "Kelly"
+        },
+        {
+            "actor": "Jill Clark",
+            "character": "Marcie"
+        },
+        {
+            "actor": "Sheryl Briedel",
+            "character": "Lisa"
+        },
+        {
+            "actor": "Lisa Mirkin",
+            "character": "Shelly"
+        }
+    ]
+}

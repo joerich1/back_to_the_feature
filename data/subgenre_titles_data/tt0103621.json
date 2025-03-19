@@ -1,0 +1,635 @@
+{
+    "adult": false,
+    "backdrop_path": "/psQrEXfUZjQKNsxIKpgUdcEvJGr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "",
+    "id": 49082,
+    "imdb_id": "tt0103621",
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Adventures in Dinosaur City",
+    "overview": "A scientist's kids are sucked into a TV screen and wind up in the Stone Age with cavemen and dinosaurs.",
+    "popularity": 0.671,
+    "poster_path": "/cEKr5x2EBeJ1gHnMJGWxgTORBEf.jpg",
+    "production_companies": [
+        {
+            "id": 1531,
+            "logo_path": null,
+            "name": "Smart Egg Pictures",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1991-08-28",
+    "revenue": 0,
+    "runtime": 88,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Long before there were turtles, the world was ruled by dinosaurs.",
+    "title": "Adventures in Dinosaur City",
+    "video": false,
+    "vote_average": 4.2,
+    "vote_count": 19,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1991-11-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-02-12T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1991-08-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-08-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65309,
+                "known_for_department": "Acting",
+                "name": "Omri Katz",
+                "original_name": "Omri Katz",
+                "popularity": 0.019,
+                "profile_path": "/wY3NxTyXhzJ8BkmBZcQuSE7WtoC.jpg",
+                "cast_id": 0,
+                "character": "Timmy",
+                "credit_id": "559ee0d6c3a368081000258d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485830,
+                "known_for_department": "Acting",
+                "name": "Tiffanie Poston",
+                "original_name": "Tiffanie Poston",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "Jamie",
+                "credit_id": "559ee1009251412db60024fc",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485831,
+                "known_for_department": "Acting",
+                "name": "Shawn Hoffman",
+                "original_name": "Shawn Hoffman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Mick",
+                "credit_id": "559ee14b925141300e001f2f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1024264,
+                "known_for_department": "Acting",
+                "name": "Peter Koch",
+                "original_name": "Peter Koch",
+                "popularity": 0.005,
+                "profile_path": "/bZGMtUgaLUrzUuqTfQNYsTkYpwS.jpg",
+                "cast_id": 3,
+                "character": "Link (as Pete Koch)",
+                "credit_id": "559ee1739251412db20023d0",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 175938,
+                "known_for_department": "Acting",
+                "name": "Don Barnes",
+                "original_name": "Don Barnes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Rex",
+                "credit_id": "559ee1ce9251412dbe0022a6",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485833,
+                "known_for_department": "Acting",
+                "name": "Marc Martorana",
+                "original_name": "Marc Martorana",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Tops",
+                "credit_id": "559ee1de9251412daf0023ac",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99600,
+                "known_for_department": "Acting",
+                "name": "R.A. Mihailoff",
+                "original_name": "R.A. Mihailoff",
+                "popularity": 0.011,
+                "profile_path": "/8F1iz1pP9pltoIaSD1YiU884Kgk.jpg",
+                "cast_id": 7,
+                "character": "Mr. Big",
+                "credit_id": "559ee1fcc3a3680820002458",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2174,
+                "known_for_department": "Acting",
+                "name": "Kimberly Beck",
+                "original_name": "Kimberly Beck",
+                "popularity": 0.021,
+                "profile_path": "/hdeafwyoYDEF1i3zR7TX0skACcS.jpg",
+                "cast_id": 9,
+                "character": "Chanteuse",
+                "credit_id": "559ee235925141300e001f54",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485834,
+                "known_for_department": "Acting",
+                "name": "Sebastian Massa",
+                "original_name": "Sebastian Massa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Bear",
+                "credit_id": "559ee270925141300e001f65",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1181951,
+                "known_for_department": "Acting",
+                "name": "Megan Hughes",
+                "original_name": "Megan Hughes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Missy",
+                "credit_id": "5acfc4739251417b5d000ef4",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114876,
+                "known_for_department": "Acting",
+                "name": "Patrick Labyorteaux",
+                "original_name": "Patrick Labyorteaux",
+                "popularity": 0.037,
+                "profile_path": "/dTuCfBnVH8csjSo8FrOdaOjpegA.jpg",
+                "cast_id": 18,
+                "character": "Rex / Mr. Big (voice) (as Patrick Labyerteaux)",
+                "credit_id": "5a1741819251410336005a41",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1219358,
+                "known_for_department": "Acting",
+                "name": "Steven Anderson",
+                "original_name": "Steven Anderson",
+                "popularity": 0.011,
+                "profile_path": "/wL89swfekcrj6EDbLBlnsmpuxag.jpg",
+                "cast_id": 19,
+                "character": "Gil",
+                "credit_id": "5a1742010e0a264cc8005c80",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1213114,
+                "known_for_department": "Acting",
+                "name": "Jeffrey Asch",
+                "original_name": "Jeffrey Asch",
+                "popularity": 0.007,
+                "profile_path": "/jQaPmNqOUBZ7x8CLlhMYFE82BTm.jpg",
+                "cast_id": 20,
+                "character": "Bigfoot",
+                "credit_id": "5a17420ec3a3680b8f005ba7",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13592,
+                "known_for_department": "Acting",
+                "name": "Irwin Keyes",
+                "original_name": "Irwin Keyes",
+                "popularity": 0.015,
+                "profile_path": "/bfNqPAk536o4AYxunTmZmsVGBJE.jpg",
+                "cast_id": 21,
+                "character": "Guard #1",
+                "credit_id": "5a1742259251410329005d3d",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485836,
+                "known_for_department": "Writing",
+                "name": "Wili Baronet",
+                "original_name": "Wili Baronet",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "559ee353c3a3680814002179",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1485836,
+                "known_for_department": "Writing",
+                "name": "Wili Baronet",
+                "original_name": "Wili Baronet",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "559ee35fc3a368080c0024a0",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 940684,
+                "known_for_department": "Writing",
+                "name": "Brett Thompson",
+                "original_name": "Brett Thompson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "559ee370c3a36808100025ed",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112682,
+                "known_for_department": "Crew",
+                "name": "Spiro Razatos",
+                "original_name": "Spiro Razatos",
+                "popularity": 0.028,
+                "profile_path": "/tkJnvTnKa0t5HLi7dTKcXDrooFU.jpg",
+                "credit_id": "64685e63006b010189585354",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5221355,
+                "known_for_department": "Sound",
+                "name": "Fredric Teetsel",
+                "original_name": "Fredric Teetsel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a024b6176fdb2244cb93b1",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1208332,
+                "known_for_department": "Camera",
+                "name": "Rick Fichter",
+                "original_name": "Rick Fichter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a024e5776edf4be395421e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7415,
+                "known_for_department": "Production",
+                "name": "Rick Montgomery",
+                "original_name": "Rick Montgomery",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a02500776edf4be3954228",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 577810,
+                "known_for_department": "Production",
+                "name": "Dan Parada",
+                "original_name": "Dan Parada",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a0250fd0811814be26199f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5221357,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Eduardo Castro",
+                "original_name": "Eduardo Castro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a02538776edf4be395425a",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1182471,
+                "known_for_department": "Production",
+                "name": "Luigi Cingolani",
+                "original_name": "Luigi Cingolani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a02565f0f9dbdba6957feb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1384344,
+                "known_for_department": "Production",
+                "name": "George Zecevic",
+                "original_name": "George Zecevic",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a025981742b44a14cb7c36",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5221362,
+                "known_for_department": "Editing",
+                "name": "Elizabeth Canney",
+                "original_name": "Elizabeth Canney",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a025cb776edf4be3954296",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 24515,
+                "known_for_department": "Editing",
+                "name": "W. Peter Miller",
+                "original_name": "W. Peter Miller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a025e41742b44a14cb7c40",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 5221366,
+                "known_for_department": "Art",
+                "name": "Michael Stuart",
+                "original_name": "Michael Stuart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a0262550f5d47625262d34",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 13030,
+                "known_for_department": "Crew",
+                "name": "Frank Ceglia",
+                "original_name": "Frank Ceglia",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "67a026bca74d8ee23b266588",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 947550,
+                "known_for_department": "Writing",
+                "name": "Lisa Morton",
+                "original_name": "Lisa Morton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a028da02a74dc73f956b74",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1402146,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Suzanne Parker Sanders",
+                "original_name": "Suzanne Parker Sanders",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67a029177ebb0614ff266483",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3822,
+                "name": "teleportation"
+            },
+            {
+                "id": 1930,
+                "name": "kidnapping"
+            },
+            {
+                "id": 4428,
+                "name": "stone age"
+            },
+            {
+                "id": 6300,
+                "name": "puppet"
+            },
+            {
+                "id": 10049,
+                "name": "teen angst"
+            },
+            {
+                "id": 12616,
+                "name": "dinosaur"
+            },
+            {
+                "id": 13008,
+                "name": "train"
+            },
+            {
+                "id": 18165,
+                "name": "animals"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Omri Katz",
+            "character": "Timmy"
+        },
+        {
+            "actor": "Tiffanie Poston",
+            "character": "Jamie"
+        },
+        {
+            "actor": "Shawn Hoffman",
+            "character": "Mick"
+        },
+        {
+            "actor": "Peter Koch",
+            "character": "Link (as Pete Koch)"
+        },
+        {
+            "actor": "Don Barnes",
+            "character": "Rex"
+        },
+        {
+            "actor": "Marc Martorana",
+            "character": "Tops"
+        },
+        {
+            "actor": "R.A. Mihailoff",
+            "character": "Mr. Big"
+        },
+        {
+            "actor": "Kimberly Beck",
+            "character": "Chanteuse"
+        },
+        {
+            "actor": "Sebastian Massa",
+            "character": "Bear"
+        },
+        {
+            "actor": "Megan Hughes",
+            "character": "Missy"
+        },
+        {
+            "actor": "Patrick Labyorteaux",
+            "character": "Rex / Mr. Big (voice) (as Patrick Labyerteaux)"
+        },
+        {
+            "actor": "Steven Anderson",
+            "character": "Gil"
+        },
+        {
+            "actor": "Jeffrey Asch",
+            "character": "Bigfoot"
+        },
+        {
+            "actor": "Irwin Keyes",
+            "character": "Guard #1"
+        }
+    ]
+}

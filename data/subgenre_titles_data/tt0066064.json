@@ -1,0 +1,828 @@
+{
+    "adult": false,
+    "backdrop_path": "/8QEr0P67VzuX7YQJ0w4dnsTafC3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 45398,
+    "imdb_id": "tt0066064",
+    "origin_country": [
+        "IE",
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The McKenzie Break",
+    "overview": "A German U-Boat commander plans a daring escape from a PoW camp in Scotland.",
+    "popularity": 0.918,
+    "poster_path": "/nLNDK7bOoYP4wInxxbtfrbhbWfV.jpg",
+    "production_companies": [
+        {
+            "id": 10463,
+            "logo_path": null,
+            "name": "Levy-Gardner-Laven",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+        },
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1970-10-28",
+    "revenue": 0,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "P.O.W. ... S.O.B ...",
+    "title": "The McKenzie Break",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 26,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1970-10-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1970-10-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32791,
+                "known_for_department": "Acting",
+                "name": "Brian Keith",
+                "original_name": "Brian Keith",
+                "popularity": 0.053,
+                "profile_path": "/c5Tnce8aeEVigEgctnkNcy4jc2l.jpg",
+                "cast_id": 4,
+                "character": "Captain Jack Connor",
+                "credit_id": "52fe46c0c3a36847f81103cb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32059,
+                "known_for_department": "Acting",
+                "name": "Helmut Griem",
+                "original_name": "Helmut Griem",
+                "popularity": 0.014,
+                "profile_path": "/hWZ4VvejLSQzl3xJb5IqAGZxXKQ.jpg",
+                "cast_id": 5,
+                "character": "Kapitänleutnant Willi Schlueter",
+                "credit_id": "52fe46c0c3a36847f81103cf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58339,
+                "known_for_department": "Acting",
+                "name": "Ian Hendry",
+                "original_name": "Ian Hendry",
+                "popularity": 0.022,
+                "profile_path": "/dl0HL5adsOSJ5y2l9KXuSClGQMM.jpg",
+                "cast_id": 6,
+                "character": "Major Perry",
+                "credit_id": "52fe46c0c3a36847f81103d3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47549,
+                "known_for_department": "Acting",
+                "name": "Jack Watson",
+                "original_name": "Jack Watson",
+                "popularity": 0.011,
+                "profile_path": "/ggwiSgQeJ2y0pCKg6qUzFCFFi7Q.jpg",
+                "cast_id": 7,
+                "character": "General Kerr",
+                "credit_id": "52fe46c0c3a36847f81103d7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100095,
+                "known_for_department": "Acting",
+                "name": "Horst Janson",
+                "original_name": "Horst Janson",
+                "popularity": 0.026,
+                "profile_path": "/hUIETgOLN9nxpgw47POzpJmk5Oa.jpg",
+                "cast_id": 9,
+                "character": "Leutnant Neuchl",
+                "credit_id": "52fe46c0c3a36847f81103df",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1222210,
+                "known_for_department": "Acting",
+                "name": "Patrick O'Connell",
+                "original_name": "Patrick O'Connell",
+                "popularity": 0.016,
+                "profile_path": "/pkSLm5uua8oWlkHzNZiCgtXPVQ1.jpg",
+                "cast_id": 20,
+                "character": "Sergeant Major Cox",
+                "credit_id": "56a65820925141161a0014b6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18840,
+                "known_for_department": "Acting",
+                "name": "Alexander Allerson",
+                "original_name": "Alexander Allerson",
+                "popularity": 0.015,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Leutnant Wolff",
+                "credit_id": "52fe46c0c3a36847f81103e3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 133122,
+                "known_for_department": "Acting",
+                "name": "John Abineri",
+                "original_name": "John Abineri",
+                "popularity": 0.013,
+                "profile_path": "/wqH2tkScxpp666vPVre1BfEaGcc.jpg",
+                "cast_id": 11,
+                "character": "Hauptmann Kranz",
+                "credit_id": "52fe46c0c3a36847f81103e7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27425,
+                "known_for_department": "Acting",
+                "name": "Constantine Gregory",
+                "original_name": "Constantine Gregory",
+                "popularity": 0.033,
+                "profile_path": "/Wu1DUqLi8ZclEcdLGgYgnNcPmw.jpg",
+                "cast_id": 12,
+                "character": "Lieutenant Hall",
+                "credit_id": "52fe46c0c3a36847f81103eb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 133123,
+                "known_for_department": "Acting",
+                "name": "Tom Kempinski",
+                "original_name": "Tom Kempinski",
+                "popularity": 0.009,
+                "profile_path": "/bOAIsl37mhqyXehjua83w3q5qzI.jpg",
+                "cast_id": 13,
+                "character": "Leutnant Schmidt",
+                "credit_id": "52fe46c0c3a36847f81103ef",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90765,
+                "known_for_department": "Acting",
+                "name": "Eric Allan",
+                "original_name": "Eric Allan",
+                "popularity": 0.002,
+                "profile_path": "/mPKvpG2NISj56wzJm7qs8Ai0eSg.jpg",
+                "cast_id": 14,
+                "character": "Leutnant Hochbauer",
+                "credit_id": "52fe46c0c3a36847f81103f3",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 564543,
+                "known_for_department": "Acting",
+                "name": "Caroline Mortimer",
+                "original_name": "Caroline Mortimer",
+                "popularity": 0.008,
+                "profile_path": "/rekApymMHcWhi46GwBkby9OU0s1.jpg",
+                "cast_id": 15,
+                "character": "A.T.S. Sergeant Bell",
+                "credit_id": "52fe46c0c3a36847f81103f7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 133124,
+                "known_for_department": "Acting",
+                "name": "Mary Larkin",
+                "original_name": "Mary Larkin",
+                "popularity": 0.018,
+                "profile_path": "/xaFD2cbHAXEqmK1wZFaUutWrl3J.jpg",
+                "cast_id": 16,
+                "character": "Corporal Jean Watt",
+                "credit_id": "52fe46c0c3a36847f81103fb",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16071,
+                "known_for_department": "Acting",
+                "name": "Gregg Palmer",
+                "original_name": "Gregg Palmer",
+                "popularity": 0.025,
+                "profile_path": "/4EHNTnq6oeLdg004XDECNwF2sdc.jpg",
+                "cast_id": 17,
+                "character": "Leutnant Berger",
+                "credit_id": "52fe46c0c3a36847f81103ff",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70417,
+                "known_for_department": "Acting",
+                "name": "Michael Sheard",
+                "original_name": "Michael Sheard",
+                "popularity": 0.037,
+                "profile_path": "/3Ixa3kEGEVCNumIMcLjq5VmU65y.jpg",
+                "cast_id": 18,
+                "character": "Ingenieur-Offizier Unger",
+                "credit_id": "52fe46c0c3a36847f8110403",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1282,
+                "known_for_department": "Acting",
+                "name": "David Kelly",
+                "original_name": "David Kelly",
+                "popularity": 0.03,
+                "profile_path": "/6nk5gVXHpOV9gqWrjR4lis1BCP7.jpg",
+                "cast_id": 21,
+                "character": "Adjutant",
+                "credit_id": "587ab3469251413eba007f2c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33090,
+                "known_for_department": "Acting",
+                "name": "Noel Purcell",
+                "original_name": "Noel Purcell",
+                "popularity": 0.01,
+                "profile_path": "/xEwDYgylNazYQXzJfBeQFmJQ1Zt.jpg",
+                "cast_id": 22,
+                "character": "Ferry Captain",
+                "credit_id": "587ab355c3a368494c00772a",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1046080,
+                "known_for_department": "Acting",
+                "name": "Ingo Mogendorf",
+                "original_name": "Ingo Mogendorf",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "663dc7001deb49d1207ef6b6",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228257,
+                "known_for_department": "Acting",
+                "name": "Emmet Bergin",
+                "original_name": "Emmet Bergin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "663dc716842dae1673fb0a58",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1186012,
+                "known_for_department": "Acting",
+                "name": "Barry Cassin",
+                "original_name": "Barry Cassin",
+                "popularity": 0.001,
+                "profile_path": "/5GK9OKOAIOwzAokLDb8rVMdxriO.jpg",
+                "cast_id": 31,
+                "character": "",
+                "credit_id": "663dc721f56a7dbb62dc6ee6",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 199755,
+                "known_for_department": "Acting",
+                "name": "Martin Dempsey",
+                "original_name": "Martin Dempsey",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "",
+                "credit_id": "663dc72b548d8d7dad0f6111",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3395173,
+                "known_for_department": "Acting",
+                "name": "Alec Doran",
+                "original_name": "Alec Doran",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "663dc7388313cda910a4605b",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2236093,
+                "known_for_department": "Acting",
+                "name": "Conor Evans",
+                "original_name": "Conor Evans",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "663dc746cf1b151d997eeeaa",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 930765,
+                "known_for_department": "Acting",
+                "name": "Frank Hayden",
+                "original_name": "Frank Hayden",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "663dc751548d8d7dad0f6135",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3035717,
+                "known_for_department": "Acting",
+                "name": "Vernon Hayden",
+                "original_name": "Vernon Hayden",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "663dc775c97ab0045c510ee2",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1214133,
+                "known_for_department": "Directing",
+                "name": "Lamont Johnson",
+                "original_name": "Lamont Johnson",
+                "popularity": 0.008,
+                "profile_path": "/oGqhGmjBntl4C0wVGDScr2u13Iw.jpg",
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "663dc783d13a3341ce7953e6",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20282,
+                "known_for_department": "Acting",
+                "name": "John Kavanagh",
+                "original_name": "John Kavanagh",
+                "popularity": 0.017,
+                "profile_path": "/wG5dUlNS4b7eUof6m32MaVFWdla.jpg",
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "663dc7975661280d7dfafaba",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1694939,
+                "known_for_department": "Acting",
+                "name": "Des Keogh",
+                "original_name": "Des Keogh",
+                "popularity": 0.002,
+                "profile_path": "/7C68JpYZEaUVfDU92QiAnpDraBu.jpg",
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "663dc7a2c97ab0045c510f0f",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2318292,
+                "known_for_department": "Acting",
+                "name": "Brendan Matthews",
+                "original_name": "Brendan Matthews",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "",
+                "credit_id": "663dc7b0842dae1673fb0abe",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1513631,
+                "known_for_department": "Acting",
+                "name": "Mark Mulholland",
+                "original_name": "Mark Mulholland",
+                "popularity": 0.005,
+                "profile_path": "/62maL0jImzNINuLtBUpH3JQx9SH.jpg",
+                "cast_id": 41,
+                "character": "",
+                "credit_id": "663dc7ca32f2206f780f68e1",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 601407,
+                "known_for_department": "Acting",
+                "name": "Desmond Perry",
+                "original_name": "Desmond Perry",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "663dc7e1a1e296ad01795288",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1236747,
+                "known_for_department": "Acting",
+                "name": "Joe Pilkington",
+                "original_name": "Joe Pilkington",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "",
+                "credit_id": "663dc7ed548d8d7dad0f61b6",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2095399,
+                "known_for_department": "Acting",
+                "name": "Franz Van Norde",
+                "original_name": "Franz Van Norde",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "",
+                "credit_id": "663dc8093042f35be3fb1c0a",
+                "order": 32
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 41133,
+                "known_for_department": "Writing",
+                "name": "William W. Norton",
+                "original_name": "William W. Norton",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe46c0c3a36847f81103c1",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 133120,
+                "known_for_department": "Writing",
+                "name": "Sidney Shelley",
+                "original_name": "Sidney Shelley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe46c0c3a36847f81103c7",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1214133,
+                "known_for_department": "Directing",
+                "name": "Lamont Johnson",
+                "original_name": "Lamont Johnson",
+                "popularity": 0.008,
+                "profile_path": "/oGqhGmjBntl4C0wVGDScr2u13Iw.jpg",
+                "credit_id": "52fe46c0c3a36847f8110409",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10178,
+                "known_for_department": "Camera",
+                "name": "Michael Reed",
+                "original_name": "Michael Reed",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "62ab8b44c7176d0061eae2f1",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1047,
+                "known_for_department": "Editing",
+                "name": "Tom Rolf",
+                "original_name": "Tom Rolf",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "62ab8b4c202e110061b0ece3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41134,
+                "known_for_department": "Production",
+                "name": "Arthur Gardner",
+                "original_name": "Arthur Gardner",
+                "popularity": 0.002,
+                "profile_path": "/2LJpBgC4xZvH0cV5FtPqIJqoE5j.jpg",
+                "credit_id": "62ab8b55d4d509008bf6e149",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 41135,
+                "known_for_department": "Production",
+                "name": "Jules V. Levy",
+                "original_name": "Jules V. Levy",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "62ab8b5bd7cd0600929986de",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33804,
+                "known_for_department": "Sound",
+                "name": "Riz Ortolani",
+                "original_name": "Riz Ortolani",
+                "popularity": 0.008,
+                "profile_path": "/nFJdprMcg4MJTk9WP5BHfDQvCWm.jpg",
+                "credit_id": "663dc6cdb2ea28f015f1b7dc",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2227683,
+                "known_for_department": "Camera",
+                "name": "John Shinerock",
+                "original_name": "John Shinerock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c923b800e0a2612ef5d9009",
+                "department": "Camera",
+                "job": "Camera Operator"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 339,
+                "name": "submarine"
+            },
+            {
+                "id": 1968,
+                "name": "prisoner of war"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Brian Keith",
+            "character": "Captain Jack Connor"
+        },
+        {
+            "actor": "Helmut Griem",
+            "character": "Kapitänleutnant Willi Schlueter"
+        },
+        {
+            "actor": "Ian Hendry",
+            "character": "Major Perry"
+        },
+        {
+            "actor": "Jack Watson",
+            "character": "General Kerr"
+        },
+        {
+            "actor": "Horst Janson",
+            "character": "Leutnant Neuchl"
+        },
+        {
+            "actor": "Patrick O'Connell",
+            "character": "Sergeant Major Cox"
+        },
+        {
+            "actor": "Alexander Allerson",
+            "character": "Leutnant Wolff"
+        },
+        {
+            "actor": "John Abineri",
+            "character": "Hauptmann Kranz"
+        },
+        {
+            "actor": "Constantine Gregory",
+            "character": "Lieutenant Hall"
+        },
+        {
+            "actor": "Tom Kempinski",
+            "character": "Leutnant Schmidt"
+        },
+        {
+            "actor": "Eric Allan",
+            "character": "Leutnant Hochbauer"
+        },
+        {
+            "actor": "Caroline Mortimer",
+            "character": "A.T.S. Sergeant Bell"
+        },
+        {
+            "actor": "Mary Larkin",
+            "character": "Corporal Jean Watt"
+        },
+        {
+            "actor": "Gregg Palmer",
+            "character": "Leutnant Berger"
+        },
+        {
+            "actor": "Michael Sheard",
+            "character": "Ingenieur-Offizier Unger"
+        },
+        {
+            "actor": "David Kelly",
+            "character": "Adjutant"
+        },
+        {
+            "actor": "Noel Purcell",
+            "character": "Ferry Captain"
+        },
+        {
+            "actor": "Ingo Mogendorf",
+            "character": ""
+        },
+        {
+            "actor": "Emmet Bergin",
+            "character": ""
+        },
+        {
+            "actor": "Barry Cassin",
+            "character": ""
+        },
+        {
+            "actor": "Martin Dempsey",
+            "character": ""
+        },
+        {
+            "actor": "Alec Doran",
+            "character": ""
+        },
+        {
+            "actor": "Conor Evans",
+            "character": ""
+        },
+        {
+            "actor": "Frank Hayden",
+            "character": ""
+        },
+        {
+            "actor": "Vernon Hayden",
+            "character": ""
+        },
+        {
+            "actor": "Lamont Johnson",
+            "character": ""
+        },
+        {
+            "actor": "John Kavanagh",
+            "character": ""
+        },
+        {
+            "actor": "Des Keogh",
+            "character": ""
+        },
+        {
+            "actor": "Brendan Matthews",
+            "character": ""
+        },
+        {
+            "actor": "Mark Mulholland",
+            "character": ""
+        },
+        {
+            "actor": "Desmond Perry",
+            "character": ""
+        },
+        {
+            "actor": "Joe Pilkington",
+            "character": ""
+        },
+        {
+            "actor": "Franz Van Norde",
+            "character": ""
+        }
+    ]
+}

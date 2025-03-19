@@ -1,0 +1,895 @@
+{
+    "adult": false,
+    "backdrop_path": "/eTzdSb3YCFZvyzicBalPJ9O0zzJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 1200000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 16220,
+    "imdb_id": "tt0076929",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wizards",
+    "overview": "After the death of his mother, the evil mutant wizard Blackwolf discovers some long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded and sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination -- even if it means destroying his own flesh and blood.",
+    "popularity": 3.53,
+    "poster_path": "/jyQsIPlub6ckhl3G81bqNDO7DD1.jpg",
+    "production_companies": [
+        {
+            "id": 4921,
+            "logo_path": null,
+            "name": "Bakshi Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1977-02-09",
+    "revenue": 9000000,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "An epic fantasy of peace and magic.",
+    "title": "Wizards",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 212,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-02-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-02-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1986-10-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1977-02-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33482,
+                "known_for_department": "Acting",
+                "name": "Bob Holt",
+                "original_name": "Bob Holt",
+                "popularity": 0.019,
+                "profile_path": "/8u2FSZRgWYIfFpAdmEggVq5jevv.jpg",
+                "cast_id": 6,
+                "character": "Avatar (voice)",
+                "credit_id": "52fe46b89251416c750814dd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 109010,
+                "known_for_department": "Acting",
+                "name": "Jesse Welles",
+                "original_name": "Jesse Welles",
+                "popularity": 0.016,
+                "profile_path": "/iHh8Gq5H1W5TD7GptYB4lwPczoC.jpg",
+                "cast_id": 7,
+                "character": "Elinore (voice)",
+                "credit_id": "52fe46b89251416c750814e1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2557,
+                "known_for_department": "Acting",
+                "name": "Richard Romanus",
+                "original_name": "Richard Romanus",
+                "popularity": 0.025,
+                "profile_path": "/7FQsgyWC2NsOMeYurbzNmUy4S7g.jpg",
+                "cast_id": 8,
+                "character": "Weehawk (voice)",
+                "credit_id": "52fe46b89251416c750814e5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2555,
+                "known_for_department": "Acting",
+                "name": "David Proval",
+                "original_name": "David Proval",
+                "popularity": 0.037,
+                "profile_path": "/xD9mcTYEmkFLKAE9T9d3AFP50f3.jpg",
+                "cast_id": 9,
+                "character": "Peace (voice)",
+                "credit_id": "52fe46b89251416c750814e9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2,
+                "known_for_department": "Acting",
+                "name": "Mark Hamill",
+                "original_name": "Mark Hamill",
+                "popularity": 0.136,
+                "profile_path": "/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg",
+                "cast_id": 13,
+                "character": "Sean (voice)",
+                "credit_id": "5d11f6969251413ffbbac3b3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1502965,
+                "known_for_department": "Acting",
+                "name": "Jim Connell",
+                "original_name": "Jim Connell",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "President (voice)",
+                "credit_id": "5d4e11e50d5d8500123dc985",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100151,
+                "known_for_department": "Acting",
+                "name": "Steve Gravers",
+                "original_name": "Steve Gravers",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Blackwolf (voice)",
+                "credit_id": "5d4e122aa1074b0016272f57",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2382730,
+                "known_for_department": "Acting",
+                "name": "Barbara Sloane",
+                "original_name": "Barbara Sloane",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Fairy (voice)",
+                "credit_id": "5d4e125f839d930013ac3f40",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2382731,
+                "known_for_department": "Acting",
+                "name": "Angelo Grisanti",
+                "original_name": "Angelo Grisanti",
+                "popularity": 0.002,
+                "profile_path": "/s9l16Go0hkp2KQfzkC4HUiPn55c.jpg",
+                "cast_id": 17,
+                "character": "Frog (voice)",
+                "credit_id": "5d4e127da1074b00152722f7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382732,
+                "known_for_department": "Acting",
+                "name": "Hyman Wien",
+                "original_name": "Hyman Wien",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Priest (voice)",
+                "credit_id": "5d4e12a2839d930015ac4a58",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382733,
+                "known_for_department": "Acting",
+                "name": "Christopher Tayback",
+                "original_name": "Christopher Tayback",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Peewhittle (voice)",
+                "credit_id": "5d4e12c5a1074b0013272f9d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 123722,
+                "known_for_department": "Acting",
+                "name": "Peter Hobbs",
+                "original_name": "Peter Hobbs",
+                "popularity": 0.019,
+                "profile_path": "/ymjBgLaYPWolRRBo01rHKgbCc2h.jpg",
+                "cast_id": 20,
+                "character": "General (voice)",
+                "credit_id": "5d4e12f80d5d8500123dcbbf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109065,
+                "known_for_department": "Acting",
+                "name": "Tina Romanus",
+                "original_name": "Tina Romanus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Prostitute (voice)",
+                "credit_id": "5d4e132f7c6de30011a55d2a",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 110866,
+                "known_for_department": "Acting",
+                "name": "Susan Anton",
+                "original_name": "Susan Anton",
+                "popularity": 0.019,
+                "profile_path": "/hVXpFPLLcGXu8SX8mbaYxMo6Djb.jpg",
+                "cast_id": 22,
+                "character": "Princess Elinore (uncredited)",
+                "credit_id": "5d4e1383a1074b00132731b5",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 110866,
+                "known_for_department": "Acting",
+                "name": "Susan Anton",
+                "original_name": "Susan Anton",
+                "popularity": 0.019,
+                "profile_path": "/hVXpFPLLcGXu8SX8mbaYxMo6Djb.jpg",
+                "cast_id": 23,
+                "character": "The Balladeer (singing voice) (uncredited)",
+                "credit_id": "5d4e13ae839d930014ac429d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382736,
+                "known_for_department": "Acting",
+                "name": "Liz Bakshi",
+                "original_name": "Liz Bakshi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Fairy Mother (voice) (uncredited)",
+                "credit_id": "5d4e13d8839d930013ac41fc",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16384,
+                "known_for_department": "Directing",
+                "name": "Ralph Bakshi",
+                "original_name": "Ralph Bakshi",
+                "popularity": 0.041,
+                "profile_path": "/5NxhYnuED0Jz0lLFSGBUOhM2SDx.jpg",
+                "cast_id": 25,
+                "character": "Fritz (voice, uncredited)",
+                "credit_id": "5d4e14307c6de30013a56f76",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16384,
+                "known_for_department": "Directing",
+                "name": "Ralph Bakshi",
+                "original_name": "Ralph Bakshi",
+                "popularity": 0.041,
+                "profile_path": "/5NxhYnuED0Jz0lLFSGBUOhM2SDx.jpg",
+                "cast_id": 26,
+                "character": "Storm Trooper (voice, uncredited)",
+                "credit_id": "5d4e14510d5d8500143dd59e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382741,
+                "known_for_department": "Acting",
+                "name": "Victoria Bakshi",
+                "original_name": "Victoria Bakshi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Fairy Girl (voice, uncredited)",
+                "credit_id": "5d4e1487839d930012ac4ecd",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16421,
+                "known_for_department": "Acting",
+                "name": "Hans Conried",
+                "original_name": "Hans Conried",
+                "popularity": 0.037,
+                "profile_path": "/rftuT9tTEqVoEDqqJZEQicnXHVH.jpg",
+                "cast_id": 28,
+                "character": "Guards (uncredited)",
+                "credit_id": "5d4e151ba1074b00132734e5",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9174,
+                "known_for_department": "Acting",
+                "name": "Charles Gordone",
+                "original_name": "Charles Gordone",
+                "popularity": 0.001,
+                "profile_path": "/mAS4tDF6rSghDkH8oyTdVTCxNHW.jpg",
+                "cast_id": 29,
+                "character": "Alfie (voice) (uncredited)",
+                "credit_id": "5d4e153f0d5d8500123dd030",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11991,
+                "known_for_department": "Acting",
+                "name": "Heinrich Himmler",
+                "original_name": "Heinrich Himmler",
+                "popularity": 0.01,
+                "profile_path": "/Aljparz5AOPTPrgVFDFahutWBak.jpg",
+                "cast_id": 30,
+                "character": "Self (archive footage) (uncredited)",
+                "credit_id": "5d4e155e0d5d8500123dd06c",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10279,
+                "known_for_department": "Acting",
+                "name": "Adolf Hitler",
+                "original_name": "Adolf Hitler",
+                "popularity": 0.04,
+                "profile_path": "/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg",
+                "cast_id": 31,
+                "character": "Self (archive footage) (uncredited)",
+                "credit_id": "5d4e157ba1074b0013273592",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382744,
+                "known_for_department": "Acting",
+                "name": "Viktor Lutze",
+                "original_name": "Viktor Lutze",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Self (archive footage) (uncredited)",
+                "credit_id": "5d4e159d0d5d8500153dd4d7",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40352,
+                "known_for_department": "Acting",
+                "name": "Will Ryan",
+                "original_name": "Will Ryan",
+                "popularity": 0.024,
+                "profile_path": "/qRkyGcSju2VmEb7RTBM3Wpa0rvI.jpg",
+                "cast_id": 33,
+                "character": "Guards (uncredited)",
+                "credit_id": "5d4e15bd0d5d8500133dc7d6",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 59369,
+                "known_for_department": "Acting",
+                "name": "Susan Tyrrell",
+                "original_name": "Susan Tyrrell",
+                "popularity": 0.021,
+                "profile_path": "/9fpVbAHId4DSvUbB7BzzBuBpDpN.jpg",
+                "cast_id": 34,
+                "character": "Narrator (voice) (uncredited)",
+                "credit_id": "5d4e15e1a1074b001627373e",
+                "order": 25
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16384,
+                "known_for_department": "Directing",
+                "name": "Ralph Bakshi",
+                "original_name": "Ralph Bakshi",
+                "popularity": 0.041,
+                "profile_path": "/5NxhYnuED0Jz0lLFSGBUOhM2SDx.jpg",
+                "credit_id": "52fe46b89251416c750814c7",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16390,
+                "known_for_department": "Editing",
+                "name": "Donald W. Ernst",
+                "original_name": "Donald W. Ernst",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe46b89251416c750814d9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16384,
+                "known_for_department": "Directing",
+                "name": "Ralph Bakshi",
+                "original_name": "Ralph Bakshi",
+                "popularity": 0.041,
+                "profile_path": "/5NxhYnuED0Jz0lLFSGBUOhM2SDx.jpg",
+                "credit_id": "52fe46b89251416c750814c1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16384,
+                "known_for_department": "Directing",
+                "name": "Ralph Bakshi",
+                "original_name": "Ralph Bakshi",
+                "popularity": 0.041,
+                "profile_path": "/5NxhYnuED0Jz0lLFSGBUOhM2SDx.jpg",
+                "credit_id": "52fe46b89251416c750814cd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 226013,
+                "known_for_department": "Art",
+                "name": "Toby Bluth",
+                "original_name": "Toby Bluth",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "54f7a0c89251411812000090",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447559,
+                "known_for_department": "Visual Effects",
+                "name": "Micki Zurcher",
+                "original_name": "Micki Zurcher",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553ad392c3a3684c5b005a97",
+                "department": "Visual Effects",
+                "job": "Animation Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1458349,
+                "known_for_department": "Visual Effects",
+                "name": "Art Vitello",
+                "original_name": "Art Vitello",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "55397c0ec3a36831dd0089a8",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29746,
+                "known_for_department": "Sound",
+                "name": "Andrew Belling",
+                "original_name": "Andrew Belling",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6657c5ccfee66effb5e4f49c",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 73276,
+                "known_for_department": "Camera",
+                "name": "Ted C. Bemiller",
+                "original_name": "Ted C. Bemiller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6657c5c2dc1154cd74cd4a2b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382748,
+                "known_for_department": "Production",
+                "name": "Scott Citron",
+                "original_name": "Scott Citron",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4e18080d5d8500143ddd2a",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 122506,
+                "known_for_department": "Directing",
+                "name": "Steven Hahn",
+                "original_name": "Steven Hahn",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4e1685a1074b0014272f64",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382749,
+                "known_for_department": "Production",
+                "name": "John Kaufman",
+                "original_name": "John Kaufman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4e18520d5d8500123dd826",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1538123,
+                "known_for_department": "Sound",
+                "name": "Eileen Horta",
+                "original_name": "Eileen Horta",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5d4e17360d5d8500153dd790",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2488,
+                "known_for_department": "Production",
+                "name": "Alan Ladd Jr.",
+                "original_name": "Alan Ladd Jr.",
+                "popularity": 0.01,
+                "profile_path": "/1FrbQu26z4bgwvCeiDCcq2ZPqte.jpg",
+                "credit_id": "5d4e1894839d930014ac4edd",
+                "department": "Crew",
+                "job": "Presenter"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382751,
+                "known_for_department": "Production",
+                "name": "Christine Wirt",
+                "original_name": "Christine Wirt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4e18d10d5d8500133dcec3",
+                "department": "Production",
+                "job": "Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2382750,
+                "known_for_department": "Production",
+                "name": "Jose Kfuri",
+                "original_name": "Jose Kfuri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d4e1871839d930015ac5792",
+                "department": "Production",
+                "job": "Production Coordinator"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 782,
+                "name": "assassin"
+            },
+            {
+                "id": 2652,
+                "name": "nazi"
+            },
+            {
+                "id": 603,
+                "name": "elves"
+            },
+            {
+                "id": 2343,
+                "name": "magic"
+            },
+            {
+                "id": 1576,
+                "name": "technology"
+            },
+            {
+                "id": 1852,
+                "name": "mutant"
+            },
+            {
+                "id": 1956,
+                "name": "world war ii"
+            },
+            {
+                "id": 2710,
+                "name": "fairy"
+            },
+            {
+                "id": 4458,
+                "name": "post-apocalyptic future"
+            },
+            {
+                "id": 9887,
+                "name": "surrealism"
+            },
+            {
+                "id": 7375,
+                "name": "twin brother"
+            },
+            {
+                "id": 9725,
+                "name": "sword fight"
+            },
+            {
+                "id": 11237,
+                "name": "rotoscoping"
+            },
+            {
+                "id": 12400,
+                "name": "brainwashing"
+            },
+            {
+                "id": 14544,
+                "name": "robot"
+            },
+            {
+                "id": 161919,
+                "name": "adult animation"
+            },
+            {
+                "id": 261264,
+                "name": "dreary"
+            },
+            {
+                "id": 288816,
+                "name": "lighthearted"
+            },
+            {
+                "id": 324713,
+                "name": "whimsical"
+            },
+            {
+                "id": 325821,
+                "name": "ghoulish"
+            },
+            {
+                "id": 325856,
+                "name": "vibrant"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Bob Holt",
+            "character": "Avatar (voice)"
+        },
+        {
+            "actor": "Jesse Welles",
+            "character": "Elinore (voice)"
+        },
+        {
+            "actor": "Richard Romanus",
+            "character": "Weehawk (voice)"
+        },
+        {
+            "actor": "David Proval",
+            "character": "Peace (voice)"
+        },
+        {
+            "actor": "Mark Hamill",
+            "character": "Sean (voice)"
+        },
+        {
+            "actor": "Jim Connell",
+            "character": "President (voice)"
+        },
+        {
+            "actor": "Steve Gravers",
+            "character": "Blackwolf (voice)"
+        },
+        {
+            "actor": "Barbara Sloane",
+            "character": "Fairy (voice)"
+        },
+        {
+            "actor": "Angelo Grisanti",
+            "character": "Frog (voice)"
+        },
+        {
+            "actor": "Hyman Wien",
+            "character": "Priest (voice)"
+        },
+        {
+            "actor": "Christopher Tayback",
+            "character": "Peewhittle (voice)"
+        },
+        {
+            "actor": "Peter Hobbs",
+            "character": "General (voice)"
+        },
+        {
+            "actor": "Tina Romanus",
+            "character": "Prostitute (voice)"
+        },
+        {
+            "actor": "Susan Anton",
+            "character": "Princess Elinore (uncredited)"
+        },
+        {
+            "actor": "Susan Anton",
+            "character": "The Balladeer (singing voice) (uncredited)"
+        },
+        {
+            "actor": "Liz Bakshi",
+            "character": "Fairy Mother (voice) (uncredited)"
+        },
+        {
+            "actor": "Ralph Bakshi",
+            "character": "Fritz (voice, uncredited)"
+        },
+        {
+            "actor": "Ralph Bakshi",
+            "character": "Storm Trooper (voice, uncredited)"
+        },
+        {
+            "actor": "Victoria Bakshi",
+            "character": "Fairy Girl (voice, uncredited)"
+        },
+        {
+            "actor": "Hans Conried",
+            "character": "Guards (uncredited)"
+        },
+        {
+            "actor": "Charles Gordone",
+            "character": "Alfie (voice) (uncredited)"
+        },
+        {
+            "actor": "Heinrich Himmler",
+            "character": "Self (archive footage) (uncredited)"
+        },
+        {
+            "actor": "Adolf Hitler",
+            "character": "Self (archive footage) (uncredited)"
+        },
+        {
+            "actor": "Viktor Lutze",
+            "character": "Self (archive footage) (uncredited)"
+        },
+        {
+            "actor": "Will Ryan",
+            "character": "Guards (uncredited)"
+        },
+        {
+            "actor": "Susan Tyrrell",
+            "character": "Narrator (voice) (uncredited)"
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+{
+    "adult": false,
+    "backdrop_path": "/k2GUm99l4EBV3LzVqwr97zV3DoH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81467099",
+    "id": 1172499,
+    "imdb_id": "tt28840429",
+    "origin_country": [
+        "ID",
+        "SG"
+    ],
+    "original_language": "en",
+    "original_title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+    "overview": "This documentary delves into the unanswered questions surrounding the trial of Jessica Wongso — years after the death of her best friend, Mirna Salihin.",
+    "popularity": 0.995,
+    "poster_path": "/duv6wtHMuN74HF7UuLjvUUrn8dB.jpg",
+    "production_companies": [
+        {
+            "id": 71519,
+            "logo_path": "/tp2GdaPoC7f0pY8ekGFqoedD4U4.png",
+            "name": "Beach House Pictures",
+            "origin_country": "SG"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ID",
+            "name": "Indonesia"
+        },
+        {
+            "iso_3166_1": "SG",
+            "name": "Singapore"
+        }
+    ],
+    "release_date": "2023-09-28",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "Indonesian",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 27,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ID",
+                "release_dates": [
+                    {
+                        "certification": "17+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PR",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "NC16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-09-28T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4246512,
+                "known_for_department": "Acting",
+                "name": "Jessica Wongso",
+                "original_name": "Jessica Wongso",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1,
+                "character": "Self (archive footage)",
+                "credit_id": "64f1596c3a993701392a479e",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4246513,
+                "known_for_department": "Acting",
+                "name": "Mirna Salihin",
+                "original_name": "Mirna Salihin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 2,
+                "character": "Self (archive footage)",
+                "credit_id": "64f1597277d23b00cb864457",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4246514,
+                "known_for_department": "Acting",
+                "name": "Otto Hasibuan",
+                "original_name": "Otto Hasibuan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Self",
+                "credit_id": "64f15983caa50800e95204a0",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4295284,
+                "known_for_department": "Acting",
+                "name": "Edi Darmawan Salihin",
+                "original_name": "Edi Darmawan Salihin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Himself",
+                "credit_id": "651570eac50ad200eabcc131",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1352048,
+                "known_for_department": "Acting",
+                "name": "Marcella Zalianty",
+                "original_name": "Marcella Zalianty",
+                "popularity": 0.003,
+                "profile_path": "/eEhGnYx3QS82iUWXeJf49Rxa2GI.jpg",
+                "cast_id": 8,
+                "character": "Herself",
+                "credit_id": "651570f49b8616011c47c977",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304949,
+                "known_for_department": "Acting",
+                "name": "Sandy Salihin",
+                "original_name": "Sandy Salihin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Herself",
+                "credit_id": "651d33c374507d00e2103152",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304950,
+                "known_for_department": "Acting",
+                "name": "Devi Siagian",
+                "original_name": "Devi Siagian",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Herself",
+                "credit_id": "651d33d5967cc734295ead6b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304951,
+                "known_for_department": "Acting",
+                "name": "Rangga Saputro",
+                "original_name": "Rangga Saputro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Himself",
+                "credit_id": "651d33e8f04d0100ffed37af",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304952,
+                "known_for_department": "Acting",
+                "name": "Fristian Griec",
+                "original_name": "Fristian Griec",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Herself",
+                "credit_id": "651d33fe2f3b1700c7d8ea6a",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304953,
+                "known_for_department": "Acting",
+                "name": "Prof. Eddy O.S. Hiariej",
+                "original_name": "Prof. Eddy O.S. Hiariej",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Himself",
+                "credit_id": "651d341b65c26c011edef004",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304954,
+                "known_for_department": "Acting",
+                "name": "Timothy Marbun",
+                "original_name": "Timothy Marbun",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Himself",
+                "credit_id": "651d342b07216600acb65d3b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304956,
+                "known_for_department": "Acting",
+                "name": "Sandy Handika",
+                "original_name": "Sandy Handika",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Himself",
+                "credit_id": "651d343c65c26c0101584e2a",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304957,
+                "known_for_department": "Acting",
+                "name": "Erasmus Napitupulu",
+                "original_name": "Erasmus Napitupulu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "",
+                "credit_id": "651d34552f3b170101bb135a",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304958,
+                "known_for_department": "Acting",
+                "name": "Dr. Djadja Surya Atmadja",
+                "original_name": "Dr. Djadja Surya Atmadja",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "",
+                "credit_id": "651d346d8c22c00120549fb8",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304959,
+                "known_for_department": "Acting",
+                "name": "Dr. Budi Budiawan",
+                "original_name": "Dr. Budi Budiawan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "",
+                "credit_id": "651d347f8c22c0013d12bacc",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304960,
+                "known_for_department": "Acting",
+                "name": "Yudi Wibowo",
+                "original_name": "Yudi Wibowo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "",
+                "credit_id": "651d3490967cc734260b3068",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304961,
+                "known_for_department": "Acting",
+                "name": "Reza Indragiri",
+                "original_name": "Reza Indragiri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "651d349df04d01011c453195",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4304962,
+                "known_for_department": "Acting",
+                "name": "Dewi Haroen",
+                "original_name": "Dewi Haroen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "651d34aa8c22c000c9088b0f",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2233341,
+                "known_for_department": "Production",
+                "name": "Rob Sixsmith",
+                "original_name": "Rob Sixsmith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64f159aedbbb4200e162d62d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2233341,
+                "known_for_department": "Production",
+                "name": "Rob Sixsmith",
+                "original_name": "Rob Sixsmith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64f159a25f2b8d00e12ab479",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4259184,
+                "known_for_department": "Production",
+                "name": "Jessica Lee Chu En",
+                "original_name": "Jessica Lee Chu En",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64fa087de0ca7f00cbe80f22",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 7348,
+                "name": "indonesia"
+            },
+            {
+                "id": 33722,
+                "name": "true crime"
+            },
+            {
+                "id": 156785,
+                "name": "cyanide"
+            },
+            {
+                "id": 207240,
+                "name": "murder trial"
+            },
+            {
+                "id": 239539,
+                "name": "friend murder"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jessica Wongso",
+            "character": "Self (archive footage)"
+        },
+        {
+            "actor": "Mirna Salihin",
+            "character": "Self (archive footage)"
+        },
+        {
+            "actor": "Otto Hasibuan",
+            "character": "Self"
+        },
+        {
+            "actor": "Edi Darmawan Salihin",
+            "character": "Himself"
+        },
+        {
+            "actor": "Marcella Zalianty",
+            "character": "Herself"
+        },
+        {
+            "actor": "Sandy Salihin",
+            "character": "Herself"
+        },
+        {
+            "actor": "Devi Siagian",
+            "character": "Herself"
+        },
+        {
+            "actor": "Rangga Saputro",
+            "character": "Himself"
+        },
+        {
+            "actor": "Fristian Griec",
+            "character": "Herself"
+        },
+        {
+            "actor": "Prof. Eddy O.S. Hiariej",
+            "character": "Himself"
+        },
+        {
+            "actor": "Timothy Marbun",
+            "character": "Himself"
+        },
+        {
+            "actor": "Sandy Handika",
+            "character": "Himself"
+        },
+        {
+            "actor": "Erasmus Napitupulu",
+            "character": ""
+        },
+        {
+            "actor": "Dr. Djadja Surya Atmadja",
+            "character": ""
+        },
+        {
+            "actor": "Dr. Budi Budiawan",
+            "character": ""
+        },
+        {
+            "actor": "Yudi Wibowo",
+            "character": ""
+        },
+        {
+            "actor": "Reza Indragiri",
+            "character": ""
+        },
+        {
+            "actor": "Dewi Haroen",
+            "character": ""
+        }
+    ]
+}

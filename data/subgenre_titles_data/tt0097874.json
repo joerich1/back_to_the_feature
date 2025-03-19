@@ -1,0 +1,553 @@
+{
+    "adult": false,
+    "backdrop_path": "/l3jmOKhIVzjYsYme3uylVjBXSUu.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        }
+    ],
+    "homepage": "",
+    "id": 36529,
+    "imdb_id": "tt0097874",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Metamorphosis",
+    "overview": "A geneticists working on a drug to stop ageing tries it upon himself with horrendous consequences.",
+    "popularity": 1.311,
+    "poster_path": "/5JD2gl3IKH2B8mueEjD7KGvVeVu.jpg",
+    "production_companies": [
+        {
+            "id": 6082,
+            "logo_path": null,
+            "name": "Filmirage",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        },
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1990-08-07",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Witness the Change!",
+    "title": "Metamorphosis",
+    "video": false,
+    "vote_average": 4.243,
+    "vote_count": 37,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-08-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-04-25T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115515,
+                "known_for_department": "Acting",
+                "name": "Gene LeBrock",
+                "original_name": "Gene LeBrock",
+                "popularity": 0.007,
+                "profile_path": "/hmyx4kAbwPz1WeRKGDXZjlztytX.jpg",
+                "cast_id": 3,
+                "character": "Dr. Peter Houseman",
+                "credit_id": "52fe45f09251416c91043aa7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 115516,
+                "known_for_department": "Acting",
+                "name": "Catherine Baranov",
+                "original_name": "Catherine Baranov",
+                "popularity": 0.001,
+                "profile_path": "/xnHJJYLgetbo1yfF2I1Mw3VX0W4.jpg",
+                "cast_id": 4,
+                "character": "Sally Donnelly",
+                "credit_id": "52fe45f09251416c91043aab",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1099797,
+                "known_for_department": "Writing",
+                "name": "Harry Cason",
+                "original_name": "Harry Cason",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Dr. Mike Lester",
+                "credit_id": "61c94b5ce72fe800611612e9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115518,
+                "known_for_department": "Acting",
+                "name": "David Wicker",
+                "original_name": "David Wicker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Willy Carson",
+                "credit_id": "52fe45f09251416c91043ab3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115519,
+                "known_for_department": "Acting",
+                "name": "Jason Arnold",
+                "original_name": "Jason Arnold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Tommy",
+                "credit_id": "52fe45f09251416c91043ab7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115520,
+                "known_for_department": "Acting",
+                "name": "Stephen Brown",
+                "original_name": "Stephen Brown",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Professor Lloyd",
+                "credit_id": "52fe45f09251416c91043abb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115521,
+                "known_for_department": "Acting",
+                "name": "Tom Story",
+                "original_name": "Tom Story",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Professor Huston",
+                "credit_id": "52fe45f09251416c91043abf",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115522,
+                "known_for_department": "Acting",
+                "name": "Anna Colona",
+                "original_name": "Anna Colona",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Patricia Kelly",
+                "credit_id": "52fe45f09251416c91043ac3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115523,
+                "known_for_department": "Acting",
+                "name": "Wally Doyle",
+                "original_name": "Wally Doyle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Inspector",
+                "credit_id": "52fe45f09251416c91043ac7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41127,
+                "known_for_department": "Acting",
+                "name": "Laura Gemser",
+                "original_name": "Laura Gemser",
+                "popularity": 0.049,
+                "profile_path": "/zObMWYEHJkPEhmFsyW8uFCVRgfo.jpg",
+                "cast_id": 17,
+                "character": "Prostitute",
+                "credit_id": "52fe45f09251416c91043adb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115525,
+                "known_for_department": "Acting",
+                "name": "Serina Steinberg",
+                "original_name": "Serina Steinberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Patricia's friend",
+                "credit_id": "52fe45f09251416c91043acb",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115526,
+                "known_for_department": "Acting",
+                "name": "Wayne Potrafka",
+                "original_name": "Wayne Potrafka",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Old professor",
+                "credit_id": "52fe45f09251416c91043acf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115527,
+                "known_for_department": "Acting",
+                "name": "Tim Wright",
+                "original_name": "Tim Wright",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Hopkins",
+                "credit_id": "52fe45f09251416c91043ad3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 115528,
+                "known_for_department": "Acting",
+                "name": "Allison Stokes",
+                "original_name": "Allison Stokes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Alice",
+                "credit_id": "52fe45f09251416c91043ad7",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33807,
+                "known_for_department": "Acting",
+                "name": "George Eastman",
+                "original_name": "George Eastman",
+                "popularity": 0.019,
+                "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+                "cast_id": 18,
+                "character": "Man in the office",
+                "credit_id": "53345a40c3a3682abb0024a0",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33807,
+                "known_for_department": "Acting",
+                "name": "George Eastman",
+                "original_name": "George Eastman",
+                "popularity": 0.019,
+                "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+                "credit_id": "52fe45f09251416c91043aa3",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33807,
+                "known_for_department": "Acting",
+                "name": "George Eastman",
+                "original_name": "George Eastman",
+                "popularity": 0.019,
+                "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+                "credit_id": "52fe45f09251416c91043a9d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1817130,
+                "known_for_department": "Art",
+                "name": "Cleo Lori",
+                "original_name": "Cleo Lori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59198164c3a368423c05784d",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 41127,
+                "known_for_department": "Acting",
+                "name": "Laura Gemser",
+                "original_name": "Laura Gemser",
+                "popularity": 0.049,
+                "profile_path": "/zObMWYEHJkPEhmFsyW8uFCVRgfo.jpg",
+                "credit_id": "5919817ec3a36842d605905d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 519846,
+                "known_for_department": "Sound",
+                "name": "Luigi Ceccarelli",
+                "original_name": "Luigi Ceccarelli",
+                "popularity": 0.001,
+                "profile_path": "/zB4SGWnSdwVivuSggHUClyydnO5.jpg",
+                "credit_id": "5919812792514159c1054e13",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 100423,
+                "known_for_department": "Directing",
+                "name": "Donatella Donati",
+                "original_name": "Donatella Donati",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "5919811a92514156f5058632",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 37371,
+                "known_for_department": "Camera",
+                "name": "Gianlorenzo Battaglia",
+                "original_name": "Gianlorenzo Battaglia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59198142c3a368426905ab6e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1817131,
+                "known_for_department": "Art",
+                "name": "Max Serafian",
+                "original_name": "Max Serafian",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59198170c3a368423c057860",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 31778,
+                "known_for_department": "Editing",
+                "name": "Rosanna Landi",
+                "original_name": "Rosanna Landi",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "59198159c3a3683fb60518fc",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2083595,
+                "known_for_department": "Crew",
+                "name": "Paul Beahm",
+                "original_name": "Paul Beahm",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b48c1a1c3a368452700a810",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105344,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Maurizio Trani",
+                "original_name": "Maurizio Trani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b48c18e0e0a267ade014f23",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2083593,
+                "known_for_department": "Art",
+                "name": "John Martin",
+                "original_name": "John Martin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b48c180c3a3684524008b02",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1299,
+                "name": "monster"
+            },
+            {
+                "id": 13160,
+                "name": "university"
+            },
+            {
+                "id": 158276,
+                "name": "metamorphosis"
+            },
+            {
+                "id": 169816,
+                "name": "researcher"
+            },
+            {
+                "id": 182711,
+                "name": "dna testing"
+            },
+            {
+                "id": 208737,
+                "name": "rejuvenate"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Gene LeBrock",
+            "character": "Dr. Peter Houseman"
+        },
+        {
+            "actor": "Catherine Baranov",
+            "character": "Sally Donnelly"
+        },
+        {
+            "actor": "Harry Cason",
+            "character": "Dr. Mike Lester"
+        },
+        {
+            "actor": "David Wicker",
+            "character": "Willy Carson"
+        },
+        {
+            "actor": "Jason Arnold",
+            "character": "Tommy"
+        },
+        {
+            "actor": "Stephen Brown",
+            "character": "Professor Lloyd"
+        },
+        {
+            "actor": "Tom Story",
+            "character": "Professor Huston"
+        },
+        {
+            "actor": "Anna Colona",
+            "character": "Patricia Kelly"
+        },
+        {
+            "actor": "Wally Doyle",
+            "character": "Inspector"
+        },
+        {
+            "actor": "Laura Gemser",
+            "character": "Prostitute"
+        },
+        {
+            "actor": "Serina Steinberg",
+            "character": "Patricia's friend"
+        },
+        {
+            "actor": "Wayne Potrafka",
+            "character": "Old professor"
+        },
+        {
+            "actor": "Tim Wright",
+            "character": "Hopkins"
+        },
+        {
+            "actor": "Allison Stokes",
+            "character": "Alice"
+        },
+        {
+            "actor": "George Eastman",
+            "character": "Man in the office"
+        }
+    ]
+}

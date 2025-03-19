@@ -1,0 +1,947 @@
+{
+    "adult": false,
+    "backdrop_path": "/21AC1SV8rVwYIA1J4NbWQNLCTJI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 146243,
+    "imdb_id": "tt2386278",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Haunt",
+    "overview": "An introverted teen sparks with his new neighbor, and together the couple begins to explore the haunted house that his family has unknowingly just purchased.",
+    "popularity": 3.534,
+    "poster_path": "/8WusI9Anntdu3yMKir1zPM2Vhka.jpg",
+    "production_companies": [
+        {
+            "id": 73666,
+            "logo_path": null,
+            "name": "Covert Media",
+            "origin_country": "US"
+        },
+        {
+            "id": 11029,
+            "logo_path": "/aEqqnFZjCW10ODE4TYQ1qkjvokr.png",
+            "name": "QED International",
+            "origin_country": "US"
+        },
+        {
+            "id": 24428,
+            "logo_path": "/zH6o8LH5x3mpaJgshhFrVRnbJpD.png",
+            "name": "Revolver Picture Company",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2014-06-27",
+    "revenue": 0,
+    "runtime": 86,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The Feeding Never Ends",
+    "title": "Haunt",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 229,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-06-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2015-10-19T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Nevermore Film Festival",
+                        "release_date": "2014-02-19T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Film Society of Lincoln Center",
+                        "release_date": "2013-11-06T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 67837,
+                "known_for_department": "Acting",
+                "name": "Jacki Weaver",
+                "original_name": "Jacki Weaver",
+                "popularity": 0.062,
+                "profile_path": "/Apt5KSRAJENVw3IrTidzyrGv9PE.jpg",
+                "cast_id": 1,
+                "character": "Janet Morello",
+                "credit_id": "52fe4b799251416c751040d7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 60458,
+                "known_for_department": "Acting",
+                "name": "Liana Liberato",
+                "original_name": "Liana Liberato",
+                "popularity": 0.058,
+                "profile_path": "/5EEvVU9EDZ1ricNizDYUgclG1BF.jpg",
+                "cast_id": 2,
+                "character": "Sam Richards",
+                "credit_id": "52fe4b799251416c751040db",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 135532,
+                "known_for_department": "Acting",
+                "name": "Danielle C. Ryan",
+                "original_name": "Danielle C. Ryan",
+                "popularity": 0.021,
+                "profile_path": "/90vVCIw1T3JMt75ARNE3fEfZACL.jpg",
+                "cast_id": 3,
+                "character": "Sara Asher",
+                "credit_id": "52fe4b799251416c751040df",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 127281,
+                "known_for_department": "Acting",
+                "name": "Harrison Gilbertson",
+                "original_name": "Harrison Gilbertson",
+                "popularity": 0.017,
+                "profile_path": "/qlB00ZkN8LCReIje5PGDJ2UeCAg.jpg",
+                "cast_id": 4,
+                "character": "Evan Asher",
+                "credit_id": "52fe4b799251416c751040e3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113785,
+                "known_for_department": "Acting",
+                "name": "Brian Wimmer",
+                "original_name": "Brian Wimmer",
+                "popularity": 0.017,
+                "profile_path": "/rgNyMoXYbQHptCgTuvXNimWMeNl.jpg",
+                "cast_id": 11,
+                "character": "Alan Asher",
+                "credit_id": "539054efc3a3680d6e0015a0",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 238661,
+                "known_for_department": "Acting",
+                "name": "Ella Harris",
+                "original_name": "Ella Harris",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Anita Asher",
+                "credit_id": "539054fec3a3680d4e0016d6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 589468,
+                "known_for_department": "Acting",
+                "name": "Sebastian Michael Barr",
+                "original_name": "Sebastian Michael Barr",
+                "popularity": 0.001,
+                "profile_path": "/eCxtcTb8jOblsiYh0DY5xeap3yb.jpg",
+                "cast_id": 8,
+                "character": "Matthew Morello",
+                "credit_id": "52fe4b7a9251416c751040f3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 589656,
+                "known_for_department": "Acting",
+                "name": "Aline Andrade",
+                "original_name": "Aline Andrade",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Young Woman",
+                "credit_id": "52fe4b799251416c751040e7",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 583844,
+                "known_for_department": "Acting",
+                "name": "Kasia Kowalczyk",
+                "original_name": "Kasia Kowalczyk",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Demon Creature",
+                "credit_id": "52fe4b799251416c751040eb",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1123882,
+                "known_for_department": "Production",
+                "name": "Jarrod Phillips",
+                "original_name": "Jarrod Phillips",
+                "popularity": 0.004,
+                "profile_path": "/7swZH5G5tqJnG9jXfa9IAPp5GBU.jpg",
+                "cast_id": 7,
+                "character": "Man",
+                "credit_id": "52fe4b7a9251416c751040ef",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338008,
+                "known_for_department": "Acting",
+                "name": "Brooke Kelly",
+                "original_name": "Brooke Kelly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Oldest Morello Daughter",
+                "credit_id": "53b886e9c3a3685eba00468b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1338009,
+                "known_for_department": "Acting",
+                "name": "Carl Hadra",
+                "original_name": "Carl Hadra",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Franklin Morello",
+                "credit_id": "53b8890cc3a368072e0018cf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1332839,
+                "known_for_department": "Acting",
+                "name": "Maggie Scott",
+                "original_name": "Maggie Scott",
+                "popularity": 0.002,
+                "profile_path": "/lsWXVPaSiAtE4K7jT3dKUJmFinz.jpg",
+                "cast_id": 28,
+                "character": "Youngest Morello Daughter",
+                "credit_id": "53b88c270e0a2676cf008293",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 430313,
+                "known_for_department": "Acting",
+                "name": "Jan Broberg",
+                "original_name": "Jan Broberg",
+                "popularity": 0.016,
+                "profile_path": "/i95ZRATxgcXzcpbqQNM7O6c8zpG.jpg",
+                "cast_id": 29,
+                "character": "Meredith Tanner",
+                "credit_id": "53b88e88c3a3685ea800460a",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3126,
+                "known_for_department": "Acting",
+                "name": "Ione Skye",
+                "original_name": "Ione Skye",
+                "popularity": 0.062,
+                "profile_path": "/lvHFTnGyc2CXMixsKnEmxuy6GzM.jpg",
+                "cast_id": 56,
+                "character": "Emily Asher",
+                "credit_id": "580ad0579251414e8c0053f3",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 544644,
+                "known_for_department": "Directing",
+                "name": "Mac Carter",
+                "original_name": "Mac Carter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4b7a9251416c751040f9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1123885,
+                "known_for_department": "Writing",
+                "name": "Andrew Barrer",
+                "original_name": "Andrew Barrer",
+                "popularity": 0.006,
+                "profile_path": "/6e1Q2aTYCpRV54u7N9xOKXXR0xR.jpg",
+                "credit_id": "52fe4b7a9251416c751040ff",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72102,
+                "known_for_department": "Production",
+                "name": "Bill Block",
+                "original_name": "Bill Block",
+                "popularity": 0.013,
+                "profile_path": "/lIyEBU1aHtmSCgIue2hcgiYdDx6.jpg",
+                "credit_id": "53905522c3a3680d6e0015a6",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44741,
+                "known_for_department": "Production",
+                "name": "Paul Hanson",
+                "original_name": "Paul Hanson",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "53905534c3a3680d6600168d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327831,
+                "known_for_department": "Production",
+                "name": "Anton Lessine",
+                "original_name": "Anton Lessine",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "53905546c3a3680d5e00167c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327832,
+                "known_for_department": "Production",
+                "name": "Will Rowbotham",
+                "original_name": "Will Rowbotham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "53905553c3a36871240007ac",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 995456,
+                "known_for_department": "Production",
+                "name": "Steven Schneider",
+                "original_name": "Steven Schneider",
+                "popularity": 0.008,
+                "profile_path": "/1GWOGEiqYCpESOLGmqZ3ydUqGk8.jpg",
+                "credit_id": "53905562c3a3680d470016e9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327833,
+                "known_for_department": "Production",
+                "name": "Sasha Shapiro",
+                "original_name": "Sasha Shapiro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5390556ec3a3680d75001616",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1076,
+                "known_for_department": "Sound",
+                "name": "Reinhold Heil",
+                "original_name": "Reinhold Heil",
+                "popularity": 0.003,
+                "profile_path": "/ryxVIilNESLhSiqG73mi0jELlpO.jpg",
+                "credit_id": "5390557cc3a3680d5e001686",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327834,
+                "known_for_department": "Camera",
+                "name": "Adam Marsden",
+                "original_name": "Adam Marsden",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "53905588c3a3680d470016ec",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 51795,
+                "known_for_department": "Editing",
+                "name": "Tom Elkins",
+                "original_name": "Tom Elkins",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "53905594c3a3680d5e001689",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327835,
+                "known_for_department": "Editing",
+                "name": "Ruben Sebban",
+                "original_name": "Ruben Sebban",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "539055a1c3a3680d5e00168d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 561,
+                "known_for_department": "Production",
+                "name": "John Papsidera",
+                "original_name": "John Papsidera",
+                "popularity": 0.026,
+                "profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+                "credit_id": "539055aec3a36860ca0005e0",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 7787,
+                "known_for_department": "Art",
+                "name": "Giles Masters",
+                "original_name": "Giles Masters",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "539055bac3a3680d5e001691",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327838,
+                "known_for_department": "Crew",
+                "name": "Joe Dunckley",
+                "original_name": "Joe Dunckley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "539055cac3a3680d75001621",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583080,
+                "known_for_department": "Sound",
+                "name": "Sang Kim",
+                "original_name": "Sang Kim",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "617c9c68651fcf0043043ff7",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1532321,
+                "known_for_department": "Art",
+                "name": "Linden Snyder",
+                "original_name": "Linden Snyder",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0271f925141799e002b97",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 165396,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Barbara Nelson",
+                "original_name": "Barbara Nelson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d02733925141799e002b9b",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583075,
+                "known_for_department": "Art",
+                "name": "John Malmborg",
+                "original_name": "John Malmborg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0274f9251416e3a002bba",
+                "department": "Art",
+                "job": "Construction Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1031098,
+                "known_for_department": "Production",
+                "name": "Hannah Cooper",
+                "original_name": "Hannah Cooper",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "56d027879251413e5f005507",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1327898,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jacqueline Newell",
+                "original_name": "Jacqueline Newell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0279f9251413402001261",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583077,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marsha Horiuchi Barton",
+                "original_name": "Marsha Horiuchi Barton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d027cd925141340200126f",
+                "department": "Costume & Make-Up",
+                "job": "Seamstress"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1583078,
+                "known_for_department": "Directing",
+                "name": "Emma Anne Black",
+                "original_name": "Emma Anne Black",
+                "popularity": 0.001,
+                "profile_path": "/zjkB5GfGWC2GKm1IjLIbUMGRQl1.jpg",
+                "credit_id": "56d027e5c3a3681e4a00540f",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 176687,
+                "known_for_department": "Camera",
+                "name": "Brian Sullivan",
+                "original_name": "Brian Sullivan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d028149251413e68005a1b",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1497081,
+                "known_for_department": "Camera",
+                "name": "Sean Bagley",
+                "original_name": "Sean Bagley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d0283cc3a3681e36005573",
+                "department": "Camera",
+                "job": "First Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1403196,
+                "known_for_department": "Camera",
+                "name": "Fred Hayes",
+                "original_name": "Fred Hayes",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d028599251416e3a002bdc",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1341775,
+                "known_for_department": "Crew",
+                "name": "Robert Hackl",
+                "original_name": "Robert Hackl",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "56d0287ec3a3681e3e006208",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1544368,
+                "known_for_department": "Visual Effects",
+                "name": "Gresham Lochner",
+                "original_name": "Gresham Lochner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d028949251413402001298",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583079,
+                "known_for_department": "Visual Effects",
+                "name": "Roger Mocenigo",
+                "original_name": "Roger Mocenigo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d028ab925141799e002be4",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1544370,
+                "known_for_department": "Visual Effects",
+                "name": "Matthew Bramante",
+                "original_name": "Matthew Bramante",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d028c1c3a3681e36005585",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1414548,
+                "known_for_department": "Sound",
+                "name": "Guy Francoeur",
+                "original_name": "Guy Francoeur",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "56d0290f9251413e5900562f",
+                "department": "Sound",
+                "job": "Foley"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1412699,
+                "known_for_department": "Sound",
+                "name": "David Esparza",
+                "original_name": "David Esparza",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d02944c3a3681e36005597",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 137125,
+                "known_for_department": "Sound",
+                "name": "Chris David",
+                "original_name": "Chris David",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "56d02982c3a3681e570058f3",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1412703,
+                "known_for_department": "Sound",
+                "name": "Mandell Winter",
+                "original_name": "Mandell Winter",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "56d0299b92514134020012bd",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583081,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Maika Taylor",
+                "original_name": "Maika Taylor",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d029ae9251413e5f00554a",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1486822,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sarah Rubano",
+                "original_name": "Sarah Rubano",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "56d029c69251416e3a002c08",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1451403,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Robin Michelle Patrick",
+                "original_name": "Robin Michelle Patrick",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "56d029da9251413e6d005915",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1396796,
+                "known_for_department": "Sound",
+                "name": "Tim Limer",
+                "original_name": "Tim Limer",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5ad1c1b4c3a3683ef500aa49",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1409889,
+                "known_for_department": "Sound",
+                "name": "Jesse Ehredt",
+                "original_name": "Jesse Ehredt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ad1c1c39251417367009d8c",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1178650,
+                "known_for_department": "Art",
+                "name": "Wray Featherstone",
+                "original_name": "Wray Featherstone",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ad1c1de0e0a266c3100a955",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1965873,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Heather D. Gaither",
+                "original_name": "Heather D. Gaither",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67097e13e1db9ec4862e8fdf",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 236,
+                "name": "suicide"
+            },
+            {
+                "id": 162846,
+                "name": "ghost"
+            },
+            {
+                "id": 178646,
+                "name": "possesion"
+            },
+            {
+                "id": 192129,
+                "name": "haunt"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jacki Weaver",
+            "character": "Janet Morello"
+        },
+        {
+            "actor": "Liana Liberato",
+            "character": "Sam Richards"
+        },
+        {
+            "actor": "Danielle C. Ryan",
+            "character": "Sara Asher"
+        },
+        {
+            "actor": "Harrison Gilbertson",
+            "character": "Evan Asher"
+        },
+        {
+            "actor": "Brian Wimmer",
+            "character": "Alan Asher"
+        },
+        {
+            "actor": "Ella Harris",
+            "character": "Anita Asher"
+        },
+        {
+            "actor": "Sebastian Michael Barr",
+            "character": "Matthew Morello"
+        },
+        {
+            "actor": "Aline Andrade",
+            "character": "Young Woman"
+        },
+        {
+            "actor": "Kasia Kowalczyk",
+            "character": "Demon Creature"
+        },
+        {
+            "actor": "Jarrod Phillips",
+            "character": "Man"
+        },
+        {
+            "actor": "Brooke Kelly",
+            "character": "Oldest Morello Daughter"
+        },
+        {
+            "actor": "Carl Hadra",
+            "character": "Franklin Morello"
+        },
+        {
+            "actor": "Maggie Scott",
+            "character": "Youngest Morello Daughter"
+        },
+        {
+            "actor": "Jan Broberg",
+            "character": "Meredith Tanner"
+        },
+        {
+            "actor": "Ione Skye",
+            "character": "Emily Asher"
+        }
+    ]
+}

@@ -1,0 +1,656 @@
+{
+    "adult": false,
+    "backdrop_path": "/ahdc4lmShSJOkIGnbUI77xeh2Ze.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10402,
+            "name": "Music"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 333,
+    "imdb_id": "tt0303785",
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Bollywood/Hollywood",
+    "overview": "Rahul Seth is a dashing young millionaire who believes he is \"western\" enough to rebel against his mother and grandmother. They are not too keen about his Caucasian girlfriend Kimberly who, to make matters worse, is a pop star. Before you can say \"karmic intervention,\" Kimberly dies in a freak accident and Rahul is devastated. Instead of allowing him to mourn in peace, Rahul's mother sees the opportunity she's been waiting for. She threatens to call off his sister's wedding unless he finds himself a \"nice Indian girl.\" Rahul enlists the services of Sue, a fiercely independent escort whom he believes to be Hispanic, and therefore not \"married\" to the conventions taught to young Indian women. With a wink in her eye, Sue accepts the deal to pose as his Indian bride-to-be. She needs the money and having never been a fan of the typical Indian male, she feels her heart is safe. The charade begins....",
+    "popularity": 0.989,
+    "poster_path": "/pXIVHT73QG70nZZdsVMwa0OgFUK.jpg",
+    "production_companies": [
+        {
+            "id": 176,
+            "logo_path": null,
+            "name": "Different Tree Same Wood Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "2002-10-25",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Nothing is what it appears to be.",
+    "title": "Bollywood/Hollywood",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 28,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "14A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2002-10-25T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2002-10-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 86213,
+                "known_for_department": "Acting",
+                "name": "Rahul Khanna",
+                "original_name": "Rahul Khanna",
+                "popularity": 0.01,
+                "profile_path": "/eXRnf2aCfpb7gItoWtuIHz4lOEo.jpg",
+                "cast_id": 2,
+                "character": "Rahul Seth",
+                "credit_id": "52fe4239c3a36847f800d5bf",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52969,
+                "known_for_department": "Acting",
+                "name": "Lisa Ray",
+                "original_name": "Lisa Ray",
+                "popularity": 0.021,
+                "profile_path": "/38TeusBORjoJodJjwRjEIt8Zgx8.jpg",
+                "cast_id": 3,
+                "character": "Sue (Sunita) Singh",
+                "credit_id": "52fe4239c3a36847f800d5c3",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111808,
+                "known_for_department": "Acting",
+                "name": "Moushumi Chatterjee",
+                "original_name": "Moushumi Chatterjee",
+                "popularity": 0.017,
+                "profile_path": "/2ebWx8egKmrAsRPHOegEY6rwGaf.jpg",
+                "cast_id": 4,
+                "character": "Mummy ji",
+                "credit_id": "52fe4239c3a36847f800d5c7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 105652,
+                "known_for_department": "Acting",
+                "name": "Dina Pathak",
+                "original_name": "Dina Pathak",
+                "popularity": 0.01,
+                "profile_path": "/h3LWoC8nnJUJ2CZ2nCluGsI8o0P.jpg",
+                "cast_id": 5,
+                "character": "Grandma ji",
+                "credit_id": "52fe4239c3a36847f800d5cb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53377,
+                "known_for_department": "Acting",
+                "name": "Kulbhushan Kharbanda",
+                "original_name": "Kulbhushan Kharbanda",
+                "popularity": 0.017,
+                "profile_path": "/iboGvJPKZ98kU8YKgomn9Jpk0XN.jpg",
+                "cast_id": 6,
+                "character": "Mr. Singh",
+                "credit_id": "52fe4239c3a36847f800d5cf",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106461,
+                "known_for_department": "Acting",
+                "name": "Ranjit Chowdhry",
+                "original_name": "Ranjit Chowdhry",
+                "popularity": 0.012,
+                "profile_path": "/mVGR3pTvzBHUogZE7ZIwfF2FdK5.jpg",
+                "cast_id": 7,
+                "character": "Rocky",
+                "credit_id": "52fe4239c3a36847f800d5d3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82096,
+                "known_for_department": "Acting",
+                "name": "Jessica Paré",
+                "original_name": "Jessica Paré",
+                "popularity": 0.038,
+                "profile_path": "/d6Xz1zmV8L0Zt04shYKDy4xOPV.jpg",
+                "cast_id": 8,
+                "character": "Kimberly",
+                "credit_id": "52fe4239c3a36847f800d5d7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52975,
+                "known_for_department": "Acting",
+                "name": "Rishma Malik Scott",
+                "original_name": "Rishma Malik Scott",
+                "popularity": 0.005,
+                "profile_path": "/hv0ivqoPDaxxQZtJZc0JER8FKKJ.jpg",
+                "cast_id": 9,
+                "character": "Twinky",
+                "credit_id": "52fe4239c3a36847f800d5db",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111809,
+                "known_for_department": "Acting",
+                "name": "Jazz Mann",
+                "original_name": "Jazz Mann",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 10,
+                "character": "Bobby",
+                "credit_id": "52fe4239c3a36847f800d5df",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111810,
+                "known_for_department": "Acting",
+                "name": "Arjun Lombardi-Singh",
+                "original_name": "Arjun Lombardi-Singh",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Go (Govind)",
+                "credit_id": "52fe4239c3a36847f800d5e3",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111811,
+                "known_for_department": "Acting",
+                "name": "Leesa Gaspari",
+                "original_name": "Leesa Gaspari",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Lucy",
+                "credit_id": "52fe4239c3a36847f800d5e7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111812,
+                "known_for_department": "Acting",
+                "name": "Neelam Mansingh",
+                "original_name": "Neelam Mansingh",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Mrs. Singh",
+                "credit_id": "52fe4239c3a36847f800d5eb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111813,
+                "known_for_department": "Acting",
+                "name": "Mike Deol",
+                "original_name": "Mike Deol",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Killer Khalsa (as Killer Khalsa)",
+                "credit_id": "52fe4239c3a36847f800d5ef",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111814,
+                "known_for_department": "Acting",
+                "name": "Jolly Bader",
+                "original_name": "Jolly Bader",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Daddy ji",
+                "credit_id": "52fe4239c3a36847f800d5f3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111815,
+                "known_for_department": "Acting",
+                "name": "Ronica Sajnani",
+                "original_name": "Ronica Sajnani",
+                "popularity": 0.001,
+                "profile_path": "/u0fUyrZhesfqYEC72c3um1vSbF5.jpg",
+                "cast_id": 16,
+                "character": "Ronica",
+                "credit_id": "52fe4239c3a36847f800d5f7",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111816,
+                "known_for_department": "Acting",
+                "name": "Jeremy Chow",
+                "original_name": "Jeremy Chow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Brian",
+                "credit_id": "52fe4239c3a36847f800d5fb",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111817,
+                "known_for_department": "Acting",
+                "name": "Damon D'Oliveira",
+                "original_name": "Damon D'Oliveira",
+                "popularity": 0.007,
+                "profile_path": "/yr0vCI0qsdkcWNlf0nQICqbclcl.jpg",
+                "cast_id": 18,
+                "character": "Stevie Sood (as Damon D'Olivera)",
+                "credit_id": "52fe4239c3a36847f800d5ff",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111818,
+                "known_for_department": "Acting",
+                "name": "Nicky Gill",
+                "original_name": "Nicky Gill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Bobby's Mom",
+                "credit_id": "52fe4239c3a36847f800d603",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111819,
+                "known_for_department": "Acting",
+                "name": "Nicole Innis",
+                "original_name": "Nicole Innis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Nicole",
+                "credit_id": "52fe4239c3a36847f800d607",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111820,
+                "known_for_department": "Acting",
+                "name": "Rohan Bader",
+                "original_name": "Rohan Bader",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Young Rahul",
+                "credit_id": "52fe4239c3a36847f800d60b",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111821,
+                "known_for_department": "Acting",
+                "name": "Terry Stevens",
+                "original_name": "Terry Stevens",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Veronica",
+                "credit_id": "52fe4239c3a36847f800d60f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 111822,
+                "known_for_department": "Acting",
+                "name": "Rupinder Nagra",
+                "original_name": "Rupinder Nagra",
+                "popularity": 0.003,
+                "profile_path": "/haU3jWiOY1cn2lm3naxjn0lrdAD.jpg",
+                "cast_id": 23,
+                "character": "Rahul's Friend at Wedding",
+                "credit_id": "52fe4239c3a36847f800d613",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 111823,
+                "known_for_department": "Acting",
+                "name": "Anne Mroczkowski",
+                "original_name": "Anne Mroczkowski",
+                "popularity": 0.001,
+                "profile_path": "/6BobvJekqWog3SjU5x5qAiRgCDV.jpg",
+                "cast_id": 24,
+                "character": "Reporter",
+                "credit_id": "52fe4239c3a36847f800d617",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111824,
+                "known_for_department": "Acting",
+                "name": "Monisha Randhawa",
+                "original_name": "Monisha Randhawa",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Bobby's Sister",
+                "credit_id": "52fe4239c3a36847f800d61b",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 111825,
+                "known_for_department": "Acting",
+                "name": "Pragna Desai",
+                "original_name": "Pragna Desai",
+                "popularity": 0.007,
+                "profile_path": "/kvxUf1Pe6hGF5sZT458AZA4MfNf.jpg",
+                "cast_id": 26,
+                "character": "Pauline",
+                "credit_id": "52fe4239c3a36847f800d61f",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87328,
+                "known_for_department": "Acting",
+                "name": "Akshaye Khanna",
+                "original_name": "Akshaye Khanna",
+                "popularity": 0.019,
+                "profile_path": "/3CA3FFeeL8owpihTEn1BCvDHdSo.jpg",
+                "cast_id": 27,
+                "character": "Himself",
+                "credit_id": "52fe4239c3a36847f800d623",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2256613,
+                "known_for_department": "Acting",
+                "name": "Jodi McFadden",
+                "original_name": "Jodi McFadden",
+                "popularity": 0.001,
+                "profile_path": "/lbwFhNqUroCDQdgxKOt1LxI5ZgM.jpg",
+                "cast_id": 28,
+                "character": "Dancer",
+                "credit_id": "5c7c546192514137d746741d",
+                "order": 26
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4760,
+                "known_for_department": "Directing",
+                "name": "Deepa Mehta",
+                "original_name": "Deepa Mehta",
+                "popularity": 0.01,
+                "profile_path": "/d4EDC75axLzRLvwlSz7xMIrqQbv.jpg",
+                "credit_id": "52fe4239c3a36847f800d5bb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1640603,
+                "known_for_department": "Production",
+                "name": "David Hamilton",
+                "original_name": "David Hamilton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6760b1cc849914f36ebafa42",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 4327,
+                "name": "stroke of fate"
+            },
+            {
+                "id": 3817,
+                "name": "chance"
+            },
+            {
+                "id": 941,
+                "name": "tradition"
+            },
+            {
+                "id": 4227,
+                "name": "toronto, canada"
+            },
+            {
+                "id": 10855,
+                "name": "fate"
+            },
+            {
+                "id": 13027,
+                "name": "wedding"
+            },
+            {
+                "id": 18035,
+                "name": "family"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 215200,
+                "name": "pretend relationship"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Rahul Khanna",
+            "character": "Rahul Seth"
+        },
+        {
+            "actor": "Lisa Ray",
+            "character": "Sue (Sunita) Singh"
+        },
+        {
+            "actor": "Moushumi Chatterjee",
+            "character": "Mummy ji"
+        },
+        {
+            "actor": "Dina Pathak",
+            "character": "Grandma ji"
+        },
+        {
+            "actor": "Kulbhushan Kharbanda",
+            "character": "Mr. Singh"
+        },
+        {
+            "actor": "Ranjit Chowdhry",
+            "character": "Rocky"
+        },
+        {
+            "actor": "Jessica Paré",
+            "character": "Kimberly"
+        },
+        {
+            "actor": "Rishma Malik Scott",
+            "character": "Twinky"
+        },
+        {
+            "actor": "Jazz Mann",
+            "character": "Bobby"
+        },
+        {
+            "actor": "Arjun Lombardi-Singh",
+            "character": "Go (Govind)"
+        },
+        {
+            "actor": "Leesa Gaspari",
+            "character": "Lucy"
+        },
+        {
+            "actor": "Neelam Mansingh",
+            "character": "Mrs. Singh"
+        },
+        {
+            "actor": "Mike Deol",
+            "character": "Killer Khalsa (as Killer Khalsa)"
+        },
+        {
+            "actor": "Jolly Bader",
+            "character": "Daddy ji"
+        },
+        {
+            "actor": "Ronica Sajnani",
+            "character": "Ronica"
+        },
+        {
+            "actor": "Jeremy Chow",
+            "character": "Brian"
+        },
+        {
+            "actor": "Damon D'Oliveira",
+            "character": "Stevie Sood (as Damon D'Olivera)"
+        },
+        {
+            "actor": "Nicky Gill",
+            "character": "Bobby's Mom"
+        },
+        {
+            "actor": "Nicole Innis",
+            "character": "Nicole"
+        },
+        {
+            "actor": "Rohan Bader",
+            "character": "Young Rahul"
+        },
+        {
+            "actor": "Terry Stevens",
+            "character": "Veronica"
+        },
+        {
+            "actor": "Rupinder Nagra",
+            "character": "Rahul's Friend at Wedding"
+        },
+        {
+            "actor": "Anne Mroczkowski",
+            "character": "Reporter"
+        },
+        {
+            "actor": "Monisha Randhawa",
+            "character": "Bobby's Sister"
+        },
+        {
+            "actor": "Pragna Desai",
+            "character": "Pauline"
+        },
+        {
+            "actor": "Akshaye Khanna",
+            "character": "Himself"
+        },
+        {
+            "actor": "Jodi McFadden",
+            "character": "Dancer"
+        }
+    ]
+}

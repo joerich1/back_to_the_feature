@@ -1,0 +1,986 @@
+{
+    "adult": false,
+    "backdrop_path": "/6btbjv5Rbhpyq7ErwDYogZ4QLMj.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 40145,
+    "imdb_id": "tt0087759",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Murderock - Uccide a passo di danza",
+    "overview": "The world of dance can be brutal.  The rehearsals are grueling.  The competition is fierce.  At the Arts for Living Centre in New York City, the best of the best are dying for a part in a major production.  But only a select few will be chosen.  The selection process seems to be at the hands of mysterious killer who pierces women's bare breasts with a hatpin, puncturing their hearts.  Ambition and jealousy appear to be the motive, which makes everybody a suspect!",
+    "popularity": 2.363,
+    "poster_path": "/3cD5n2t7DEqXJmS6tYmY732oV7O.jpg",
+    "production_companies": [
+        {
+            "id": 49589,
+            "logo_path": null,
+            "name": "Scena Film",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1984-04-20",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Save the last dance... for hell!",
+    "title": "Murder-Rock: Dancing Death",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 60,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-05-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2009-06-24T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1984-04-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 50744,
+                "known_for_department": "Acting",
+                "name": "Olga Karlatos",
+                "original_name": "Olga Karlatos",
+                "popularity": 0.017,
+                "profile_path": "/cdsJAabO7RlSzzQzTYv49n245qG.jpg",
+                "cast_id": 2,
+                "character": "Candice Norman",
+                "credit_id": "52fe4583c3a36847f80cb815",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105337,
+                "known_for_department": "Acting",
+                "name": "Ray Lovelock",
+                "original_name": "Ray Lovelock",
+                "popularity": 0.01,
+                "profile_path": "/uZQa8foSrVLnTaBc3oQflriMawl.jpg",
+                "cast_id": 3,
+                "character": "George Webb",
+                "credit_id": "52fe4583c3a36847f80cb819",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78714,
+                "known_for_department": "Acting",
+                "name": "Cosimo Cinieri",
+                "original_name": "Cosimo Cinieri",
+                "popularity": 0.005,
+                "profile_path": "/msFwcA6QCDDRgMzQZcAWNWSsVIE.jpg",
+                "cast_id": 5,
+                "character": "Lt. Borges",
+                "credit_id": "52fe4583c3a36847f80cb81d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239659,
+                "known_for_department": "Acting",
+                "name": "Giuseppe Mannajuolo",
+                "original_name": "Giuseppe Mannajuolo",
+                "popularity": 0.001,
+                "profile_path": "/rHWOm8teq8PzCo6SdZ4gOYSfBX6.jpg",
+                "cast_id": 6,
+                "character": "Prof. Davis",
+                "credit_id": "52fe4583c3a36847f80cb821",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 99194,
+                "known_for_department": "Acting",
+                "name": "Claudio Cassinelli",
+                "original_name": "Claudio Cassinelli",
+                "popularity": 0.008,
+                "profile_path": "/bjHHBnmnWtUpPe9XhFGZWhD6oz2.jpg",
+                "cast_id": 7,
+                "character": "Dick Gibson",
+                "credit_id": "566a75f092514173fc008574",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1547573,
+                "known_for_department": "Acting",
+                "name": "Berna Maria do Carmo",
+                "original_name": "Berna Maria do Carmo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Joan",
+                "credit_id": "566a76049251415eed003e79",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1547574,
+                "known_for_department": "Acting",
+                "name": "Belinda Busato",
+                "original_name": "Belinda Busato",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Gloria Weston",
+                "credit_id": "566a7611c3a3683699008254",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1547575,
+                "known_for_department": "Acting",
+                "name": "Maria Vittoria Tolazzi",
+                "original_name": "Maria Vittoria Tolazzi",
+                "popularity": 0.001,
+                "profile_path": "/e41a6IWxbkeKU69ap9WbR4pDCdN.jpg",
+                "cast_id": 10,
+                "character": "Jill",
+                "credit_id": "566a761ec3a3683f560033e2",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1041366,
+                "known_for_department": "Acting",
+                "name": "Geretta Geretta",
+                "original_name": "Geretta Geretta",
+                "popularity": 0.01,
+                "profile_path": "/fZek15BbqFu9SqVNaXsiG02Te5A.jpg",
+                "cast_id": 11,
+                "character": "Margie (as Geretta Marie Fields)",
+                "credit_id": "566a762b925141664f003c08",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101578,
+                "known_for_department": "Acting",
+                "name": "Christian Borromeo",
+                "original_name": "Christian Borromeo",
+                "popularity": 0.007,
+                "profile_path": "/ypvCH46eTJvsBTlMd8D74AGru6z.jpg",
+                "cast_id": 12,
+                "character": "Willy Stark (as Cristian Borromeo)",
+                "credit_id": "566a763cc3a36834c1004315",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52063,
+                "known_for_department": "Acting",
+                "name": "Al Cliver",
+                "original_name": "Al Cliver",
+                "popularity": 0.019,
+                "profile_path": "/rXLF95N8awuRNPBalYVs9BJC3c6.jpg",
+                "cast_id": 13,
+                "character": "Voice Analyst (uncredited)",
+                "credit_id": "566a7657c3a36826470037d1",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "cast_id": 14,
+                "character": "Phil, the Agent (uncredited)",
+                "credit_id": "566a7665c3a36834c100431b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2058300,
+                "known_for_department": "Acting",
+                "name": "Carla Buzzanca",
+                "original_name": "Carla Buzzanca",
+                "popularity": 0.001,
+                "profile_path": "/h7V8R41IF6ablM6eWcs004qbkNP.jpg",
+                "cast_id": 24,
+                "character": "Janice (uncredited)",
+                "credit_id": "5b16ddd0c3a368532e019ded",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2058301,
+                "known_for_department": "Acting",
+                "name": "Angela Lemerman",
+                "original_name": "Angela Lemerman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Susan (uncredited)",
+                "credit_id": "5b16dde3925141782b0157bf",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1623669,
+                "known_for_department": "Acting",
+                "name": "Robert Gligorov",
+                "original_name": "Robert Gligorov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 55,
+                "character": "Bert",
+                "credit_id": "5fc3285062fcd3003fbe1204",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2874187,
+                "known_for_department": "Acting",
+                "name": "Carlo Caldera",
+                "original_name": "Carlo Caldera",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 56,
+                "character": "Bob",
+                "credit_id": "5fc3286e63536a00402572a1",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1157355,
+                "known_for_department": "Acting",
+                "name": "Riccardo Parisio Perrotti",
+                "original_name": "Riccardo Parisio Perrotti",
+                "popularity": 0.004,
+                "profile_path": "/lAbgmDJrtuEXSh6WCSYh7IuENTA.jpg",
+                "cast_id": 57,
+                "character": "Steiner",
+                "credit_id": "5fc328856c449c003e3899d8",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84304,
+                "known_for_department": "Acting",
+                "name": "Giovanni De Nava",
+                "original_name": "Giovanni De Nava",
+                "popularity": 0.002,
+                "profile_path": "/AkTf54vtjekjD0bDmJ1Fha7Wu5n.jpg",
+                "cast_id": 58,
+                "character": "Hotel Receptionist",
+                "credit_id": "5fc3289a420228003dc171cc",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102014,
+                "known_for_department": "Acting",
+                "name": "Silvia Collatina",
+                "original_name": "Silvia Collatina",
+                "popularity": 0.01,
+                "profile_path": "/5XuNwceb3A6McHQHSBcOZSebCwe.jpg",
+                "cast_id": 59,
+                "character": "Molly",
+                "credit_id": "5fc328d3a67254003e710f16",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3822233,
+                "known_for_department": "Acting",
+                "name": "Carmo Johnson",
+                "original_name": "Carmo Johnson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 60,
+                "character": "Dancer",
+                "credit_id": "63929966cee2f6009311034b",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "52fe4583c3a36847f80cb811",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55647,
+                "known_for_department": "Writing",
+                "name": "Gianfranco Clerici",
+                "original_name": "Gianfranco Clerici",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "566a767ec3a36834c1004321",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53197,
+                "known_for_department": "Editing",
+                "name": "Vincenzo Tomassi",
+                "original_name": "Vincenzo Tomassi",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "566a76f892514169e2003df8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56722,
+                "known_for_department": "Writing",
+                "name": "Vincenzo Mannino",
+                "original_name": "Vincenzo Mannino",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "566a76a592514173fc008591",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59622,
+                "known_for_department": "Production",
+                "name": "Augusto Caminito",
+                "original_name": "Augusto Caminito",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "566a76b9925141664f003c2a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98776,
+                "known_for_department": "Writing",
+                "name": "Roberto Gianviti",
+                "original_name": "Roberto Gianviti",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "566a7697c3a3682e98003665",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "566a7689c3a3683f560033f3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547576,
+                "known_for_department": "Art",
+                "name": "Mauro Passi",
+                "original_name": "Mauro Passi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "566a76eb9251417411008337",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 548768,
+                "known_for_department": "Sound",
+                "name": "Keith Emerson",
+                "original_name": "Keith Emerson",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "566a76d39251417383003982",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2288545,
+                "known_for_department": "Camera",
+                "name": "Guido Tosi",
+                "original_name": "Guido Tosi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe500328b9003f68fea7",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "5fc2fc30b84f94003f0a8fdd",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1304696,
+                "known_for_department": "Production",
+                "name": "Sergio Iacobis",
+                "original_name": "Sergio Iacobis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fd7763536a004124fe78",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55647,
+                "known_for_department": "Writing",
+                "name": "Gianfranco Clerici",
+                "original_name": "Gianfranco Clerici",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5fc2fc03894ed60041fd8e78",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1547576,
+                "known_for_department": "Art",
+                "name": "Mauro Passi",
+                "original_name": "Mauro Passi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fcd33a340b0041dd17aa",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632911,
+                "known_for_department": "Production",
+                "name": "Piero Lazzari",
+                "original_name": "Piero Lazzari",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5fc2fd85b84f9400400a2201",
+                "department": "Production",
+                "job": "Unit Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 32911,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michaela Gisotti",
+                "original_name": "Michaela Gisotti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fce5813cb600427571d7",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1706255,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Maura Turchi",
+                "original_name": "Maura Turchi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fd2e894ed60041fd8f9d",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 582413,
+                "known_for_department": "Sound",
+                "name": "Gianni D'Amico",
+                "original_name": "Gianni D'Amico",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fdb20328b9003e68aac1",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1408870,
+                "known_for_department": "Camera",
+                "name": "Enrico Appetito",
+                "original_name": "Enrico Appetito",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe13a885870042071fe1",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2339501,
+                "known_for_department": "Production",
+                "name": "Luigi Scardino",
+                "original_name": "Luigi Scardino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2ff13894ed60040fdc9c4",
+                "department": "Production",
+                "job": "Administration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1350318,
+                "known_for_department": "Production",
+                "name": "Gabriele Silvestri",
+                "original_name": "Gabriele Silvestri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fc6aa67254003f70fd1a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 933326,
+                "known_for_department": "Camera",
+                "name": "Giuseppe Pinori",
+                "original_name": "Giuseppe Pinori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fcad5800c4003ef3e0c2",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56722,
+                "known_for_department": "Writing",
+                "name": "Vincenzo Mannino",
+                "original_name": "Vincenzo Mannino",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5fc2fc17d2f5b5003fd6e1b3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1645178,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Franco Casagni",
+                "original_name": "Franco Casagni",
+                "popularity": 0.001,
+                "profile_path": "/sNzpBdal53vl9s2Jx2aUAh7eoGS.jpg",
+                "credit_id": "5fc2fd20761421003f11eb13",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 1632862,
+                "known_for_department": "Directing",
+                "name": "Camilla Fulci",
+                "original_name": "Camilla Fulci",
+                "popularity": 0.796,
+                "profile_path": null,
+                "credit_id": "5fc2feaf3a340b0040dd51c0",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1792628,
+                "known_for_department": "Sound",
+                "name": "Eros Giustini",
+                "original_name": "Eros Giustini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fdbfb84f9400410a5d5c",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2874071,
+                "known_for_department": "Sound",
+                "name": "Eliano Negri",
+                "original_name": "Eliano Negri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fdccb84f9400400a2231",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1721958,
+                "known_for_department": "Directing",
+                "name": "Patrizia Zulini",
+                "original_name": "Patrizia Zulini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2febdcf9ba30040c2592e",
+                "department": "Directing",
+                "job": "Continuity"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1537150,
+                "known_for_department": "Directing",
+                "name": "Roberto Giandalia",
+                "original_name": "Roberto Giandalia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fda562fcd3003fbdcaad",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1302370,
+                "known_for_department": "Production",
+                "name": "Tullio Lullo",
+                "original_name": "Tullio Lullo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fd933a340b003fdcdc71",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1712517,
+                "known_for_department": "Editing",
+                "name": "Massimo Cataldo",
+                "original_name": "Massimo Cataldo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe7e3a340b003edd797d",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2049965,
+                "known_for_department": "Editing",
+                "name": "Giancarlo Tiburzi",
+                "original_name": "Giancarlo Tiburzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe8eb84f9400400a2304",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2874075,
+                "known_for_department": "Crew",
+                "name": "Nadia Chiatti",
+                "original_name": "Nadia Chiatti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fed8875d1a003ef1be89",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2005225,
+                "known_for_department": "Camera",
+                "name": "Mariano Cafiero",
+                "original_name": "Mariano Cafiero",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe2e4d6791003dd8af0a",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1663893,
+                "known_for_department": "Camera",
+                "name": "Silvano Tessicini",
+                "original_name": "Silvano Tessicini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fe3db84f9400400a22b8",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1769439,
+                "known_for_department": "Sound",
+                "name": "Maurizio Guarini",
+                "original_name": "Maurizio Guarini",
+                "popularity": 0.001,
+                "profile_path": "/e7wtHOWsFVNs9WH2fLypDJ2xHm5.jpg",
+                "credit_id": "5fc2fe9f63536a0040253238",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2874074,
+                "known_for_department": "Production",
+                "name": "Umberto Buffolo",
+                "original_name": "Umberto Buffolo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fc2fecba67254003f71016c",
+                "department": "Production",
+                "job": "Administration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 23956,
+                "known_for_department": "Art",
+                "name": "Paolo Biagetti",
+                "original_name": "Paolo Biagetti",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5fc2fcc15800c4003ef3e0ef",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 12570,
+                "name": "whodunit"
+            },
+            {
+                "id": 217879,
+                "name": "dance studio"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Olga Karlatos",
+            "character": "Candice Norman"
+        },
+        {
+            "actor": "Ray Lovelock",
+            "character": "George Webb"
+        },
+        {
+            "actor": "Cosimo Cinieri",
+            "character": "Lt. Borges"
+        },
+        {
+            "actor": "Giuseppe Mannajuolo",
+            "character": "Prof. Davis"
+        },
+        {
+            "actor": "Claudio Cassinelli",
+            "character": "Dick Gibson"
+        },
+        {
+            "actor": "Berna Maria do Carmo",
+            "character": "Joan"
+        },
+        {
+            "actor": "Belinda Busato",
+            "character": "Gloria Weston"
+        },
+        {
+            "actor": "Maria Vittoria Tolazzi",
+            "character": "Jill"
+        },
+        {
+            "actor": "Geretta Geretta",
+            "character": "Margie (as Geretta Marie Fields)"
+        },
+        {
+            "actor": "Christian Borromeo",
+            "character": "Willy Stark (as Cristian Borromeo)"
+        },
+        {
+            "actor": "Al Cliver",
+            "character": "Voice Analyst (uncredited)"
+        },
+        {
+            "actor": "Lucio Fulci",
+            "character": "Phil, the Agent (uncredited)"
+        },
+        {
+            "actor": "Carla Buzzanca",
+            "character": "Janice (uncredited)"
+        },
+        {
+            "actor": "Angela Lemerman",
+            "character": "Susan (uncredited)"
+        },
+        {
+            "actor": "Robert Gligorov",
+            "character": "Bert"
+        },
+        {
+            "actor": "Carlo Caldera",
+            "character": "Bob"
+        },
+        {
+            "actor": "Riccardo Parisio Perrotti",
+            "character": "Steiner"
+        },
+        {
+            "actor": "Giovanni De Nava",
+            "character": "Hotel Receptionist"
+        },
+        {
+            "actor": "Silvia Collatina",
+            "character": "Molly"
+        },
+        {
+            "actor": "Carmo Johnson",
+            "character": "Dancer"
+        }
+    ]
+}

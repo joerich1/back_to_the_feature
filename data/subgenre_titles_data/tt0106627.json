@@ -1,0 +1,631 @@
+{
+    "adult": false,
+    "backdrop_path": "/pbm674fhSegfJ8HEZX2cSwxjBtW.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 33408,
+    "imdb_id": "tt0106627",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Crush",
+    "overview": "A precocious and obsessive teenager develops a crush on a naive writer with harrowing consequences.",
+    "popularity": 3.78,
+    "poster_path": "/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg",
+    "production_companies": [
+        {
+            "id": 10210,
+            "logo_path": "/gHaNnHd4LjNAoAG5aJthVrdAjZo.png",
+            "name": "Morgan Creek Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1993-04-02",
+    "revenue": 13609396,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "He thought it was just a crush. He was dead wrong.",
+    "title": "The Crush",
+    "video": false,
+    "vote_average": 6.617,
+    "vote_count": 507,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1994-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-04-26T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-09-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1993-04-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2130,
+                "known_for_department": "Acting",
+                "name": "Cary Elwes",
+                "original_name": "Cary Elwes",
+                "popularity": 0.107,
+                "profile_path": "/9UszBdQJ9PmyBydIeIBxlStozhW.jpg",
+                "cast_id": 1,
+                "character": "Nick Eliot",
+                "credit_id": "52fe45159251416c91026ee1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5588,
+                "known_for_department": "Acting",
+                "name": "Alicia Silverstone",
+                "original_name": "Alicia Silverstone",
+                "popularity": 0.068,
+                "profile_path": "/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg",
+                "cast_id": 2,
+                "character": "Adrian Forrester",
+                "credit_id": "52fe45159251416c91026ee5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 56978,
+                "known_for_department": "Acting",
+                "name": "Jennifer Rubin",
+                "original_name": "Jennifer Rubin",
+                "popularity": 0.029,
+                "profile_path": "/bcXBSyltyTNebwJwVxTJwvjzQDI.jpg",
+                "cast_id": 3,
+                "character": "Amy Maddik",
+                "credit_id": "52fe45159251416c91026ee9",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2115,
+                "known_for_department": "Acting",
+                "name": "Kurtwood Smith",
+                "original_name": "Kurtwood Smith",
+                "popularity": 0.055,
+                "profile_path": "/7dqsk4NYbNZNnmppv2zPuf1hKBn.jpg",
+                "cast_id": 4,
+                "character": "Cliff Forrester",
+                "credit_id": "52fe45159251416c91026eed",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35468,
+                "known_for_department": "Acting",
+                "name": "Amber Benson",
+                "original_name": "Amber Benson",
+                "popularity": 0.026,
+                "profile_path": "/kjTTZsimC54A4F4pQnimqy1DdOr.jpg",
+                "cast_id": 6,
+                "character": "Cheyenne",
+                "credit_id": "52fe45159251416c91026ef1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44296,
+                "known_for_department": "Acting",
+                "name": "Gwynyth Walsh",
+                "original_name": "Gwynyth Walsh",
+                "popularity": 0.04,
+                "profile_path": "/eG7KpwEb85jVxw7aeF8MjcUpfkW.jpg",
+                "cast_id": 9,
+                "character": "Liv Forrester",
+                "credit_id": "5458249e0e0a26116f0007be",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1477651,
+                "known_for_department": "Acting",
+                "name": "Deborah Hancock",
+                "original_name": "Deborah Hancock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Samantha",
+                "credit_id": "576e5b0cc3a36821f9001891",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1055157,
+                "known_for_department": "Acting",
+                "name": "Beverley Elliott",
+                "original_name": "Beverley Elliott",
+                "popularity": 0.02,
+                "profile_path": "/blOAhA4ImRF7U0fodHx8WegkUSG.jpg",
+                "cast_id": 25,
+                "character": "Tex Murphy",
+                "credit_id": "576e5b1bc3a36819e300183a",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41436,
+                "known_for_department": "Acting",
+                "name": "Andrew Airlie",
+                "original_name": "Andrew Airlie",
+                "popularity": 0.034,
+                "profile_path": "/ksxnvf68ohto7VWO4eE3VgTQAuc.jpg",
+                "cast_id": 26,
+                "character": "Dr. Pollard",
+                "credit_id": "576e5b28c3a3684695000ad2",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 53716,
+                "known_for_department": "Acting",
+                "name": "Sheila Paterson",
+                "original_name": "Sheila Paterson",
+                "popularity": 0.01,
+                "profile_path": "/j48lpREKpJNz3EGJkPOuajAhUpt.jpg",
+                "cast_id": 27,
+                "character": "Mrs. Tinkerman",
+                "credit_id": "576e5b37925141245c000a24",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65811,
+                "known_for_department": "Acting",
+                "name": "Brent Chapman",
+                "original_name": "Brent Chapman",
+                "popularity": 0.015,
+                "profile_path": "/1DNhHT7MwKBHK7LAzAbOp5YMDV0.jpg",
+                "cast_id": 28,
+                "character": "Steven Tinkerman",
+                "credit_id": "576e5b48925141237b000abc",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38565,
+                "known_for_department": "Acting",
+                "name": "James Kidnie",
+                "original_name": "James Kidnie",
+                "popularity": 0.03,
+                "profile_path": "/iq8ZPSTUq7tbLzll0smHzve9RrT.jpg",
+                "cast_id": 29,
+                "character": "Attorney",
+                "credit_id": "576e5b56c3a36845b7000a16",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27122,
+                "known_for_department": "Acting",
+                "name": "Matthew Walker",
+                "original_name": "Matthew Walker",
+                "popularity": 0.023,
+                "profile_path": "/rY1CEJXmbgF2wmnKGNu8ww7AzNV.jpg",
+                "cast_id": 30,
+                "character": "Michael",
+                "credit_id": "5cdb1aa50e0a26045ccef33d",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27138,
+                "known_for_department": "Acting",
+                "name": "Doug Abrahams",
+                "original_name": "Doug Abrahams",
+                "popularity": 0.021,
+                "profile_path": "/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg",
+                "cast_id": 31,
+                "character": "Hospital Room Cop",
+                "credit_id": "5ecc761335818f0020c013fd",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129941,
+                "known_for_department": "Writing",
+                "name": "Alan Shapiro",
+                "original_name": "Alan Shapiro",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe45159251416c91026ef7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129941,
+                "known_for_department": "Writing",
+                "name": "Alan Shapiro",
+                "original_name": "Alan Shapiro",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe45159251416c91026efd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1136056,
+                "known_for_department": "Art",
+                "name": "Michael S. Bolton",
+                "original_name": "Michael S. Bolton",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5727955bc3a36821480011e6",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 792,
+                "known_for_department": "Camera",
+                "name": "Bruce Surtees",
+                "original_name": "Bruce Surtees",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "57279541c3a3681da2000489",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4700,
+                "known_for_department": "Production",
+                "name": "James G. Robinson",
+                "original_name": "James G. Robinson",
+                "popularity": 0.005,
+                "profile_path": "/yVXjCeQvFkvhilJvUe1Z7R1MMTM.jpg",
+                "credit_id": "57279515c3a3684b58000018",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 15224,
+                "known_for_department": "Production",
+                "name": "Michael MacDonald",
+                "original_name": "Michael MacDonald",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "572795399251415f10000c08",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 599,
+                "known_for_department": "Production",
+                "name": "Marci Liroff",
+                "original_name": "Marci Liroff",
+                "popularity": 0.004,
+                "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+                "credit_id": "572795239251417744006b17",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10857,
+                "known_for_department": "Art",
+                "name": "Eric Fraser",
+                "original_name": "Eric Fraser",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "572795619251415f10000c12",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5912,
+                "known_for_department": "Sound",
+                "name": "Graeme Revell",
+                "original_name": "Graeme Revell",
+                "popularity": 0.02,
+                "profile_path": "/xe8K3zV1rhep2OV1ihRzMCBaprQ.jpg",
+                "credit_id": "57279504c3a3685bd9003155",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91467,
+                "known_for_department": "Production",
+                "name": "Joel Segal",
+                "original_name": "Joel Segal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5727950d9251416dfb001a80",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27158,
+                "known_for_department": "Art",
+                "name": "Paul Joyal",
+                "original_name": "Paul Joyal",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5727956bc3a3685871003b0f",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1614319,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sharon Purdy",
+                "original_name": "Sharon Purdy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "572795729251410387002974",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4507,
+                "known_for_department": "Production",
+                "name": "Gary Barber",
+                "original_name": "Gary Barber",
+                "popularity": 0.012,
+                "profile_path": "/5hl0IF9xGyWojIQj0kMrWh88BNw.jpg",
+                "credit_id": "5727952e9251417744006b19",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10935,
+                "known_for_department": "Editing",
+                "name": "Ian Crafford",
+                "original_name": "Ian Crafford",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "572795489251417744006b1d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 599,
+                "known_for_department": "Production",
+                "name": "Marci Liroff",
+                "original_name": "Marci Liroff",
+                "popularity": 0.004,
+                "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+                "credit_id": "57279553c3a3685871003b0b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 113208,
+                "known_for_department": "Crew",
+                "name": "Melissa R. Stubbs",
+                "original_name": "Melissa R. Stubbs",
+                "popularity": 0.016,
+                "profile_path": "/ZBRTEgjBIc03yWnQHhVL0TGZA3.jpg",
+                "credit_id": "64600bcddbbb4200fc87208c",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2087,
+                "name": "lolita"
+            },
+            {
+                "id": 736,
+                "name": "journalist"
+            },
+            {
+                "id": 1523,
+                "name": "obsession"
+            },
+            {
+                "id": 9740,
+                "name": "sociopath"
+            },
+            {
+                "id": 9748,
+                "name": "revenge"
+            },
+            {
+                "id": 10809,
+                "name": "teenage girl"
+            },
+            {
+                "id": 14669,
+                "name": "older man younger woman relationship"
+            },
+            {
+                "id": 159278,
+                "name": "obsessive love"
+            },
+            {
+                "id": 207767,
+                "name": "erotic thriller"
+            },
+            {
+                "id": 238267,
+                "name": "jail bait"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Cary Elwes",
+            "character": "Nick Eliot"
+        },
+        {
+            "actor": "Alicia Silverstone",
+            "character": "Adrian Forrester"
+        },
+        {
+            "actor": "Jennifer Rubin",
+            "character": "Amy Maddik"
+        },
+        {
+            "actor": "Kurtwood Smith",
+            "character": "Cliff Forrester"
+        },
+        {
+            "actor": "Amber Benson",
+            "character": "Cheyenne"
+        },
+        {
+            "actor": "Gwynyth Walsh",
+            "character": "Liv Forrester"
+        },
+        {
+            "actor": "Deborah Hancock",
+            "character": "Samantha"
+        },
+        {
+            "actor": "Beverley Elliott",
+            "character": "Tex Murphy"
+        },
+        {
+            "actor": "Andrew Airlie",
+            "character": "Dr. Pollard"
+        },
+        {
+            "actor": "Sheila Paterson",
+            "character": "Mrs. Tinkerman"
+        },
+        {
+            "actor": "Brent Chapman",
+            "character": "Steven Tinkerman"
+        },
+        {
+            "actor": "James Kidnie",
+            "character": "Attorney"
+        },
+        {
+            "actor": "Matthew Walker",
+            "character": "Michael"
+        },
+        {
+            "actor": "Doug Abrahams",
+            "character": "Hospital Room Cop"
+        }
+    ]
+}

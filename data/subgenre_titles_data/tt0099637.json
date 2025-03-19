@@ -1,0 +1,674 @@
+{
+    "adult": false,
+    "backdrop_path": "/kuBteThO5WTAlZrVz3N3RGOMc7X.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 30870,
+    "imdb_id": "tt0099637",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Un gatto nel cervello",
+    "overview": "The master of Italian horror, Lucio Fulci, stars as... Lucio Fulci, a filmmaker with a reputation for gruesome horror films. His body of work has started to plague his mental state, and he is haunted by the grotesque set-pieces his mind has conjured up during his career. His psychiatrist, Egon Schwarz, uses a hypnotised Fulci as an avatar to carry out his own disturbed fantasies, in hopes of ruining the master’s reputation once and for all.",
+    "popularity": 3.541,
+    "poster_path": "/7slcRVlqFthzjTbnXFLoQ7LE053.jpg",
+    "production_companies": [
+        {
+            "id": 10690,
+            "logo_path": null,
+            "name": "Executive Cine TV",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1990-08-08",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hitchcock invented the thriller… Fulci perfected it!",
+    "title": "A Cat in the Brain",
+    "video": false,
+    "vote_average": 5.764,
+    "vote_count": 144,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-08-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2017-10-23T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "VM18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-08-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD Release",
+                        "release_date": "2009-03-31T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "cast_id": 7,
+                "character": "Dr. Lucio Fulci",
+                "credit_id": "52fe44459251416c9100acf3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107179,
+                "known_for_department": "Acting",
+                "name": "David L. Thompson",
+                "original_name": "David L. Thompson",
+                "popularity": 0.001,
+                "profile_path": "/eHfgfLpjnZjMynJ1BpcF2pub7Pz.jpg",
+                "cast_id": 8,
+                "character": "Professor Egon Schwarz",
+                "credit_id": "52fe44459251416c9100acf7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 105333,
+                "known_for_department": "Acting",
+                "name": "Jeoffrey Kennedy",
+                "original_name": "Jeoffrey Kennedy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Officer Gabrielli",
+                "credit_id": "52fe44459251416c9100acfb",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99536,
+                "known_for_department": "Acting",
+                "name": "Malisa Longo",
+                "original_name": "Malisa Longo",
+                "popularity": 0.028,
+                "profile_path": "/gTxjWPBlcSFHOWYvk2io2soRxMa.jpg",
+                "cast_id": 10,
+                "character": "Katya Schwarz",
+                "credit_id": "52fe44459251416c9100acff",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99549,
+                "known_for_department": "Acting",
+                "name": "Paola Cozzo",
+                "original_name": "Paola Cozzo",
+                "popularity": 0.004,
+                "profile_path": "/yFTbJ6EXUqEYXJWvFxTE29Brco1.jpg",
+                "cast_id": 11,
+                "character": "Nurse Lilly",
+                "credit_id": "52fe44459251416c9100ad03",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 107180,
+                "known_for_department": "Acting",
+                "name": "Shillett Angel",
+                "original_name": "Shillett Angel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Filippo the Producer",
+                "credit_id": "52fe44459251416c9100ad07",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31896,
+                "known_for_department": "Acting",
+                "name": "Brett Halsey",
+                "original_name": "Brett Halsey",
+                "popularity": 0.021,
+                "profile_path": "/mPfkWXhMJTiNEOAGVBNxngM9YW9.jpg",
+                "cast_id": 13,
+                "character": "Human Monster",
+                "credit_id": "52fe44459251416c9100ad0b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106638,
+                "known_for_department": "Acting",
+                "name": "Robert Egon",
+                "original_name": "Robert Egon",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Himself / Second Monster",
+                "credit_id": "52fe44459251416c9100ad0f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102174,
+                "known_for_department": "Acting",
+                "name": "Ria De Simone",
+                "original_name": "Ria De Simone",
+                "popularity": 0.005,
+                "profile_path": "/v3F2gecrggtnEq1TqpeXXODUPSS.jpg",
+                "cast_id": 15,
+                "character": "Sopran",
+                "credit_id": "52fe44459251416c9100ad13",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102173,
+                "known_for_department": "Acting",
+                "name": "Sacha Darwin",
+                "original_name": "Sacha Darwin",
+                "popularity": 0.007,
+                "profile_path": "/mTfiuik8W8b2XRbwPmKmFn1gmY7.jpg",
+                "cast_id": 16,
+                "character": "Woman in the Oven",
+                "credit_id": "52fe44459251416c9100ad17",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 101576,
+                "known_for_department": "Acting",
+                "name": "Annie Belle",
+                "original_name": "Annie Belle",
+                "popularity": 0.013,
+                "profile_path": "/rvEGORjrir8Whp53S5k3lGSJPJ8.jpg",
+                "cast_id": 17,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad1b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102175,
+                "known_for_department": "Acting",
+                "name": "Marco Di Stefano",
+                "original_name": "Marco Di Stefano",
+                "popularity": 0.001,
+                "profile_path": "/oEqmolsAmT5UfgyJstHbVCuVCym.jpg",
+                "cast_id": 18,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad1f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 106639,
+                "known_for_department": "Acting",
+                "name": "Lubka Lenzi",
+                "original_name": "Lubka Lenzi",
+                "popularity": 0.001,
+                "profile_path": "/ucI4k5ofMpbBCp46fRpx8Xh5rUu.jpg",
+                "cast_id": 19,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad23",
+                "order": 12
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 102027,
+                "known_for_department": "Acting",
+                "name": "Jessica Moore",
+                "original_name": "Jessica Moore",
+                "popularity": 15.923,
+                "profile_path": "/oqXNgbdzLTeYeXrS1tTluB2T3Lb.jpg",
+                "cast_id": 20,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad27",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101549,
+                "known_for_department": "Acting",
+                "name": "Paul Müller",
+                "original_name": "Paul Müller",
+                "popularity": 0.011,
+                "profile_path": "/sOtKH3ouYaWH6EzNdfxNqCT6zUY.jpg",
+                "cast_id": 21,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad2b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39166,
+                "known_for_department": "Acting",
+                "name": "Maurice Poli",
+                "original_name": "Maurice Poli",
+                "popularity": 0.007,
+                "profile_path": "/9mfUPfLb08sjbxfOlTwaByxAw1H.jpg",
+                "cast_id": 22,
+                "character": "Nightmare Victim",
+                "credit_id": "52fe44459251416c9100ad2f",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2766172,
+                "known_for_department": "Art",
+                "name": "Vincenzo Luzzi",
+                "original_name": "Vincenzo Luzzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Man with Chainsaw",
+                "credit_id": "603b7c8e13a320004d8ee50f",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59366,
+                "known_for_department": "Sound",
+                "name": "Fabio Frizzi",
+                "original_name": "Fabio Frizzi",
+                "popularity": 0.001,
+                "profile_path": "/oern7qrqjQsvP9WU7Gg66QMP3KT.jpg",
+                "credit_id": "52fe44459251416c9100acd7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "52fe44459251416c9100acef",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102025,
+                "known_for_department": "Production",
+                "name": "Antonio Lucidi",
+                "original_name": "Antonio Lucidi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44459251416c9100acdd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102172,
+                "known_for_department": "Production",
+                "name": "Luigi Nannerini",
+                "original_name": "Luigi Nannerini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44459251416c9100ace3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32209,
+                "known_for_department": "Writing",
+                "name": "Giovanni Simonelli",
+                "original_name": "Giovanni Simonelli",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "58bc1613c3a368515d01d5be",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1770438,
+                "known_for_department": "Directing",
+                "name": "Roberto Lucidi",
+                "original_name": "Roberto Lucidi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "58bc16cc925141126a01d175",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31776,
+                "known_for_department": "Writing",
+                "name": "Antonio Tentori",
+                "original_name": "Antonio Tentori",
+                "popularity": 0.002,
+                "profile_path": "/6FnVE5fb4QxNIoIz7rrnKLzeNve.jpg",
+                "credit_id": "58bc1677c3a3686686033ec6",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "58bc1657925141126a01d0f8",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32209,
+                "known_for_department": "Writing",
+                "name": "Giovanni Simonelli",
+                "original_name": "Giovanni Simonelli",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "58bc1667c3a368666b034e01",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29433,
+                "known_for_department": "Directing",
+                "name": "Lucio Fulci",
+                "original_name": "Lucio Fulci",
+                "popularity": 0.029,
+                "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+                "credit_id": "58bc15ffc3a368515d01d5a3",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1632863,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Maria Teresa Carrera",
+                "original_name": "Maria Teresa Carrera",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "597168a7c3a368159300d68e",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102115,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giuseppe Ferranti",
+                "original_name": "Giuseppe Ferranti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "597168bb9251414fde00c6e9",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53197,
+                "known_for_department": "Editing",
+                "name": "Vincenzo Tomassi",
+                "original_name": "Vincenzo Tomassi",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "597168999251412d410430c2",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 239307,
+                "known_for_department": "Camera",
+                "name": "Alessandro Grossi",
+                "original_name": "Alessandro Grossi",
+                "popularity": 0.001,
+                "profile_path": "/A8lGoHeFu2trBMRvQccb4tsC7L.jpg",
+                "credit_id": "59716885c3a3686fc702c614",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2766172,
+                "known_for_department": "Art",
+                "name": "Vincenzo Luzzi",
+                "original_name": "Vincenzo Luzzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "603b7ce6d9554b00519303d1",
+                "department": "Camera",
+                "job": "Grip"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3030,
+                "name": "nightmare"
+            },
+            {
+                "id": 4931,
+                "name": "pig"
+            },
+            {
+                "id": 977,
+                "name": "cat"
+            },
+            {
+                "id": 6255,
+                "name": "insanity"
+            },
+            {
+                "id": 886,
+                "name": "movie business"
+            },
+            {
+                "id": 1817,
+                "name": "orgy"
+            },
+            {
+                "id": 6262,
+                "name": "delusion"
+            },
+            {
+                "id": 4013,
+                "name": "chain saw"
+            },
+            {
+                "id": 10292,
+                "name": "gore"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 14895,
+                "name": "cannibal"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Lucio Fulci",
+            "character": "Dr. Lucio Fulci"
+        },
+        {
+            "actor": "David L. Thompson",
+            "character": "Professor Egon Schwarz"
+        },
+        {
+            "actor": "Jeoffrey Kennedy",
+            "character": "Officer Gabrielli"
+        },
+        {
+            "actor": "Malisa Longo",
+            "character": "Katya Schwarz"
+        },
+        {
+            "actor": "Paola Cozzo",
+            "character": "Nurse Lilly"
+        },
+        {
+            "actor": "Shillett Angel",
+            "character": "Filippo the Producer"
+        },
+        {
+            "actor": "Brett Halsey",
+            "character": "Human Monster"
+        },
+        {
+            "actor": "Robert Egon",
+            "character": "Himself / Second Monster"
+        },
+        {
+            "actor": "Ria De Simone",
+            "character": "Sopran"
+        },
+        {
+            "actor": "Sacha Darwin",
+            "character": "Woman in the Oven"
+        },
+        {
+            "actor": "Annie Belle",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Marco Di Stefano",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Lubka Lenzi",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Jessica Moore",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Paul Müller",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Maurice Poli",
+            "character": "Nightmare Victim"
+        },
+        {
+            "actor": "Vincenzo Luzzi",
+            "character": "Man with Chainsaw"
+        }
+    ]
+}

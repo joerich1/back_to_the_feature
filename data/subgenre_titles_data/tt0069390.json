@@ -1,0 +1,791 @@
+{
+    "adult": false,
+    "backdrop_path": "/r1cA2duQeinxzEdRqlwjLArIb1W.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 30901,
+    "imdb_id": "tt0069390",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Tutti i colori del buio",
+    "overview": "After a car accident that caused the loss of her baby, Jane experiences an increasing amount of nightmares that shake her to her core. After seeking professional help, her haunting visions turn into an even more frightening reality, one full of black magic, blood orgies, and murder.",
+    "popularity": 3.53,
+    "poster_path": "/1O8ZQ9tCIdpT1dAMvwWX9hToW2H.jpg",
+    "production_companies": [
+        {
+            "id": 9213,
+            "logo_path": null,
+            "name": "Astro C.C.",
+            "origin_country": "ES"
+        },
+        {
+            "id": 82013,
+            "logo_path": null,
+            "name": "Lea Cinematografica",
+            "origin_country": ""
+        },
+        {
+            "id": 2185,
+            "logo_path": null,
+            "name": "National Cinematografica",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "1972-02-28",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Enter a kaleidoscope of psychedelic horror!",
+    "title": "All the Colors of the Dark",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 135,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "BluRay",
+                        "release_date": "2018-11-30T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "DVD",
+                        "release_date": "2002-02-28T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-02-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1976-08-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80875,
+                "known_for_department": "Acting",
+                "name": "George Hilton",
+                "original_name": "George Hilton",
+                "popularity": 0.016,
+                "profile_path": "/k1kpp3l7ZzSpKiCJwj8g7imBjgR.jpg",
+                "cast_id": 7,
+                "character": "Richard Steele",
+                "credit_id": "52fe44499251416c9100b5db",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44434,
+                "known_for_department": "Acting",
+                "name": "Edwige Fenech",
+                "original_name": "Edwige Fenech",
+                "popularity": 0.049,
+                "profile_path": "/79v8gsqCnqJPpI5RRmMMQP9iXV3.jpg",
+                "cast_id": 8,
+                "character": "Jane Harrison",
+                "credit_id": "52fe44499251416c9100b5df",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44961,
+                "known_for_department": "Acting",
+                "name": "Ivan Rassimov",
+                "original_name": "Ivan Rassimov",
+                "popularity": 0.014,
+                "profile_path": "/nawfX5ZPQcjrTecEWZLMiPAQg8Y.jpg",
+                "cast_id": 9,
+                "character": "Mark Cogan",
+                "credit_id": "52fe44499251416c9100b5e3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 89774,
+                "known_for_department": "Acting",
+                "name": "Julián Ugarte",
+                "original_name": "Julián Ugarte",
+                "popularity": 0.004,
+                "profile_path": "/koF6SbF0lgzpHerZTqHgfKfvs2m.jpg",
+                "cast_id": 11,
+                "character": "J.P. McBain",
+                "credit_id": "52fe44499251416c9100b5eb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31695,
+                "known_for_department": "Acting",
+                "name": "George Rigaud",
+                "original_name": "George Rigaud",
+                "popularity": 0.011,
+                "profile_path": "/AbLHAUcxvr84ojrVEpBSRa6JCST.jpg",
+                "cast_id": 12,
+                "character": "Dr. Burton",
+                "credit_id": "52fe44499251416c9100b5ef",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 99792,
+                "known_for_department": "Acting",
+                "name": "Maria Cumani Quasimodo",
+                "original_name": "Maria Cumani Quasimodo",
+                "popularity": 0.004,
+                "profile_path": "/cgJUNwSCXzSSRc51MTPK8XYf3Qa.jpg",
+                "cast_id": 17,
+                "character": "Elderly Neighbor",
+                "credit_id": "52fe44499251416c9100b603",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100415,
+                "known_for_department": "Acting",
+                "name": "Nieves Navarro",
+                "original_name": "Nieves Navarro",
+                "popularity": 0.017,
+                "profile_path": "/96HPlKneFtTzdAevTj7MLc8g4vJ.jpg",
+                "cast_id": 10,
+                "character": "Barbara Harrison",
+                "credit_id": "52fe44499251416c9100b5e7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 33816,
+                "known_for_department": "Acting",
+                "name": "Marina Malfatti",
+                "original_name": "Marina Malfatti",
+                "popularity": 0.006,
+                "profile_path": "/iiAZP64wPni4EpE7CnENe0QB3RA.jpg",
+                "cast_id": 13,
+                "character": "Mary Weil",
+                "credit_id": "52fe44499251416c9100b5f3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30900,
+                "known_for_department": "Acting",
+                "name": "Luciano Pigozzi",
+                "original_name": "Luciano Pigozzi",
+                "popularity": 0.008,
+                "profile_path": "/5PTtLdknAOIPHinNC1C34oh0sFx.jpg",
+                "cast_id": 14,
+                "character": "Francis Clay",
+                "credit_id": "52fe44499251416c9100b5f7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107279,
+                "known_for_department": "Acting",
+                "name": "Dominique Boschero",
+                "original_name": "Dominique Boschero",
+                "popularity": 0.011,
+                "profile_path": "/kWW2f2CJQNCDk6oj7CCQj5Ti7yD.jpg",
+                "cast_id": 16,
+                "character": "Woman Killed in Dream",
+                "credit_id": "52fe44499251416c9100b5ff",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98771,
+                "known_for_department": "Acting",
+                "name": "Lisa Leonardi",
+                "original_name": "Lisa Leonardi",
+                "popularity": 0.004,
+                "profile_path": "/ynD6szYinY4ZcbaXpHXz0B4o8xw.jpg",
+                "cast_id": 34,
+                "character": "Girl with Dog",
+                "credit_id": "59db4bbe92514125050572f7",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39432,
+                "known_for_department": "Acting",
+                "name": "Tom Felleghy",
+                "original_name": "Tom Felleghy",
+                "popularity": 0.016,
+                "profile_path": "/uddfp0a5SEP33FqT5B7oYGHX3cg.jpg",
+                "cast_id": 15,
+                "character": "Inspector Smith",
+                "credit_id": "52fe44499251416c9100b5fb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107280,
+                "known_for_department": "Acting",
+                "name": "Vera Drudi",
+                "original_name": "Vera Drudi",
+                "popularity": 0.003,
+                "profile_path": "/uXtECPKRI3BnIXKnOmtm0lJSw05.jpg",
+                "cast_id": 18,
+                "character": "Nightmare Woman",
+                "credit_id": "52fe44499251416c9100b607",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21227,
+                "known_for_department": "Directing",
+                "name": "Sergio Martino",
+                "original_name": "Sergio Martino",
+                "popularity": 0.011,
+                "profile_path": "/wymuUvqoDWLjF9ctowGXPuBRt5K.jpg",
+                "cast_id": 35,
+                "character": "Journalist / Policeman (uncredited)",
+                "credit_id": "59db4bd4c3a36861df05f5cb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 231294,
+                "known_for_department": "Acting",
+                "name": "George Oliver",
+                "original_name": "George Oliver",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Cult Member (uncredited)",
+                "credit_id": "6031eb3e96e30b003f247cfa",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21227,
+                "known_for_department": "Directing",
+                "name": "Sergio Martino",
+                "original_name": "Sergio Martino",
+                "popularity": 0.011,
+                "profile_path": "/wymuUvqoDWLjF9ctowGXPuBRt5K.jpg",
+                "credit_id": "52fe44499251416c9100b5b9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45670,
+                "known_for_department": "Sound",
+                "name": "Bruno Nicolai",
+                "original_name": "Bruno Nicolai",
+                "popularity": 0.013,
+                "profile_path": "/nTROuM0wjr9pZrPaAB6UswBnerW.jpg",
+                "credit_id": "52fe44499251416c9100b5bf",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 50818,
+                "known_for_department": "Writing",
+                "name": "Ernesto Gastaldi",
+                "original_name": "Ernesto Gastaldi",
+                "popularity": 0.008,
+                "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+                "credit_id": "52fe44499251416c9100b5c5",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53945,
+                "known_for_department": "Writing",
+                "name": "Sauro Scavolini",
+                "original_name": "Sauro Scavolini",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe44499251416c9100b5cb",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100402,
+                "known_for_department": "Production",
+                "name": "Mino Loy",
+                "original_name": "Mino Loy",
+                "popularity": 0.001,
+                "profile_path": "/x1kYkSIovmOEdgXsfiRN4gb4Jw6.jpg",
+                "credit_id": "52fe44499251416c9100b5d1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21230,
+                "known_for_department": "Production",
+                "name": "Luciano Martino",
+                "original_name": "Luciano Martino",
+                "popularity": 0.016,
+                "profile_path": "/hbfPn5q6LRXCudSqfoOMLatzz2.jpg",
+                "credit_id": "52fe44499251416c9100b5d7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1123162,
+                "known_for_department": "Production",
+                "name": "Ricardo Sanz",
+                "original_name": "Ricardo Sanz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60db220c25b9550073b0dd61",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91804,
+                "known_for_department": "Sound",
+                "name": "Bruno Zanoli",
+                "original_name": "Bruno Zanoli",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "60db222525b955002ca928cc",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 32671,
+                "known_for_department": "Sound",
+                "name": "Bruno Moreal",
+                "original_name": "Bruno Moreal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60db22323fe160007d04f1b4",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 38757,
+                "known_for_department": "Writing",
+                "name": "Santiago Moncada",
+                "original_name": "Santiago Moncada",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "57f13feac3a3686909000ac8",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72895,
+                "known_for_department": "Camera",
+                "name": "Miguel Fernández Mila",
+                "original_name": "Miguel Fernández Mila",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f13ff29251414abf000bca",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21232,
+                "known_for_department": "Camera",
+                "name": "Giancarlo Ferrando",
+                "original_name": "Giancarlo Ferrando",
+                "popularity": 0.01,
+                "profile_path": "/mgWf676SJjtPCwqSSgcVb4F43FB.jpg",
+                "credit_id": "57f13ff8c3a36868c2000b03",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5821,
+                "known_for_department": "Editing",
+                "name": "Eugenio Alabiso",
+                "original_name": "Eugenio Alabiso",
+                "popularity": 0.004,
+                "profile_path": "/8NXkXuYueRwoHslgCZqHls7U27l.jpg",
+                "credit_id": "57f14000c3a3685913002e9c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80945,
+                "known_for_department": "Art",
+                "name": "José Luis Galicia",
+                "original_name": "José Luis Galicia",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "57f14007c3a36868c2000b0f",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80946,
+                "known_for_department": "Art",
+                "name": "Jaime Pérez Cubero",
+                "original_name": "Jaime Pérez Cubero",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f1400ec3a36868c2000b13",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 33814,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giulia Mafai",
+                "original_name": "Giulia Mafai",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f1401bc3a368684b000aa6",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102115,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giuseppe Ferranti",
+                "original_name": "Giuseppe Ferranti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f140229251414b2e000be3",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1688122,
+                "known_for_department": "Production",
+                "name": "Fabio Diotallevi",
+                "original_name": "Fabio Diotallevi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f1402bc3a3683f2000b874",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1090059,
+                "known_for_department": "Production",
+                "name": "Franco Fogagnolo",
+                "original_name": "Franco Fogagnolo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f140339251414a8d000b90",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53947,
+                "known_for_department": "Camera",
+                "name": "Florian Trenker",
+                "original_name": "Florian Trenker",
+                "popularity": 0.001,
+                "profile_path": "/7GaQ0MNth1Acr0SS7q3umQ4Aghg.jpg",
+                "credit_id": "57f1403a9251414ab3000bd0",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 557348,
+                "known_for_department": "Directing",
+                "name": "Vittorio Caronia",
+                "original_name": "Vittorio Caronia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f14041c3a3686891000bd4",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 68242,
+                "known_for_department": "Writing",
+                "name": "Francisco Rodríguez",
+                "original_name": "Francisco Rodríguez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f1404b9251414abf000bf6",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 80947,
+                "known_for_department": "Art",
+                "name": "Giorgio Bertolini",
+                "original_name": "Giorgio Bertolini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57f14051c3a3686891000bdf",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33861,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Silvio Laurenzi",
+                "original_name": "Silvio Laurenzi",
+                "popularity": 0.001,
+                "profile_path": "/A92IgQjbtsnPDQ6VM90lGh2nndz.jpg",
+                "credit_id": "66ece387b236c70006bdb03a",
+                "department": "Costume & Make-Up",
+                "job": "Assistant Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1919567,
+                "known_for_department": "Editing",
+                "name": "Amedeo Moriani",
+                "original_name": "Amedeo Moriani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66ece3ddb236c70006bdb07f",
+                "department": "Editing",
+                "job": "Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1958077,
+                "known_for_department": "Directing",
+                "name": "Mirella Malatesta",
+                "original_name": "Mirella Malatesta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66ece44b25c8eb884d22a525",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1268928,
+                "known_for_department": "Camera",
+                "name": "Adolfo Troiani",
+                "original_name": "Adolfo Troiani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66ece48227a9af9d0dadc01c",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1722935,
+                "known_for_department": "Camera",
+                "name": "Francesco Narducci",
+                "original_name": "Francesco Narducci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66ece494b236c70006bdb110",
+                "department": "Camera",
+                "job": "Still Photographer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 12570,
+                "name": "whodunit"
+            },
+            {
+                "id": 161214,
+                "name": "black mass"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "George Hilton",
+            "character": "Richard Steele"
+        },
+        {
+            "actor": "Edwige Fenech",
+            "character": "Jane Harrison"
+        },
+        {
+            "actor": "Ivan Rassimov",
+            "character": "Mark Cogan"
+        },
+        {
+            "actor": "Julián Ugarte",
+            "character": "J.P. McBain"
+        },
+        {
+            "actor": "George Rigaud",
+            "character": "Dr. Burton"
+        },
+        {
+            "actor": "Maria Cumani Quasimodo",
+            "character": "Elderly Neighbor"
+        },
+        {
+            "actor": "Nieves Navarro",
+            "character": "Barbara Harrison"
+        },
+        {
+            "actor": "Marina Malfatti",
+            "character": "Mary Weil"
+        },
+        {
+            "actor": "Luciano Pigozzi",
+            "character": "Francis Clay"
+        },
+        {
+            "actor": "Dominique Boschero",
+            "character": "Woman Killed in Dream"
+        },
+        {
+            "actor": "Lisa Leonardi",
+            "character": "Girl with Dog"
+        },
+        {
+            "actor": "Tom Felleghy",
+            "character": "Inspector Smith"
+        },
+        {
+            "actor": "Vera Drudi",
+            "character": "Nightmare Woman"
+        },
+        {
+            "actor": "Sergio Martino",
+            "character": "Journalist / Policeman (uncredited)"
+        },
+        {
+            "actor": "George Oliver",
+            "character": "Cult Member (uncredited)"
+        }
+    ]
+}

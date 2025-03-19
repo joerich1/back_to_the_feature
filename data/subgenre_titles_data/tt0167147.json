@@ -1,0 +1,567 @@
+{
+    "adult": false,
+    "backdrop_path": "/EXz9Gqg1blxuTDhoBahw2HYyzo.jpg",
+    "belongs_to_collection": {
+        "id": 712820,
+        "name": "Evil Dead Trap Collection",
+        "poster_path": "/A0scR38MnACWkgdjuVmlOAfBunx.jpg",
+        "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 40037,
+    "imdb_id": "tt0167147",
+    "origin_country": [
+        "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "死霊の罠",
+    "overview": "A talk show hostess takes a camera crew out to an abandoned factory to investigate a purported snuff film that was made there. As she gets closer to the truth, she and her friends are subjected to a brutal nightmare.",
+    "popularity": 3.0,
+    "poster_path": "/nI2k8yNXy6S1Dc7Evx4C2TJj847.jpg",
+    "production_companies": [
+        {
+            "id": 13260,
+            "logo_path": null,
+            "name": "Directors Company",
+            "origin_country": "JP"
+        },
+        {
+            "id": 12267,
+            "logo_path": "/5XVWaGSBmgxB5y33EtvJxpvlIaS.png",
+            "name": "Japan Home Video",
+            "origin_country": "JP"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+        }
+    ],
+    "release_date": "1988-05-14",
+    "revenue": 0,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Pure terror!",
+    "title": "Evil Dead Trap",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 85,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-05-14T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-03-25T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-02-06T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Passed with cuts",
+                        "release_date": "2002-09-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-05-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 144419,
+                "known_for_department": "Acting",
+                "name": "Miyuki Ono",
+                "original_name": "小野みゆき",
+                "popularity": 0.026,
+                "profile_path": "/lESHQosCHimCxQFd09fXU3YKsHt.jpg",
+                "cast_id": 1008,
+                "character": "Nami Tsuchiya",
+                "credit_id": "52fe457cc3a36847f80ca2a5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551580,
+                "known_for_department": "Acting",
+                "name": "Yūji Honma",
+                "original_name": "本間優二",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 1021,
+                "character": "Daisuke Muraki",
+                "credit_id": "52fe457cc3a36847f80ca2d5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551571,
+                "known_for_department": "Acting",
+                "name": "Hitomi Kobayashi",
+                "original_name": "小林ひとみ",
+                "popularity": 0.064,
+                "profile_path": "/iXOKybmD29J3m0i39iXHeI1S90L.jpg",
+                "cast_id": 1010,
+                "character": "Rei Sugiura",
+                "credit_id": "52fe457cc3a36847f80ca2ad",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551572,
+                "known_for_department": "Acting",
+                "name": "Eriko Nakagawa",
+                "original_name": "中川えり子",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 1011,
+                "character": "Rya Kawamura",
+                "credit_id": "52fe457cc3a36847f80ca2b1",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551570,
+                "known_for_department": "Acting",
+                "name": "Aya Katsuragi",
+                "original_name": "桂木文",
+                "popularity": 0.009,
+                "profile_path": "/hZD70uEoGmC07w706jA99cSo9rt.jpg",
+                "cast_id": 1009,
+                "character": "Masako Abe",
+                "credit_id": "52fe457cc3a36847f80ca2a9",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551573,
+                "known_for_department": "Acting",
+                "name": "Masahiko Abe",
+                "original_name": "Masahiko Abe",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 1012,
+                "character": "Akio Kondo",
+                "credit_id": "52fe457cc3a36847f80ca2b5",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1200412,
+                "known_for_department": "Acting",
+                "name": "Hiroshi Shimizu",
+                "original_name": "清水宏",
+                "popularity": 0.006,
+                "profile_path": "/cbQnMACRWCKRi8xpHmEOlPUXhLn.jpg",
+                "cast_id": 1025,
+                "character": "Middle-aged Man",
+                "credit_id": "5e6fdea35545ca0011305868",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 551576,
+                "known_for_department": "Acting",
+                "name": "Yûko Suwano",
+                "original_name": "Yûko Suwano",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1016,
+                "character": "Time Keeper",
+                "credit_id": "52fe457cc3a36847f80ca2c1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551574,
+                "known_for_department": "Acting",
+                "name": "Kyoko Hashimoto",
+                "original_name": "橋本杏子",
+                "popularity": 0.116,
+                "profile_path": "/yZgZCYs6w9PAOZO5aj1E7BE3tW.jpg",
+                "cast_id": 1014,
+                "character": "Young Woman",
+                "credit_id": "52fe457cc3a36847f80ca2b9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551575,
+                "known_for_department": "Acting",
+                "name": "Yûko Maehara",
+                "original_name": "前原祐子",
+                "popularity": 0.001,
+                "profile_path": "/srUDP5zGxWwVp4Bjo4BzeVHPVQt.jpg",
+                "cast_id": 1015,
+                "character": "",
+                "credit_id": "52fe457cc3a36847f80ca2bd",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551579,
+                "known_for_department": "Acting",
+                "name": "Shinsuke Shimada",
+                "original_name": "島田紳助",
+                "popularity": 0.014,
+                "profile_path": "/wsm0Qi52qNi4saFTepjWa5uOJZv.jpg",
+                "cast_id": 1020,
+                "character": "TV Producer",
+                "credit_id": "52fe457cc3a36847f80ca2d1",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 551577,
+                "known_for_department": "Sound",
+                "name": "Mari Shimizu",
+                "original_name": "Mari Shimizu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1017,
+                "character": "Hideki",
+                "credit_id": "52fe457cc3a36847f80ca2c5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110313,
+                "known_for_department": "Acting",
+                "name": "Noboru Mitani",
+                "original_name": "三谷昇",
+                "popularity": 0.012,
+                "profile_path": "/8GyyDIWLnbxhli156RSDdm9nXTO.jpg",
+                "cast_id": 1018,
+                "character": "Detective",
+                "credit_id": "52fe457cc3a36847f80ca2c9",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 551578,
+                "known_for_department": "Acting",
+                "name": "Terumi Niki",
+                "original_name": "二木てるみ",
+                "popularity": 0.022,
+                "profile_path": "/4Ze5GpEoCV7t3Hy9ts24qotrnH3.jpg",
+                "cast_id": 1019,
+                "character": "Haha no Koe",
+                "credit_id": "52fe457cc3a36847f80ca2cd",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96855,
+                "known_for_department": "Directing",
+                "name": "Takashi Ishii",
+                "original_name": "石井隆",
+                "popularity": 0.016,
+                "profile_path": "/1rzSxM0EUXP7fmbNhi4zuU8SoWS.jpg",
+                "credit_id": "52fe457cc3a36847f80ca27d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551568,
+                "known_for_department": "Editing",
+                "name": "Akimasa Kawashima",
+                "original_name": "川島章正",
+                "popularity": 0.003,
+                "profile_path": "/yRBqn0Vh0MPV3hi3skUjtFJKCXD.jpg",
+                "credit_id": "52fe457cc3a36847f80ca28f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551567,
+                "known_for_department": "Sound",
+                "name": "Tomohiko Kira",
+                "original_name": "吉良知彦",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe457cc3a36847f80ca283",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551566,
+                "known_for_department": "Directing",
+                "name": "Toshiharu Ikeda",
+                "original_name": "池田敏春",
+                "popularity": 0.008,
+                "profile_path": "/zYRQFWRwzN0CR8ZpxU64jep6l3h.jpg",
+                "credit_id": "52fe457cc3a36847f80ca277",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70631,
+                "known_for_department": "Camera",
+                "name": "Masaki Tamura",
+                "original_name": "たむらまさき",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5717cf2cc3a3686cb7001ea7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587664,
+                "known_for_department": "Directing",
+                "name": "Takashi Ito",
+                "original_name": "伊藤高志",
+                "popularity": 0.002,
+                "profile_path": "/4dcGVEBgyLDJD690XPyH2neCFQk.jpg",
+                "credit_id": "58457d98c3a36844df017fc7",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1719152,
+                "known_for_department": "Production",
+                "name": "Tadao Masumizu",
+                "original_name": "Tadao Masumizu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ff893da20af77003d169b42",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 550587,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Shinichi Wakasa",
+                "original_name": "若狭新一",
+                "popularity": 0.001,
+                "profile_path": "/2tULRZZbh16fChYqXP8BlQRfBRK.jpg",
+                "credit_id": "5ff893926c0b36003ea415a1",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1608504,
+                "known_for_department": "Production",
+                "name": "Satoshi Jinno",
+                "original_name": "Satoshi Jinno",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ff893bcfcec2e003f142f0c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 551554,
+                "known_for_department": "Art",
+                "name": "Yuji Hayashida",
+                "original_name": "林田裕至",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5ff89406bbcae0003fad98dc",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2928298,
+                "known_for_department": "Production",
+                "name": "Michio Ôtsuka",
+                "original_name": "Michio Ôtsuka",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ff893cda0be2800408b967f",
+                "department": "Production",
+                "job": "Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 233,
+                "name": "japan"
+            },
+            {
+                "id": 570,
+                "name": "rape"
+            },
+            {
+                "id": 3741,
+                "name": "talk show"
+            },
+            {
+                "id": 3880,
+                "name": "snuff"
+            },
+            {
+                "id": 192153,
+                "name": "conjoined twins"
+            },
+            {
+                "id": 275311,
+                "name": "plot twist"
+            },
+            {
+                "id": 331837,
+                "name": "japanese slasher"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Miyuki Ono",
+            "character": "Nami Tsuchiya"
+        },
+        {
+            "actor": "Yūji Honma",
+            "character": "Daisuke Muraki"
+        },
+        {
+            "actor": "Hitomi Kobayashi",
+            "character": "Rei Sugiura"
+        },
+        {
+            "actor": "Eriko Nakagawa",
+            "character": "Rya Kawamura"
+        },
+        {
+            "actor": "Aya Katsuragi",
+            "character": "Masako Abe"
+        },
+        {
+            "actor": "Masahiko Abe",
+            "character": "Akio Kondo"
+        },
+        {
+            "actor": "Hiroshi Shimizu",
+            "character": "Middle-aged Man"
+        },
+        {
+            "actor": "Yûko Suwano",
+            "character": "Time Keeper"
+        },
+        {
+            "actor": "Kyoko Hashimoto",
+            "character": "Young Woman"
+        },
+        {
+            "actor": "Yûko Maehara",
+            "character": ""
+        },
+        {
+            "actor": "Shinsuke Shimada",
+            "character": "TV Producer"
+        },
+        {
+            "actor": "Mari Shimizu",
+            "character": "Hideki"
+        },
+        {
+            "actor": "Noboru Mitani",
+            "character": "Detective"
+        },
+        {
+            "actor": "Terumi Niki",
+            "character": "Haha no Koe"
+        }
+    ]
+}

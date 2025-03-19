@@ -1,0 +1,592 @@
+{
+    "adult": false,
+    "backdrop_path": "/fz8ftODxzRqVOWpVlh1wa1dktT5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 852830,
+    "imdb_id": "tt15053518",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Torn Hearts",
+    "overview": "A promising up-and-coming country duo seek out the secluded mansion of their idol Harper Dutch, a former country music star and Nashville royalty turned recluse. What starts out as a friendly visit devolves into a twisted series of horrors forcing the friends to confront the lengths they will go to in pursuit of their dreams.",
+    "popularity": 2.668,
+    "poster_path": "/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg",
+    "production_companies": [
+        {
+            "id": 68884,
+            "logo_path": "/1BYexT6Vikz4ulCcYKGPmOi6Jm0.png",
+            "name": "Blumhouse Television",
+            "origin_country": "US"
+        },
+        {
+            "id": 6805,
+            "logo_path": "/4774MDXAu1vsapNyTv1LK3S5Ww1.png",
+            "name": "Epix",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-05-20",
+    "revenue": 0,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Torn Hearts",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 75,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-10-13T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-05T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-05-20T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-05-20T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18980,
+                "known_for_department": "Acting",
+                "name": "Katey Sagal",
+                "original_name": "Katey Sagal",
+                "popularity": 0.077,
+                "profile_path": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg",
+                "cast_id": 1,
+                "character": "Harper Dutch",
+                "credit_id": "60f8aa6bdf857c005eabe5a5",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1473432,
+                "known_for_department": "Acting",
+                "name": "Abby Quinn",
+                "original_name": "Abby Quinn",
+                "popularity": 0.01,
+                "profile_path": "/rvBCOVLxkk83JXfOZPrltq4mTXK.jpg",
+                "cast_id": 9,
+                "character": "Jordan Wilder",
+                "credit_id": "60f8aae707e281005c6c98c0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1902797,
+                "known_for_department": "Acting",
+                "name": "Alexxis Lemire",
+                "original_name": "Alexxis Lemire",
+                "popularity": 0.008,
+                "profile_path": "/ug7CLG57oMkpG1A6R7C0G6ZeMpg.jpg",
+                "cast_id": 2,
+                "character": "Leigh Blackhouse",
+                "credit_id": "60f8aa7c2dda890047667517",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26852,
+                "known_for_department": "Acting",
+                "name": "Joshua Leonard",
+                "original_name": "Joshua Leonard",
+                "popularity": 0.026,
+                "profile_path": "/druE5TIt3eARRwWFDA0punUBGvs.jpg",
+                "cast_id": 11,
+                "character": "Richie Rowley Jones",
+                "credit_id": "60f8aaf2f056d5004761311f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79795,
+                "known_for_department": "Acting",
+                "name": "Shiloh Fernandez",
+                "original_name": "Shiloh Fernandez",
+                "popularity": 0.025,
+                "profile_path": "/lS3I6nLQ3VxmE6KRmjoXDskDBnn.jpg",
+                "cast_id": 10,
+                "character": "Caleb Crawford",
+                "credit_id": "60f8aaee2dda890076dd7c5d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3569783,
+                "known_for_department": "Acting",
+                "name": "Alon McKlveen",
+                "original_name": "Alon McKlveen",
+                "popularity": 0.002,
+                "profile_path": "/jV1OL1OhEPzqXJWREx7Uwc2k5B3.jpg",
+                "cast_id": 27,
+                "character": "Hope",
+                "credit_id": "6294a0a009ed8f1253511a52",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2090109,
+                "known_for_department": "Acting",
+                "name": "Tadasay Young",
+                "original_name": "Tadasay Young",
+                "popularity": 0.001,
+                "profile_path": "/rWfRMo8GMtKa6K0PtnVJ5OIR4xL.jpg",
+                "cast_id": 28,
+                "character": "Interviewer",
+                "credit_id": "6294a0bba44d0900a987e3a6",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1860890,
+                "known_for_department": "Acting",
+                "name": "Trina LaFargue",
+                "original_name": "Trina LaFargue",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Bartender",
+                "credit_id": "6294a0d3f2cf25004f53b756",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1940430,
+                "known_for_department": "Acting",
+                "name": "Sailor Larocque",
+                "original_name": "Sailor Larocque",
+                "popularity": 0.004,
+                "profile_path": "/s56oKnVQ7ssrAof1SfVqBIrXM6r.jpg",
+                "cast_id": 30,
+                "character": "Young Harper",
+                "credit_id": "6294a0f176eecf75af12a067",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1908462,
+                "known_for_department": "Acting",
+                "name": "Clarke Wolfe",
+                "original_name": "Clarke Wolfe",
+                "popularity": 0.002,
+                "profile_path": "/fVkN2BlkDYMY1ijOf0dZVGKrS5o.jpg",
+                "cast_id": 31,
+                "character": "Tammi",
+                "credit_id": "6294a1021e9225004f745549",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 210355,
+                "known_for_department": "Acting",
+                "name": "Brea Grant",
+                "original_name": "Brea Grant",
+                "popularity": 0.041,
+                "profile_path": "/mrRs33aqbd3porc72LZRkk9ECJ0.jpg",
+                "credit_id": "60f8aa9b07e281007d7f661e",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84348,
+                "known_for_department": "Production",
+                "name": "Jason Blum",
+                "original_name": "Jason Blum",
+                "popularity": 0.02,
+                "profile_path": "/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+                "credit_id": "60f8aac039a1a600481d6781",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1828186,
+                "known_for_department": "Production",
+                "name": "Jeremy Gold",
+                "original_name": "Jeremy Gold",
+                "popularity": 0.002,
+                "profile_path": "/5HNxND8Yv6hw3KqBSIZT28286J7.jpg",
+                "credit_id": "60f8aac9c8f85800744e7921",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3050970,
+                "known_for_department": "Production",
+                "name": "Chris McCumber",
+                "original_name": "Chris McCumber",
+                "popularity": 0.003,
+                "profile_path": "/hOKAJKupxaLsZ9KrsNQ4SLFQUgS.jpg",
+                "credit_id": "60f8aad59603310060fc03ab",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1809760,
+                "known_for_department": "Production",
+                "name": "John Ierardi",
+                "original_name": "John Ierardi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60f8aae139a1a6006180793f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3166767,
+                "known_for_department": "Writing",
+                "name": "Rachel Koller Croft",
+                "original_name": "Rachel Koller Croft",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949e375a4690510da46275",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1725573,
+                "known_for_department": "Production",
+                "name": "Lauren Downey",
+                "original_name": "Lauren Downey",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949e9edf86a834e0aee80e",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3050418,
+                "known_for_department": "Production",
+                "name": "Jordanna Guarino",
+                "original_name": "Jordanna Guarino",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949eaff2cf25004f53b396",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1414144,
+                "known_for_department": "Production",
+                "name": "Paige Pemberton",
+                "original_name": "Paige Pemberton",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949ec60f21c615372c2851",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2485715,
+                "known_for_department": "Production",
+                "name": "Paul B. Uddo",
+                "original_name": "Paul B. Uddo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949ed5f2cf250064e99764",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 935296,
+                "known_for_department": "Camera",
+                "name": "Yaron Levy",
+                "original_name": "Yaron Levy",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "62949eeea410c815a54590ab",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3569778,
+                "known_for_department": "Art",
+                "name": "Owl Martin Dwyer",
+                "original_name": "Owl Martin Dwyer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949f09df86a834e1936764",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46359,
+                "known_for_department": "Editing",
+                "name": "Hunter M. Via",
+                "original_name": "Hunter M. Via",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "62949f23a44d0900a987dfcb",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3569779,
+                "known_for_department": "Sound",
+                "name": "Brittany Allen",
+                "original_name": "Brittany Allen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949f48d48cee6d660a8af7",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 935493,
+                "known_for_department": "Production",
+                "name": "John McAlary",
+                "original_name": "John McAlary",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "62949f5ddf86a834e0aee9d0",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1320467,
+                "known_for_department": "Production",
+                "name": "Tevin Adelman",
+                "original_name": "Tevin Adelman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949f8ff2cf25004f53b542",
+                "department": "Production",
+                "job": "Supervising Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3202015,
+                "known_for_department": "Production",
+                "name": "Adan Orozco",
+                "original_name": "Adan Orozco",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949fa70f21c615372c29f2",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2137374,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Eulyn Colette Hufkie",
+                "original_name": "Eulyn Colette Hufkie",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "62949fd11e92250064128b62",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1814195,
+                "known_for_department": "Sound",
+                "name": "Ryan Neill",
+                "original_name": "Ryan Neill",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62949feba410c815a35e368a",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3654263,
+                "known_for_department": "Production",
+                "name": "Chris Dickie",
+                "original_name": "Chris Dickie",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "62f0999666eba7009224a676",
+                "department": "Production",
+                "job": "Co-Executive Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 727,
+                "name": "country music"
+            },
+            {
+                "id": 193263,
+                "name": "old mansion"
+            },
+            {
+                "id": 212425,
+                "name": "trapped in a house"
+            },
+            {
+                "id": 248605,
+                "name": "retired singer"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Katey Sagal",
+            "character": "Harper Dutch"
+        },
+        {
+            "actor": "Abby Quinn",
+            "character": "Jordan Wilder"
+        },
+        {
+            "actor": "Alexxis Lemire",
+            "character": "Leigh Blackhouse"
+        },
+        {
+            "actor": "Joshua Leonard",
+            "character": "Richie Rowley Jones"
+        },
+        {
+            "actor": "Shiloh Fernandez",
+            "character": "Caleb Crawford"
+        },
+        {
+            "actor": "Alon McKlveen",
+            "character": "Hope"
+        },
+        {
+            "actor": "Tadasay Young",
+            "character": "Interviewer"
+        },
+        {
+            "actor": "Trina LaFargue",
+            "character": "Bartender"
+        },
+        {
+            "actor": "Sailor Larocque",
+            "character": "Young Harper"
+        },
+        {
+            "actor": "Clarke Wolfe",
+            "character": "Tammi"
+        }
+    ]
+}

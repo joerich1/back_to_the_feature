@@ -1,0 +1,718 @@
+{
+    "adult": false,
+    "backdrop_path": "/buDrBTpb6H4gBCILxvPkL6ziyWN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 362409,
+    "imdb_id": "tt5076792",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Trash Fire",
+    "overview": "Owen and Isabel's love story simmers with spiteful rage and unfortunately for everyone, Isabel is pregnant with Owen's child. To prove to her that he can become a stable father, Owen agrees to reconnect with his only living relatives at Isabel's request. The couple take a trip to visit his perversely devoted grandmother and his sister Pearl, who was severely burned in a fire, to finally bury the hatchet. But sometimes the ties that bind can cut off all circulation.",
+    "popularity": 3.465,
+    "poster_path": "/7JH49NYwWTV2U1foK06KKXYllmm.jpg",
+    "production_companies": [
+        {
+            "id": 7787,
+            "logo_path": "/mrDKpfx2bKUwEPuzYjmYrLW2Zoh.png",
+            "name": "Snowfort Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 23921,
+            "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+            "name": "Circle of Confusion",
+            "origin_country": "US"
+        },
+        {
+            "id": 41,
+            "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+            "name": "Orion Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-11-03",
+    "revenue": 0,
+    "runtime": 91,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Hell hath no fury.",
+    "title": "Trash Fire",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 98,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CH",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2016-07-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "2017-05-26T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2016-12-06T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2016-11-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5090,
+                "known_for_department": "Acting",
+                "name": "Adrian Grenier",
+                "original_name": "Adrian Grenier",
+                "popularity": 0.037,
+                "profile_path": "/2ILiQq6Sr8vfZqaL7JR5PIdiL6l.jpg",
+                "cast_id": 4,
+                "character": "Owen",
+                "credit_id": "5640dba292514176ba00020c",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 183073,
+                "known_for_department": "Acting",
+                "name": "Angela Trimbur",
+                "original_name": "Angela Trimbur",
+                "popularity": 0.016,
+                "profile_path": "/malUbS6ZMv351wkJdKDXLO5hlzw.jpg",
+                "cast_id": 12,
+                "character": "Isabel",
+                "credit_id": "570e3d3b9251411621000201",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58068,
+                "known_for_department": "Acting",
+                "name": "Fionnula Flanagan",
+                "original_name": "Fionnula Flanagan",
+                "popularity": 0.057,
+                "profile_path": "/ee3vqFhrmKMRsqqHFLm1rcwGE93.jpg",
+                "cast_id": 5,
+                "character": "Violet",
+                "credit_id": "5640dbc192514176c100020c",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 82662,
+                "known_for_department": "Acting",
+                "name": "AnnaLynne McCord",
+                "original_name": "AnnaLynne McCord",
+                "popularity": 0.047,
+                "profile_path": "/1clytn2mrOWvbUQOvVNJb32v7P.jpg",
+                "cast_id": 3,
+                "character": "Pearl",
+                "credit_id": "5640db8892514176b50001c3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12134,
+                "known_for_department": "Acting",
+                "name": "Sally Kirkland",
+                "original_name": "Sally Kirkland",
+                "popularity": 0.033,
+                "profile_path": "/lHTewZ3kzzXe49W8d2vRs7tbCPh.jpg",
+                "cast_id": 7,
+                "character": "Florence",
+                "credit_id": "5640dbe4c3a36814e7000207",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5661,
+                "known_for_department": "Acting",
+                "name": "Matthew Gray Gubler",
+                "original_name": "Matthew Gray Gubler",
+                "popularity": 0.03,
+                "profile_path": "/tHjIUjHFjl4Kzc4XQ7JSd1EHYSU.jpg",
+                "cast_id": 2,
+                "character": "Caleb",
+                "credit_id": "5640db7592514176b80001b0",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52957,
+                "known_for_department": "Acting",
+                "name": "Ray Santiago",
+                "original_name": "Ray Santiago",
+                "popularity": 0.02,
+                "profile_path": "/hmRNXZ0A2MEswe0BUgXBATk6OSO.jpg",
+                "cast_id": 6,
+                "character": "Sheldon",
+                "credit_id": "5640dbdc92514176ba00021b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59285,
+                "known_for_department": "Acting",
+                "name": "Ezra Buzzington",
+                "original_name": "Ezra Buzzington",
+                "popularity": 0.023,
+                "profile_path": "/j3kJRKgQdHAMXvJUtPHXJsGGW5X.jpg",
+                "cast_id": 24,
+                "character": "Pastor Sterling",
+                "credit_id": "571fc1fd925141531b000322",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1202361,
+                "known_for_department": "Acting",
+                "name": "Molly McCook",
+                "original_name": "Molly McCook",
+                "popularity": 0.011,
+                "profile_path": "/teQNNNzrpNjyTkfPjRd27CSwKUP.jpg",
+                "cast_id": 11,
+                "character": "Aimee",
+                "credit_id": "570e3d30c3a36845370001f0",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100649,
+                "known_for_department": "Acting",
+                "name": "Alexa Hamilton",
+                "original_name": "Alexa Hamilton",
+                "popularity": 0.004,
+                "profile_path": "/tgFXzmEFXE6oL1uFaLvnW9i82c0.jpg",
+                "cast_id": 10,
+                "character": "Owen's Mother",
+                "credit_id": "570e3d29925141160100020e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1091366,
+                "known_for_department": "Acting",
+                "name": "Michael Laren",
+                "original_name": "Michael Laren",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Photographer",
+                "credit_id": "5f580cb0da10f0003a0c0ca9",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1754815,
+                "known_for_department": "Acting",
+                "name": "Clayton Jackson",
+                "original_name": "Clayton Jackson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Colton",
+                "credit_id": "5f580cca5b124000378e93de",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2770739,
+                "known_for_department": "Acting",
+                "name": "Karl Schott",
+                "original_name": "Karl Schott",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Owen's Father",
+                "credit_id": "5f580d70da10f0003a0c1425",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2770743,
+                "known_for_department": "Acting",
+                "name": "Brayden Austin",
+                "original_name": "Brayden Austin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Young Owen",
+                "credit_id": "5f580db87a97ab00349c0c46",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2770744,
+                "known_for_department": "Acting",
+                "name": "Ruby Lightfoot",
+                "original_name": "Ruby Lightfoot",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Young Pearl",
+                "credit_id": "5f580de2befb090036547551",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1926088,
+                "known_for_department": "Acting",
+                "name": "Sibyl Gregory",
+                "original_name": "Sibyl Gregory",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Chloe",
+                "credit_id": "5f580dfebefb090038549088",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98804,
+                "known_for_department": "Acting",
+                "name": "Ronnie Gene Blevins",
+                "original_name": "Ronnie Gene Blevins",
+                "popularity": 0.03,
+                "profile_path": "/28O4ALimfSVQgMOvkstDJpzHKDc.jpg",
+                "cast_id": 32,
+                "character": "Televangelist",
+                "credit_id": "5f580e1cda10f000380bee2b",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2006502,
+                "known_for_department": "Editing",
+                "name": "Brit DeLillo",
+                "original_name": "Brit DeLillo",
+                "popularity": 0.001,
+                "profile_path": "/xbeuxuWPk20OIHAQ5nuBBeHbDmh.jpg",
+                "credit_id": "60fbe4c72afb25005fc2696d",
+                "department": "Visual Effects",
+                "job": "VFX Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2006502,
+                "known_for_department": "Editing",
+                "name": "Brit DeLillo",
+                "original_name": "Brit DeLillo",
+                "popularity": 0.001,
+                "profile_path": "/xbeuxuWPk20OIHAQ5nuBBeHbDmh.jpg",
+                "credit_id": "60fbe4abf29d660046a9ede5",
+                "department": "Editing",
+                "job": "First Assistant Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2088521,
+                "known_for_department": "Production",
+                "name": "David Lawson Jr.",
+                "original_name": "David Lawson Jr.",
+                "popularity": 0.008,
+                "profile_path": "/okia5rsM7XFZLPZcOHVQg9snz76.jpg",
+                "credit_id": "64ed3291c613ce012cc6b633",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2721975,
+                "known_for_department": "Directing",
+                "name": "Daniel Lane Baker",
+                "original_name": "Daniel Lane Baker",
+                "popularity": 0.001,
+                "profile_path": "/uV7doSXV5PxBcZFTKYFLALfNUm4.jpg",
+                "credit_id": "610a31cf5c5634007fe38f6b",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1046489,
+                "known_for_department": "Directing",
+                "name": "Richard Bates Jr.",
+                "original_name": "Richard Bates Jr.",
+                "popularity": 0.004,
+                "profile_path": "/28LbZozHmM6btjbaIIONOOCFXYz.jpg",
+                "credit_id": "56103d76c3a368680b00fc5a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1046489,
+                "known_for_department": "Directing",
+                "name": "Richard Bates Jr.",
+                "original_name": "Richard Bates Jr.",
+                "popularity": 0.004,
+                "profile_path": "/28LbZozHmM6btjbaIIONOOCFXYz.jpg",
+                "credit_id": "56103d69c3a36868100100df",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1202353,
+                "known_for_department": "Editing",
+                "name": "Yvonne Valdez",
+                "original_name": "Yvonne Valdez",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5640dc6cc3a36814e7000214",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1199840,
+                "known_for_department": "Camera",
+                "name": "Shane Daly",
+                "original_name": "Shane Daly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5640dc54c3a36814ee0001c3",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1202353,
+                "known_for_department": "Editing",
+                "name": "Yvonne Valdez",
+                "original_name": "Yvonne Valdez",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "571fc09ec3a3686241001839",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1202357,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Anthony Tran",
+                "original_name": "Anthony Tran",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc065925141280100176d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1030589,
+                "known_for_department": "Production",
+                "name": "Lawrence Mattis",
+                "original_name": "Lawrence Mattis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc112c3a36833930046f1",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1611353,
+                "known_for_department": "Production",
+                "name": "Matt Smith",
+                "original_name": "Matt Smith",
+                "popularity": 0.001,
+                "profile_path": "/bql3Yg0VKD5uu0j1VzM46SM407x.jpg",
+                "credit_id": "571fc1559251416f33003d69",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1611349,
+                "known_for_department": "Art",
+                "name": "Tracy Dishman",
+                "original_name": "Tracy Dishman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fbfe2c3a3686ec50036fd",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 563736,
+                "known_for_department": "Sound",
+                "name": "Andrea von Foerster",
+                "original_name": "Andrea von Foerster",
+                "popularity": 0.003,
+                "profile_path": "/zKo3qNhrkeUceyHjl6W5c7DS0ET.jpg",
+                "credit_id": "571fbffbc3a36833930046ce",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1611351,
+                "known_for_department": "Art",
+                "name": "Leigh Poindexter",
+                "original_name": "Leigh Poindexter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc07792514152e70002a1",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 55169,
+                "known_for_department": "Sound",
+                "name": "Michl Britsch",
+                "original_name": "Michl Britsch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc0209251414df400384d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1611352,
+                "known_for_department": "Art",
+                "name": "Margaret Box",
+                "original_name": "Margaret Box",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc0839251416f33003d51",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1611350,
+                "known_for_department": "Production",
+                "name": "Carinne Uslar",
+                "original_name": "Carinne Uslar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "571fc053c3a368775b003412",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14800,
+                "known_for_department": "Directing",
+                "name": "Jennifer Lynch",
+                "original_name": "Jennifer Lynch",
+                "popularity": 0.04,
+                "profile_path": "/gdrZU7gTBo8dvWV9wxXqJ305QNW.jpg",
+                "credit_id": "5f580c60da10f000370bf210",
+                "department": "Crew",
+                "job": "Thanks"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 186,
+                "name": "christianity"
+            },
+            {
+                "id": 2324,
+                "name": "bulimia"
+            },
+            {
+                "id": 10041,
+                "name": "dysfunctional family"
+            },
+            {
+                "id": 157676,
+                "name": "disfigured face"
+            },
+            {
+                "id": 192762,
+                "name": "religiosity"
+            },
+            {
+                "id": 209144,
+                "name": "seizure"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Adrian Grenier",
+            "character": "Owen"
+        },
+        {
+            "actor": "Angela Trimbur",
+            "character": "Isabel"
+        },
+        {
+            "actor": "Fionnula Flanagan",
+            "character": "Violet"
+        },
+        {
+            "actor": "AnnaLynne McCord",
+            "character": "Pearl"
+        },
+        {
+            "actor": "Sally Kirkland",
+            "character": "Florence"
+        },
+        {
+            "actor": "Matthew Gray Gubler",
+            "character": "Caleb"
+        },
+        {
+            "actor": "Ray Santiago",
+            "character": "Sheldon"
+        },
+        {
+            "actor": "Ezra Buzzington",
+            "character": "Pastor Sterling"
+        },
+        {
+            "actor": "Molly McCook",
+            "character": "Aimee"
+        },
+        {
+            "actor": "Alexa Hamilton",
+            "character": "Owen's Mother"
+        },
+        {
+            "actor": "Michael Laren",
+            "character": "Photographer"
+        },
+        {
+            "actor": "Clayton Jackson",
+            "character": "Colton"
+        },
+        {
+            "actor": "Karl Schott",
+            "character": "Owen's Father"
+        },
+        {
+            "actor": "Brayden Austin",
+            "character": "Young Owen"
+        },
+        {
+            "actor": "Ruby Lightfoot",
+            "character": "Young Pearl"
+        },
+        {
+            "actor": "Sibyl Gregory",
+            "character": "Chloe"
+        },
+        {
+            "actor": "Ronnie Gene Blevins",
+            "character": "Televangelist"
+        }
+    ]
+}

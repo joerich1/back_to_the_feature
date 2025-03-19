@@ -1,0 +1,604 @@
+{
+    "adult": false,
+    "backdrop_path": "/bM3c2IUoivvP144vcJno8N59qOl.jpg",
+    "belongs_to_collection": null,
+    "budget": 300000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 65262,
+    "imdb_id": "tt0080850",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "He Knows You're Alone",
+    "overview": "A reluctant bride-to-be is stalked by a serial killer who only kills brides and the people around them. While her friends get whacked one by one, a hard-boiled renegade cop whose bride had been killed years before tries to hunt the killer down before it is too late.",
+    "popularity": 2.511,
+    "poster_path": "/90rdztFCRAxQsEfy35cxH9qt3N1.jpg",
+    "production_companies": [
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        },
+        {
+            "id": 220046,
+            "logo_path": null,
+            "name": "Lansbury/Beruh Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1980-08-29",
+    "revenue": 4900000,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Every girl is frightened the night before her wedding. But this time...there's good reason!",
+    "title": "He Knows You're Alone",
+    "video": false,
+    "vote_average": 5.1,
+    "vote_count": 71,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-08-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 165934,
+                "known_for_department": "Acting",
+                "name": "Caitlin O'Heaney",
+                "original_name": "Caitlin O'Heaney",
+                "popularity": 0.017,
+                "profile_path": "/9tjYindjLhnqN6nN2YiF5h1LPAq.jpg",
+                "cast_id": 2,
+                "character": "Amy Jensen",
+                "credit_id": "52fe4703c3a368484e0b0523",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 172025,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Kemp",
+                "original_name": "Elizabeth Kemp",
+                "popularity": 0.002,
+                "profile_path": "/yAjM9c8gJI2CFenKdrqoe7VpPiT.jpg",
+                "cast_id": 3,
+                "character": "Nancy",
+                "credit_id": "52fe4703c3a368484e0b0527",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1217003,
+                "known_for_department": "Acting",
+                "name": "Dana Barron",
+                "original_name": "Dana Barron",
+                "popularity": 0.035,
+                "profile_path": "/z6HwYRN4h9CpjjyyM3rBc4KYN6D.jpg",
+                "cast_id": 15,
+                "character": "Diana",
+                "credit_id": "52fe4703c3a368484e0b0557",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93419,
+                "known_for_department": "Directing",
+                "name": "Don Scardino",
+                "original_name": "Don Scardino",
+                "popularity": 0.029,
+                "profile_path": "/3yGJ8GcYZLURUweqmYhC77QyA1K.jpg",
+                "cast_id": 1,
+                "character": "Marvin",
+                "credit_id": "52fe4703c3a368484e0b051f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31,
+                "known_for_department": "Acting",
+                "name": "Tom Hanks",
+                "original_name": "Tom Hanks",
+                "popularity": 0.292,
+                "profile_path": "/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg",
+                "cast_id": 8,
+                "character": "Elliot",
+                "credit_id": "52fe4703c3a368484e0b053b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8986,
+                "known_for_department": "Acting",
+                "name": "James Rebhorn",
+                "original_name": "James Rebhorn",
+                "popularity": 0.057,
+                "profile_path": "/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg",
+                "cast_id": 7,
+                "character": "Prof. Carl Mason",
+                "credit_id": "52fe4703c3a368484e0b0537",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7675,
+                "known_for_department": "Acting",
+                "name": "Paul Gleason",
+                "original_name": "Paul Gleason",
+                "popularity": 0.061,
+                "profile_path": "/a7PJofFcVpDxw2wAak1d56J7L4k.jpg",
+                "cast_id": 11,
+                "character": "Det. Frank Daley",
+                "credit_id": "52fe4703c3a368484e0b0543",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55271,
+                "known_for_department": "Acting",
+                "name": "Steve James",
+                "original_name": "Steve James",
+                "popularity": 0.021,
+                "profile_path": "/jo0dgbIt8FaXZG1xz5VhMj47B9B.jpg",
+                "cast_id": 16,
+                "character": "Young Man",
+                "credit_id": "52fe4703c3a368484e0b055b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 167579,
+                "known_for_department": "Acting",
+                "name": "Lewis Arlt",
+                "original_name": "Lewis Arlt",
+                "popularity": 0.001,
+                "profile_path": "/nPRmYYIjgqMLianH8ZSMpLIiJd0.jpg",
+                "cast_id": 5,
+                "character": "Det. Len Gamble",
+                "credit_id": "52fe4703c3a368484e0b052f",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52189,
+                "known_for_department": "Acting",
+                "name": "Patsy Pease",
+                "original_name": "Patsy Pease",
+                "popularity": 0.004,
+                "profile_path": "/qBTT466flhVIctli6YCpAQVdPcX.jpg",
+                "cast_id": 6,
+                "character": "Joyce",
+                "credit_id": "52fe4703c3a368484e0b0533",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240772,
+                "known_for_department": "Acting",
+                "name": "Joseph Leon",
+                "original_name": "Joseph Leon",
+                "popularity": 0.004,
+                "profile_path": "/yvxRBbU1Kun8WluZj9jz2qCdG4Q.jpg",
+                "cast_id": 10,
+                "character": "Ralph the Tailor",
+                "credit_id": "52fe4703c3a368484e0b053f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 240771,
+                "known_for_department": "Acting",
+                "name": "Tom Rolfing",
+                "original_name": "Tom Rolfing",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Ray Carlton",
+                "credit_id": "52fe4703c3a368484e0b052b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 168618,
+                "known_for_department": "Acting",
+                "name": "James Carroll",
+                "original_name": "James Carroll",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Phil",
+                "credit_id": "52fe4703c3a368484e0b0547",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 129295,
+                "known_for_department": "Acting",
+                "name": "Robin Lamont",
+                "original_name": "Robin Lamont",
+                "popularity": 0.005,
+                "profile_path": "/3h91vk5p28dCXMUtglVJa5sWPkh.jpg",
+                "cast_id": 17,
+                "character": "Ruthie",
+                "credit_id": "5d06a1a10e0a266424cbd0c3",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2954711,
+                "known_for_department": "Acting",
+                "name": "Brian Byers",
+                "original_name": "Brian Byers",
+                "popularity": 0.013,
+                "profile_path": "/eEgTNrAVYTPvTqBVOlFfexI8yM3.jpg",
+                "cast_id": 18,
+                "character": "Bernie",
+                "credit_id": "6011bb5a7f1d83003e6ecada",
+                "order": 14
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128639,
+                "known_for_department": "Directing",
+                "name": "Armand Mastroianni",
+                "original_name": "Armand Mastroianni",
+                "popularity": 0.009,
+                "profile_path": null,
+                "credit_id": "52fe4703c3a368484e0b054d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 544064,
+                "known_for_department": "Writing",
+                "name": "Scotty Parker",
+                "original_name": "Scotty Parker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460de6d6c300008218e9b0",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3736717,
+                "known_for_department": "Production",
+                "name": "Nan Pearlman",
+                "original_name": "Nan Pearlman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e05cdf2e6007ad2937d",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 139110,
+                "known_for_department": "Editing",
+                "name": "George T. Norris",
+                "original_name": "George T. Norris",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e5a6a300b007d21a311",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 93414,
+                "known_for_department": "Production",
+                "name": "Joseph Beruh",
+                "original_name": "Joseph Beruh",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e1ef621b20079f97eed",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1320213,
+                "known_for_department": "Production",
+                "name": "George Manasse",
+                "original_name": "George Manasse",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460df7d34eb30079fe6c76",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107373,
+                "known_for_department": "Acting",
+                "name": "Taso N. Stavrakis",
+                "original_name": "Taso N. Stavrakis",
+                "popularity": 0.012,
+                "profile_path": "/7WAMXhk4sUJmjGOQ5dfIrDwTKDt.jpg",
+                "credit_id": "63460e932dffd8007a39a4b7",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3736720,
+                "known_for_department": "Sound",
+                "name": "Mark Peskanov",
+                "original_name": "Mark Peskanov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e442dffd80082125323",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1983673,
+                "known_for_department": "Production",
+                "name": "Robert Di Milia",
+                "original_name": "Robert Di Milia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e10cf62cd007eae15b5",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93415,
+                "known_for_department": "Production",
+                "name": "Edgar Lansbury",
+                "original_name": "Edgar Lansbury",
+                "popularity": 0.001,
+                "profile_path": "/vHetS2DnwfZCk5Vojbwf6QGBzBB.jpg",
+                "credit_id": "63460e2a7a97ab007a9d432e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58812,
+                "known_for_department": "Camera",
+                "name": "Gerald Feil",
+                "original_name": "Gerald Feil",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "63460e4f5b4fed007fe8330e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3736719,
+                "known_for_department": "Sound",
+                "name": "Alexander Peskanov",
+                "original_name": "Alexander Peskanov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e37d55c3d0091b5c110",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1011593,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cecilia Verardi",
+                "original_name": "Cecilia Verardi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e7ff621b2007ed08076",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2925038,
+                "known_for_department": "Art",
+                "name": "Susan Kaufman",
+                "original_name": "Susan Kaufman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63460e6e699fb7007c05fdd6",
+                "department": "Art",
+                "job": "Art Direction"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6255,
+                "name": "insanity"
+            },
+            {
+                "id": 703,
+                "name": "detective"
+            },
+            {
+                "id": 1879,
+                "name": "shower"
+            },
+            {
+                "id": 2583,
+                "name": "blackout"
+            },
+            {
+                "id": 3582,
+                "name": "bride"
+            },
+            {
+                "id": 6844,
+                "name": "stalker"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 9955,
+                "name": "urban legend"
+            },
+            {
+                "id": 11181,
+                "name": "decapitation"
+            },
+            {
+                "id": 10714,
+                "name": "serial killer"
+            },
+            {
+                "id": 14805,
+                "name": "maniac"
+            },
+            {
+                "id": 156260,
+                "name": "stripping"
+            },
+            {
+                "id": 161814,
+                "name": "psycho killer"
+            },
+            {
+                "id": 171376,
+                "name": "funhouse"
+            },
+            {
+                "id": 217879,
+                "name": "dance studio"
+            },
+            {
+                "id": 238142,
+                "name": "stabbed to death"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Caitlin O'Heaney",
+            "character": "Amy Jensen"
+        },
+        {
+            "actor": "Elizabeth Kemp",
+            "character": "Nancy"
+        },
+        {
+            "actor": "Dana Barron",
+            "character": "Diana"
+        },
+        {
+            "actor": "Don Scardino",
+            "character": "Marvin"
+        },
+        {
+            "actor": "Tom Hanks",
+            "character": "Elliot"
+        },
+        {
+            "actor": "James Rebhorn",
+            "character": "Prof. Carl Mason"
+        },
+        {
+            "actor": "Paul Gleason",
+            "character": "Det. Frank Daley"
+        },
+        {
+            "actor": "Steve James",
+            "character": "Young Man"
+        },
+        {
+            "actor": "Lewis Arlt",
+            "character": "Det. Len Gamble"
+        },
+        {
+            "actor": "Patsy Pease",
+            "character": "Joyce"
+        },
+        {
+            "actor": "Joseph Leon",
+            "character": "Ralph the Tailor"
+        },
+        {
+            "actor": "Tom Rolfing",
+            "character": "Ray Carlton"
+        },
+        {
+            "actor": "James Carroll",
+            "character": "Phil"
+        },
+        {
+            "actor": "Robin Lamont",
+            "character": "Ruthie"
+        },
+        {
+            "actor": "Brian Byers",
+            "character": "Bernie"
+        }
+    ]
+}

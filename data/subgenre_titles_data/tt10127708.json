@@ -1,0 +1,763 @@
+{
+    "adult": false,
+    "backdrop_path": "/h6XfgbzQEV4sitsIVY63pawLI0s.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 10752,
+            "name": "War"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/80208806",
+    "id": 613093,
+    "imdb_id": "tt10127708",
+    "origin_country": [
+        "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Malnazidos",
+    "overview": "During the Spanish Civil War, sworn enemies must work together when they encounter flesh-eating zombies created in a Nazi experiment.",
+    "popularity": 3.542,
+    "poster_path": "/avokvOwhjVR9GgISsSSgb2A343G.jpg",
+    "production_companies": [
+        {
+            "id": 2875,
+            "logo_path": "/3fNapBvM3EHlyL9TxdP5qEOUNeN.png",
+            "name": "Ikiru Films",
+            "origin_country": "ES"
+        },
+        {
+            "id": 113812,
+            "logo_path": "/n6SBbqa2mu8YLm6dIhxjDaWWZM7.png",
+            "name": "La Terraza Films",
+            "origin_country": "ES"
+        },
+        {
+            "id": 22072,
+            "logo_path": null,
+            "name": "Cactus Flower",
+            "origin_country": "ES"
+        },
+        {
+            "id": 1182,
+            "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+            "name": "Telecinco Cinema",
+            "origin_country": "ES"
+        },
+        {
+            "id": 103476,
+            "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+            "name": "Mogambo Films",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "2020-10-08",
+    "revenue": 0,
+    "runtime": 101,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Valley of the Dead",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 299,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "Sitges Film Festival",
+                        "release_date": "2020-10-08T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2020-10-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "\tNetflix",
+                        "release_date": "2022-07-11T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "M18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-07-11T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-07-11T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 566544,
+                "known_for_department": "Acting",
+                "name": "Aura Garrido",
+                "original_name": "Aura Garrido",
+                "popularity": 0.04,
+                "profile_path": "/195NlsR4hNQtvvZi3eZ19EJCOu7.jpg",
+                "cast_id": 1,
+                "character": "Matacuras",
+                "credit_id": "5d1e12466743fa0014d13f24",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1354964,
+                "known_for_department": "Acting",
+                "name": "Miki Esparbé",
+                "original_name": "Miki Esparbé",
+                "popularity": 0.013,
+                "profile_path": "/aoDKG2LSN9JKTKwntpD8AzyVwuf.jpg",
+                "cast_id": 2,
+                "character": "Jan",
+                "credit_id": "5d1e124b47c9fb0012db2a88",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15598,
+                "known_for_department": "Acting",
+                "name": "Luis Callejo",
+                "original_name": "Luis Callejo",
+                "popularity": 0.014,
+                "profile_path": "/s4SkMqVL7cGNLuCgYDSHzOfiu1p.jpg",
+                "cast_id": 3,
+                "character": "Sargento",
+                "credit_id": "5d1e1254a1353378710891c2",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 224874,
+                "known_for_department": "Acting",
+                "name": "Álvaro Cervantes",
+                "original_name": "Álvaro Cervantes",
+                "popularity": 0.026,
+                "profile_path": "/mjDMBsLJ6Wv90U68adWvqybqFRZ.jpg",
+                "cast_id": 4,
+                "character": "Mecha",
+                "credit_id": "5d1e125aa13533000f0a2e23",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6534,
+                "known_for_department": "Acting",
+                "name": "Jesús Carroza",
+                "original_name": "Jesús Carroza",
+                "popularity": 0.01,
+                "profile_path": "/ttjmSGcoLDYwxojQkAYiMAZmXTU.jpg",
+                "cast_id": 5,
+                "character": "Jurel",
+                "credit_id": "5d1e1264a1353378710891e3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 46856,
+                "known_for_department": "Acting",
+                "name": "María Botto",
+                "original_name": "María Botto",
+                "popularity": 0.015,
+                "profile_path": "/loXdfUOLAg9Ey6Ppt8pmJ36t5Gf.jpg",
+                "cast_id": 6,
+                "character": "Sor Flor",
+                "credit_id": "5d1e1269a135337b2f05f12b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1874700,
+                "known_for_department": "Acting",
+                "name": "Sergio Torrico",
+                "original_name": "Sergio Torrico",
+                "popularity": 0.006,
+                "profile_path": "/bd4PR7sLRMkK9gNSWJHdWXaDsBg.jpg",
+                "cast_id": 7,
+                "character": "Brodsky",
+                "credit_id": "5d1e12766743fa0014d13f62",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1793815,
+                "known_for_department": "Acting",
+                "name": "Francisco Reyes",
+                "original_name": "Francisco Reyes",
+                "popularity": 0.002,
+                "profile_path": "/bip3QXmrpvSHGEvzmX5As0qoI6Z.jpg",
+                "cast_id": 8,
+                "character": "Comandante SS",
+                "credit_id": "5d1e128394d8a804ba3c73cf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1036040,
+                "known_for_department": "Acting",
+                "name": "Frank Feys",
+                "original_name": "Frank Feys",
+                "popularity": 0.01,
+                "profile_path": "/xnUFPC9Fohaz5nVS2SUtmb4lPzA.jpg",
+                "cast_id": 9,
+                "character": "Oficial Waffen SS",
+                "credit_id": "5d1e128f6743fa0012d13e6a",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2203918,
+                "known_for_department": "Acting",
+                "name": "Asia Ortega",
+                "original_name": "Asia Ortega",
+                "popularity": 0.012,
+                "profile_path": "/jWDoTmcQKLIggpoFXSDugsepPrc.jpg",
+                "cast_id": 10,
+                "character": "Novia Pueblo",
+                "credit_id": "5d1e1297a1353300110a4f50",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1276992,
+                "known_for_department": "Acting",
+                "name": "Ken Appledorn",
+                "original_name": "Ken Appledorn",
+                "popularity": 0.007,
+                "profile_path": "/sGXuvMY9yqG6iddlhn2C69qtTo6.jpg",
+                "cast_id": 11,
+                "character": "El Americano",
+                "credit_id": "5d1e12a394d8a84bf13d03b2",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2354333,
+                "known_for_department": "Acting",
+                "name": "Manel Llunell",
+                "original_name": "Manel Llunell",
+                "popularity": 0.001,
+                "profile_path": "/z1osXVU30zcHO8x5XeeZOQ7s15u.jpg",
+                "cast_id": 12,
+                "character": "Decruz",
+                "credit_id": "5d1e12b8a13533000f0a2ed1",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3652,
+                "known_for_department": "Acting",
+                "name": "Manuel Morón",
+                "original_name": "Manuel Morón",
+                "popularity": 0.01,
+                "profile_path": "/kK9liGaocGdahQc4RnnMxm5U7V5.jpg",
+                "cast_id": 14,
+                "character": "General Lozano",
+                "credit_id": "5d1e12d094d8a831163f4fcc",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1062003,
+                "known_for_department": "Acting",
+                "name": "Dafnis Balduz",
+                "original_name": "Dafnis Balduz",
+                "popularity": 0.005,
+                "profile_path": "/h4m2xMhQPGD7eSlHVGdwZNvjxdE.jpg",
+                "cast_id": 20,
+                "character": "Comisario Político",
+                "credit_id": "5d9bfe666d675a001df2bcfd",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3011932,
+                "known_for_department": "Acting",
+                "name": "Pol Corominas",
+                "original_name": "Pol Corominas",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Novio boda",
+                "credit_id": "604f9ba1031deb0054e3b202",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 234501,
+                "known_for_department": "Acting",
+                "name": "Julius Cotter",
+                "original_name": "Julius Cotter",
+                "popularity": 0.008,
+                "profile_path": "/rl4S6umh5BZQvUqSMIeUvmERCaD.jpg",
+                "cast_id": 24,
+                "character": "General Americano",
+                "credit_id": "604f9bae6517d600534389c2",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2452733,
+                "known_for_department": "Acting",
+                "name": "Oscar Dorta",
+                "original_name": "Oscar Dorta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Militar Las Aguilas 2",
+                "credit_id": "604f9bc1976a23003d858d88",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3011934,
+                "known_for_department": "Acting",
+                "name": "Bruno García",
+                "original_name": "Bruno García",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Zombi Niño",
+                "credit_id": "604f9bfc6517d60053438a1e",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3011935,
+                "known_for_department": "Acting",
+                "name": "Mouad Ghazouan",
+                "original_name": "Mouad Ghazouan",
+                "popularity": 0.001,
+                "profile_path": "/qNooVKZLhyxyxTyBm40FAlFnfLi.jpg",
+                "cast_id": 27,
+                "character": "Rafir",
+                "credit_id": "604f9c197314a1002b1ee9dc",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1277517,
+                "known_for_department": "Acting",
+                "name": "Óscar Intente",
+                "original_name": "Óscar Intente",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Oficial Pelotón",
+                "credit_id": "604f9c33976a23003d858e52",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3011938,
+                "known_for_department": "Acting",
+                "name": "Sanna Toivanen",
+                "original_name": "Sanna Toivanen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Ochoa",
+                "credit_id": "604f9c89031deb002878e20d",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 969241,
+                "known_for_department": "Production",
+                "name": "Cristian Conti",
+                "original_name": "Cristian Conti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baef5f7ef38104368557aa",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1311772,
+                "known_for_department": "Production",
+                "name": "Guadalupe Balaguer Trelles",
+                "original_name": "Guadalupe Balaguer Trelles",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baef1412aabc061a6270cb",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1149657,
+                "known_for_department": "Sound",
+                "name": "Javier Rodero",
+                "original_name": "Javier Rodero",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baefd87ef38104368557d3",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2044881,
+                "known_for_department": "Production",
+                "name": "Ricardo Marco Budé",
+                "original_name": "Ricardo Marco Budé",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baef3e229ae21211b44c18",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3604842,
+                "known_for_department": "Crew",
+                "name": "Manuel Martín Ferreras",
+                "original_name": "Manuel Martín Ferreras",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baee8de1faed1dc4bdd58e",
+                "department": "Crew",
+                "job": "Creator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 27452,
+                "known_for_department": "Production",
+                "name": "Ignacio Salazar-Simpson",
+                "original_name": "Ignacio Salazar-Simpson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baef9e84f2490bf8cc5b58",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 507252,
+                "known_for_department": "Editing",
+                "name": "Martí Roca",
+                "original_name": "Martí Roca",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baf06817b5ef04e6b2c595",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16999,
+                "known_for_department": "Production",
+                "name": "Álvaro Augustin",
+                "original_name": "Álvaro Augustin",
+                "popularity": 0.006,
+                "profile_path": "/8lsjAAaNthe1VfWLTP2Rr1JfPga.jpg",
+                "credit_id": "62baef033d43e013f84add9d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3604842,
+                "known_for_department": "Crew",
+                "name": "Manuel Martín Ferreras",
+                "original_name": "Manuel Martín Ferreras",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62baee9868b7660051224ee4",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1695582,
+                "known_for_department": "Production",
+                "name": "Paloma Molina",
+                "original_name": "Paloma Molina",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "62baef802e2b2c031cec74ef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114464,
+                "known_for_department": "Directing",
+                "name": "Javier Ruiz Caldera",
+                "original_name": "Javier Ruiz Caldera",
+                "popularity": 0.005,
+                "profile_path": "/4dSM5R8vCsVffM9ZysKiMPznMza.jpg",
+                "credit_id": "5d1e12e36743fa0012d13ed1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16437,
+                "known_for_department": "Camera",
+                "name": "Kiko de la Rica",
+                "original_name": "Kiko de la Rica",
+                "popularity": 0.002,
+                "profile_path": "/1fZDlOHuOVSc9KUC90BTlOUpQh9.jpg",
+                "credit_id": "5d1e12fe94d8a831163f4ff6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 69875,
+                "known_for_department": "Editing",
+                "name": "Alberto de Toro",
+                "original_name": "Alberto de Toro",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5d1e12efa135337b2f05f1f4",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94215,
+                "known_for_department": "Writing",
+                "name": "Jaime Marques",
+                "original_name": "Jaime Marques",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5fa7e14743494f00401f32b7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 969241,
+                "known_for_department": "Production",
+                "name": "Cristian Conti",
+                "original_name": "Cristian Conti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5fa7e1336e3deb0040495b04",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3723066,
+                "known_for_department": "Sound",
+                "name": "Laia Picón",
+                "original_name": "Laia Picón",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "679e0808ac5a7951b9cb40fb",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 514,
+                "name": "spain"
+            },
+            {
+                "id": 1706,
+                "name": "experiment"
+            },
+            {
+                "id": 2652,
+                "name": "nazi"
+            },
+            {
+                "id": 12377,
+                "name": "zombie"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Aura Garrido",
+            "character": "Matacuras"
+        },
+        {
+            "actor": "Miki Esparbé",
+            "character": "Jan"
+        },
+        {
+            "actor": "Luis Callejo",
+            "character": "Sargento"
+        },
+        {
+            "actor": "Álvaro Cervantes",
+            "character": "Mecha"
+        },
+        {
+            "actor": "Jesús Carroza",
+            "character": "Jurel"
+        },
+        {
+            "actor": "María Botto",
+            "character": "Sor Flor"
+        },
+        {
+            "actor": "Sergio Torrico",
+            "character": "Brodsky"
+        },
+        {
+            "actor": "Francisco Reyes",
+            "character": "Comandante SS"
+        },
+        {
+            "actor": "Frank Feys",
+            "character": "Oficial Waffen SS"
+        },
+        {
+            "actor": "Asia Ortega",
+            "character": "Novia Pueblo"
+        },
+        {
+            "actor": "Ken Appledorn",
+            "character": "El Americano"
+        },
+        {
+            "actor": "Manel Llunell",
+            "character": "Decruz"
+        },
+        {
+            "actor": "Manuel Morón",
+            "character": "General Lozano"
+        },
+        {
+            "actor": "Dafnis Balduz",
+            "character": "Comisario Político"
+        },
+        {
+            "actor": "Pol Corominas",
+            "character": "Novio boda"
+        },
+        {
+            "actor": "Julius Cotter",
+            "character": "General Americano"
+        },
+        {
+            "actor": "Oscar Dorta",
+            "character": "Militar Las Aguilas 2"
+        },
+        {
+            "actor": "Bruno García",
+            "character": "Zombi Niño"
+        },
+        {
+            "actor": "Mouad Ghazouan",
+            "character": "Rafir"
+        },
+        {
+            "actor": "Óscar Intente",
+            "character": "Oficial Pelotón"
+        },
+        {
+            "actor": "Sanna Toivanen",
+            "character": "Ochoa"
+        }
+    ]
+}

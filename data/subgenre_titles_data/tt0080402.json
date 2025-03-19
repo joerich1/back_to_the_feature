@@ -1,0 +1,815 @@
+{
+    "adult": false,
+    "backdrop_path": "/hXQH8pmcBz83MnOzNBTm8lYAbIs.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 39176,
+    "imdb_id": "tt0080402",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Awakening",
+    "overview": "When a British archaeologist violates an Egyptian queen's tomb, her evil spirit enters his daughter.",
+    "popularity": 2.612,
+    "poster_path": "/juAIeqJH15alRtCb8v9MAaHfxow.jpg",
+    "production_companies": [
+        {
+            "id": 41,
+            "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+            "name": "Orion Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 538,
+            "logo_path": "/oGpxL5lFf8VpWsAQ6tut0on25LW.png",
+            "name": "EMI Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 10099,
+            "logo_path": null,
+            "name": "Robert H. Solo Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1980-07-09",
+    "revenue": 8415112,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They thought they had buried her forever!",
+    "title": "The Awakening",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 74,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-12-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-10-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-10-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-ray",
+                        "release_date": "2021-06-15T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-11-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-05-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-11-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FI",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-02-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-07-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Originally rated X",
+                        "release_date": "1980-11-20T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-08-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "PG12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-01-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MX",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-10-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-07-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-03-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1981-01-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-09-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1980-10-31T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10017,
+                "known_for_department": "Acting",
+                "name": "Charlton Heston",
+                "original_name": "Charlton Heston",
+                "popularity": 0.073,
+                "profile_path": "/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg",
+                "cast_id": 1,
+                "character": "Matthew Corbeck",
+                "credit_id": "52fe47009251416c91066e8f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13326,
+                "known_for_department": "Acting",
+                "name": "Susannah York",
+                "original_name": "Susannah York",
+                "popularity": 0.038,
+                "profile_path": "/yVAEdAjp4IMgIR9GST9lh7HJRf4.jpg",
+                "cast_id": 2,
+                "character": "Jane Turner",
+                "credit_id": "52fe47009251416c91066e93",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 103727,
+                "known_for_department": "Acting",
+                "name": "Jill Townsend",
+                "original_name": "Jill Townsend",
+                "popularity": 0.013,
+                "profile_path": "/r0nqtyz4Isdojy6Rg8gxfoWjox8.jpg",
+                "cast_id": 8,
+                "character": "Anne Corbeck",
+                "credit_id": "52fe47009251416c91066eaf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127488,
+                "known_for_department": "Acting",
+                "name": "Stephanie Zimbalist",
+                "original_name": "Stephanie Zimbalist",
+                "popularity": 0.03,
+                "profile_path": "/joSbrZE5gRXiZwV7NYxn0LRuloo.jpg",
+                "cast_id": 9,
+                "character": "Margaret Corbeck",
+                "credit_id": "52fe47009251416c91066eb3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 182092,
+                "known_for_department": "Acting",
+                "name": "Patrick Drury",
+                "original_name": "Patrick Drury",
+                "popularity": 0.015,
+                "profile_path": "/ghQLyo5p0S9pAlsXmbUggBOZwiP.jpg",
+                "cast_id": 10,
+                "character": "Paul Whittier",
+                "credit_id": "52fe47009251416c91066eb7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72328,
+                "known_for_department": "Acting",
+                "name": "Bruce Myers",
+                "original_name": "Bruce Myers",
+                "popularity": 0.015,
+                "profile_path": "/8ZxGn8K1Jh8q9G9c6plSqMQRmsh.jpg",
+                "cast_id": 11,
+                "character": "Dr. Khalid",
+                "credit_id": "52fe47009251416c91066ebb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2980,
+                "known_for_department": "Acting",
+                "name": "Nadim Sawalha",
+                "original_name": "Nadim Sawalha",
+                "popularity": 0.017,
+                "profile_path": "/7nFlNb4YTw6dQOxfPu7HRSX4c0o.jpg",
+                "cast_id": 12,
+                "character": "Dr. El Sadek",
+                "credit_id": "52fe47009251416c91066ebf",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27762,
+                "known_for_department": "Acting",
+                "name": "Ian McDiarmid",
+                "original_name": "Ian McDiarmid",
+                "popularity": 0.036,
+                "profile_path": "/vIXs1C15pPTWPljCR2GHy1dV6nM.jpg",
+                "cast_id": 13,
+                "character": "Dr. Richter",
+                "credit_id": "52fe47009251416c91066ec3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 591879,
+                "known_for_department": "Acting",
+                "name": "Ahmed Osman",
+                "original_name": "Ahmed Osman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Yussef",
+                "credit_id": "52fe47009251416c91066ec7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6199,
+                "known_for_department": "Acting",
+                "name": "Miriam Margolyes",
+                "original_name": "Miriam Margolyes",
+                "popularity": 0.073,
+                "profile_path": "/q73xMZveDogt3e5uFknWMExLIyH.jpg",
+                "cast_id": 15,
+                "character": "Dr. Kadira",
+                "credit_id": "52fe47009251416c91066ecb",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96993,
+                "known_for_department": "Acting",
+                "name": "Michael Mellinger",
+                "original_name": "Michael Mellinger",
+                "popularity": 0.014,
+                "profile_path": "/9R8Mcf6EVX0E9Z7ln2TGTyF6yNI.jpg",
+                "cast_id": 16,
+                "character": "Hamid",
+                "credit_id": "52fe47009251416c91066ecf",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73981,
+                "known_for_department": "Acting",
+                "name": "Leonard Maguire",
+                "original_name": "Leonard Maguire",
+                "popularity": 0.01,
+                "profile_path": "/5ZgludH8WKGYe0wxqs2i2Iv3yr.jpg",
+                "cast_id": 17,
+                "character": "John Matthews",
+                "credit_id": "52fe47009251416c91066ed3",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 591880,
+                "known_for_department": "Acting",
+                "name": "Ishia Bennison",
+                "original_name": "Ishia Bennison",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Nurse",
+                "credit_id": "52fe47009251416c91066ed7",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 152281,
+                "known_for_department": "Acting",
+                "name": "Madhav Sharma",
+                "original_name": "Madhav Sharma",
+                "popularity": 0.01,
+                "profile_path": "/qspAb0s1mNVTkf467IjO6kD6d6O.jpg",
+                "cast_id": 19,
+                "character": "Doctor",
+                "credit_id": "52fe47009251416c91066edb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59759,
+                "known_for_department": "Acting",
+                "name": "Michael Halphie",
+                "original_name": "Michael Halphie",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Doctor",
+                "credit_id": "52fe47009251416c91066edf",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 591881,
+                "known_for_department": "Acting",
+                "name": "Roger Kemp",
+                "original_name": "Roger Kemp",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Doctor",
+                "credit_id": "52fe47009251416c91066ee3",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8399,
+                "known_for_department": "Acting",
+                "name": "Christopher Fairbank",
+                "original_name": "Christopher Fairbank",
+                "popularity": 0.042,
+                "profile_path": "/6bO8JmhkC0GzU4gIBdSMY48E3CD.jpg",
+                "cast_id": 28,
+                "character": "Porter",
+                "credit_id": "52fe47009251416c91066f05",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1348145,
+                "known_for_department": "Art",
+                "name": "Maurice Binder",
+                "original_name": "Maurice Binder",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "623b2d28d7dcd2005e9ee193",
+                "department": "Art",
+                "job": "Main Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 589662,
+                "known_for_department": "Writing",
+                "name": "Allan Scott",
+                "original_name": "Allan Scott",
+                "popularity": 0.01,
+                "profile_path": "/6kLDCH5pKF1grTxPjOxi5qr3Kj9.jpg",
+                "credit_id": "52fe47009251416c91066f01",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10723,
+                "known_for_department": "Directing",
+                "name": "Mike Newell",
+                "original_name": "Mike Newell",
+                "popularity": 0.017,
+                "profile_path": "/zeLnvLZtyJaBP1wWceRM7HWkm0E.jpg",
+                "credit_id": "52fe47009251416c91066e99",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1544,
+                "known_for_department": "Writing",
+                "name": "Bram Stoker",
+                "original_name": "Bram Stoker",
+                "popularity": 0.01,
+                "profile_path": "/qJR6jc8hSFZyyZbthfZPi2QU40U.jpg",
+                "credit_id": "52fe47009251416c91066eab",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 14134,
+                "known_for_department": "Writing",
+                "name": "Chris Bryant",
+                "original_name": "Chris Bryant",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe47009251416c91066e9f",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5056,
+                "known_for_department": "Editing",
+                "name": "Terry Rawlings",
+                "original_name": "Terry Rawlings",
+                "popularity": 0.001,
+                "profile_path": "/a1CRIJoeT5J6FsRe8bjFVbsH3h5.jpg",
+                "credit_id": "52fe47009251416c91066efb",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39106,
+                "known_for_department": "Production",
+                "name": "Robert H. Solo",
+                "original_name": "Robert H. Solo",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe47009251416c91066ee9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32292,
+                "known_for_department": "Sound",
+                "name": "Claude Bolling",
+                "original_name": "Claude Bolling",
+                "popularity": 0.006,
+                "profile_path": "/mQo6I3vYLfM3c9pzedqCQu8ItTn.jpg",
+                "credit_id": "52fe47009251416c91066eef",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 58211,
+                "known_for_department": "Writing",
+                "name": "Clive Exton",
+                "original_name": "Clive Exton",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe47009251416c91066ea5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6603,
+                "known_for_department": "Camera",
+                "name": "Jack Cardiff",
+                "original_name": "Jack Cardiff",
+                "popularity": 0.01,
+                "profile_path": "/eBO70vjLsISADqr1xgSK7MucN39.jpg",
+                "credit_id": "53788323c3a36855250036d5",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 545580,
+                "known_for_department": "Production",
+                "name": "Denis Johnson",
+                "original_name": "Denis Johnson",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5ca0bd4b0e0a265974fb0331",
+                "department": "Production",
+                "job": "Production Manager"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1160,
+                "name": "egypt"
+            },
+            {
+                "id": 2011,
+                "name": "queen"
+            },
+            {
+                "id": 2904,
+                "name": "mummy"
+            },
+            {
+                "id": 10541,
+                "name": "curse"
+            },
+            {
+                "id": 13153,
+                "name": "spirit"
+            },
+            {
+                "id": 41586,
+                "name": "archaeologist"
+            },
+            {
+                "id": 156075,
+                "name": "evil"
+            },
+            {
+                "id": 234743,
+                "name": "egyptian tomb"
+            },
+            {
+                "id": 243413,
+                "name": "mummy's curse"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Charlton Heston",
+            "character": "Matthew Corbeck"
+        },
+        {
+            "actor": "Susannah York",
+            "character": "Jane Turner"
+        },
+        {
+            "actor": "Jill Townsend",
+            "character": "Anne Corbeck"
+        },
+        {
+            "actor": "Stephanie Zimbalist",
+            "character": "Margaret Corbeck"
+        },
+        {
+            "actor": "Patrick Drury",
+            "character": "Paul Whittier"
+        },
+        {
+            "actor": "Bruce Myers",
+            "character": "Dr. Khalid"
+        },
+        {
+            "actor": "Nadim Sawalha",
+            "character": "Dr. El Sadek"
+        },
+        {
+            "actor": "Ian McDiarmid",
+            "character": "Dr. Richter"
+        },
+        {
+            "actor": "Ahmed Osman",
+            "character": "Yussef"
+        },
+        {
+            "actor": "Miriam Margolyes",
+            "character": "Dr. Kadira"
+        },
+        {
+            "actor": "Michael Mellinger",
+            "character": "Hamid"
+        },
+        {
+            "actor": "Leonard Maguire",
+            "character": "John Matthews"
+        },
+        {
+            "actor": "Ishia Bennison",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Madhav Sharma",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Michael Halphie",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Roger Kemp",
+            "character": "Doctor"
+        },
+        {
+            "actor": "Christopher Fairbank",
+            "character": "Porter"
+        }
+    ]
+}

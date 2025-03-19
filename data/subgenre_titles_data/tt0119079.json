@@ -1,0 +1,846 @@
+{
+    "adult": false,
+    "backdrop_path": "/fB5MpyL23qNgBUFOESMvN0pGjXg.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 30237,
+    "imdb_id": "tt0119079",
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Onegin",
+    "overview": "A virtuous and passionate girl falls in love with a cynical but a dashing aristocrat.",
+    "popularity": 3.531,
+    "poster_path": "/wqI9NPJfTwD6ggEL7jdVCdJFc0m.jpg",
+    "production_companies": [
+        {
+            "id": 5028,
+            "logo_path": null,
+            "name": "CanWest Global Communications Corporationt",
+            "origin_country": "CA"
+        },
+        {
+            "id": 5029,
+            "logo_path": null,
+            "name": "Onegin Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1999-12-22",
+    "revenue": 206128,
+    "runtime": 104,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A magical era. A passionate longing. A love that spans time.",
+    "title": "Onegin",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 102,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Toronto International Film Festival",
+                        "release_date": "1999-09-18T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Tokyo International Film Festival",
+                        "release_date": "1999-10-31T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1999-12-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5469,
+                "known_for_department": "Acting",
+                "name": "Ralph Fiennes",
+                "original_name": "Ralph Fiennes",
+                "popularity": 0.164,
+                "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg",
+                "cast_id": 1,
+                "character": "Onegin",
+                "credit_id": "52fe44079251416c9100278f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 882,
+                "known_for_department": "Acting",
+                "name": "Liv Tyler",
+                "original_name": "Liv Tyler",
+                "popularity": 0.107,
+                "profile_path": "/eQnuADVICaY40nl2ZseYvfkGQCc.jpg",
+                "cast_id": 2,
+                "character": "Tatyana",
+                "credit_id": "52fe44079251416c91002793",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10881,
+                "known_for_department": "Acting",
+                "name": "Toby Stephens",
+                "original_name": "Toby Stephens",
+                "popularity": 0.043,
+                "profile_path": "/7hZVlhxd4FkhEQxaF4lTgwj3SYc.jpg",
+                "cast_id": 3,
+                "character": "Lensky",
+                "credit_id": "52fe44079251416c91002797",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 17286,
+                "known_for_department": "Acting",
+                "name": "Lena Headey",
+                "original_name": "Lena Headey",
+                "popularity": 0.114,
+                "profile_path": "/5SL4Y4alOYF9EahObfsb6GaDHg4.jpg",
+                "cast_id": 4,
+                "character": "Olga",
+                "credit_id": "52fe44079251416c9100279b",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42993,
+                "known_for_department": "Acting",
+                "name": "Martin Donovan",
+                "original_name": "Martin Donovan",
+                "popularity": 0.073,
+                "profile_path": "/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg",
+                "cast_id": 8,
+                "character": "Prince Nikitin",
+                "credit_id": "52fe44079251416c910027ab",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 42998,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Berrington",
+                "original_name": "Elizabeth Berrington",
+                "popularity": 0.044,
+                "profile_path": "/wFz71bIKTlQoa8v1s243TIh5wUm.jpg",
+                "cast_id": 10,
+                "character": "Mlle Volkonsky",
+                "credit_id": "5a02fa2dc3a36861aa0144fc",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2629,
+                "known_for_department": "Acting",
+                "name": "Alun Armstrong",
+                "original_name": "Alun Armstrong",
+                "popularity": 0.044,
+                "profile_path": "/ahx132GjztjnH7gP64Q0NLewUqZ.jpg",
+                "cast_id": 21,
+                "character": "Zaretsky",
+                "credit_id": "5f9996b755937b003615d187",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16358,
+                "known_for_department": "Acting",
+                "name": "Simon McBurney",
+                "original_name": "Simon McBurney",
+                "popularity": 0.051,
+                "profile_path": "/wwN02i4RBoPHDdOKXBV5AhFALdT.jpg",
+                "cast_id": 22,
+                "character": "Triquet",
+                "credit_id": "5f9996c12f8d0900366eb2a9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 17477,
+                "known_for_department": "Acting",
+                "name": "Harriet Walter",
+                "original_name": "Harriet Walter",
+                "popularity": 0.066,
+                "profile_path": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg",
+                "cast_id": 23,
+                "character": "Madame Larina",
+                "credit_id": "5f9996c917792c00383f438c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63608,
+                "known_for_department": "Acting",
+                "name": "Jason Watkins",
+                "original_name": "Jason Watkins",
+                "popularity": 0.042,
+                "profile_path": "/jGQOdzZ1sCz7WKtYSROMWv4menu.jpg",
+                "cast_id": 24,
+                "character": "Guillot",
+                "credit_id": "5f9996d2ae36680039be210f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97337,
+                "known_for_department": "Acting",
+                "name": "Irene Worth",
+                "original_name": "Irene Worth",
+                "popularity": 0.006,
+                "profile_path": "/8uSteohDNeJH4OQTzB6AVxBkfmV.jpg",
+                "cast_id": 25,
+                "character": "Princess Alina",
+                "credit_id": "5f9996db9a9f9a00357e041f",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 80421,
+                "known_for_department": "Acting",
+                "name": "Gwenllian Davies",
+                "original_name": "Gwenllian Davies",
+                "popularity": 0.01,
+                "profile_path": "/qM301BjRqm1a22khAQpQrhTc5Eq.jpg",
+                "cast_id": 26,
+                "character": "Anisia",
+                "credit_id": "5f9996e643999b0035fc5947",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1347968,
+                "known_for_department": "Acting",
+                "name": "Margery Withers",
+                "original_name": "Margery Withers",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Nanya",
+                "credit_id": "5f9996f05a07f500383237aa",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62970,
+                "known_for_department": "Acting",
+                "name": "Geoffrey McGivern",
+                "original_name": "Geoffrey McGivern",
+                "popularity": 0.012,
+                "profile_path": "/lWXOwpA6n0uNrCaz1np98DCK7B8.jpg",
+                "cast_id": 28,
+                "character": "Andrey Petrovitch",
+                "credit_id": "5f9996fba1c59d0037a4b2fb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15740,
+                "known_for_department": "Acting",
+                "name": "Tim McMullan",
+                "original_name": "Tim McMullan",
+                "popularity": 0.023,
+                "profile_path": "/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg",
+                "cast_id": 29,
+                "character": "Dandy 1",
+                "credit_id": "5f9997049a9f9a00367e1371",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79888,
+                "known_for_department": "Acting",
+                "name": "Tim Potter",
+                "original_name": "Tim Potter",
+                "popularity": 0.012,
+                "profile_path": "/f3gw6qnb3O2LEu5Og7WIgsflMrI.jpg",
+                "cast_id": 30,
+                "character": "Dandy 2",
+                "credit_id": "5f99970f5a07f5003a32c832",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 195448,
+                "known_for_department": "Acting",
+                "name": "Ian East",
+                "original_name": "Ian East",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Executor",
+                "credit_id": "5f999721fb52990038338328",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19903,
+                "known_for_department": "Acting",
+                "name": "Richard Bremmer",
+                "original_name": "Richard Bremmer",
+                "popularity": 0.029,
+                "profile_path": "/f6B04svt1I5WWwWWFd6AIu7YAfG.jpg",
+                "cast_id": 32,
+                "character": "Diplomat at Ball",
+                "credit_id": "5f99972b4f5801003507fb91",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2328094,
+                "known_for_department": "Acting",
+                "name": "Marion Betzold",
+                "original_name": "Marion Betzold",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Ballerina",
+                "credit_id": "5f99973d4f58010037087c87",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1159918,
+                "known_for_department": "Acting",
+                "name": "Tom Eastwood",
+                "original_name": "Tom Eastwood",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Onegin's Uncle",
+                "credit_id": "5f99975755937b0037167029",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12513,
+                "known_for_department": "Acting",
+                "name": "Francesca Annis",
+                "original_name": "Francesca Annis",
+                "popularity": 0.039,
+                "profile_path": "/rtbYkuenkq8Kfc5LwzWYtVD3eNH.jpg",
+                "cast_id": 35,
+                "character": "Katiusha (uncredited)",
+                "credit_id": "5f99976d9a9f9a00387d68dd",
+                "order": 20
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 96854,
+                "known_for_department": "Directing",
+                "name": "Martha Fiennes",
+                "original_name": "Martha Fiennes",
+                "popularity": 0.001,
+                "profile_path": "/l8fO4wSvczPo5rKvf1ekqTHciSq.jpg",
+                "credit_id": "52fe44079251416c910027a1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105863,
+                "known_for_department": "Writing",
+                "name": "Michael Ignatieff",
+                "original_name": "Michael Ignatieff",
+                "popularity": 0.001,
+                "profile_path": "/wO5c1Ti5h3W5ukn4yuE5syu1J8x.jpg",
+                "credit_id": "52fe44079251416c910027a7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 668,
+                "known_for_department": "Production",
+                "name": "Mary Selway",
+                "original_name": "Mary Selway",
+                "popularity": 0.027,
+                "profile_path": "/9dP8WP2KF9TERPLQkaXDwzi3Tjc.jpg",
+                "credit_id": "6268f7f0c613ce0066825b79",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 9008,
+                "known_for_department": "Production",
+                "name": "Lesley Stewart",
+                "original_name": "Lesley Stewart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6268f98912aabc00516ac9e4",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1854456,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Chloe Obolensky",
+                "original_name": "Chloe Obolensky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6268f8b01f98d1009adadfb8",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8383,
+                "known_for_department": "Art",
+                "name": "Maggie Gray",
+                "original_name": "Maggie Gray",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "6268fa1b1f98d100664514bc",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1535092,
+                "known_for_department": "Directing",
+                "name": "June McDonald",
+                "original_name": "June McDonald",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6268f9c5c613ce00aa11a818",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1484993,
+                "known_for_department": "Costume & Make-Up",
+                "name": "John Bright",
+                "original_name": "John Bright",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6268f8db001bbd1549421df1",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60579,
+                "known_for_department": "Art",
+                "name": "Chris Seagers",
+                "original_name": "Chris Seagers",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "6268fa6412aabc0067aa7c2b",
+                "department": "Art",
+                "job": "Supervising Art Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11385,
+                "known_for_department": "Sound",
+                "name": "Ivan Sharrock",
+                "original_name": "Ivan Sharrock",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "6268f9f2f9253216228a8a55",
+                "department": "Sound",
+                "job": "Production Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2915917,
+                "known_for_department": "Crew",
+                "name": "Bill Hargreaves",
+                "original_name": "Bill Hargreaves",
+                "popularity": 0.001,
+                "profile_path": "/kYdB7ZurQfY9iU5rlWbFd0whhjT.jpg",
+                "credit_id": "64ffeadaffc9de0ee208fd62",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1253,
+                "known_for_department": "Art",
+                "name": "Jim Clay",
+                "original_name": "Jim Clay",
+                "popularity": 0.011,
+                "profile_path": null,
+                "credit_id": "59b88ef0c3a36813d3008f83",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4654025,
+                "known_for_department": "Crew",
+                "name": "Tom Forsyth",
+                "original_name": "Tom Forsyth",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6661a22c0d48b3f88ff2a0c0",
+                "department": "Crew",
+                "job": "Stand In"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1733935,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tamara Frid",
+                "original_name": "Тамара Фрид",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5afd42a00e0a266f1a00216a",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 40796,
+                "known_for_department": "Camera",
+                "name": "David Appleby",
+                "original_name": "David Appleby",
+                "popularity": 0.006,
+                "profile_path": "/b8zskcykOOugn31axyHn5qB8hdn.jpg",
+                "credit_id": "5c28c24992514138cbc0677a",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80423,
+                "known_for_department": "Directing",
+                "name": "Peter Ettedgui",
+                "original_name": "Peter Ettedgui",
+                "popularity": 0.005,
+                "profile_path": "/qp2LheXTIGniDtdhBjAoQwxwHil.jpg",
+                "credit_id": "5f9995fd083547003778ea38",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 590449,
+                "known_for_department": "Writing",
+                "name": "Alexander Pushkin",
+                "original_name": "Александр Пушкин",
+                "popularity": 0.008,
+                "profile_path": "/r8w28abqC0gK252vFO2ggS7ByvS.jpg",
+                "credit_id": "5f99961bae36680039be203e",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5469,
+                "known_for_department": "Acting",
+                "name": "Ralph Fiennes",
+                "original_name": "Ralph Fiennes",
+                "popularity": 0.164,
+                "profile_path": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg",
+                "credit_id": "5f999653fb52990038338253",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 8970,
+                "known_for_department": "Editing",
+                "name": "Jim Clark",
+                "original_name": "Jim Clark",
+                "popularity": 0.006,
+                "profile_path": "/sQ6hauV0xjvIOwMebG2tM9DJ6RF.jpg",
+                "credit_id": "5f999688fb5299003833827e",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9176,
+                "known_for_department": "Production",
+                "name": "Simon Bosanquet",
+                "original_name": "Simon Bosanquet",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5f99962c2f8d0900356f4a5d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1251,
+                "known_for_department": "Camera",
+                "name": "Remi Adefarasin",
+                "original_name": "Remi Adefarasin",
+                "popularity": 0.004,
+                "profile_path": "/2cHMlJMxjtEbjujY0dMdOEVlgV4.jpg",
+                "credit_id": "5f99967cfb5299003a33dd66",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 23768,
+                "known_for_department": "Production",
+                "name": "Ileen Maisel",
+                "original_name": "Ileen Maisel",
+                "popularity": 0.001,
+                "profile_path": "/ogxMCKvoESC7FqkAlH8AmmlkMLZ.jpg",
+                "credit_id": "5f99963afb5299003833824a",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1553280,
+                "known_for_department": "Sound",
+                "name": "Magnus Fiennes",
+                "original_name": "Magnus Fiennes",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5f99966643999b0036fd12f5",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1388878,
+                "known_for_department": "Crew",
+                "name": "Rowley Irlam",
+                "original_name": "Rowley Irlam",
+                "popularity": 0.019,
+                "profile_path": "/Ai0TlD5HbmfFtSlcg38qOp25dJY.jpg",
+                "credit_id": "66f868bb1a9c9188fecc30b4",
+                "department": "Crew",
+                "job": "Stunt Double"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 697,
+                "name": "loss of loved one"
+            },
+            {
+                "id": 3563,
+                "name": "st. petersburg, russia"
+            },
+            {
+                "id": 10048,
+                "name": "unrequited love"
+            },
+            {
+                "id": 10703,
+                "name": "tragic love"
+            },
+            {
+                "id": 14534,
+                "name": "relationship"
+            },
+            {
+                "id": 187056,
+                "name": "woman director"
+            },
+            {
+                "id": 207928,
+                "name": "19th century"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Ralph Fiennes",
+            "character": "Onegin"
+        },
+        {
+            "actor": "Liv Tyler",
+            "character": "Tatyana"
+        },
+        {
+            "actor": "Toby Stephens",
+            "character": "Lensky"
+        },
+        {
+            "actor": "Lena Headey",
+            "character": "Olga"
+        },
+        {
+            "actor": "Martin Donovan",
+            "character": "Prince Nikitin"
+        },
+        {
+            "actor": "Elizabeth Berrington",
+            "character": "Mlle Volkonsky"
+        },
+        {
+            "actor": "Alun Armstrong",
+            "character": "Zaretsky"
+        },
+        {
+            "actor": "Simon McBurney",
+            "character": "Triquet"
+        },
+        {
+            "actor": "Harriet Walter",
+            "character": "Madame Larina"
+        },
+        {
+            "actor": "Jason Watkins",
+            "character": "Guillot"
+        },
+        {
+            "actor": "Irene Worth",
+            "character": "Princess Alina"
+        },
+        {
+            "actor": "Gwenllian Davies",
+            "character": "Anisia"
+        },
+        {
+            "actor": "Margery Withers",
+            "character": "Nanya"
+        },
+        {
+            "actor": "Geoffrey McGivern",
+            "character": "Andrey Petrovitch"
+        },
+        {
+            "actor": "Tim McMullan",
+            "character": "Dandy 1"
+        },
+        {
+            "actor": "Tim Potter",
+            "character": "Dandy 2"
+        },
+        {
+            "actor": "Ian East",
+            "character": "Executor"
+        },
+        {
+            "actor": "Richard Bremmer",
+            "character": "Diplomat at Ball"
+        },
+        {
+            "actor": "Marion Betzold",
+            "character": "Ballerina"
+        },
+        {
+            "actor": "Tom Eastwood",
+            "character": "Onegin's Uncle"
+        },
+        {
+            "actor": "Francesca Annis",
+            "character": "Katiusha (uncredited)"
+        }
+    ]
+}

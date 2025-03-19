@@ -1,0 +1,866 @@
+{
+    "adult": false,
+    "backdrop_path": "/vsMEyOwAaPPWGlFieTMxhkZEuqk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 31661,
+    "imdb_id": "tt0084920",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wrong Is Right",
+    "overview": "Political double-talk, dirty tricks, hidden microphones, spy satellites, bugging the Oval Office and a nuclear bomb for sale are all ingredients in this swift, funny and frightening look at the possibilities in today's political arenas. Sean Connery stars as TV Newsman Patrick Hale on an international chase to track two suitcase sized nuclear weapons and to uncover the twisting maze of apparent involvement of US Government agencies.",
+    "popularity": 2.221,
+    "poster_path": "/yLXwF899GiOZ3tcsckIAKCUlNeT.jpg",
+    "production_companies": [
+        {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 1177,
+            "logo_path": "/gxvrQWG6byKMVEHMjTJjGhRlARQ.png",
+            "name": "Rastar Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1982-04-16",
+    "revenue": 0,
+    "runtime": 117,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "In a moment World War III...but first a word from our sponsor.",
+    "title": "Wrong Is Right",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 56,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-12-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-04-28T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-08-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-10-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-11-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1982-04-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 738,
+                "known_for_department": "Acting",
+                "name": "Sean Connery",
+                "original_name": "Sean Connery",
+                "popularity": 0.104,
+                "profile_path": "/hbB676mW62gjsh0f51ICYE11niG.jpg",
+                "cast_id": 2,
+                "character": "Patrick Hale",
+                "credit_id": "52fe44949251416c91015ba3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72056,
+                "known_for_department": "Acting",
+                "name": "George Grizzard",
+                "original_name": "George Grizzard",
+                "popularity": 0.037,
+                "profile_path": "/nGhVTWuoYbYfTnzZqxrWY9F0p6p.jpg",
+                "cast_id": 3,
+                "character": "President Lockwood",
+                "credit_id": "52fe44949251416c91015ba7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129317,
+                "known_for_department": "Acting",
+                "name": "Robert Conrad",
+                "original_name": "Robert Conrad",
+                "popularity": 0.038,
+                "profile_path": "/9ubtqzRUVv1rN368SsNbdYuHp3.jpg",
+                "cast_id": 4,
+                "character": "General Wombat",
+                "credit_id": "52fe44949251416c91015bab",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 9594,
+                "known_for_department": "Acting",
+                "name": "Katharine Ross",
+                "original_name": "Katharine Ross",
+                "popularity": 0.06,
+                "profile_path": "/jhnGFw4G1ihY0VRE2QAcmNk4RrT.jpg",
+                "cast_id": 5,
+                "character": "Sally Blake",
+                "credit_id": "52fe44949251416c91015baf",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3173,
+                "known_for_department": "Acting",
+                "name": "G. D. Spradlin",
+                "original_name": "G. D. Spradlin",
+                "popularity": 0.023,
+                "profile_path": "/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg",
+                "cast_id": 6,
+                "character": "Philindros",
+                "credit_id": "52fe44949251416c91015bb3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11163,
+                "known_for_department": "Acting",
+                "name": "John Saxon",
+                "original_name": "John Saxon",
+                "popularity": 0.056,
+                "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg",
+                "cast_id": 7,
+                "character": "Homer Hubbard",
+                "credit_id": "52fe44949251416c91015bb7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14731,
+                "known_for_department": "Acting",
+                "name": "Henry Silva",
+                "original_name": "Henry Silva",
+                "popularity": 0.037,
+                "profile_path": "/pTdxR3Z0DHVpnFEkllEA4Uduwu8.jpg",
+                "cast_id": 8,
+                "character": "Rafeeq",
+                "credit_id": "52fe44949251416c91015bbb",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7633,
+                "known_for_department": "Acting",
+                "name": "Leslie Nielsen",
+                "original_name": "Leslie Nielsen",
+                "popularity": 0.098,
+                "profile_path": "/u5vWl5dw69Nf89f905Qb5JqEVL3.jpg",
+                "cast_id": 9,
+                "character": "Mallory",
+                "credit_id": "52fe44949251416c91015bbf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5255,
+                "known_for_department": "Acting",
+                "name": "Robert Webber",
+                "original_name": "Robert Webber",
+                "popularity": 0.048,
+                "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg",
+                "cast_id": 10,
+                "character": "Harvey",
+                "credit_id": "52fe44949251416c91015bc3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 43976,
+                "known_for_department": "Acting",
+                "name": "Rosalind Cash",
+                "original_name": "Rosalind Cash",
+                "popularity": 0.029,
+                "profile_path": "/W2KSFKmajoGQTVNmhQYm2jeQw0.jpg",
+                "cast_id": 11,
+                "character": "Mrs. Ford",
+                "credit_id": "52fe44949251416c91015bc7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37777,
+                "known_for_department": "Acting",
+                "name": "Hardy Krüger",
+                "original_name": "Hardy Krüger",
+                "popularity": 0.026,
+                "profile_path": "/mWykFvz2kjBtx8uA3X3yK6mmWlH.jpg",
+                "cast_id": 12,
+                "character": "Helmut Unger",
+                "credit_id": "52fe44949251416c91015bcb",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 923,
+                "known_for_department": "Acting",
+                "name": "Dean Stockwell",
+                "original_name": "Dean Stockwell",
+                "popularity": 0.063,
+                "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg",
+                "cast_id": 13,
+                "character": "Hacker",
+                "credit_id": "52fe44949251416c91015bcf",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41236,
+                "known_for_department": "Acting",
+                "name": "Ron Moody",
+                "original_name": "Ron Moody",
+                "popularity": 0.022,
+                "profile_path": "/xCEPHWkeFrJd7sXpKLJiFA5ibJP.jpg",
+                "cast_id": 14,
+                "character": "King Awad",
+                "credit_id": "52fe44949251416c91015bd3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102397,
+                "known_for_department": "Acting",
+                "name": "Cherie Michan",
+                "original_name": "Cherie Michan",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Erika",
+                "credit_id": "52fe44949251416c91015bd7",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 106710,
+                "known_for_department": "Acting",
+                "name": "Tony March",
+                "original_name": "Tony March",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Abu",
+                "credit_id": "52fe44949251416c91015bdb",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 44617,
+                "known_for_department": "Acting",
+                "name": "Marianne Marks",
+                "original_name": "Marianne Marks",
+                "popularity": 0.008,
+                "profile_path": "/aG68azUkQe2Jtk5WkvSe4dvMOBz.jpg",
+                "cast_id": 17,
+                "character": "Suzy",
+                "credit_id": "52fe44949251416c91015bdf",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 129318,
+                "known_for_department": "Acting",
+                "name": "Jeffrey Wheat",
+                "original_name": "Jeffrey Wheat",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 18,
+                "character": "Mike",
+                "credit_id": "52fe44949251416c91015be3",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13660,
+                "known_for_department": "Acting",
+                "name": "Joseph Whipp",
+                "original_name": "Joseph Whipp",
+                "popularity": 0.022,
+                "profile_path": "/1ZRu1apOXYDvNjhci0wzXdtlOlW.jpg",
+                "cast_id": 19,
+                "character": "John Brown",
+                "credit_id": "52fe44949251416c91015be7",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58494,
+                "known_for_department": "Acting",
+                "name": "Tom McFadden",
+                "original_name": "Tom McFadden",
+                "popularity": 0.017,
+                "profile_path": "/hM9kUY1kWgb1v1Mcbfwj0HqelD3.jpg",
+                "cast_id": 20,
+                "character": "Billy Bob Harper",
+                "credit_id": "52fe44949251416c91015beb",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 129319,
+                "known_for_department": "Acting",
+                "name": "Ivy Bethune",
+                "original_name": "Ivy Bethune",
+                "popularity": 0.013,
+                "profile_path": "/pDm6GsELgwLLYkDAnLZ59Tui3EM.jpg",
+                "cast_id": 21,
+                "character": "Housewife",
+                "credit_id": "52fe44949251416c91015bef",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10431,
+                "known_for_department": "Acting",
+                "name": "Jennifer Jason Leigh",
+                "original_name": "Jennifer Jason Leigh",
+                "popularity": 0.095,
+                "profile_path": "/7DbG2AO3nygHAkNC866HLPKkxv9.jpg",
+                "cast_id": 22,
+                "character": "Young Girl",
+                "credit_id": "52fe44949251416c91015bf3",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56183,
+                "known_for_department": "Acting",
+                "name": "Art Evans",
+                "original_name": "Art Evans",
+                "popularity": 0.048,
+                "profile_path": "/buSAuxtomWV06xdfzZYd7kLbTVc.jpg",
+                "cast_id": 25,
+                "character": "Warehouse Guard",
+                "credit_id": "54d561afc3a3683b99000688",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100230,
+                "known_for_department": "Acting",
+                "name": "Mickey Jones",
+                "original_name": "Mickey Jones",
+                "popularity": 0.028,
+                "profile_path": "/tdCfPWmgFwQtrZZv7cIBWKKxH8.jpg",
+                "cast_id": 26,
+                "character": "Gunman",
+                "credit_id": "54d561c4c3a3683b8c0006a3",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14507,
+                "known_for_department": "Acting",
+                "name": "Paul Lambert",
+                "original_name": "Paul Lambert",
+                "popularity": 0.018,
+                "profile_path": "/9hME9blSiEFNylgWa3YorFMAixx.jpg",
+                "cast_id": 43,
+                "character": "Secretary of Defense",
+                "credit_id": "6535fd52c8a5ac00c50a9de9",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 166204,
+                "known_for_department": "Acting",
+                "name": "Alexander Zale",
+                "original_name": "Alexander Zale",
+                "popularity": 0.006,
+                "profile_path": "/aF2FlguhvQmKHmN0hUOY8jW8c9b.jpg",
+                "cast_id": 46,
+                "character": "Prof. Faheem",
+                "credit_id": "67d96fa16a7b980436c6ba13",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3632,
+                "known_for_department": "Writing",
+                "name": "Richard Brooks",
+                "original_name": "Richard Brooks",
+                "popularity": 0.012,
+                "profile_path": "/r3zFUrYDn5tDDpIONAFLPhEkfBt.jpg",
+                "credit_id": "52fe44949251416c91015b9f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1167181,
+                "known_for_department": "Writing",
+                "name": "Charles McCarry",
+                "original_name": "Charles McCarry",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe44949251416c91015bf9",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3632,
+                "known_for_department": "Writing",
+                "name": "Richard Brooks",
+                "original_name": "Richard Brooks",
+                "popularity": 0.012,
+                "profile_path": "/r3zFUrYDn5tDDpIONAFLPhEkfBt.jpg",
+                "credit_id": "52fe44949251416c91015bff",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18889,
+                "known_for_department": "Crew",
+                "name": "Mic Rodgers",
+                "original_name": "Mic Rodgers",
+                "popularity": 0.022,
+                "profile_path": "/zGhWhiTfzeSzfKt9kK4Bk6ZS0xn.jpg",
+                "credit_id": "652304c80721660139c9fff0",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3632,
+                "known_for_department": "Writing",
+                "name": "Richard Brooks",
+                "original_name": "Richard Brooks",
+                "popularity": 0.012,
+                "profile_path": "/r3zFUrYDn5tDDpIONAFLPhEkfBt.jpg",
+                "credit_id": "54d561f0c3a3683b8c0006b8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183392,
+                "known_for_department": "Production",
+                "name": "Andrew Fogelson",
+                "original_name": "Andrew Fogelson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d56201c3a3683b95000659",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67894,
+                "known_for_department": "Editing",
+                "name": "George Grenville",
+                "original_name": "George Grenville",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d5621bc3a3683b8c0006d2",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 59355,
+                "known_for_department": "Sound",
+                "name": "Artie Kane",
+                "original_name": "Artie Kane",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "54d5623d9251416ba8000680",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19102,
+                "known_for_department": "Camera",
+                "name": "Fred J. Koenekamp",
+                "original_name": "Fred J. Koenekamp",
+                "popularity": 0.005,
+                "profile_path": "/yxTbBWproHj24o8yrTLEjtzlF9u.jpg",
+                "credit_id": "54d56253c3a3683b8c0006e6",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67894,
+                "known_for_department": "Editing",
+                "name": "George Grenville",
+                "original_name": "George Grenville",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d562629251415f9c000416",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8864,
+                "known_for_department": "Production",
+                "name": "Karen Rea",
+                "original_name": "Karen Rea",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "54d5627dc3a368439a000458",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10009,
+                "known_for_department": "Art",
+                "name": "Edward C. Carfagno",
+                "original_name": "Edward C. Carfagno",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "54d562939251416ba1000687",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14846,
+                "known_for_department": "Art",
+                "name": "Arthur Jeph Parker",
+                "original_name": "Arthur Jeph Parker",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "54d562a39251416ba100068d",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1302782,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Ray Summers",
+                "original_name": "Ray Summers",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "54d562bb9251416ba80006a1",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1424031,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lillian Barb",
+                "original_name": "Lillian Barb",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54d562d9c3a3683b8f000714",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1424032,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joe DiBella",
+                "original_name": "Joe DiBella",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "54d562ef9251415f9c00043e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 67894,
+                "known_for_department": "Editing",
+                "name": "George Grenville",
+                "original_name": "George Grenville",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6564bbb7706e5600fe04a2c6",
+                "department": "Art",
+                "job": "Title Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161753,
+                "known_for_department": "Crew",
+                "name": "William H. Burton Sr.",
+                "original_name": "William H. Burton Sr.",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "637045de813831008b7c755c",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162125,
+                "known_for_department": "Directing",
+                "name": "Tom Seidman",
+                "original_name": "Tom Seidman",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5eee8f23ed2ac200359bd22c",
+                "department": "Directing",
+                "job": "Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1116420,
+                "known_for_department": "Crew",
+                "name": "Victoria Vanderkloot",
+                "original_name": "Victoria Vanderkloot",
+                "popularity": 0.01,
+                "profile_path": "/f8uDTFjSfClmTg6so932kXxsTP9.jpg",
+                "credit_id": "673feae97b825e685b4e0f5c",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 169086,
+                "name": "political satire"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Sean Connery",
+            "character": "Patrick Hale"
+        },
+        {
+            "actor": "George Grizzard",
+            "character": "President Lockwood"
+        },
+        {
+            "actor": "Robert Conrad",
+            "character": "General Wombat"
+        },
+        {
+            "actor": "Katharine Ross",
+            "character": "Sally Blake"
+        },
+        {
+            "actor": "G. D. Spradlin",
+            "character": "Philindros"
+        },
+        {
+            "actor": "John Saxon",
+            "character": "Homer Hubbard"
+        },
+        {
+            "actor": "Henry Silva",
+            "character": "Rafeeq"
+        },
+        {
+            "actor": "Leslie Nielsen",
+            "character": "Mallory"
+        },
+        {
+            "actor": "Robert Webber",
+            "character": "Harvey"
+        },
+        {
+            "actor": "Rosalind Cash",
+            "character": "Mrs. Ford"
+        },
+        {
+            "actor": "Hardy Krüger",
+            "character": "Helmut Unger"
+        },
+        {
+            "actor": "Dean Stockwell",
+            "character": "Hacker"
+        },
+        {
+            "actor": "Ron Moody",
+            "character": "King Awad"
+        },
+        {
+            "actor": "Cherie Michan",
+            "character": "Erika"
+        },
+        {
+            "actor": "Tony March",
+            "character": "Abu"
+        },
+        {
+            "actor": "Marianne Marks",
+            "character": "Suzy"
+        },
+        {
+            "actor": "Jeffrey Wheat",
+            "character": "Mike"
+        },
+        {
+            "actor": "Joseph Whipp",
+            "character": "John Brown"
+        },
+        {
+            "actor": "Tom McFadden",
+            "character": "Billy Bob Harper"
+        },
+        {
+            "actor": "Ivy Bethune",
+            "character": "Housewife"
+        },
+        {
+            "actor": "Jennifer Jason Leigh",
+            "character": "Young Girl"
+        },
+        {
+            "actor": "Art Evans",
+            "character": "Warehouse Guard"
+        },
+        {
+            "actor": "Mickey Jones",
+            "character": "Gunman"
+        },
+        {
+            "actor": "Paul Lambert",
+            "character": "Secretary of Defense"
+        },
+        {
+            "actor": "Alexander Zale",
+            "character": "Prof. Faheem"
+        }
+    ]
+}

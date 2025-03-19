@@ -1,0 +1,406 @@
+{
+    "adult": false,
+    "backdrop_path": "/v9mMKfzDdH6MeUUrrykaGg4jBMR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.abandonedminethemovie.com",
+    "id": 203186,
+    "imdb_id": "tt1329404",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Abandoned Mine",
+    "overview": "Five school friends seek adventure on Halloween night in an abandoned, haunted mine, only to find to their horror that the ghostly rumors may be true as they fight for survival.",
+    "popularity": 1.133,
+    "poster_path": "/fWCC3pdFsRaODLVmklcaBIP1zvc.jpg",
+    "production_companies": [
+        {
+            "id": 60644,
+            "logo_path": null,
+            "name": "Mountainbridge Films",
+            "origin_country": ""
+        },
+        {
+            "id": 44632,
+            "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+            "name": "Gravitas Ventures",
+            "origin_country": "US"
+        },
+        {
+            "id": 130339,
+            "logo_path": "/9msTi1PnPVxRoyzd8DjWXPktEoE.png",
+            "name": "Kaleidoscope Home Entertainment",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2013-08-15",
+    "revenue": 0,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "It's Alive",
+    "title": "Abandoned Mine",
+    "video": false,
+    "vote_average": 4.0,
+    "vote_count": 32,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2014-11-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-08-15T00:00:00.000Z",
+                        "type": 2
+                    },
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-08-15T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 57674,
+                "known_for_department": "Acting",
+                "name": "Alexa PenaVega",
+                "original_name": "Alexa PenaVega",
+                "popularity": 0.064,
+                "profile_path": "/11m8ff0YwS64Z04DJhupNQpwmCZ.jpg",
+                "cast_id": 2,
+                "character": "Sharon",
+                "credit_id": "52fe4cdbc3a368484e1c9e93",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10136,
+                "known_for_department": "Acting",
+                "name": "Reiley McClendon",
+                "original_name": "Reiley McClendon",
+                "popularity": 0.02,
+                "profile_path": "/cvGyr9zYKYdo5EQKhWebIfuJXzZ.jpg",
+                "cast_id": 3,
+                "character": "Brad",
+                "credit_id": "52fe4cdbc3a368484e1c9e97",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1198309,
+                "known_for_department": "Acting",
+                "name": "Saige Thompson",
+                "original_name": "Saige Thompson",
+                "popularity": 0.001,
+                "profile_path": "/6a7JOAjrBtraH7tr53lXTeNblI6.jpg",
+                "cast_id": 4,
+                "character": "Laurie",
+                "credit_id": "52fe4cdbc3a368484e1c9e9b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1006777,
+                "known_for_department": "Acting",
+                "name": "Charan Prabhakar",
+                "original_name": "Charan Prabhakar",
+                "popularity": 0.013,
+                "profile_path": "/yspLbGuWvuEbSKMbpbl0LSjxWU9.jpg",
+                "cast_id": 5,
+                "character": "Ethan",
+                "credit_id": "52fe4cdbc3a368484e1c9e9f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66538,
+                "known_for_department": "Acting",
+                "name": "Adam Hendershott",
+                "original_name": "Adam Hendershott",
+                "popularity": 0.022,
+                "profile_path": "/6lOSYKzQWwB0qnvdqjrhOs7j0xY.jpg",
+                "cast_id": 6,
+                "character": "Jim",
+                "credit_id": "52fe4cdbc3a368484e1c9ea3",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1198310,
+                "known_for_department": "Acting",
+                "name": "Valerie C. Walker",
+                "original_name": "Valerie C. Walker",
+                "popularity": 0.001,
+                "profile_path": "/413acHbC7UmCryB3aQlQCvKm095.jpg",
+                "cast_id": 7,
+                "character": "Kelly",
+                "credit_id": "52fe4cdbc3a368484e1c9ea7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1198311,
+                "known_for_department": "Acting",
+                "name": "Joseph Batzel",
+                "original_name": "Joseph Batzel",
+                "popularity": 0.001,
+                "profile_path": "/4SRShhvpkyQQ9b11lmsv4CC9DDa.jpg",
+                "cast_id": 8,
+                "character": "Jarvis",
+                "credit_id": "52fe4cdbc3a368484e1c9eab",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1198312,
+                "known_for_department": "Acting",
+                "name": "Jordan Chamberlain",
+                "original_name": "Jordan Chamberlain",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Store Customer",
+                "credit_id": "52fe4cdbc3a368484e1c9eaf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1198313,
+                "known_for_department": "Acting",
+                "name": "Cody Walker",
+                "original_name": "Cody Walker",
+                "popularity": 0.001,
+                "profile_path": "/kzfbdiWsv705G2jhPeU5pDdIETg.jpg",
+                "cast_id": 16,
+                "character": "Thomas",
+                "credit_id": "5b787c9d0e0a26472b016a49",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55793,
+                "known_for_department": "Acting",
+                "name": "Jeff Chamberlain",
+                "original_name": "Jeff Chamberlain",
+                "popularity": 0.01,
+                "profile_path": "/n4B9jrjFkcr95StNptEOabbBFAh.jpg",
+                "cast_id": 12,
+                "character": "Preacher",
+                "credit_id": "5adac4f1c3a36862bd004907",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2027002,
+                "known_for_department": "Acting",
+                "name": "Sierra Taylor",
+                "original_name": "Sierra Taylor",
+                "popularity": 0.001,
+                "profile_path": "/emXuWEpsSmxttcT1tUCr36zj9xb.jpg",
+                "cast_id": 14,
+                "character": "Jarvis' Daughter (voice)",
+                "credit_id": "5adac6c09251410ac3004af2",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55793,
+                "known_for_department": "Acting",
+                "name": "Jeff Chamberlain",
+                "original_name": "Jeff Chamberlain",
+                "popularity": 0.01,
+                "profile_path": "/n4B9jrjFkcr95StNptEOabbBFAh.jpg",
+                "credit_id": "52fe4cdbc3a368484e1c9e8f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1209290,
+                "known_for_department": "Writing",
+                "name": "Scott Woldman",
+                "original_name": "Scott Woldman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4cdbc3a368484e1c9eb9",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55793,
+                "known_for_department": "Acting",
+                "name": "Jeff Chamberlain",
+                "original_name": "Jeff Chamberlain",
+                "popularity": 0.01,
+                "profile_path": "/n4B9jrjFkcr95StNptEOabbBFAh.jpg",
+                "credit_id": "5adac5d99251410ac700474e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1525341,
+                "known_for_department": "Directing",
+                "name": "Matias Alvarez",
+                "original_name": "Matias Alvarez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5adac8880e0a2614320055d7",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2110729,
+                "known_for_department": "Acting",
+                "name": "Lachelle Chamberlain",
+                "original_name": "Lachelle Chamberlain",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b7934a80e0a264734025b2c",
+                "department": "Production",
+                "job": "Associate Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2858,
+                "name": "sacrifice"
+            },
+            {
+                "id": 6152,
+                "name": "supernatural"
+            },
+            {
+                "id": 10224,
+                "name": "haunting"
+            },
+            {
+                "id": 172808,
+                "name": "paranormal activity"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Alexa PenaVega",
+            "character": "Sharon"
+        },
+        {
+            "actor": "Reiley McClendon",
+            "character": "Brad"
+        },
+        {
+            "actor": "Saige Thompson",
+            "character": "Laurie"
+        },
+        {
+            "actor": "Charan Prabhakar",
+            "character": "Ethan"
+        },
+        {
+            "actor": "Adam Hendershott",
+            "character": "Jim"
+        },
+        {
+            "actor": "Valerie C. Walker",
+            "character": "Kelly"
+        },
+        {
+            "actor": "Joseph Batzel",
+            "character": "Jarvis"
+        },
+        {
+            "actor": "Jordan Chamberlain",
+            "character": "Store Customer"
+        },
+        {
+            "actor": "Cody Walker",
+            "character": "Thomas"
+        },
+        {
+            "actor": "Jeff Chamberlain",
+            "character": "Preacher"
+        },
+        {
+            "actor": "Sierra Taylor",
+            "character": "Jarvis' Daughter (voice)"
+        }
+    ]
+}

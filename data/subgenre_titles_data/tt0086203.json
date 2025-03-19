@@ -1,0 +1,695 @@
+{
+    "adult": false,
+    "backdrop_path": "/zTn9XwSSJkQFrwEQedT1DYkxTjM.jpg",
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 21356,
+    "imdb_id": "tt0086203",
+    "origin_country": [
+        "CA",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rock & Rule",
+    "overview": "A malevolent rock star kidnaps a female singer to force her to participate in the summoning of a demon and her band must help her stop him.",
+    "popularity": 2.824,
+    "poster_path": "/aNCN8xBOaEccXS0V93RBdLDSqFh.jpg",
+    "production_companies": [
+        {
+            "id": 4952,
+            "logo_path": null,
+            "name": "Canadian Film Development Corporation",
+            "origin_country": "CA"
+        },
+        {
+            "id": 1023,
+            "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+            "name": "Nelvana",
+            "origin_country": "CA"
+        },
+        {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 21,
+            "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+        }
+    ],
+    "release_date": "1983-04-15",
+    "revenue": 0,
+    "runtime": 77,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Sound you can see in the movie you can feel!",
+    "title": "Rock & Rule",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 80,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1983-04-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1983-04-15T00:00:00.000Z",
+                        "type": 2
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 87461,
+                "known_for_department": "Acting",
+                "name": "Don Francks",
+                "original_name": "Don Francks",
+                "popularity": 0.018,
+                "profile_path": "/q1bvy838NZCLDxWLpwhJYC5FsDA.jpg",
+                "cast_id": 1,
+                "character": "Mok (voice)",
+                "credit_id": "52fe4415c3a368484e00e8fd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 46392,
+                "known_for_department": "Acting",
+                "name": "Lou Reed",
+                "original_name": "Lou Reed",
+                "popularity": 0.016,
+                "profile_path": "/lWFiXdQtYHqr2EXnk5nhDFm36XF.jpg",
+                "cast_id": 29,
+                "character": "Mok (singing voice)",
+                "credit_id": "5eaa8186426ae800264aed8b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 87462,
+                "known_for_department": "Acting",
+                "name": "Susan Roman",
+                "original_name": "Susan Roman",
+                "popularity": 0.01,
+                "profile_path": "/vyWyOdnKcoNf40ytZSy6qlIIr9p.jpg",
+                "cast_id": 2,
+                "character": "Angel (voice)",
+                "credit_id": "52fe4415c3a368484e00e901",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102,
+                "known_for_department": "Acting",
+                "name": "Debbie Harry",
+                "original_name": "Debbie Harry",
+                "popularity": 0.033,
+                "profile_path": "/reqwsCzLcEBgzZ9uerQx3mD1fGy.jpg",
+                "cast_id": 30,
+                "character": "Angel (singing voice)",
+                "credit_id": "61cdd43120e6a5008b3494d3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12406,
+                "known_for_department": "Acting",
+                "name": "Paul Le Mat",
+                "original_name": "Paul Le Mat",
+                "popularity": 0.014,
+                "profile_path": "/9xDY0RR2ocB2wyPVaSaSMFAgoPf.jpg",
+                "cast_id": 3,
+                "character": "Omar (voice)",
+                "credit_id": "52fe4415c3a368484e00e905",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1150577,
+                "known_for_department": "Acting",
+                "name": "Robin Zander",
+                "original_name": "Robin Zander",
+                "popularity": 0.002,
+                "profile_path": "/aV6tm2SKZj4udM54zzlCSqNsk5v.jpg",
+                "cast_id": 31,
+                "character": "Omar (singing voice)",
+                "credit_id": "61cdd44dbd32090060440c05",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110549,
+                "known_for_department": "Acting",
+                "name": "Dan Hennessey",
+                "original_name": "Dan Hennessey",
+                "popularity": 0.01,
+                "profile_path": "/daqfBEBplJg6DpFAVX8q41t0eZP.jpg",
+                "cast_id": 5,
+                "character": "Dizzy (voice)",
+                "credit_id": "52fe4415c3a368484e00e90d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44163,
+                "known_for_department": "Acting",
+                "name": "Chris Wiggins",
+                "original_name": "Chris Wiggins",
+                "popularity": 0.016,
+                "profile_path": "/HMpppR5Jc1YX9YfTUE3jlvJOlf.jpg",
+                "cast_id": 6,
+                "character": "Toad (voice)",
+                "credit_id": "52fe4415c3a368484e00e911",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 147515,
+                "known_for_department": "Writing",
+                "name": "Greg Duffell",
+                "original_name": "Greg Duffell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Stretch / Zip (voice)",
+                "credit_id": "52fe4415c3a368484e00e915",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1225375,
+                "known_for_department": "Acting",
+                "name": "Brent Titcomb",
+                "original_name": "Brent Titcomb",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Sleazy (voice)",
+                "credit_id": "66f065920ea80d1fe38d87a6",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 147514,
+                "known_for_department": "Acting",
+                "name": "Samantha Langevin",
+                "original_name": "Samantha Langevin",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Mok's Computer (voice)",
+                "credit_id": "52fe4415c3a368484e00e909",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147517,
+                "known_for_department": "Acting",
+                "name": "Donny Burns",
+                "original_name": "Donny Burns",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Quadhole / 1st Radio Announcer (voice)",
+                "credit_id": "52fe4415c3a368484e00e91d",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147518,
+                "known_for_department": "Directing",
+                "name": "Martin Lavut",
+                "original_name": "Martin Lavut",
+                "popularity": 0.005,
+                "profile_path": "/5MlzVTmX9ByffPYk4xBDhtS2iv0.jpg",
+                "cast_id": 10,
+                "character": "Mylar / 2nd Radio Announcer (voice)",
+                "credit_id": "52fe4415c3a368484e00e921",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 147519,
+                "known_for_department": "Acting",
+                "name": "Catherine Gallant",
+                "original_name": "Catherine Gallant",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Cindy (voice)",
+                "credit_id": "52fe4415c3a368484e00e925",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 68730,
+                "known_for_department": "Acting",
+                "name": "Melleny Melody",
+                "original_name": "Melleny Melody",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Carnegie Hall Groupie (voice)",
+                "credit_id": "5ba672179251412ef100eafa",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3323420,
+                "known_for_department": "Writing",
+                "name": "Anna Bourque",
+                "original_name": "Anna Bourque",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Edna (voice)",
+                "credit_id": "63af0f93c56d2d00f30e93e5",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 147522,
+                "known_for_department": "Acting",
+                "name": "Nick Nichols",
+                "original_name": "Nick Nichols",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Borderguard (voice)",
+                "credit_id": "52fe4416c3a368484e00e935",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 147523,
+                "known_for_department": "Writing",
+                "name": "John Halfpenny",
+                "original_name": "John Halfpenny",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Uncle Mikey (voice)",
+                "credit_id": "52fe4416c3a368484e00e939",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34521,
+                "known_for_department": "Acting",
+                "name": "Maurice LaMarche",
+                "original_name": "Maurice LaMarche",
+                "popularity": 0.08,
+                "profile_path": "/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg",
+                "cast_id": 17,
+                "character": "Sailor (voice)",
+                "credit_id": "52fe4416c3a368484e00e93d",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11514,
+                "known_for_department": "Acting",
+                "name": "Catherine O'Hara",
+                "original_name": "Catherine O'Hara",
+                "popularity": 0.092,
+                "profile_path": "/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg",
+                "cast_id": 18,
+                "character": "Aunt Edith (voice)",
+                "credit_id": "52fe4416c3a368484e00e941",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13604,
+                "known_for_department": "Acting",
+                "name": "Iggy Pop",
+                "original_name": "Iggy Pop",
+                "popularity": 0.035,
+                "profile_path": "/kZwFoGujhS3D39R1uyuyNbgSPr0.jpg",
+                "cast_id": 24,
+                "character": "Monster from Another Dimension (voice)",
+                "credit_id": "54c2b2799251416eae00cf77",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 137164,
+                "known_for_department": "Acting",
+                "name": "Keith Hampshire",
+                "original_name": "Keith Hampshire",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Other Computers (voice)",
+                "credit_id": "65f65b4e594c94016336c643",
+                "order": 21
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68738,
+                "known_for_department": "Directing",
+                "name": "Clive A. Smith",
+                "original_name": "Clive A. Smith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4416c3a368484e00e947",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 147523,
+                "known_for_department": "Writing",
+                "name": "John Halfpenny",
+                "original_name": "John Halfpenny",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4416c3a368484e00e95f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68736,
+                "known_for_department": "Production",
+                "name": "Patrick Loubert",
+                "original_name": "Patrick Loubert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4416c3a368484e00e94d",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68733,
+                "known_for_department": "Writing",
+                "name": "Peter Sauder",
+                "original_name": "Peter Sauder",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4416c3a368484e00e959",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68733,
+                "known_for_department": "Writing",
+                "name": "Peter Sauder",
+                "original_name": "Peter Sauder",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4416c3a368484e00e953",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1452488,
+                "known_for_department": "Visual Effects",
+                "name": "Pat Sito",
+                "original_name": "Pat Sito",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55289049c3a3681f62000b39",
+                "department": "Visual Effects",
+                "job": "Animation Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447298,
+                "known_for_department": "Visual Effects",
+                "name": "Darlie Brewster",
+                "original_name": "Darlie Brewster",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5518bc62c3a3685cfa004062",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1448087,
+                "known_for_department": "Visual Effects",
+                "name": "Jeff Topping",
+                "original_name": "Jeff Topping",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "551af9dbc3a36876690005f8",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 68740,
+                "known_for_department": "Sound",
+                "name": "Patricia Cullen",
+                "original_name": "Patricia Cullen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "665691ed531714c6741ff56d",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2964,
+                "name": "future"
+            },
+            {
+                "id": 578,
+                "name": "rock 'n' roll"
+            },
+            {
+                "id": 1430,
+                "name": "self sacrifice"
+            },
+            {
+                "id": 4048,
+                "name": "musician"
+            },
+            {
+                "id": 4565,
+                "name": "dystopia"
+            },
+            {
+                "id": 2150,
+                "name": "cocaine"
+            },
+            {
+                "id": 4458,
+                "name": "post-apocalyptic future"
+            },
+            {
+                "id": 10123,
+                "name": "dark comedy"
+            },
+            {
+                "id": 4470,
+                "name": "punk rock"
+            },
+            {
+                "id": 9887,
+                "name": "surrealism"
+            },
+            {
+                "id": 11477,
+                "name": "anthropomorphism"
+            },
+            {
+                "id": 12190,
+                "name": "cyberpunk"
+            },
+            {
+                "id": 15001,
+                "name": "demon"
+            },
+            {
+                "id": 18001,
+                "name": "rock band"
+            },
+            {
+                "id": 161919,
+                "name": "adult animation"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Don Francks",
+            "character": "Mok (voice)"
+        },
+        {
+            "actor": "Lou Reed",
+            "character": "Mok (singing voice)"
+        },
+        {
+            "actor": "Susan Roman",
+            "character": "Angel (voice)"
+        },
+        {
+            "actor": "Debbie Harry",
+            "character": "Angel (singing voice)"
+        },
+        {
+            "actor": "Paul Le Mat",
+            "character": "Omar (voice)"
+        },
+        {
+            "actor": "Robin Zander",
+            "character": "Omar (singing voice)"
+        },
+        {
+            "actor": "Dan Hennessey",
+            "character": "Dizzy (voice)"
+        },
+        {
+            "actor": "Chris Wiggins",
+            "character": "Toad (voice)"
+        },
+        {
+            "actor": "Greg Duffell",
+            "character": "Stretch / Zip (voice)"
+        },
+        {
+            "actor": "Brent Titcomb",
+            "character": "Sleazy (voice)"
+        },
+        {
+            "actor": "Samantha Langevin",
+            "character": "Mok's Computer (voice)"
+        },
+        {
+            "actor": "Donny Burns",
+            "character": "Quadhole / 1st Radio Announcer (voice)"
+        },
+        {
+            "actor": "Martin Lavut",
+            "character": "Mylar / 2nd Radio Announcer (voice)"
+        },
+        {
+            "actor": "Catherine Gallant",
+            "character": "Cindy (voice)"
+        },
+        {
+            "actor": "Melleny Melody",
+            "character": "Carnegie Hall Groupie (voice)"
+        },
+        {
+            "actor": "Anna Bourque",
+            "character": "Edna (voice)"
+        },
+        {
+            "actor": "Nick Nichols",
+            "character": "Borderguard (voice)"
+        },
+        {
+            "actor": "John Halfpenny",
+            "character": "Uncle Mikey (voice)"
+        },
+        {
+            "actor": "Maurice LaMarche",
+            "character": "Sailor (voice)"
+        },
+        {
+            "actor": "Catherine O'Hara",
+            "character": "Aunt Edith (voice)"
+        },
+        {
+            "actor": "Iggy Pop",
+            "character": "Monster from Another Dimension (voice)"
+        },
+        {
+            "actor": "Keith Hampshire",
+            "character": "Other Computers (voice)"
+        }
+    ]
+}

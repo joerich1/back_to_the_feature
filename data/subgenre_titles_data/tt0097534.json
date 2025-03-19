@@ -1,0 +1,487 @@
+{
+    "adult": false,
+    "backdrop_path": "/liTiTI5qcyFULM5iCpiEObydhZu.jpg",
+    "belongs_to_collection": {
+        "id": 174218,
+        "name": "The Howling Collection",
+        "poster_path": "/g04UfThJDQSx0rQlEgNsjThCsjy.jpg",
+        "backdrop_path": "/5hzWBe1wTgPWyVg3e5ftN2ETAnf.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        }
+    ],
+    "homepage": "",
+    "id": 35945,
+    "imdb_id": "tt0097534",
+    "origin_country": [
+        "US",
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Howling V: The Rebirth",
+    "overview": "When a group of people from different walks of life converge in a Hungarian castle situated in Budapest which has been sealed for 500 years, they bring with them a werewolf which slowly begins to cut their numbers down.",
+    "popularity": 3.282,
+    "poster_path": "/irbRWCwIB1AONKlA4VzsYRkGmrK.jpg",
+    "production_companies": [
+        {
+            "id": 5570,
+            "logo_path": null,
+            "name": "Allied Vision",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "1989-05-01",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hungarian",
+            "iso_639_1": "hu",
+            "name": "Magyar"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The beast returns!",
+    "title": "Howling V: The Rebirth",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 93,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "Source: IMDB",
+                        "release_date": "1991-05-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Source: IMDb",
+                        "release_date": "1989-05-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Source: IMDB",
+                        "release_date": "1990-05-22T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26854,
+                "known_for_department": "Acting",
+                "name": "Phil Davis",
+                "original_name": "Phil Davis",
+                "popularity": 0.074,
+                "profile_path": "/sNJ9nFWxpGVmQYvq7rU9xqryu0F.jpg",
+                "cast_id": 4,
+                "character": "Count Istvan",
+                "credit_id": "52fe45c29251416c9103d5f9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 152765,
+                "known_for_department": "Acting",
+                "name": "Victoria Catlin",
+                "original_name": "Victoria Catlin",
+                "popularity": 0.003,
+                "profile_path": "/btTgIolnYum88TnFKsUocfeGTjH.jpg",
+                "cast_id": 5,
+                "character": "Dr. Catherine Peake",
+                "credit_id": "52fe45c29251416c9103d5fd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 204985,
+                "known_for_department": "Acting",
+                "name": "Ben Cole",
+                "original_name": "Ben Cole",
+                "popularity": 0.001,
+                "profile_path": "/iHYevm1tPJnM0D00818ZLOMdfPZ.jpg",
+                "cast_id": 6,
+                "character": "David Gillespie",
+                "credit_id": "52fe45c29251416c9103d601",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 147290,
+                "known_for_department": "Acting",
+                "name": "Mary Stavin",
+                "original_name": "Mary Stavin",
+                "popularity": 0.01,
+                "profile_path": "/x4IPFxZ9y9SwDZskH0R1opCnFvf.jpg",
+                "cast_id": 10,
+                "character": "Anna",
+                "credit_id": "58d4e8fec3a368126f026001",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 156029,
+                "known_for_department": "Acting",
+                "name": "William Shockley",
+                "original_name": "William Shockley",
+                "popularity": 0.023,
+                "profile_path": "/lOcuXGETGWR8kVQMgjan1jOT13a.jpg",
+                "cast_id": 9,
+                "character": "Richard Hamilton",
+                "credit_id": "58d4e8f6c3a368125f027791",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 574154,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Shé",
+                "original_name": "Elizabeth Shé",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Marylou Summers",
+                "credit_id": "52fe45c29251416c9103d605",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 156605,
+                "known_for_department": "Acting",
+                "name": "Mark Sivertsen",
+                "original_name": "Mark Sivertsen",
+                "popularity": 0.026,
+                "profile_path": "/MXbRFhkhmu1qpAD2vqyPaAfuNt.jpg",
+                "cast_id": 8,
+                "character": "Jonathan Lane",
+                "credit_id": "53353a6e9251414454003e2f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127396,
+                "known_for_department": "Acting",
+                "name": "Stephanie Faulkner",
+                "original_name": "Stephanie Faulkner",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Gail Cameron",
+                "credit_id": "58d4e909c3a368121b025d68",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64055,
+                "known_for_department": "Writing",
+                "name": "Clive Turner",
+                "original_name": "Clive Turner",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Ray Price",
+                "credit_id": "58d4e91f9251411f81029584",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1470039,
+                "known_for_department": "Acting",
+                "name": "Jill Pearson",
+                "original_name": "Jill Pearson",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Eleanor",
+                "credit_id": "58d4e92d9251411faa02899b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70499,
+                "known_for_department": "Acting",
+                "name": "József Madaras",
+                "original_name": "József Madaras",
+                "popularity": 0.003,
+                "profile_path": "/woLOiBxoXELKVmhj5CvhXlZmkkF.jpg",
+                "cast_id": 14,
+                "character": "Peter",
+                "credit_id": "58d4e94292514103d2012b3b",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1092658,
+                "known_for_department": "Acting",
+                "name": "Renáta Szatler",
+                "original_name": "Renáta Szatler",
+                "popularity": 0.001,
+                "profile_path": "/qnU0Jb7XrmFXbcZoWdzEQCqrp05.jpg",
+                "cast_id": 15,
+                "character": "Susan",
+                "credit_id": "58d4e94dc3a368121b025db3",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2033722,
+                "known_for_department": "Acting",
+                "name": "Nigel Triffitt",
+                "original_name": "Nigel Triffitt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Professor",
+                "credit_id": "5ae831ef0e0a26105e0161d1",
+                "order": 12
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140286,
+                "known_for_department": "Directing",
+                "name": "Neal Sundstrom",
+                "original_name": "Neal Sundstrom",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45c29251416c9103d5e9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64055,
+                "known_for_department": "Writing",
+                "name": "Clive Turner",
+                "original_name": "Clive Turner",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe45c29251416c9103d5f5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1102303,
+                "known_for_department": "Writing",
+                "name": "Freddie Rowe",
+                "original_name": "Freddie Rowe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe45c29251416c9103d5ef",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68912,
+                "known_for_department": "Writing",
+                "name": "Gary Brandner",
+                "original_name": "Gary Brandner",
+                "popularity": 0.002,
+                "profile_path": "/9uR7i891OzI0UN8CVnFDgjpm2Vz.jpg",
+                "credit_id": "5ae831b60e0a261070015b0b",
+                "department": "Writing",
+                "job": "Book"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1516479,
+                "known_for_department": "Production",
+                "name": "Lisa London",
+                "original_name": "Lisa London",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ae831ddc3a368134c01f236",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64052,
+                "known_for_department": "Production",
+                "name": "Steven A. Lane",
+                "original_name": "Steven A. Lane",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ae831c40e0a264fa7002af8",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64055,
+                "known_for_department": "Writing",
+                "name": "Clive Turner",
+                "original_name": "Clive Turner",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5ae831cf0e0a26104f015ca2",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1044109,
+                "known_for_department": "Art",
+                "name": "Tivadar Bertalan",
+                "original_name": "Tivadar Bertalan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ead31ac27d9cc001dcf65e2",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2033722,
+                "known_for_department": "Acting",
+                "name": "Nigel Triffitt",
+                "original_name": "Nigel Triffitt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ead31990c3ec8001fcb6a59",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 9663,
+                "name": "sequel"
+            },
+            {
+                "id": 10794,
+                "name": "snow"
+            },
+            {
+                "id": 12564,
+                "name": "werewolf"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Phil Davis",
+            "character": "Count Istvan"
+        },
+        {
+            "actor": "Victoria Catlin",
+            "character": "Dr. Catherine Peake"
+        },
+        {
+            "actor": "Ben Cole",
+            "character": "David Gillespie"
+        },
+        {
+            "actor": "Mary Stavin",
+            "character": "Anna"
+        },
+        {
+            "actor": "William Shockley",
+            "character": "Richard Hamilton"
+        },
+        {
+            "actor": "Elizabeth Shé",
+            "character": "Marylou Summers"
+        },
+        {
+            "actor": "Mark Sivertsen",
+            "character": "Jonathan Lane"
+        },
+        {
+            "actor": "Stephanie Faulkner",
+            "character": "Gail Cameron"
+        },
+        {
+            "actor": "Clive Turner",
+            "character": "Ray Price"
+        },
+        {
+            "actor": "Jill Pearson",
+            "character": "Eleanor"
+        },
+        {
+            "actor": "József Madaras",
+            "character": "Peter"
+        },
+        {
+            "actor": "Renáta Szatler",
+            "character": "Susan"
+        },
+        {
+            "actor": "Nigel Triffitt",
+            "character": "Professor"
+        }
+    ]
+}

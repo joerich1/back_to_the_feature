@@ -1,0 +1,922 @@
+{
+    "adult": false,
+    "backdrop_path": "/t3BEHOEPgr0MHVGSuFlD2cygpsv.jpg",
+    "belongs_to_collection": {
+        "id": 153948,
+        "name": "Best of the Best Collection",
+        "poster_path": "/4I3QETfSJAyehWlclsrRbqXn2sU.jpg",
+        "backdrop_path": "/ffnLkJJdyuRBaNHfd2IvyvMkRMJ.jpg"
+    },
+    "budget": 5000000,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 238751,
+    "imdb_id": "tt0096913",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Best of the Best",
+    "overview": "A team from the United States is going to compete against Korea in a Tae Kwon Do tournament. The team consists of fighters from all over the country--can they overcome their rivalry and work together to win?",
+    "popularity": 3.535,
+    "poster_path": "/jB1I9LihBFKzJlRhpOPzbEXdgKc.jpg",
+    "production_companies": [
+        {
+            "id": 44962,
+            "logo_path": null,
+            "name": "The Movie Group",
+            "origin_country": ""
+        },
+        {
+            "id": 22836,
+            "logo_path": null,
+            "name": "SVS Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1989-11-10",
+    "revenue": 1700000,
+    "runtime": 97,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A team is not a team if you don't give a damn about each other.",
+    "title": "Best of the Best",
+    "video": false,
+    "vote_average": 6.44,
+    "vote_count": 308,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "M",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1990-11-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-06-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-07-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-09-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1989-11-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21315,
+                "known_for_department": "Acting",
+                "name": "Eric Roberts",
+                "original_name": "Eric Roberts",
+                "popularity": 0.118,
+                "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+                "cast_id": 1,
+                "character": "Alex Grady",
+                "credit_id": "52fe4e84c3a36847f8295a33",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82442,
+                "known_for_department": "Acting",
+                "name": "Phillip Rhee",
+                "original_name": "Phillip Rhee",
+                "popularity": 0.013,
+                "profile_path": "/8DPwKPYUWqpHO2BBbYR3D9HlC1j.jpg",
+                "cast_id": 2,
+                "character": "Tommy Lee",
+                "credit_id": "52fe4e84c3a36847f8295a37",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15152,
+                "known_for_department": "Acting",
+                "name": "James Earl Jones",
+                "original_name": "James Earl Jones",
+                "popularity": 0.115,
+                "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+                "cast_id": 3,
+                "character": "Frank Couzo",
+                "credit_id": "52fe4e84c3a36847f8295a3b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12134,
+                "known_for_department": "Acting",
+                "name": "Sally Kirkland",
+                "original_name": "Sally Kirkland",
+                "popularity": 0.033,
+                "profile_path": "/lHTewZ3kzzXe49W8d2vRs7tbCPh.jpg",
+                "cast_id": 4,
+                "character": "Catherine Wade",
+                "credit_id": "52fe4e84c3a36847f8295a3f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2969,
+                "known_for_department": "Acting",
+                "name": "Chris Penn",
+                "original_name": "Chris Penn",
+                "popularity": 0.067,
+                "profile_path": "/9yvXUh10ZVSapGuem5daebveqR4.jpg",
+                "cast_id": 5,
+                "character": "Travis Brickley",
+                "credit_id": "52fe4e84c3a36847f8295a43",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84879,
+                "known_for_department": "Acting",
+                "name": "John Dye",
+                "original_name": "John Dye",
+                "popularity": 0.022,
+                "profile_path": "/sZaH3VxvSrU57A3mUIn30BFwmXy.jpg",
+                "cast_id": 51,
+                "character": "Virgil Keller",
+                "credit_id": "65ef3d5daf58cb01862bf6a6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2660324,
+                "known_for_department": "Acting",
+                "name": "David Agresta",
+                "original_name": "David Agresta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "Sonny Grasso",
+                "credit_id": "5ed2ac87e4b576001f327664",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140250,
+                "known_for_department": "Acting",
+                "name": "Tom Everett",
+                "original_name": "Tom Everett",
+                "popularity": 0.029,
+                "profile_path": "/lJIlLkadJ62eRai5BRgmmyObeiC.jpg",
+                "cast_id": 16,
+                "character": "Don Peterson",
+                "credit_id": "58e3faec92514127f002412c",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7071,
+                "known_for_department": "Acting",
+                "name": "Louise Fletcher",
+                "original_name": "Louise Fletcher",
+                "popularity": 0.071,
+                "profile_path": "/hN15em5LqXqDe1QgDa6lXK9fx3z.jpg",
+                "cast_id": 17,
+                "character": "Mrs. Grady",
+                "credit_id": "58e3faf6c3a3684aa4014262",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15213,
+                "known_for_department": "Acting",
+                "name": "John P. Ryan",
+                "original_name": "John P. Ryan",
+                "popularity": 0.024,
+                "profile_path": "/6WV5Sv2YnFG0W1rVnxOxpLyIFUM.jpg",
+                "cast_id": 18,
+                "character": "Jennings",
+                "credit_id": "58e3fb09c3a36872af020896",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134340,
+                "known_for_department": "Acting",
+                "name": "Edan Gross",
+                "original_name": "Edan Gross",
+                "popularity": 0.025,
+                "profile_path": "/tAnwu7HgNEyZNrfukuxH4U0vOdc.jpg",
+                "cast_id": 19,
+                "character": "Walter Grady",
+                "credit_id": "58e3fb13c3a368730202115c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 158825,
+                "known_for_department": "Acting",
+                "name": "Simon Rhee",
+                "original_name": "Simon Rhee",
+                "popularity": 0.052,
+                "profile_path": "/ffic6wucnGrVdq884RguSQCCXeW.jpg",
+                "cast_id": 7,
+                "character": "Dae Han Park",
+                "credit_id": "52fe4e84c3a36847f8295a4b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2278372,
+                "known_for_department": "Acting",
+                "name": "Master Hee Il Cho",
+                "original_name": "Master Hee Il Cho",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Korean Coach",
+                "credit_id": "5ed2acd11b157d001e524498",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94089,
+                "known_for_department": "Acting",
+                "name": "James Lew",
+                "original_name": "James Lew",
+                "popularity": 0.031,
+                "profile_path": "/wuC0B13IutImC1AJ7VUxBCuZJVg.jpg",
+                "cast_id": 8,
+                "character": "Sae Jin Kwon",
+                "credit_id": "52fe4e84c3a36847f8295a4f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1070666,
+                "known_for_department": "Acting",
+                "name": "Ken Nagayama",
+                "original_name": "Ken Nagayama",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Yung Kim",
+                "credit_id": "5ed2acfd21c4ca0020e3a18b",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2447384,
+                "known_for_department": "Acting",
+                "name": "Ho Sik Pak",
+                "original_name": "Ho Sik Pak",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Han Cho",
+                "credit_id": "5ed2ad4c21c4ca0020e3a1b1",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2660329,
+                "known_for_department": "Acting",
+                "name": "Dae Kyu Chang",
+                "original_name": "Dae Kyu Chang",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Tung Sung Moon",
+                "credit_id": "5ed2addce4b57600202fa77f",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45388,
+                "known_for_department": "Acting",
+                "name": "Cal Bartlett",
+                "original_name": "Cal Bartlett",
+                "popularity": 0.02,
+                "profile_path": "/c2AfPZPN53O89gBLQtK7sNsmvqo.jpg",
+                "cast_id": 20,
+                "character": "Dr. Weisman",
+                "credit_id": "58e3fb2592514127f60236f3",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6939,
+                "known_for_department": "Acting",
+                "name": "Edward Bunker",
+                "original_name": "Edward Bunker",
+                "popularity": 0.012,
+                "profile_path": "/or5afkJZ6wVCL9XWOxs7tjft2El.jpg",
+                "cast_id": 31,
+                "character": "Stan",
+                "credit_id": "5ed2ae5fe4b57600202fa84a",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1460836,
+                "known_for_department": "Acting",
+                "name": "Bob Telford",
+                "original_name": "Bob Telford",
+                "popularity": 0.004,
+                "profile_path": "/nVlAwoKOVMlD4VBH9EtUT4sp0pY.jpg",
+                "cast_id": 32,
+                "character": "Referee #1",
+                "credit_id": "5ed2ae7e96386400247286d9",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 927857,
+                "known_for_department": "Acting",
+                "name": "Samantha Scully",
+                "original_name": "Samantha Scully",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Carol Ann",
+                "credit_id": "58e3fb329251412810022874",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 999540,
+                "known_for_department": "Acting",
+                "name": "Adrianne Sachs",
+                "original_name": "Adrianne Sachs",
+                "popularity": 0.008,
+                "profile_path": "/lhnA6jRcWRdwctgFBCAbDuB6xB8.jpg",
+                "cast_id": 22,
+                "character": "Kelly",
+                "credit_id": "58e3fb3c925141281902250b",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 197057,
+                "known_for_department": "Acting",
+                "name": "Melanie Kinnaman",
+                "original_name": "Melanie Kinnaman",
+                "popularity": 0.014,
+                "profile_path": "/3WtPRegDVNMSfym3EIjd3SV6NXP.jpg",
+                "cast_id": 15,
+                "character": "The Woman",
+                "credit_id": "58cbd23cc3a368287d012ac0",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62596,
+                "known_for_department": "Acting",
+                "name": "Kane Hodder",
+                "original_name": "Kane Hodder",
+                "popularity": 0.051,
+                "profile_path": "/avMGd9rA2ys1pJok1EGOa46MEQX.jpg",
+                "cast_id": 23,
+                "character": "Burt",
+                "credit_id": "58e3fb45c3a36872ee024268",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 53593,
+                "known_for_department": "Acting",
+                "name": "Pete Antico",
+                "original_name": "Pete Antico",
+                "popularity": 0.032,
+                "profile_path": "/eG7VI6yLvSfPxTGKsv3vRaNCCHl.jpg",
+                "cast_id": 33,
+                "character": "Townie #1",
+                "credit_id": "5ed2aef1528b2e001e696f5d",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1238484,
+                "known_for_department": "Acting",
+                "name": "Michael E. Burgess",
+                "original_name": "Michael E. Burgess",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Tournament Fighter (uncredited)",
+                "credit_id": "5ed2af0d1b157d002051b5f1",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1095203,
+                "known_for_department": "Acting",
+                "name": "Fabian Carrillo",
+                "original_name": "Fabian Carrillo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Tournament Fighter (uncredited)",
+                "credit_id": "5ed2af26528b2e001f676d2f",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1228604,
+                "known_for_department": "Acting",
+                "name": "Mylo Ironbear",
+                "original_name": "Mylo Ironbear",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Tournament Fighter (uncredited)",
+                "credit_id": "5ed2af42fea0d7001e874962",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1212819,
+                "known_for_department": "Acting",
+                "name": "Ahmad Rashād",
+                "original_name": "Ahmad Rashād",
+                "popularity": 0.006,
+                "profile_path": "/6ITQrJh9alcmZxSSEpkhalo3S5m.jpg",
+                "cast_id": 38,
+                "character": "Self",
+                "credit_id": "60fa1bf4d7fbda0062a7f94f",
+                "order": 28
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3073671,
+                "known_for_department": "Sound",
+                "name": "Marcie Free",
+                "original_name": "Marcie Free",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "608c3b567b7b4d0057daab1d",
+                "department": "Sound",
+                "job": "Theme Song Performance"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21368,
+                "known_for_department": "Acting",
+                "name": "Peter Strauss",
+                "original_name": "Peter Strauss",
+                "popularity": 0.043,
+                "profile_path": "/nu2QWP09Ju0eMabE0hEmYjm1c6V.jpg",
+                "credit_id": "52fe4e84c3a36847f8295a5b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147286,
+                "known_for_department": "Directing",
+                "name": "Paul Levine",
+                "original_name": "Paul Levine",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe4e84c3a36847f8295a61",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82442,
+                "known_for_department": "Acting",
+                "name": "Phillip Rhee",
+                "original_name": "Phillip Rhee",
+                "popularity": 0.013,
+                "profile_path": "/8DPwKPYUWqpHO2BBbYR3D9HlC1j.jpg",
+                "credit_id": "52fe4e84c3a36847f8295a55",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82443,
+                "known_for_department": "Directing",
+                "name": "Robert Radler",
+                "original_name": "Robert Radler",
+                "popularity": 0.004,
+                "profile_path": "/oP0epR0leSJsKefNWtgNSDk3tVN.jpg",
+                "credit_id": "52fe4e84c3a36847f8295a6d",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1094283,
+                "known_for_department": "Production",
+                "name": "James F. Tarzia",
+                "original_name": "James F. Tarzia",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697d9aa802360043f0551a",
+                "department": "Production",
+                "job": "Casting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3271881,
+                "known_for_department": "Sound",
+                "name": "Paul Gilman",
+                "original_name": "Paul Gilman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697dee5cea18006275c7c4",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1833606,
+                "known_for_department": "Production",
+                "name": "Marlon Staggs",
+                "original_name": "Marlon Staggs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697e3a3a99370062ad873c",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1185413,
+                "known_for_department": "Writing",
+                "name": "Deborah Scott",
+                "original_name": "Deborah Scott",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697e25a802360086b9a944",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1634532,
+                "known_for_department": "Production",
+                "name": "Frank Giustra",
+                "original_name": "Frank Giustra",
+                "popularity": 0.005,
+                "profile_path": "/alOHWwtgXhWfu2CnJMocWpcDU4l.jpg",
+                "credit_id": "61697d5653866e0093c8972a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2815045,
+                "known_for_department": "Production",
+                "name": "Michael Holzman",
+                "original_name": "Michael Holzman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697d496bdec300424a8166",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3271884,
+                "known_for_department": "Art",
+                "name": "Kim Rees",
+                "original_name": "Kim Rees",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697e0b924ce600247e5326",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 147286,
+                "known_for_department": "Directing",
+                "name": "Paul Levine",
+                "original_name": "Paul Levine",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "61697ed353866e0026c5f84b",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1704939,
+                "known_for_department": "Camera",
+                "name": "Douglas Ryan",
+                "original_name": "Douglas Ryan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61697e6f158c850096b97442",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 82442,
+                "known_for_department": "Acting",
+                "name": "Phillip Rhee",
+                "original_name": "Phillip Rhee",
+                "popularity": 0.013,
+                "profile_path": "/8DPwKPYUWqpHO2BBbYR3D9HlC1j.jpg",
+                "credit_id": "61697ec253866e0026c5f81d",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1161231,
+                "known_for_department": "Crew",
+                "name": "Bobby Burns",
+                "original_name": "Bobby Burns",
+                "popularity": 0.015,
+                "profile_path": "/rlrOcwf82Dg0X2HxwK2VkhpN1P8.jpg",
+                "credit_id": "6572913b211ce500e13d3a87",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1442535,
+                "known_for_department": "Crew",
+                "name": "Chuck Picerni Jr.",
+                "original_name": "Chuck Picerni Jr.",
+                "popularity": 0.023,
+                "profile_path": "/yE5QtXUzcrnCzMRctZL8F5g842B.jpg",
+                "credit_id": "6441e3a0e2bca8048b430d10",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2122,
+                "known_for_department": "Editing",
+                "name": "William Hoy",
+                "original_name": "William Hoy",
+                "popularity": 0.01,
+                "profile_path": "/5UoZPWvGDKzUvJfRFavwOYM8Enz.jpg",
+                "credit_id": "5d29217bbe4b3612f6a2c82a",
+                "department": "Editing",
+                "job": "Editor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6075,
+                "name": "sports"
+            },
+            {
+                "id": 156159,
+                "name": "martial arts tournament"
+            },
+            {
+                "id": 290327,
+                "name": "seoul, south korea"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Eric Roberts",
+            "character": "Alex Grady"
+        },
+        {
+            "actor": "Phillip Rhee",
+            "character": "Tommy Lee"
+        },
+        {
+            "actor": "James Earl Jones",
+            "character": "Frank Couzo"
+        },
+        {
+            "actor": "Sally Kirkland",
+            "character": "Catherine Wade"
+        },
+        {
+            "actor": "Chris Penn",
+            "character": "Travis Brickley"
+        },
+        {
+            "actor": "John Dye",
+            "character": "Virgil Keller"
+        },
+        {
+            "actor": "David Agresta",
+            "character": "Sonny Grasso"
+        },
+        {
+            "actor": "Tom Everett",
+            "character": "Don Peterson"
+        },
+        {
+            "actor": "Louise Fletcher",
+            "character": "Mrs. Grady"
+        },
+        {
+            "actor": "John P. Ryan",
+            "character": "Jennings"
+        },
+        {
+            "actor": "Edan Gross",
+            "character": "Walter Grady"
+        },
+        {
+            "actor": "Simon Rhee",
+            "character": "Dae Han Park"
+        },
+        {
+            "actor": "Master Hee Il Cho",
+            "character": "Korean Coach"
+        },
+        {
+            "actor": "James Lew",
+            "character": "Sae Jin Kwon"
+        },
+        {
+            "actor": "Ken Nagayama",
+            "character": "Yung Kim"
+        },
+        {
+            "actor": "Ho Sik Pak",
+            "character": "Han Cho"
+        },
+        {
+            "actor": "Dae Kyu Chang",
+            "character": "Tung Sung Moon"
+        },
+        {
+            "actor": "Cal Bartlett",
+            "character": "Dr. Weisman"
+        },
+        {
+            "actor": "Edward Bunker",
+            "character": "Stan"
+        },
+        {
+            "actor": "Bob Telford",
+            "character": "Referee #1"
+        },
+        {
+            "actor": "Samantha Scully",
+            "character": "Carol Ann"
+        },
+        {
+            "actor": "Adrianne Sachs",
+            "character": "Kelly"
+        },
+        {
+            "actor": "Melanie Kinnaman",
+            "character": "The Woman"
+        },
+        {
+            "actor": "Kane Hodder",
+            "character": "Burt"
+        },
+        {
+            "actor": "Pete Antico",
+            "character": "Townie #1"
+        },
+        {
+            "actor": "Michael E. Burgess",
+            "character": "Tournament Fighter (uncredited)"
+        },
+        {
+            "actor": "Fabian Carrillo",
+            "character": "Tournament Fighter (uncredited)"
+        },
+        {
+            "actor": "Mylo Ironbear",
+            "character": "Tournament Fighter (uncredited)"
+        },
+        {
+            "actor": "Ahmad Rashād",
+            "character": "Self"
+        }
+    ]
+}

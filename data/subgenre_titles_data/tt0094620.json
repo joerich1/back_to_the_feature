@@ -1,0 +1,942 @@
+{
+    "adult": false,
+    "backdrop_path": "/rjzSmq6nEq2A2W7kSf9dw0uMiwJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        }
+    ],
+    "homepage": "",
+    "id": 5796,
+    "imdb_id": "tt0094620",
+    "origin_country": [
+        "PH",
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "After Death - Oltre la morte",
+    "overview": "A woman goes back to the island where her parents were killed. They had been working on a cure for cancer and accidentally raised the dead by angering a voodoo priest. With the woman is a group of mercenaries and they meet up with some other researchers. They raise the dead again and all hell breaks loose",
+    "popularity": 2.93,
+    "poster_path": "/myQHuZv6MJDJeCV4IqdM1t0PqEo.jpg",
+    "production_companies": [
+        {
+            "id": 1501,
+            "logo_path": null,
+            "name": "Flora Film",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1990-07-27",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Tagalog",
+            "iso_639_1": "tl",
+            "name": ""
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "After Death",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 83,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Video Premiere (Edited Version)",
+                        "release_date": "1989-12-15T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "VM14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1990-07-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Video Premiere",
+                        "release_date": "1989-06-21T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Video Premiere",
+                        "release_date": "1991-01-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD Premiere",
+                        "release_date": "2002-11-26T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 44942,
+                "known_for_department": "Acting",
+                "name": "Jeff Stryker",
+                "original_name": "Jeff Stryker",
+                "popularity": 4.621,
+                "profile_path": "/nCUM17fA4STaDz0FMQNNyklkhip.jpg",
+                "cast_id": 30,
+                "character": "Chuck (as Chuck Peyton)",
+                "credit_id": "5e768c60cabfe40013224587",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 45579,
+                "known_for_department": "Acting",
+                "name": "Candice Daly",
+                "original_name": "Candice Daly",
+                "popularity": 0.006,
+                "profile_path": "/99eJ3iAB9Tp0hRXUVUNYdliGXjR.jpg",
+                "cast_id": 31,
+                "character": "Jenny",
+                "credit_id": "5e768c892fe2fa001214c26f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45580,
+                "known_for_department": "Acting",
+                "name": "Massimo Vanni",
+                "original_name": "Massimo Vanni",
+                "popularity": 0.015,
+                "profile_path": "/dm6dn7lsXfXiorjPcFvyJok4dn8.jpg",
+                "cast_id": 32,
+                "character": "David (as Alex McBride)",
+                "credit_id": "5e768ca4a055ef00182d0422",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45581,
+                "known_for_department": "Acting",
+                "name": "Jim Gaines",
+                "original_name": "Jim Gaines",
+                "popularity": 0.01,
+                "profile_path": "/j42sFlGxqA3VaLNUcL5JyEiaeL2.jpg",
+                "cast_id": 33,
+                "character": "Dan",
+                "credit_id": "5e768ce6d18b2400197f17ea",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1483176,
+                "known_for_department": "Acting",
+                "name": "Donald Wilson",
+                "original_name": "Donald Wilson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 73,
+                "character": "Tommy",
+                "credit_id": "61e37a74544c41008915e790",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574204,
+                "known_for_department": "Acting",
+                "name": "Adrianne Joseph",
+                "original_name": "Adrianne Joseph",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Louise",
+                "credit_id": "5e768d22b1f68d0012e3f7d6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 939479,
+                "known_for_department": "Acting",
+                "name": "Jimmy Moss",
+                "original_name": "Jimmy Moss",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Mad",
+                "credit_id": "5e768d43cabfe400152067ea",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 107323,
+                "known_for_department": "Acting",
+                "name": "Nick Nicholson",
+                "original_name": "Nick Nicholson",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Rod",
+                "credit_id": "5e768d60a055ef00182d0657",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1483173,
+                "known_for_department": "Acting",
+                "name": "David Anderson",
+                "original_name": "David Anderson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Jenny's Father (uncredited)",
+                "credit_id": "5e768d84cabfe40018212f20",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72661,
+                "known_for_department": "Acting",
+                "name": "Alberto Dell'Acqua",
+                "original_name": "Alberto Dell'Acqua",
+                "popularity": 0.009,
+                "profile_path": "/pY8apYKYEKu6pPjcMw5gdN1ctr4.jpg",
+                "cast_id": 39,
+                "character": "Scientist who Shoots The Voodoo Priest (uncredited)",
+                "credit_id": "5e768da2cabfe40013224764",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68330,
+                "known_for_department": "Acting",
+                "name": "Ottaviano Dell'Acqua",
+                "original_name": "Ottaviano Dell'Acqua",
+                "popularity": 0.015,
+                "profile_path": "/tvx3Sl2qYAtaZSylS4NfkPuVg19.jpg",
+                "cast_id": 40,
+                "character": "Scientist (uncredited)",
+                "credit_id": "5e768dbf2fe2fa001814a6c5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47118,
+                "known_for_department": "Sound",
+                "name": "Al Festa",
+                "original_name": "Al Festa",
+                "popularity": 0.001,
+                "profile_path": "/l9rojjoXJA9G9inYmCAvff7bYwS.jpg",
+                "cast_id": 41,
+                "character": "The Balladeer's Keyboardist (uncredited)",
+                "credit_id": "5e768de0a055ef00162d31d7",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45577,
+                "known_for_department": "Directing",
+                "name": "Claudio Fragasso",
+                "original_name": "Claudio Fragasso",
+                "popularity": 0.013,
+                "profile_path": "/zqm0nn1aPxSnTU6Tq65FWOXWYqt.jpg",
+                "cast_id": 42,
+                "character": "Narrator (voice) (uncredited)",
+                "credit_id": "5e768dfccabfe4001520686a",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1158646,
+                "known_for_department": "Acting",
+                "name": "Fausto Lombardi",
+                "original_name": "Fausto Lombardi",
+                "popularity": 0.004,
+                "profile_path": "/g1QW3za7HEPo2ueI1sNytRgvm5t.jpg",
+                "cast_id": 43,
+                "character": "Head Scientist (uncredited)",
+                "credit_id": "5e768e17cabfe400132247ba",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102121,
+                "known_for_department": "Acting",
+                "name": "Romano Puppo",
+                "original_name": "Romano Puppo",
+                "popularity": 0.013,
+                "profile_path": "/1yxfzEe86Ziekrt9cGmRlFeIyXq.jpg",
+                "cast_id": 44,
+                "character": "Zombie Leader (uncredited)",
+                "credit_id": "5e768e3aa055ef00162d32ac",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101334,
+                "known_for_department": "Acting",
+                "name": "James Sampson",
+                "original_name": "James Sampson",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "The Voodoo Priest (uncredited)",
+                "credit_id": "5e768e542fe2fa001614854d",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1940768,
+                "known_for_department": "Acting",
+                "name": "Marcia Sedoc",
+                "original_name": "Marcia Sedoc",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 72,
+                "character": "",
+                "credit_id": "61617b3cb865eb0061c34c42",
+                "order": 16
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 47116,
+                "known_for_department": "Writing",
+                "name": "Rossella Drudi",
+                "original_name": "Rossella Drudi",
+                "popularity": 0.02,
+                "profile_path": "/8QpNhjAbIQThYx7Gaow7Y8EX1nL.jpg",
+                "credit_id": "52fe4422c3a36847f80843d9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 47119,
+                "known_for_department": "Editing",
+                "name": "Maurizio Baglivo",
+                "original_name": "Maurizio Baglivo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4422c3a36847f80843eb",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47117,
+                "known_for_department": "Production",
+                "name": "Franco Gaudenzi",
+                "original_name": "Franco Gaudenzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4422c3a36847f80843df",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45577,
+                "known_for_department": "Directing",
+                "name": "Claudio Fragasso",
+                "original_name": "Claudio Fragasso",
+                "popularity": 0.013,
+                "profile_path": "/zqm0nn1aPxSnTU6Tq65FWOXWYqt.jpg",
+                "credit_id": "52fe4422c3a36847f80843b9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1355548,
+                "known_for_department": "Art",
+                "name": "Mimmo Scavia",
+                "original_name": "Mimmo Scavia",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5b7f5b010e0a2660a0002d07",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101561,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Franco Di Girolamo",
+                "original_name": "Franco Di Girolamo",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5b7f5b51c3a3687e0d002a81",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47118,
+                "known_for_department": "Sound",
+                "name": "Al Festa",
+                "original_name": "Al Festa",
+                "popularity": 0.001,
+                "profile_path": "/l9rojjoXJA9G9inYmCAvff7bYwS.jpg",
+                "credit_id": "5b7f5abdc3a3687e0d0029bd",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 47116,
+                "known_for_department": "Writing",
+                "name": "Rossella Drudi",
+                "original_name": "Rossella Drudi",
+                "popularity": 0.02,
+                "profile_path": "/8QpNhjAbIQThYx7Gaow7Y8EX1nL.jpg",
+                "credit_id": "5b7f5ae90e0a2660a0002cf8",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1941318,
+                "known_for_department": "Crew",
+                "name": "Rodolfo Torrente",
+                "original_name": "Rodolfo Torrente",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5b7f5b619251416c8c002943",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101561,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Franco Di Girolamo",
+                "original_name": "Franco Di Girolamo",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5b7f5b300e0a26609d002b6c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1944601,
+                "known_for_department": "Crew",
+                "name": "Dante Abadeza",
+                "original_name": "Dante Abadeza",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7693fd357c0000194f1c9d",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574209,
+                "known_for_department": "Production",
+                "name": "Angelo Cavallo",
+                "original_name": "Angelo Cavallo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7690b42fe2fa00101499cd",
+                "department": "Production",
+                "job": "Production Secretary"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 2574208,
+                "known_for_department": "Production",
+                "name": "Maria Spera",
+                "original_name": "Maria Spera",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "5e769063cabfe40015206b8f",
+                "department": "Production",
+                "job": "Accountant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574225,
+                "known_for_department": "Camera",
+                "name": "Raul Filippo Mattei",
+                "original_name": "Raul Filippo Mattei",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7692c52fe2fa0016148c87",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574210,
+                "known_for_department": "Production",
+                "name": "Ernie Barredo",
+                "original_name": "Ernie Barredo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7690dab1f68d0019e4a3b4",
+                "department": "Production",
+                "job": "Assistant Production Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574215,
+                "known_for_department": "Production",
+                "name": "Arnel Abaneilla",
+                "original_name": "Arnel Abaneilla",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7691a3d18b2400137f39bb",
+                "department": "Production",
+                "job": "Location Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1832083,
+                "known_for_department": "Writing",
+                "name": "Mario Ponce",
+                "original_name": "Mario Ponce",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e76929b2f3b17001952060a",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574235,
+                "known_for_department": "Camera",
+                "name": "Arturo Barredo",
+                "original_name": "Arturo Barredo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e769376a055ef00182d0e48",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574233,
+                "known_for_department": "Camera",
+                "name": "Orly Bombay",
+                "original_name": "Orly Bombay",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e76932f2f3b17001750c251",
+                "department": "Camera",
+                "job": "Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574228,
+                "known_for_department": "Camera",
+                "name": "Fred Marquez",
+                "original_name": "Fred Marquez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e7692f9b1f68d0014e44c57",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1282900,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Julie de Guzman",
+                "original_name": "Julie de Guzman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e76924ea055ef00182d0cb7",
+                "department": "Costume & Make-Up",
+                "job": "Wardrobe Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45580,
+                "known_for_department": "Acting",
+                "name": "Massimo Vanni",
+                "original_name": "Massimo Vanni",
+                "popularity": 0.015,
+                "profile_path": "/dm6dn7lsXfXiorjPcFvyJok4dn8.jpg",
+                "credit_id": "5e7693972fe2fa001214ca2e",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47118,
+                "known_for_department": "Sound",
+                "name": "Al Festa",
+                "original_name": "Al Festa",
+                "popularity": 0.001,
+                "profile_path": "/l9rojjoXJA9G9inYmCAvff7bYwS.jpg",
+                "credit_id": "5e769176b1f68d0014e44a52",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574216,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Lito Mozol",
+                "original_name": "Lito Mozol",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e76920d357c0000134ff63e",
+                "department": "Costume & Make-Up",
+                "job": "Tailor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2574220,
+                "known_for_department": "Camera",
+                "name": "Billy Ruello",
+                "original_name": "Billy Ruello",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e769266a055ef00182d0ccf",
+                "department": "Camera",
+                "job": "Still Photographer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2406084,
+                "known_for_department": "Production",
+                "name": "Manrico Passerotti",
+                "original_name": "Manrico Passerotti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998c0319ab59001948e8e6",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1667652,
+                "known_for_department": "Visual Effects",
+                "name": "Francesco Paolocci",
+                "original_name": "Francesco Paolocci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998d06b339030013a3c5b9",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1667653,
+                "known_for_department": "Visual Effects",
+                "name": "Gaetano Paolocci",
+                "original_name": "Gaetano Paolocci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998d23b33903001aa3f8d6",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1355548,
+                "known_for_department": "Art",
+                "name": "Mimmo Scavia",
+                "original_name": "Mimmo Scavia",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5e998af8fdf8b70015a47d31",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1043280,
+                "known_for_department": "Production",
+                "name": "Giovanni Paolucci",
+                "original_name": "Giovanni Paolucci",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5e998bdffdf8b7001aa474e2",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2604637,
+                "known_for_department": "Crew",
+                "name": "Nelson Palma",
+                "original_name": "Nelson Palma",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998e108d22fc001c7e51ef",
+                "department": "Crew",
+                "job": "Transportation Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2604631,
+                "known_for_department": "Sound",
+                "name": "Claudio Budassi",
+                "original_name": "Claudio Budassi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998c4619ab590014490377",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2604636,
+                "known_for_department": "Sound",
+                "name": "Maurizio Cerantola",
+                "original_name": "Maurizio Cerantola",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998db6d144430012528e59",
+                "department": "Sound",
+                "job": "Musician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 45578,
+                "known_for_department": "Camera",
+                "name": "Luigi Ciccarese",
+                "original_name": "Luigi Ciccarese",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998b3919ab59001948e84a",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2113958,
+                "known_for_department": "Art",
+                "name": "Jun Carlos",
+                "original_name": "Jun Carlos",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998b72fdf8b70015a47d80",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2113959,
+                "known_for_department": "Art",
+                "name": "Don Reganit",
+                "original_name": "Don Reganit",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e998b86058224001ab01744",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3392,
+                "name": "voodoo"
+            },
+            {
+                "id": 10292,
+                "name": "gore"
+            },
+            {
+                "id": 10787,
+                "name": "jungle"
+            },
+            {
+                "id": 12377,
+                "name": "zombie"
+            },
+            {
+                "id": 14811,
+                "name": "exploding head"
+            },
+            {
+                "id": 14895,
+                "name": "cannibal"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jeff Stryker",
+            "character": "Chuck (as Chuck Peyton)"
+        },
+        {
+            "actor": "Candice Daly",
+            "character": "Jenny"
+        },
+        {
+            "actor": "Massimo Vanni",
+            "character": "David (as Alex McBride)"
+        },
+        {
+            "actor": "Jim Gaines",
+            "character": "Dan"
+        },
+        {
+            "actor": "Donald Wilson",
+            "character": "Tommy"
+        },
+        {
+            "actor": "Adrianne Joseph",
+            "character": "Louise"
+        },
+        {
+            "actor": "Jimmy Moss",
+            "character": "Mad"
+        },
+        {
+            "actor": "Nick Nicholson",
+            "character": "Rod"
+        },
+        {
+            "actor": "David Anderson",
+            "character": "Jenny's Father (uncredited)"
+        },
+        {
+            "actor": "Alberto Dell'Acqua",
+            "character": "Scientist who Shoots The Voodoo Priest (uncredited)"
+        },
+        {
+            "actor": "Ottaviano Dell'Acqua",
+            "character": "Scientist (uncredited)"
+        },
+        {
+            "actor": "Al Festa",
+            "character": "The Balladeer's Keyboardist (uncredited)"
+        },
+        {
+            "actor": "Claudio Fragasso",
+            "character": "Narrator (voice) (uncredited)"
+        },
+        {
+            "actor": "Fausto Lombardi",
+            "character": "Head Scientist (uncredited)"
+        },
+        {
+            "actor": "Romano Puppo",
+            "character": "Zombie Leader (uncredited)"
+        },
+        {
+            "actor": "James Sampson",
+            "character": "The Voodoo Priest (uncredited)"
+        },
+        {
+            "actor": "Marcia Sedoc",
+            "character": ""
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "adult": false,
+    "backdrop_path": "/8O3lOzIh5VathDwLl56t8xjhVhh.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 37,
+            "name": "Western"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 73984,
+    "imdb_id": "tt0069833",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Valdez, il mezzosangue",
+    "overview": "Chino Valdez is a loner horse breeder living in the old west. Partly a loner by choice, and partly because, being a 'half-breed', he finds himself unwelcome almost everywhere he goes. One day, a young runaway named Jimmy shows up at his door looking for work and a roof over his head. Reluctantly, Chino agrees to take him in and teach him the art of raising, breaking and breeding horses, until the pair finally begin to accept each other.",
+    "popularity": 2.012,
+    "poster_path": "/sFbU6gkpG8XNoTMxAKkZLzFUJMx.jpg",
+    "production_companies": [
+        {
+            "id": 21640,
+            "logo_path": null,
+            "name": "Produzioni De Laurentiis - International Manufacturing Company",
+            "origin_country": "IT"
+        },
+        {
+            "id": 21641,
+            "logo_path": null,
+            "name": "Coral Producciones Cinematográficas",
+            "origin_country": "ES"
+        },
+        {
+            "id": 1408,
+            "logo_path": null,
+            "name": "Universal Productions France",
+            "origin_country": "FR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        },
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        },
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1973-09-14",
+    "revenue": 0,
+    "runtime": 98,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They took his land... his horses... his woman... but... they couldn't take Chino!",
+    "title": "Chino",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 57,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-27T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-01-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1973-09-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-05-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-08-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4960,
+                "known_for_department": "Acting",
+                "name": "Charles Bronson",
+                "original_name": "Charles Bronson",
+                "popularity": 0.095,
+                "profile_path": "/8LoFmQmUzBaoGef8pY7M2urSCk.jpg",
+                "cast_id": 2,
+                "character": "Chino Valdez",
+                "credit_id": "52fe48b5c3a368484e106c2d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 15753,
+                "known_for_department": "Acting",
+                "name": "Jill Ireland",
+                "original_name": "Jill Ireland",
+                "popularity": 0.034,
+                "profile_path": "/rbu61vKkPU7tlMNsCWTTQDSIpv0.jpg",
+                "cast_id": 3,
+                "character": "Catherine",
+                "credit_id": "52fe48b5c3a368484e106c31",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98569,
+                "known_for_department": "Acting",
+                "name": "Vincent Van Patten",
+                "original_name": "Vincent Van Patten",
+                "popularity": 0.018,
+                "profile_path": "/gERUs5qeSQidcudH1sC4Uv2OpWe.jpg",
+                "cast_id": 4,
+                "character": "Jamie Wagner",
+                "credit_id": "52fe48b5c3a368484e106c35",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57490,
+                "known_for_department": "Acting",
+                "name": "Fausto Tozzi",
+                "original_name": "Fausto Tozzi",
+                "popularity": 0.005,
+                "profile_path": "/AkB0VBAL78vxLFXv3QPorMFsYYF.jpg",
+                "cast_id": 5,
+                "character": "Cruz",
+                "credit_id": "52fe48b5c3a368484e106c39",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 563809,
+                "known_for_department": "Acting",
+                "name": "Ettore Manni",
+                "original_name": "Ettore Manni",
+                "popularity": 0.01,
+                "profile_path": "/335BZDhby9j8U2bIPAz834oMf9n.jpg",
+                "cast_id": 6,
+                "character": "Sheriff",
+                "credit_id": "52fe48b5c3a368484e106c3d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24604,
+                "known_for_department": "Acting",
+                "name": "Corrado Gaipa",
+                "original_name": "Corrado Gaipa",
+                "popularity": 0.005,
+                "profile_path": "/7vR2BOdVw9FwJKjgpcisjKEytnL.jpg",
+                "cast_id": 7,
+                "character": "Padre",
+                "credit_id": "52fe48b5c3a368484e106c41",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97635,
+                "known_for_department": "Acting",
+                "name": "Diana Lorys",
+                "original_name": "Diana Lorys",
+                "popularity": 0.01,
+                "profile_path": "/9IsTek7E7ekJbXvq3pInR63jLGt.jpg",
+                "cast_id": 8,
+                "character": "Indian",
+                "credit_id": "52fe48b5c3a368484e106c45",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15184,
+                "known_for_department": "Acting",
+                "name": "Marcel Bozzuffi",
+                "original_name": "Marcel Bozzuffi",
+                "popularity": 0.014,
+                "profile_path": "/m1U5WSvkhfqJx00jPKvZXXuAk0p.jpg",
+                "cast_id": 26,
+                "character": "Maral",
+                "credit_id": "52fe48b5c3a368484e106ca3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14822,
+                "known_for_department": "Acting",
+                "name": "José Nieto",
+                "original_name": "José Nieto",
+                "popularity": 0.011,
+                "profile_path": "/pJl21sDDdPMitmdVuYhKrX9m8C9.jpg",
+                "cast_id": 30,
+                "character": "Mexican",
+                "credit_id": "52fe48b5c3a368484e106cb1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1130045,
+                "known_for_department": "Acting",
+                "name": "Conchita Muñoz",
+                "original_name": "Conchita Muñoz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Mexican",
+                "credit_id": "52fe48b5c3a368484e106ca7",
+                "order": 9
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 1003256,
+                "known_for_department": "Acting",
+                "name": "Melissa Chimenti",
+                "original_name": "Melissa Chimenti",
+                "popularity": 2.467,
+                "profile_path": "/6YwvZnahTrkb2LUMLEJOm7GQ2Rx.jpg",
+                "cast_id": 32,
+                "character": "Indian",
+                "credit_id": "588a8363925141539700c467",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1022040,
+                "known_for_department": "Acting",
+                "name": "Florencio Amarilla",
+                "original_name": "Florencio Amarilla",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Little Bear",
+                "credit_id": "588a83b6c3a368191e00c97b",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1016083,
+                "known_for_department": "Acting",
+                "name": "Bruno Boschetti",
+                "original_name": "Bruno Boschetti",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Cowboy",
+                "credit_id": "588a83d3c3a368158900b454",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1745802,
+                "known_for_department": "Acting",
+                "name": "Rafael García",
+                "original_name": "Rafael García",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Cowboy",
+                "credit_id": "588a8435c3a36859e9026c0f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 996571,
+                "known_for_department": "Acting",
+                "name": "Luis Prendes",
+                "original_name": "Luis Prendes",
+                "popularity": 0.006,
+                "profile_path": "/ie5Hu5Chv4GGtJiLgtNn0JrurDX.jpg",
+                "cast_id": 36,
+                "character": "",
+                "credit_id": "588a845c9251411bbe0201b0",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1662454,
+                "known_for_department": "Acting",
+                "name": "Luis Rico",
+                "original_name": "Luis Rico",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "",
+                "credit_id": "588a846d9251411bbe0201bc",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1003384,
+                "known_for_department": "Acting",
+                "name": "Ricardo Rodríguez",
+                "original_name": "Ricardo Rodríguez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "",
+                "credit_id": "588a8483925141551600c24d",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 283080,
+                "known_for_department": "Acting",
+                "name": "Adolfo Thous",
+                "original_name": "Adolfo Thous",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Cayate",
+                "credit_id": "588a8494925141575700bfb0",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 116140,
+                "known_for_department": "Acting",
+                "name": "Henri Vidon",
+                "original_name": "Henri Vidon",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Cowboy",
+                "credit_id": "588a84a3c3a368409301d4a5",
+                "order": 18
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 24665,
+                "known_for_department": "Camera",
+                "name": "Armando Nannuzzi",
+                "original_name": "Armando Nannuzzi",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c81",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18837,
+                "known_for_department": "Sound",
+                "name": "Maurizio De Angelis",
+                "original_name": "Maurizio De Angelis",
+                "popularity": 0.006,
+                "profile_path": "/8HMySntR4AUWHlDVOFI9VAzWOpF.jpg",
+                "credit_id": "52fe48b5c3a368484e106c69",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98482,
+                "known_for_department": "Writing",
+                "name": "Massimo De Rita",
+                "original_name": "Massimo De Rita",
+                "popularity": 0.007,
+                "profile_path": "/1mAe76dI869bN1Eq4j0C7cPb1fL.jpg",
+                "credit_id": "52fe48b5c3a368484e106c57",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14520,
+                "known_for_department": "Directing",
+                "name": "John Sturges",
+                "original_name": "John Sturges",
+                "popularity": 0.026,
+                "profile_path": "/22Tg0PeUfexgVL4dpdkLyViZh5O.jpg",
+                "credit_id": "52fe48b5c3a368484e106c6f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5398,
+                "known_for_department": "Production",
+                "name": "Dino De Laurentiis",
+                "original_name": "Dino De Laurentiis",
+                "popularity": 0.022,
+                "profile_path": "/AemWmlAEoezGnyJTVP0DYfc0Fmu.jpg",
+                "credit_id": "52fe48b5c3a368484e106c7b",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14520,
+                "known_for_department": "Directing",
+                "name": "John Sturges",
+                "original_name": "John Sturges",
+                "popularity": 0.026,
+                "profile_path": "/22Tg0PeUfexgVL4dpdkLyViZh5O.jpg",
+                "credit_id": "52fe48b5c3a368484e106c29",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98499,
+                "known_for_department": "Writing",
+                "name": "Rafael J. Salvia",
+                "original_name": "Rafael J. Salvia",
+                "popularity": 0.007,
+                "profile_path": "/nTy4J3rqhEBn6B1XRTEduGkOLaS.jpg",
+                "credit_id": "52fe48b5c3a368484e106cad",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 32382,
+                "known_for_department": "Art",
+                "name": "Mario Garbuglia",
+                "original_name": "Mario Garbuglia",
+                "popularity": 0.001,
+                "profile_path": "/ywMpot0GmMWeqBLfc8O8CM3YkTJ.jpg",
+                "credit_id": "52fe48b5c3a368484e106c99",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 109400,
+                "known_for_department": "Writing",
+                "name": "Clair Huffaker",
+                "original_name": "Clair Huffaker",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c51",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1130043,
+                "known_for_department": "Editing",
+                "name": "Luis Álvarez",
+                "original_name": "Luis Álvarez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c93",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1087694,
+                "known_for_department": "Writing",
+                "name": "Lee Hoffman",
+                "original_name": "Lee Hoffman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c4b",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 31343,
+                "known_for_department": "Camera",
+                "name": "Godofredo Pacheco",
+                "original_name": "Godofredo Pacheco",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c87",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": true,
+                "gender": 0,
+                "id": 1130042,
+                "known_for_department": "Editing",
+                "name": "Vanio Amici",
+                "original_name": "Vanio Amici",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c8d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115598,
+                "known_for_department": "Directing",
+                "name": "Duilio Coletti",
+                "original_name": "Duilio Coletti",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c75",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18836,
+                "known_for_department": "Sound",
+                "name": "Guido De Angelis",
+                "original_name": "Guido De Angelis",
+                "popularity": 0.004,
+                "profile_path": "/pUb3QpsOSydPgktwjVoASYRUs8b.jpg",
+                "credit_id": "52fe48b5c3a368484e106c63",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 115598,
+                "known_for_department": "Directing",
+                "name": "Duilio Coletti",
+                "original_name": "Duilio Coletti",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106cb7",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179891,
+                "known_for_department": "Writing",
+                "name": "Dino Maiuri",
+                "original_name": "Dino Maiuri",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c5d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1130044,
+                "known_for_department": "Camera",
+                "name": "Giuseppe Bernardini",
+                "original_name": "Giuseppe Bernardini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe48b5c3a368484e106c9f",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16597,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Giannetto De Rossi",
+                "original_name": "Giannetto De Rossi",
+                "popularity": 0.013,
+                "profile_path": "/unjx1w1E6rsHajAXgZm7IfTtQ1Y.jpg",
+                "credit_id": "67a313f80d5b4b980a9fcf45",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 8122,
+                "name": "canyon"
+            },
+            {
+                "id": 502,
+                "name": "ambush"
+            },
+            {
+                "id": 2673,
+                "name": "horse"
+            },
+            {
+                "id": 3582,
+                "name": "bride"
+            },
+            {
+                "id": 5572,
+                "name": "fistfight"
+            },
+            {
+                "id": 10950,
+                "name": "shootout"
+            },
+            {
+                "id": 156795,
+                "name": "lasso"
+            },
+            {
+                "id": 183528,
+                "name": "half breed"
+            },
+            {
+                "id": 186150,
+                "name": "street fight"
+            },
+            {
+                "id": 188262,
+                "name": "male in bathtub"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Charles Bronson",
+            "character": "Chino Valdez"
+        },
+        {
+            "actor": "Jill Ireland",
+            "character": "Catherine"
+        },
+        {
+            "actor": "Vincent Van Patten",
+            "character": "Jamie Wagner"
+        },
+        {
+            "actor": "Fausto Tozzi",
+            "character": "Cruz"
+        },
+        {
+            "actor": "Ettore Manni",
+            "character": "Sheriff"
+        },
+        {
+            "actor": "Corrado Gaipa",
+            "character": "Padre"
+        },
+        {
+            "actor": "Diana Lorys",
+            "character": "Indian"
+        },
+        {
+            "actor": "Marcel Bozzuffi",
+            "character": "Maral"
+        },
+        {
+            "actor": "José Nieto",
+            "character": "Mexican"
+        },
+        {
+            "actor": "Conchita Muñoz",
+            "character": "Mexican"
+        },
+        {
+            "actor": "Melissa Chimenti",
+            "character": "Indian"
+        },
+        {
+            "actor": "Florencio Amarilla",
+            "character": "Little Bear"
+        },
+        {
+            "actor": "Bruno Boschetti",
+            "character": "Cowboy"
+        },
+        {
+            "actor": "Rafael García",
+            "character": "Cowboy"
+        },
+        {
+            "actor": "Luis Prendes",
+            "character": ""
+        },
+        {
+            "actor": "Luis Rico",
+            "character": ""
+        },
+        {
+            "actor": "Ricardo Rodríguez",
+            "character": ""
+        },
+        {
+            "actor": "Adolfo Thous",
+            "character": "Cayate"
+        },
+        {
+            "actor": "Henri Vidon",
+            "character": "Cowboy"
+        }
+    ]
+}

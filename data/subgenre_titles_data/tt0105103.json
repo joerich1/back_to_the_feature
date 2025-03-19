@@ -1,0 +1,867 @@
+{
+    "adult": false,
+    "backdrop_path": "/4HYBjoT3IJW9dREApR1wizj2DMT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 62383,
+    "imdb_id": "tt0105103",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Passed Away",
+    "overview": "Thrown for a loop by the unexpected news that Dad has suddenly gone to his reward, the grieving eccentric Scanian clan are drawn together in a test of familial endurance that soon has them at each other's throats.",
+    "popularity": 0.494,
+    "poster_path": "/kUBxt3YGBOg5Okpg6dUE7DBrRgR.jpg",
+    "production_companies": [
+        {
+            "id": 8830,
+            "logo_path": null,
+            "name": "Touchwood Pacific Partners 1",
+            "origin_country": "US"
+        },
+        {
+            "id": 915,
+            "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+            "name": "Hollywood Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 135760,
+            "logo_path": null,
+            "name": "Morra/Brezner/Steinberg Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1992-04-24",
+    "revenue": 0,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The hilariously grave comedy that proves eternity is spending three days with family!",
+    "title": "Passed Away",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 14,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1992-04-24T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-04-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 382,
+                "known_for_department": "Acting",
+                "name": "Bob Hoskins",
+                "original_name": "Bob Hoskins",
+                "popularity": 0.056,
+                "profile_path": "/qOeE7bVHAsNTbP77Qk6TwrrWHZc.jpg",
+                "cast_id": 2,
+                "character": "Johnny Scanlan",
+                "credit_id": "52fe467bc3a368484e093215",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7571,
+                "known_for_department": "Acting",
+                "name": "Blair Brown",
+                "original_name": "Blair Brown",
+                "popularity": 0.04,
+                "profile_path": "/hnVybZLBUJNr93gCTwgRQRCkjpm.jpg",
+                "cast_id": 6,
+                "character": "Amy Scanlan",
+                "credit_id": "54e40cefc3a36857560097d0",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13472,
+                "known_for_department": "Acting",
+                "name": "Tim Curry",
+                "original_name": "Tim Curry",
+                "popularity": 0.118,
+                "profile_path": "/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg",
+                "cast_id": 7,
+                "character": "Boyd Pinter",
+                "credit_id": "54e40d07925141195300a4ad",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3910,
+                "known_for_department": "Acting",
+                "name": "Frances McDormand",
+                "original_name": "Frances McDormand",
+                "popularity": 0.071,
+                "profile_path": "/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg",
+                "cast_id": 8,
+                "character": "Nora Scanlan",
+                "credit_id": "54e40d1d925141469f008a12",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52267,
+                "known_for_department": "Acting",
+                "name": "William Petersen",
+                "original_name": "William Petersen",
+                "popularity": 0.039,
+                "profile_path": "/844k8tbN8mr5Nk69Ge2yzFR4k9r.jpg",
+                "cast_id": 4,
+                "character": "Frank Scanlan",
+                "credit_id": "52fe467bc3a368484e09321d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14699,
+                "known_for_department": "Acting",
+                "name": "Pamela Reed",
+                "original_name": "Pamela Reed",
+                "popularity": 0.038,
+                "profile_path": "/xnl8fp434SpB2e1iPw7NpEcYHNd.jpg",
+                "cast_id": 9,
+                "character": "Terry Scanlan Pinter",
+                "credit_id": "54e40d34c3a36857560097db",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20899,
+                "known_for_department": "Acting",
+                "name": "Peter Riegert",
+                "original_name": "Peter Riegert",
+                "popularity": 0.038,
+                "profile_path": "/yPgaRZBMVy9eoNNuiPIm0wzG9sD.jpg",
+                "cast_id": 10,
+                "character": "Peter Syracusa",
+                "credit_id": "54e40d4d925141195600ae04",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21151,
+                "known_for_department": "Acting",
+                "name": "Maureen Stapleton",
+                "original_name": "Maureen Stapleton",
+                "popularity": 0.028,
+                "profile_path": "/rXwg71O6oU6x3sB5c4erlAu7mhy.jpg",
+                "cast_id": 11,
+                "character": "Mary Scanlan",
+                "credit_id": "54e40d649251411099004ecf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18331,
+                "known_for_department": "Acting",
+                "name": "Nancy Travis",
+                "original_name": "Nancy Travis",
+                "popularity": 0.05,
+                "profile_path": "/8NVTIgCYB6H0GrAwNPLwdU92pdt.jpg",
+                "cast_id": 12,
+                "character": "Cassie Slocombe",
+                "credit_id": "54e40d71925141469f008a20",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5251,
+                "known_for_department": "Acting",
+                "name": "Jack Warden",
+                "original_name": "Jack Warden",
+                "popularity": 0.068,
+                "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
+                "cast_id": 3,
+                "character": "Jack Scanlan",
+                "credit_id": "52fe467bc3a368484e093219",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44830,
+                "known_for_department": "Acting",
+                "name": "Deborah Rush",
+                "original_name": "Deborah Rush",
+                "popularity": 0.034,
+                "profile_path": "/n2CmQoAKP8cQCiYTeLMp1V1WH8V.jpg",
+                "cast_id": 13,
+                "character": "Denise Scanlan",
+                "credit_id": "54e40dc7c3a36857560097ed",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10399,
+                "known_for_department": "Acting",
+                "name": "Teri Polo",
+                "original_name": "Teri Polo",
+                "popularity": 0.073,
+                "profile_path": "/5xVk9bfMOeJxKmAGJddOhcNp2rX.jpg",
+                "cast_id": 14,
+                "character": "Rachel Scanlan",
+                "credit_id": "54e40dd6925141469f008a28",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10131,
+                "known_for_department": "Acting",
+                "name": "Sara Rue",
+                "original_name": "Sara Rue",
+                "popularity": 0.067,
+                "profile_path": "/o11tkGyCWxi8Cmjg2q8hTVFmhK3.jpg",
+                "cast_id": 5,
+                "character": "Megan Scanlan",
+                "credit_id": "52fe467bc3a368484e093221",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21130,
+                "known_for_department": "Acting",
+                "name": "Jayce Bartok",
+                "original_name": "Jayce Bartok",
+                "popularity": 0.021,
+                "profile_path": "/zzTmGmiMWEPm7pXg1BVaNwykFpP.jpg",
+                "cast_id": 15,
+                "character": "Tony Scanlan",
+                "credit_id": "54e40e069251411099004eeb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55962,
+                "known_for_department": "Acting",
+                "name": "Louis Mustillo",
+                "original_name": "Louis Mustillo",
+                "popularity": 0.026,
+                "profile_path": "/gfp2kJUrOojQCmRltRrFFTv8Vr2.jpg",
+                "cast_id": 16,
+                "character": "Carmine Syracusa",
+                "credit_id": "5ee7dc54a217c0001fd5aa98",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15031,
+                "known_for_department": "Acting",
+                "name": "Patrick Breen",
+                "original_name": "Patrick Breen",
+                "popularity": 0.035,
+                "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg",
+                "cast_id": 17,
+                "character": "Father Hallahan",
+                "credit_id": "5ee7dc6ea217c00021d31e41",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19152,
+                "known_for_department": "Acting",
+                "name": "Dylan Baker",
+                "original_name": "Dylan Baker",
+                "popularity": 0.073,
+                "profile_path": "/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg",
+                "cast_id": 18,
+                "character": "Unsworth",
+                "credit_id": "5ee7dc7e9715ae0020a6c935",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5346,
+                "known_for_department": "Acting",
+                "name": "Dan Futterman",
+                "original_name": "Dan Futterman",
+                "popularity": 0.041,
+                "profile_path": "/dgmPcQe3tf616zB5hDpDStFunxO.jpg",
+                "cast_id": 19,
+                "character": "Tom",
+                "credit_id": "5ee7dc87a217c00021d31eb5",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 157986,
+                "known_for_department": "Acting",
+                "name": "Diana Bellamy",
+                "original_name": "Diana Bellamy",
+                "popularity": 0.016,
+                "profile_path": "/gLkpy27UWMCZCWnkOm3vFPr2TQh.jpg",
+                "cast_id": 36,
+                "character": "BJ",
+                "credit_id": "5f366d49c4f55200340b34b0",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 31118,
+                "known_for_department": "Acting",
+                "name": "Don Brockett",
+                "original_name": "Don Brockett",
+                "popularity": 0.013,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Froggie",
+                "credit_id": "5f366d4a33ad8f0037a85685",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 49821,
+                "known_for_department": "Acting",
+                "name": "Helen Lloyd Breed",
+                "original_name": "Helen Lloyd Breed",
+                "popularity": 0.009,
+                "profile_path": "/eFKCXQgcqc194f10TD9rjaogYK7.jpg",
+                "cast_id": 38,
+                "character": "Aunt Maureen",
+                "credit_id": "5f366d4a111da10035670454",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1848633,
+                "known_for_department": "Acting",
+                "name": "Patricia O'Connell",
+                "original_name": "Patricia O'Connell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Mrs. Finch",
+                "credit_id": "5f366d4a8f26bc0034bb2d72",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 950832,
+                "known_for_department": "Acting",
+                "name": "Sally Gracie",
+                "original_name": "Sally Gracie",
+                "popularity": 0.005,
+                "profile_path": "/b8YZoqRCPTvZ7tCT10cGc9qEU7t.jpg",
+                "cast_id": 40,
+                "character": "Mrs. Cassidy",
+                "credit_id": "5f366d4ac4f55200340b34b5",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1728284,
+                "known_for_department": "Acting",
+                "name": "Ruth Jaroslow",
+                "original_name": "Ruth Jaroslow",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Mrs. Richfield",
+                "credit_id": "5f366d4b5a07f500340e8e85",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1746822,
+                "known_for_department": "Acting",
+                "name": "Alice Eisner",
+                "original_name": "Alice Eisner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 42,
+                "character": "Aunt Sissy",
+                "credit_id": "5f366d4bc4f55200320cdb82",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2030045,
+                "known_for_department": "Acting",
+                "name": "Ann Shea",
+                "original_name": "Ann Shea",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Louise",
+                "credit_id": "5f366d4b5a07f500340e8e88",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 170230,
+                "known_for_department": "Acting",
+                "name": "Tristan Tait",
+                "original_name": "Tristan Tait",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Sam Scanlan",
+                "credit_id": "5f366d4cc4f5520033088640",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54857,
+                "known_for_department": "Acting",
+                "name": "Anthony DiLeo Jr.",
+                "original_name": "Anthony DiLeo Jr.",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Enrique",
+                "credit_id": "6074b4264d0e8d002c5889d1",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 48535,
+                "known_for_department": "Acting",
+                "name": "Larry John Meyers",
+                "original_name": "Larry John Meyers",
+                "popularity": 0.008,
+                "profile_path": "/d2eOr21PIs4gr5kG1h8UKr1oqJV.jpg",
+                "cast_id": 46,
+                "character": "INS Agent #1",
+                "credit_id": "60d3d99a0e64af002f7bb352",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15074,
+                "known_for_department": "Acting",
+                "name": "David Early",
+                "original_name": "David Early",
+                "popularity": 0.008,
+                "profile_path": "/uucWPqvvzZLl5TlurQ4Frnm0rFN.jpg",
+                "cast_id": 47,
+                "character": "Councilman Chaney",
+                "credit_id": "64d0231967e0f700c77d4d4b",
+                "order": 29
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65401,
+                "known_for_department": "Writing",
+                "name": "Charlie Peters",
+                "original_name": "Charlie Peters",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "52fe467bc3a368484e093211",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65401,
+                "known_for_department": "Writing",
+                "name": "Charlie Peters",
+                "original_name": "Charlie Peters",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5ee7dcc8a217c00022d75ef7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2469978,
+                "known_for_department": "Production",
+                "name": "Canice Kennedy",
+                "original_name": "Canice Kennedy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7dd1e9715ae001fa780fe",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 19850,
+                "known_for_department": "Directing",
+                "name": "Catherine Hardwicke",
+                "original_name": "Catherine Hardwicke",
+                "popularity": 0.018,
+                "profile_path": "/AcuShXY2w2soOxgpMjRjir40rq6.jpg",
+                "credit_id": "5ee7dd6c62e86f001d6bdf57",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1413490,
+                "known_for_department": "Art",
+                "name": "Gilbert Mercier",
+                "original_name": "Gilbert Mercier",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7dd7a88bbe60022cc2939",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72870,
+                "known_for_department": "Production",
+                "name": "Timothy Marx",
+                "original_name": "Timothy Marx",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5ee7dcf69715ae0022a86fa7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1394642,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jennifer von Mayrhauser",
+                "original_name": "Jennifer von Mayrhauser",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7dd94a217c00021d326f3",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 11658,
+                "known_for_department": "Production",
+                "name": "Gail Levin",
+                "original_name": "Gail Levin",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5ee7dd5ea217c0001fd5ab8e",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1319843,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Felicity Bowring",
+                "original_name": "Felicity Bowring",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7dd9d3ff2df00216c8b7a",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21068,
+                "known_for_department": "Sound",
+                "name": "Richard Gibbs",
+                "original_name": "Richard Gibbs",
+                "popularity": 0.012,
+                "profile_path": "/5jTk1fUsMzslWB86XdWB8JoYdMl.jpg",
+                "credit_id": "5ee7dd0162e86f00206bc765",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58187,
+                "known_for_department": "Camera",
+                "name": "Arthur Albert",
+                "original_name": "Arthur Albert",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5ee7dd0ba217c0001fd5ab42",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1418528,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bonnie Clevering",
+                "original_name": "Bonnie Clevering",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5ee7dda79715ae001fa78165",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2680051,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kelley Fry",
+                "original_name": "Kelley Fry",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7ddb1a4f03c002024966e",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1061,
+                "known_for_department": "Editing",
+                "name": "Harry Keramidas",
+                "original_name": "Harry Keramidas",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5ee7dd1488bbe60020cc25d8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2680052,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sean Roger Miguez",
+                "original_name": "Sean Roger Miguez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ee7ddc388bbe6001fcc200f",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11957,
+                "known_for_department": "Production",
+                "name": "Larry Brezner",
+                "original_name": "Larry Brezner",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5ee7dcd9a4f03c001d24b5fe",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5957,
+                "known_for_department": "Art",
+                "name": "Gene Serdena",
+                "original_name": "Gene Serdena",
+                "popularity": 0.005,
+                "profile_path": "/g3btH3Ic5GmIsayXcNFW96EITkE.jpg",
+                "credit_id": "5ee7dd89cb71b8001db853ed",
+                "department": "Art",
+                "job": "Set Decoration"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Bob Hoskins",
+            "character": "Johnny Scanlan"
+        },
+        {
+            "actor": "Blair Brown",
+            "character": "Amy Scanlan"
+        },
+        {
+            "actor": "Tim Curry",
+            "character": "Boyd Pinter"
+        },
+        {
+            "actor": "Frances McDormand",
+            "character": "Nora Scanlan"
+        },
+        {
+            "actor": "William Petersen",
+            "character": "Frank Scanlan"
+        },
+        {
+            "actor": "Pamela Reed",
+            "character": "Terry Scanlan Pinter"
+        },
+        {
+            "actor": "Peter Riegert",
+            "character": "Peter Syracusa"
+        },
+        {
+            "actor": "Maureen Stapleton",
+            "character": "Mary Scanlan"
+        },
+        {
+            "actor": "Nancy Travis",
+            "character": "Cassie Slocombe"
+        },
+        {
+            "actor": "Jack Warden",
+            "character": "Jack Scanlan"
+        },
+        {
+            "actor": "Deborah Rush",
+            "character": "Denise Scanlan"
+        },
+        {
+            "actor": "Teri Polo",
+            "character": "Rachel Scanlan"
+        },
+        {
+            "actor": "Sara Rue",
+            "character": "Megan Scanlan"
+        },
+        {
+            "actor": "Jayce Bartok",
+            "character": "Tony Scanlan"
+        },
+        {
+            "actor": "Louis Mustillo",
+            "character": "Carmine Syracusa"
+        },
+        {
+            "actor": "Patrick Breen",
+            "character": "Father Hallahan"
+        },
+        {
+            "actor": "Dylan Baker",
+            "character": "Unsworth"
+        },
+        {
+            "actor": "Dan Futterman",
+            "character": "Tom"
+        },
+        {
+            "actor": "Diana Bellamy",
+            "character": "BJ"
+        },
+        {
+            "actor": "Don Brockett",
+            "character": "Froggie"
+        },
+        {
+            "actor": "Helen Lloyd Breed",
+            "character": "Aunt Maureen"
+        },
+        {
+            "actor": "Patricia O'Connell",
+            "character": "Mrs. Finch"
+        },
+        {
+            "actor": "Sally Gracie",
+            "character": "Mrs. Cassidy"
+        },
+        {
+            "actor": "Ruth Jaroslow",
+            "character": "Mrs. Richfield"
+        },
+        {
+            "actor": "Alice Eisner",
+            "character": "Aunt Sissy"
+        },
+        {
+            "actor": "Ann Shea",
+            "character": "Louise"
+        },
+        {
+            "actor": "Tristan Tait",
+            "character": "Sam Scanlan"
+        },
+        {
+            "actor": "Anthony DiLeo Jr.",
+            "character": "Enrique"
+        },
+        {
+            "actor": "Larry John Meyers",
+            "character": "INS Agent #1"
+        },
+        {
+            "actor": "David Early",
+            "character": "Councilman Chaney"
+        }
+    ]
+}

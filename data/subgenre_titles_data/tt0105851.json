@@ -1,0 +1,704 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ATEYsOS7Qw1qWAGU02Nbyi78GW.jpg",
+    "belongs_to_collection": null,
+    "budget": 1250000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 27073,
+    "imdb_id": "tt0105851",
+    "origin_country": [
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "俠盜高飛",
+    "overview": "In an effort to get his buddy out of a gambling debt, Jeff agrees to join forces with Judge in a weapons heist. The job goes bad and Judge betrays Jeff. Jeff plots the ultimate revenge on Judge and his followers and it is a question of whether he can follow through with his plan.",
+    "popularity": 3.53,
+    "poster_path": "/a3SFfTwR7j2WHsBTEoYmkxHrkDB.jpg",
+    "production_companies": [
+        {
+            "id": 44499,
+            "logo_path": null,
+            "name": "Golden Princess Film Production Ltd.",
+            "origin_country": ""
+        },
+        {
+            "id": 123297,
+            "logo_path": null,
+            "name": "Silver Medal Presentations",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        },
+        {
+            "iso_3166_1": "TH",
+            "name": "Thailand"
+        }
+    ],
+    "release_date": "1992-07-23",
+    "revenue": 0,
+    "runtime": 99,
+    "spoken_languages": [
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Full Contact",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 109,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 5
+                    },
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Video",
+                        "release_date": "1993-07-05T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-07-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-07-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1992-10-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-07-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1619,
+                "known_for_department": "Acting",
+                "name": "Chow Yun-Fat",
+                "original_name": "周潤發",
+                "popularity": 0.086,
+                "profile_path": "/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg",
+                "cast_id": 3,
+                "character": "Jeff / Gou Fei",
+                "credit_id": "52fe452bc3a368484e04c43d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20519,
+                "known_for_department": "Acting",
+                "name": "Simon Yam",
+                "original_name": "任達華",
+                "popularity": 0.055,
+                "profile_path": "/5Jss5TaxVWofhD5UYaVmPTw7vl.jpg",
+                "cast_id": 4,
+                "character": "Judge",
+                "credit_id": "52fe452bc3a368484e04c441",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 96889,
+                "known_for_department": "Acting",
+                "name": "Ann Bridgewater",
+                "original_name": "柏安妮",
+                "popularity": 0.017,
+                "profile_path": "/i71qJuSQfvHUh0wpAoFZS4Mcdlx.jpg",
+                "cast_id": 5,
+                "character": "Mona",
+                "credit_id": "52fe452bc3a368484e04c445",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 66717,
+                "known_for_department": "Acting",
+                "name": "Anthony Wong Chau-Sang",
+                "original_name": "黃秋生",
+                "popularity": 0.061,
+                "profile_path": "/7UYRnOZXSmJFcQGPBUSFbyY07zZ.jpg",
+                "cast_id": 6,
+                "character": "Sam Sei",
+                "credit_id": "52fe452bc3a368484e04c449",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 96890,
+                "known_for_department": "Acting",
+                "name": "Bonnie Fu Yuk-Jing",
+                "original_name": "符鈺晶",
+                "popularity": 0.014,
+                "profile_path": "/xs5zIIloiAHovZ7VftSTDh1P3Pb.jpg",
+                "cast_id": 7,
+                "character": "Lau Ngang / Virgin",
+                "credit_id": "52fe452bc3a368484e04c44d",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68648,
+                "known_for_department": "Acting",
+                "name": "Frankie Chan Chi-Leung",
+                "original_name": "陳治良",
+                "popularity": 0.017,
+                "profile_path": "/kAltKeI0C9n0QEO9c01NztoSbrH.jpg",
+                "cast_id": 8,
+                "character": "Deano / Psycho",
+                "credit_id": "54060c80c3a3685b740042fb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 301314,
+                "known_for_department": "Writing",
+                "name": "Nam Yin",
+                "original_name": "南燕",
+                "popularity": 0.012,
+                "profile_path": "/8uVAFnWSCsUSJZJgbf8FrmDHT48.jpg",
+                "cast_id": 9,
+                "character": "Loanshark Hung",
+                "credit_id": "54060c8cc3a3682d9800711f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1138759,
+                "known_for_department": "Acting",
+                "name": "Victor Hon Kwan",
+                "original_name": "Victor Hon Kwan",
+                "popularity": 0.006,
+                "profile_path": "/ohZCzpQwVizynmZGpqUOrahnmQH.jpg",
+                "cast_id": 10,
+                "character": "Kau",
+                "credit_id": "54060c9ac3a368068c0087d3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1139366,
+                "known_for_department": "Acting",
+                "name": "Chris Lee Kin-Sang",
+                "original_name": "Chris Lee Kin-Sang",
+                "popularity": 0.008,
+                "profile_path": "/nSQHMnf7cK0OTzUrfGTMfVOjZr9.jpg",
+                "cast_id": 11,
+                "character": "Chung",
+                "credit_id": "54060ca5c3a368437200865e",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1359883,
+                "known_for_department": "Acting",
+                "name": "Chun Hung",
+                "original_name": "Chun Hung",
+                "popularity": 0.005,
+                "profile_path": "/4GpiKPYdhMPd1EWqTt1Wt1HFEVy.jpg",
+                "cast_id": 12,
+                "character": "Julianne",
+                "credit_id": "54060cb5c3a3684372008662",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1400220,
+                "known_for_department": "Acting",
+                "name": "Jameson Lam Wa-Fan",
+                "original_name": "林華勳",
+                "popularity": 0.01,
+                "profile_path": "/1gJ5s5tHaLTmabkhMWv19pavzeg.jpg",
+                "cast_id": 30,
+                "character": "Kau's Thug",
+                "credit_id": "6479f59193828e00f9d6a017",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 237233,
+                "known_for_department": "Acting",
+                "name": "Tam Kon-Chung",
+                "original_name": "Tam Kon-Chung",
+                "popularity": 0.008,
+                "profile_path": "/4HyoYwYOLeiOD2WHtFpz4nRpxQE.jpg",
+                "cast_id": 31,
+                "character": "Kau's Thug",
+                "credit_id": "64d870fdd100b6011c8237b2",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1361024,
+                "known_for_department": "Acting",
+                "name": "Wong Chi-Wai",
+                "original_name": "Wong Chi-Wai",
+                "popularity": 0.008,
+                "profile_path": "/5Pw6UBacQyRxc26ADK4Y6RrgpkL.jpg",
+                "cast_id": 33,
+                "character": "",
+                "credit_id": "66a86e52169ca9722402e102",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1417211,
+                "known_for_department": "Acting",
+                "name": "Jacky Cheung Chun-Hung",
+                "original_name": "Jacky Cheung Chun-Hung",
+                "popularity": 0.002,
+                "profile_path": "/aoTkzz7baQApAiQeHP2r3RVxRRx.jpg",
+                "cast_id": 34,
+                "character": "",
+                "credit_id": "66ab0dd778e48634d5cd5a70",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1633177,
+                "known_for_department": "Acting",
+                "name": "Lam Kwok-Kit",
+                "original_name": "林國傑",
+                "popularity": 0.007,
+                "profile_path": "/sijJ3Fa3osgubSNcVmee3IEGw0u.jpg",
+                "cast_id": 35,
+                "character": "",
+                "credit_id": "66beb076efe85dde4755a2e2",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1206113,
+                "known_for_department": "Directing",
+                "name": "Ken Yip Wing-Kin",
+                "original_name": "Ken Yip Wing-Kin",
+                "popularity": 0.004,
+                "profile_path": "/osu9hT6EtgFe0X0GcFbWXkJtvx2.jpg",
+                "cast_id": 39,
+                "character": "",
+                "credit_id": "6773619bfbe3722a986177eb",
+                "order": 15
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26767,
+                "known_for_department": "Directing",
+                "name": "Ringo Lam Ling-Tung",
+                "original_name": "林嶺東",
+                "popularity": 0.019,
+                "profile_path": "/qAuEWqf9HTrKx6a91cxoPMh78SV.jpg",
+                "credit_id": "52fe452bc3a368484e04c433",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-Wah",
+                "original_name": "徐寶華",
+                "popularity": 0.01,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "credit_id": "607ccbd1e6d3cc00401a92c2",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131955,
+                "known_for_department": "Acting",
+                "name": "Lau Kar-Wing",
+                "original_name": "劉家榮",
+                "popularity": 0.028,
+                "profile_path": "/ldxip5KcrTi3bkZLa9XMv93j2Nr.jpg",
+                "credit_id": "607ccb4de6d3cc002938637f",
+                "department": "Directing",
+                "job": "Action Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-Wah",
+                "original_name": "徐寶華",
+                "popularity": 0.01,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "credit_id": "607ccbfec390c5006ff64352",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-Wah",
+                "original_name": "徐寶華",
+                "popularity": 0.01,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "credit_id": "607ccc08a1d332006e1718ad",
+                "department": "Crew",
+                "job": "Martial Arts Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131955,
+                "known_for_department": "Acting",
+                "name": "Lau Kar-Wing",
+                "original_name": "劉家榮",
+                "popularity": 0.028,
+                "profile_path": "/ldxip5KcrTi3bkZLa9XMv93j2Nr.jpg",
+                "credit_id": "607ccb4366f2d200291f8091",
+                "department": "Crew",
+                "job": "Martial Arts Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 131955,
+                "known_for_department": "Acting",
+                "name": "Lau Kar-Wing",
+                "original_name": "劉家榮",
+                "popularity": 0.028,
+                "profile_path": "/ldxip5KcrTi3bkZLa9XMv93j2Nr.jpg",
+                "credit_id": "607ccb397e3483002945e5d5",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277922,
+                "known_for_department": "Acting",
+                "name": "Ridley Tsui Bo-Wah",
+                "original_name": "徐寶華",
+                "popularity": 0.01,
+                "profile_path": "/aHjeyxfSvoYyeQVaz3qmEiCMVwZ.jpg",
+                "credit_id": "607ccbe28c0a4800791e31cb",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 301314,
+                "known_for_department": "Writing",
+                "name": "Nam Yin",
+                "original_name": "南燕",
+                "popularity": 0.012,
+                "profile_path": "/8uVAFnWSCsUSJZJgbf8FrmDHT48.jpg",
+                "credit_id": "54060d55c3a36843660089fd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26767,
+                "known_for_department": "Directing",
+                "name": "Ringo Lam Ling-Tung",
+                "original_name": "林嶺東",
+                "popularity": 0.019,
+                "profile_path": "/qAuEWqf9HTrKx6a91cxoPMh78SV.jpg",
+                "credit_id": "54060d85c3a3684366008a01",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 67689,
+                "known_for_department": "Acting",
+                "name": "Alan Tam",
+                "original_name": "譚詠麟",
+                "popularity": 0.031,
+                "profile_path": "/vKB7KXRhersKKha1n4dbJpQaud6.jpg",
+                "credit_id": "638f17f3ba131b00f1b5ed3c",
+                "department": "Sound",
+                "job": "Songs"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 235189,
+                "known_for_department": "Camera",
+                "name": "Peter Ngor Chi-Kwan",
+                "original_name": "傲志君",
+                "popularity": 0.015,
+                "profile_path": "/9N1P9ldQP2F8TTsfk4sR04LSORO.jpg",
+                "credit_id": "6681cc60fc6b0cd40ec81267",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64907,
+                "known_for_department": "Camera",
+                "name": "Joe Chan Kwong-Hung",
+                "original_name": "陳廣鴻",
+                "popularity": 0.013,
+                "profile_path": null,
+                "credit_id": "66d4eced980ee47c07180952",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1040452,
+                "known_for_department": "Directing",
+                "name": "Lau Hung-Chuen",
+                "original_name": "Lau Hung-Chuen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66d4f521048e1714e9ae3050",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26729,
+                "known_for_department": "Acting",
+                "name": "Teddy Robin",
+                "original_name": "泰迪羅賓",
+                "popularity": 0.017,
+                "profile_path": "/H0m6swp53hydoCTUHivklF3US0.jpg",
+                "credit_id": "5c2f2a6dc3a3680b8ca252ab",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 60859,
+                "known_for_department": "Art",
+                "name": "Lek Chaiyan Chunsuttiwat",
+                "original_name": "Lek Chaiyan Chunsuttiwat",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5c2f2b6f0e0a267eb339fbd5",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26732,
+                "known_for_department": "Editing",
+                "name": "Tony Chow Kwok-Chung",
+                "original_name": "周國忠",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5c2f2b0bc3a3682915a6e065",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 60859,
+                "known_for_department": "Art",
+                "name": "Lek Chaiyan Chunsuttiwat",
+                "original_name": "Lek Chaiyan Chunsuttiwat",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "5c2f2b7dc3a3682913a6eaef",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70111,
+                "known_for_department": "Camera",
+                "name": "Anthony Pun Yiu-Ming",
+                "original_name": "Anthony Pun Yiu-Ming",
+                "popularity": 0.006,
+                "profile_path": "/dW0SNhg20vC1NcvcoqL4GFnoczg.jpg",
+                "credit_id": "6733b9dbae484f388a3f3ff3",
+                "department": "Camera",
+                "job": "Additional Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 473,
+                "name": "chain"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chow Yun-Fat",
+            "character": "Jeff / Gou Fei"
+        },
+        {
+            "actor": "Simon Yam",
+            "character": "Judge"
+        },
+        {
+            "actor": "Ann Bridgewater",
+            "character": "Mona"
+        },
+        {
+            "actor": "Anthony Wong Chau-Sang",
+            "character": "Sam Sei"
+        },
+        {
+            "actor": "Bonnie Fu Yuk-Jing",
+            "character": "Lau Ngang / Virgin"
+        },
+        {
+            "actor": "Frankie Chan Chi-Leung",
+            "character": "Deano / Psycho"
+        },
+        {
+            "actor": "Nam Yin",
+            "character": "Loanshark Hung"
+        },
+        {
+            "actor": "Victor Hon Kwan",
+            "character": "Kau"
+        },
+        {
+            "actor": "Chris Lee Kin-Sang",
+            "character": "Chung"
+        },
+        {
+            "actor": "Chun Hung",
+            "character": "Julianne"
+        },
+        {
+            "actor": "Jameson Lam Wa-Fan",
+            "character": "Kau's Thug"
+        },
+        {
+            "actor": "Tam Kon-Chung",
+            "character": "Kau's Thug"
+        },
+        {
+            "actor": "Wong Chi-Wai",
+            "character": ""
+        },
+        {
+            "actor": "Jacky Cheung Chun-Hung",
+            "character": ""
+        },
+        {
+            "actor": "Lam Kwok-Kit",
+            "character": ""
+        },
+        {
+            "actor": "Ken Yip Wing-Kin",
+            "character": ""
+        }
+    ]
+}

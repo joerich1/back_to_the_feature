@@ -1,0 +1,408 @@
+{
+    "adult": false,
+    "backdrop_path": "/f0wvbhqQ4TJ5wJeEXB3VfqoI5pa.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentary"
+        },
+        {
+            "id": 80,
+            "name": "Crime"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81213109",
+    "id": 1013609,
+    "imdb_id": "tt21746178",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Anthrax Attacks: In the Shadow of 9/11",
+    "overview": "Days after 9/11, letters containing fatal anthrax spores spark panic and tragedy in the US. This documentary follows the subsequent FBI investigation.",
+    "popularity": 1.188,
+    "poster_path": "/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg",
+    "production_companies": [
+        {
+            "id": 113381,
+            "logo_path": "/wuLsHAoN6X46X8sLL4RGfrHHSHg.png",
+            "name": "BBC Studios Science Unit",
+            "origin_country": "GB"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        }
+    ],
+    "release_date": "2022-09-08",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Anthrax Attacks: In the Shadow of 9/11",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 33,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "K15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9048,
+                "known_for_department": "Acting",
+                "name": "Clark Gregg",
+                "original_name": "Clark Gregg",
+                "popularity": 0.086,
+                "profile_path": "/zwyhwrxgpiufSPpjC9dxCy5kAB0.jpg",
+                "cast_id": 1,
+                "character": "Dr. Bruce Ivins",
+                "credit_id": "62fbf776ce997a007a4e9624",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 162703,
+                "known_for_department": "Acting",
+                "name": "Regan Burns",
+                "original_name": "Regan Burns",
+                "popularity": 0.014,
+                "profile_path": "/x1WMefiKeHbnrfVMFsK7WNDQMzq.jpg",
+                "cast_id": 6,
+                "character": "Bernard Dunn",
+                "credit_id": "6375805a25a53600952046ad",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1050350,
+                "known_for_department": "Acting",
+                "name": "Brigitte Kali Canales",
+                "original_name": "Brigitte Kali Canales",
+                "popularity": 0.023,
+                "profile_path": "/78o8bMqPV5HVxdiCYep8zlWHABo.jpg",
+                "cast_id": 7,
+                "character": "Agent Moore",
+                "credit_id": "63758096156cc7007f4ec6b7",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 105875,
+                "known_for_department": "Acting",
+                "name": "Tongayi Chirisa",
+                "original_name": "Tongayi Chirisa",
+                "popularity": 0.019,
+                "profile_path": "/iNUnPz0fcz2kGYZ5lhkXo042iAl.jpg",
+                "cast_id": 8,
+                "character": "Agent Shaw",
+                "credit_id": "637580adc6006d00aab11233",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 21703,
+                "known_for_department": "Acting",
+                "name": "Peri Gilpin",
+                "original_name": "Peri Gilpin",
+                "popularity": 0.057,
+                "profile_path": "/320biaP0RG23HWkbPbsq0ShC9zO.jpg",
+                "cast_id": 9,
+                "character": "Sara Hughes",
+                "credit_id": "637580c0e8999b00a45fc147",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76795,
+                "known_for_department": "Acting",
+                "name": "Chris Johnson",
+                "original_name": "Chris Johnson",
+                "popularity": 0.017,
+                "profile_path": "/nHWPtaHaGCQkjgcVvF3nksYAHg0.jpg",
+                "cast_id": 10,
+                "character": "Vince Lisi",
+                "credit_id": "637580ea25a536008428767c",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 134012,
+                "known_for_department": "Acting",
+                "name": "Derek Phillips",
+                "original_name": "Derek Phillips",
+                "popularity": 0.03,
+                "profile_path": "/r8ylzYKi1mdOanR14899kTzD76x.jpg",
+                "cast_id": 11,
+                "character": "Agent Hayward",
+                "credit_id": "63758110156cc700cdd45ee7",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1327646,
+                "known_for_department": "Acting",
+                "name": "John Redlinger",
+                "original_name": "John Redlinger",
+                "popularity": 0.005,
+                "profile_path": "/16IieM12gYBNzrknF6ay1UKrIZF.jpg",
+                "cast_id": 5,
+                "character": "Agent Braxton",
+                "credit_id": "6375802f5b2f470075310f65",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 931021,
+                "known_for_department": "Acting",
+                "name": "Rudolph Giuliani",
+                "original_name": "Rudolph Giuliani",
+                "popularity": 0.01,
+                "profile_path": "/jcDZkl6E5nhpNCqdi7PwqWiCiBy.jpg",
+                "cast_id": 4,
+                "character": "Self (archive Footage)",
+                "credit_id": "6329ec5b39b6c3009e9a2ded",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19011,
+                "known_for_department": "Acting",
+                "name": "George W. Bush",
+                "original_name": "George W. Bush",
+                "popularity": 0.019,
+                "profile_path": "/6u9fUB5p0ugbMrPoQ5GF7baERiA.jpg",
+                "cast_id": 3,
+                "character": "Self (archive Footage)",
+                "credit_id": "6329ec48b6abc4007ad9a469",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1677812,
+                "known_for_department": "Production",
+                "name": "Andrew Cohen",
+                "original_name": "Andrew Cohen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "652685ed629b2c00ffeded6d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1157604,
+                "known_for_department": "Directing",
+                "name": "Dan Krauss",
+                "original_name": "Dan Krauss",
+                "popularity": 0.006,
+                "profile_path": "/hqlS9umkJHvmAGb2iptfDDNiQsR.jpg",
+                "credit_id": "652685f381383100acf5e4f0",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1157604,
+                "known_for_department": "Directing",
+                "name": "Dan Krauss",
+                "original_name": "Dan Krauss",
+                "popularity": 0.006,
+                "profile_path": "/hqlS9umkJHvmAGb2iptfDDNiQsR.jpg",
+                "credit_id": "652685f9cedac401221804ac",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1194840,
+                "known_for_department": "Production",
+                "name": "Jason Spingarn-Koff",
+                "original_name": "Jason Spingarn-Koff",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "65268600629b2c00ac5ef69d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4093216,
+                "known_for_department": "Production",
+                "name": "Jonny Taylor",
+                "original_name": "Jonny Taylor",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6526861581383101390db2bf",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1157604,
+                "known_for_department": "Directing",
+                "name": "Dan Krauss",
+                "original_name": "Dan Krauss",
+                "popularity": 0.006,
+                "profile_path": "/hqlS9umkJHvmAGb2iptfDDNiQsR.jpg",
+                "credit_id": "62fbf79a12aabc007c39c008",
+                "department": "Directing",
+                "job": "Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 214463,
+                "name": "post 9/11"
+            },
+            {
+                "id": 220874,
+                "name": "anthrax"
+            },
+            {
+                "id": 323114,
+                "name": "crime"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Clark Gregg",
+            "character": "Dr. Bruce Ivins"
+        },
+        {
+            "actor": "Regan Burns",
+            "character": "Bernard Dunn"
+        },
+        {
+            "actor": "Brigitte Kali Canales",
+            "character": "Agent Moore"
+        },
+        {
+            "actor": "Tongayi Chirisa",
+            "character": "Agent Shaw"
+        },
+        {
+            "actor": "Peri Gilpin",
+            "character": "Sara Hughes"
+        },
+        {
+            "actor": "Chris Johnson",
+            "character": "Vince Lisi"
+        },
+        {
+            "actor": "Derek Phillips",
+            "character": "Agent Hayward"
+        },
+        {
+            "actor": "John Redlinger",
+            "character": "Agent Braxton"
+        },
+        {
+            "actor": "Rudolph Giuliani",
+            "character": "Self (archive Footage)"
+        },
+        {
+            "actor": "George W. Bush",
+            "character": "Self (archive Footage)"
+        }
+    ]
+}

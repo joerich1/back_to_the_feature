@@ -1,0 +1,512 @@
+{
+    "adult": false,
+    "backdrop_path": "/rNuVltH8EeUKrbVlQyxNDtAG5z1.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "http://www.client2011.co.kr/",
+    "id": 81242,
+    "imdb_id": "tt2072962",
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "의뢰인",
+    "overview": "Elite attorney Kang Seong-Hee goes up against a top prosecutor over a case involving a man accused of killing his wife.",
+    "popularity": 2.227,
+    "poster_path": "/lAJ9csveLoNmgarN7lrz3ylETgH.jpg",
+    "production_companies": [
+        {
+            "id": 79409,
+            "logo_path": "/6Eoq8GPUXJtFGQSe99bc4YZHYg2.png",
+            "name": "Generation Blue Films",
+            "origin_country": "KR"
+        },
+        {
+            "id": 3491,
+            "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+            "name": "Showbox",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "release_date": "2011-09-29",
+    "revenue": 0,
+    "runtime": 123,
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Released",
+    "tagline": "They find justice of their own.",
+    "title": "The Client",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 63,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-07-21T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-09-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 75913,
+                "known_for_department": "Acting",
+                "name": "Ha Jung-woo",
+                "original_name": "하정우",
+                "popularity": 0.043,
+                "profile_path": "/9KINm0XIwbt4Qql4oZX55krzKxg.jpg",
+                "cast_id": 1001,
+                "character": "Kang Seong-Hee",
+                "credit_id": "52fe48029251416c9107d0bd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93999,
+                "known_for_department": "Acting",
+                "name": "Park Hee-soon",
+                "original_name": "박희순",
+                "popularity": 0.044,
+                "profile_path": "/s2SSzvlsSfCPP5EXhCoWUr8970F.jpg",
+                "cast_id": 1002,
+                "character": "Ahn Min-Ho",
+                "credit_id": "52fe48029251416c9107d0c1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63438,
+                "known_for_department": "Acting",
+                "name": "Jang Hyuk",
+                "original_name": "장혁",
+                "popularity": 0.076,
+                "profile_path": "/wOGbzgmlogfpPUvXTWVSROVTUYf.jpg",
+                "cast_id": 1003,
+                "character": "Han Cheol-min",
+                "credit_id": "52fe48029251416c9107d0c5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1020859,
+                "known_for_department": "Acting",
+                "name": "Sung Dong-il",
+                "original_name": "성동일",
+                "popularity": 0.043,
+                "profile_path": "/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg",
+                "cast_id": 1010,
+                "character": "Jang Ho-won",
+                "credit_id": "5317140b9251415877001933",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 930417,
+                "known_for_department": "Acting",
+                "name": "Kim Sung-ryung",
+                "original_name": "김성령",
+                "popularity": 0.029,
+                "profile_path": "/sPB8ySlzfJWNedISwugRWEBABIY.jpg",
+                "cast_id": 1006,
+                "character": "Purser",
+                "credit_id": "52fe48029251416c9107d0d1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 462584,
+                "known_for_department": "Acting",
+                "name": "Jung Won-joong",
+                "original_name": "정원중",
+                "popularity": 0.004,
+                "profile_path": "/5Y5DzUkeKYfJkQWKC7Q4L0JU9dV.jpg",
+                "cast_id": 1005,
+                "character": "Chief prosecutor",
+                "credit_id": "52fe48029251416c9107d0cd",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 587674,
+                "known_for_department": "Acting",
+                "name": "Yoo Da-in",
+                "original_name": "유다인",
+                "popularity": 0.007,
+                "profile_path": "/15WwH0szMeeB4SLeC0lDsESuZy0.jpg",
+                "cast_id": 1011,
+                "character": "Seo Jeong-ah",
+                "credit_id": "5329a355c3a3683d4e0018e3",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 587676,
+                "known_for_department": "Acting",
+                "name": "Park Hyeok-kwon",
+                "original_name": "박혁권",
+                "popularity": 0.037,
+                "profile_path": "/963synjkumhi137USxQnlYdJx1r.jpg",
+                "cast_id": 1014,
+                "character": "Police Sergeant Seo",
+                "credit_id": "5ac9b54bc3a36834e205558b",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 945428,
+                "known_for_department": "Acting",
+                "name": "Ju Jin-mo",
+                "original_name": "주진모",
+                "popularity": 0.011,
+                "profile_path": "/1qTItiktKLOBRX00xIqx8GO0TXk.jpg",
+                "cast_id": 1013,
+                "character": "Judge",
+                "credit_id": "5820c08bc3a3682199000004",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 573794,
+                "known_for_department": "Acting",
+                "name": "Bae Sung-woo",
+                "original_name": "배성우",
+                "popularity": 0.023,
+                "profile_path": "/qocgfpxNoLWtrbh4JDfZxhn4zSg.jpg",
+                "cast_id": 1012,
+                "character": "Prosecutor Park",
+                "credit_id": "56b084d3c3a3686482001f1b",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 911680,
+                "known_for_department": "Acting",
+                "name": "Danwoo Jung",
+                "original_name": "Danwoo Jung",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 1009,
+                "character": "Psychiatrist",
+                "credit_id": "52fe48029251416c9107d0dd",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1351055,
+                "known_for_department": "Acting",
+                "name": "Ye Su-jeong",
+                "original_name": "예수정",
+                "popularity": 0.02,
+                "profile_path": "/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg",
+                "cast_id": 1023,
+                "character": "Mother-in-law",
+                "credit_id": "5f57570490cf510032a97c1f",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 567621,
+                "known_for_department": "Acting",
+                "name": "Choi Hee-jin",
+                "original_name": "최희진",
+                "popularity": 0.025,
+                "profile_path": "/nDOo1uoshFe16QOTbbMj3Eq2IzG.jpg",
+                "cast_id": 1029,
+                "character": "Researcher",
+                "credit_id": "6220c9cd6f43ec00446f23e9",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3609605,
+                "known_for_department": "Acting",
+                "name": "Shin An-jin",
+                "original_name": "신안진",
+                "popularity": 0.001,
+                "profile_path": "/2FJGicL29jHhmlYSFQRnWKHtp7X.jpg",
+                "cast_id": 1030,
+                "character": "Detective",
+                "credit_id": "62c0ea43532acb0329a1c9bb",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3035590,
+                "known_for_department": "Art",
+                "name": "Choi Yeon-sik",
+                "original_name": "Choi Yeon-sik",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60680b2d1cc4ff0058195229",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37930,
+                "known_for_department": "Sound",
+                "name": "Cho Young-wuk",
+                "original_name": "조영욱",
+                "popularity": 0.008,
+                "profile_path": "/jSBt4j7LXz5PjDchUAyFOpD88wY.jpg",
+                "credit_id": "60c0bcd1dcb6a3002ab19bfa",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3384958,
+                "known_for_department": "Lighting",
+                "name": "Lee Byeong-hoon",
+                "original_name": "Lee Byeong-hoon",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "61e4106ccae632001c93466d",
+                "department": "Lighting",
+                "job": "Lighting Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1516586,
+                "known_for_department": "Sound",
+                "name": "Cho Min-ho",
+                "original_name": "Cho Min-ho",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6207ae36fab3fa00b2e78cea",
+                "department": "Sound",
+                "job": "Production Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1296090,
+                "known_for_department": "Writing",
+                "name": "Lee Choon-hyung",
+                "original_name": "이춘형",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "65aca685bc2cb300cc996efa",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2141853,
+                "known_for_department": "Directing",
+                "name": "Sohn Young-sung",
+                "original_name": "손영성",
+                "popularity": 0.001,
+                "profile_path": "/g6FdsjEoXW31v7FSCwhx6zd4DFR.jpg",
+                "credit_id": "5bb6a317c3a368151001c94f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1057492,
+                "known_for_department": "Directing",
+                "name": "KimJho Gwang-soo",
+                "original_name": "김조광수",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5cc9990992514119e5f97628",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2310648,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jang Yoon-jung",
+                "original_name": "Jang Yoon-jung",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5cd77a6f0e0a265c8dcaa6d0",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2290535,
+                "known_for_department": "Sound",
+                "name": "Park Ju-gang",
+                "original_name": "박주강",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5cd805d3c3a36875bcc33a78",
+                "department": "Sound",
+                "job": "Sound Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1293691,
+                "known_for_department": "Camera",
+                "name": "Choi Sang-ho",
+                "original_name": "Choi Sang-ho",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5cd8097a9251412f6bce4d6c",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1294098,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kim Yoo-seon",
+                "original_name": "Kim Yoo-seon",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5e38e11743250f0013c4a382",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2141853,
+                "known_for_department": "Directing",
+                "name": "Sohn Young-sung",
+                "original_name": "손영성",
+                "popularity": 0.001,
+                "profile_path": "/g6FdsjEoXW31v7FSCwhx6zd4DFR.jpg",
+                "credit_id": "5fec9bb1945d36003f06e28b",
+                "department": "Writing",
+                "job": "Writer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Ha Jung-woo",
+            "character": "Kang Seong-Hee"
+        },
+        {
+            "actor": "Park Hee-soon",
+            "character": "Ahn Min-Ho"
+        },
+        {
+            "actor": "Jang Hyuk",
+            "character": "Han Cheol-min"
+        },
+        {
+            "actor": "Sung Dong-il",
+            "character": "Jang Ho-won"
+        },
+        {
+            "actor": "Kim Sung-ryung",
+            "character": "Purser"
+        },
+        {
+            "actor": "Jung Won-joong",
+            "character": "Chief prosecutor"
+        },
+        {
+            "actor": "Yoo Da-in",
+            "character": "Seo Jeong-ah"
+        },
+        {
+            "actor": "Park Hyeok-kwon",
+            "character": "Police Sergeant Seo"
+        },
+        {
+            "actor": "Ju Jin-mo",
+            "character": "Judge"
+        },
+        {
+            "actor": "Bae Sung-woo",
+            "character": "Prosecutor Park"
+        },
+        {
+            "actor": "Danwoo Jung",
+            "character": "Psychiatrist"
+        },
+        {
+            "actor": "Ye Su-jeong",
+            "character": "Mother-in-law"
+        },
+        {
+            "actor": "Choi Hee-jin",
+            "character": "Researcher"
+        },
+        {
+            "actor": "Shin An-jin",
+            "character": "Detective"
+        }
+    ]
+}

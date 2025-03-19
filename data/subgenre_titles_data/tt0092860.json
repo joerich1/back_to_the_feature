@@ -1,0 +1,568 @@
+{
+    "adult": false,
+    "backdrop_path": "/q4gSxWnNMxXqjM8gw4FDcqzWgbu.jpg",
+    "belongs_to_collection": {
+        "id": 48655,
+        "name": "Deathstalker Collection",
+        "poster_path": "/lXxbywRtTyCBY6PhrRHV8RHwNUN.jpg",
+        "backdrop_path": "/t96b8refI7jfKTWBhW6go68rLd6.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 28218,
+    "imdb_id": "tt0092860",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Deathstalker II",
+    "overview": "Deathstalker helps Reena the Seer out of a few jams, and she solicits his help for a bigger task. She reveals that she is actually Princess Evie, but the evil sorcerer had her abducted and cloned in order to seize control of the kingdom. Together they travel to the evil sorcerer's stronghold to restore the princess to her rightful position, encountering challenges along the way both from the sorcerer's goons and the fierce Amazon women.",
+    "popularity": 3.53,
+    "poster_path": "/mCwn0hL1ha425EIIYjuMUbunix.jpg",
+    "production_companies": [
+        {
+            "id": 4890,
+            "logo_path": null,
+            "name": "Aries Film International",
+            "origin_country": ""
+        },
+        {
+            "id": 20235,
+            "logo_path": null,
+            "name": "New Horizons Picture",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AR",
+            "name": "Argentina"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1987-06-03",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Twice The Action. Twice The Passion. Twice The Adventure.",
+    "title": "Deathstalker II",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 118,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "M",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VHS",
+                        "release_date": "1987-06-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "genauer Veröffentlichungstag unbekannt",
+                        "release_date": "1987-11-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-11-11T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102439,
+                "known_for_department": "Directing",
+                "name": "John Terlesky",
+                "original_name": "John Terlesky",
+                "popularity": 0.025,
+                "profile_path": "/wkfpuOX5BYmEcjwqrKQwD0gFXee.jpg",
+                "cast_id": 7,
+                "character": "Deathstalker",
+                "credit_id": "52fe4582c3a368484e05f753",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 44995,
+                "known_for_department": "Acting",
+                "name": "Monique Gabrielle",
+                "original_name": "Monique Gabrielle",
+                "popularity": 0.026,
+                "profile_path": "/yBXkvJZvBBWOQyPRY5RJAeteJ3N.jpg",
+                "cast_id": 8,
+                "character": "Reena the Seer / Princess Evie",
+                "credit_id": "52fe4582c3a368484e05f757",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45113,
+                "known_for_department": "Acting",
+                "name": "John Lazar",
+                "original_name": "John Lazar",
+                "popularity": 0.008,
+                "profile_path": "/bnzNSA0t92US3F6IP4FygnxvGlZ.jpg",
+                "cast_id": 9,
+                "character": "Jarek the Sorcerer",
+                "credit_id": "52fe4582c3a368484e05f75b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98149,
+                "known_for_department": "Acting",
+                "name": "Toni Naples",
+                "original_name": "Toni Naples",
+                "popularity": 0.01,
+                "profile_path": "/6S8euaDT0cVWUiXNnBtZuKLxCFs.jpg",
+                "cast_id": 10,
+                "character": "Sultana",
+                "credit_id": "52fe4582c3a368484e05f75f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52125,
+                "known_for_department": "Acting",
+                "name": "María Socas",
+                "original_name": "María Socas",
+                "popularity": 0.024,
+                "profile_path": "/1YoDT8IilZzPejOuhqGLysSK5B9.jpg",
+                "cast_id": 11,
+                "character": "Amazon Queen",
+                "credit_id": "52fe4582c3a368484e05f763",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102607,
+                "known_for_department": "Acting",
+                "name": "Dee Booher",
+                "original_name": "Dee Booher",
+                "popularity": 0.005,
+                "profile_path": "/2PC5fvWlyU7cEQcfuBoHuDD07jW.jpg",
+                "cast_id": 13,
+                "character": "Amazon Champion Wrestler",
+                "credit_id": "52fe4582c3a368484e05f767",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102608,
+                "known_for_department": "Acting",
+                "name": "Jacques Arndt",
+                "original_name": "Jacques Arndt",
+                "popularity": 0.002,
+                "profile_path": "/fUmDVNKi4ulS8ZvQXbnYtGihqJX.jpg",
+                "cast_id": 14,
+                "character": "High Priest",
+                "credit_id": "52fe4582c3a368484e05f76b",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98132,
+                "known_for_department": "Directing",
+                "name": "Jim Wynorski",
+                "original_name": "Jim Wynorski",
+                "popularity": 0.029,
+                "profile_path": "/t0OGiUTL6vbFohfwI4dIUvoilSs.jpg",
+                "cast_id": 15,
+                "character": "Dying Soldier",
+                "credit_id": "52fe4582c3a368484e05f76f",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52131,
+                "known_for_department": "Acting",
+                "name": "Marcos Woinsky",
+                "original_name": "Marcos Woinsky",
+                "popularity": 0.007,
+                "profile_path": "/4JSq1846q1mnNrNkP1XUDNJb7Z1.jpg",
+                "cast_id": 16,
+                "character": "Pirate",
+                "credit_id": "52fe4582c3a368484e05f773",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4506013,
+                "known_for_department": "Acting",
+                "name": "Nick Sardansky",
+                "original_name": "Nick Sardansky",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Evie's Victim",
+                "credit_id": "65b7637d1089ba00e8f73b93",
+                "order": 9
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98132,
+                "known_for_department": "Directing",
+                "name": "Jim Wynorski",
+                "original_name": "Jim Wynorski",
+                "popularity": 0.029,
+                "profile_path": "/t0OGiUTL6vbFohfwI4dIUvoilSs.jpg",
+                "credit_id": "52fe4582c3a368484e05f731",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102604,
+                "known_for_department": "Writing",
+                "name": "Neil Ruttenberg",
+                "original_name": "Neil Ruttenberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4582c3a368484e05f73d",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 102605,
+                "known_for_department": "Writing",
+                "name": "R.J. Robertson",
+                "original_name": "R.J. Robertson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4582c3a368484e05f74f",
+                "department": "Crew",
+                "job": "Additional Dialogue"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98132,
+                "known_for_department": "Directing",
+                "name": "Jim Wynorski",
+                "original_name": "Jim Wynorski",
+                "popularity": 0.029,
+                "profile_path": "/t0OGiUTL6vbFohfwI4dIUvoilSs.jpg",
+                "credit_id": "52fe4582c3a368484e05f737",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 102429,
+                "known_for_department": "Production",
+                "name": "Roger Corman",
+                "original_name": "Roger Corman",
+                "popularity": 0.047,
+                "profile_path": "/wgxDlbl7ACtGvCMXZsAbEhPh0we.jpg",
+                "credit_id": "52fe4582c3a368484e05f749",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52134,
+                "known_for_department": "Production",
+                "name": "Frank K. Isaac",
+                "original_name": "Frank K. Isaac",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4582c3a368484e05f743",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837780,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marta Albertinazzi",
+                "original_name": "Marta Albertinazzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "611f3e9fd70594002ee0629c",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52137,
+                "known_for_department": "Camera",
+                "name": "Leonardo Rodríguez Solís",
+                "original_name": "Leonardo Rodríguez Solís",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "611f3e86fd4a960047f7a604",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 140248,
+                "known_for_department": "Directing",
+                "name": "Steve Barnett",
+                "original_name": "Steve Barnett",
+                "popularity": 0.001,
+                "profile_path": "/5oZi31INcuu7c4OQTGFqgWBj96R.jpg",
+                "credit_id": "611f3e90c14fee007dd7e0e9",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98138,
+                "known_for_department": "Sound",
+                "name": "Chuck Cirino",
+                "original_name": "Chuck Cirino",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "611f3e7766ae4d002d44662e",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1837780,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Marta Albertinazzi",
+                "original_name": "Marta Albertinazzi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "611f3eab594c94007c1d663d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1816154,
+                "known_for_department": "Sound",
+                "name": "Daniel Castronuovo",
+                "original_name": "Daniel Castronuovo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61abad82a6ddcb00946103bc",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 136464,
+                "known_for_department": "Acting",
+                "name": "Arturo Noal",
+                "original_name": "Arturo Noal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61abad92223e2000643de809",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1816143,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rodolfo Spinetta",
+                "original_name": "Rodolfo Spinetta",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61abad6767825900428931e1",
+                "department": "Costume & Make-Up",
+                "job": "Hairdresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2801389,
+                "known_for_department": "Costume & Make-Up",
+                "name": "María Laura López",
+                "original_name": "María Laura López",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61abad5be004a6008c6d27c9",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52121,
+                "known_for_department": "Directing",
+                "name": "Héctor Olivera",
+                "original_name": "Héctor Olivera",
+                "popularity": 0.008,
+                "profile_path": "/qog2WUPN5Q6yAKA7eYOn1vDpahQ.jpg",
+                "credit_id": "61abad47a6ddcb001c0d9c14",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408863,
+                "known_for_department": "Sound",
+                "name": "Jeff Mar",
+                "original_name": "Jeff Mar",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6394c5a7a0f1a200c8805fb2",
+                "department": "Sound",
+                "job": "ADR Supervisor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2343,
+                "name": "magic"
+            },
+            {
+                "id": 1930,
+                "name": "kidnapping"
+            },
+            {
+                "id": 4393,
+                "name": "archer"
+            },
+            {
+                "id": 10821,
+                "name": "sorcerer"
+            },
+            {
+                "id": 53995,
+                "name": "archery"
+            },
+            {
+                "id": 174244,
+                "name": "brawl"
+            },
+            {
+                "id": 232993,
+                "name": "astral projection"
+            },
+            {
+                "id": 234213,
+                "name": "sword and sorcery"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "John Terlesky",
+            "character": "Deathstalker"
+        },
+        {
+            "actor": "Monique Gabrielle",
+            "character": "Reena the Seer / Princess Evie"
+        },
+        {
+            "actor": "John Lazar",
+            "character": "Jarek the Sorcerer"
+        },
+        {
+            "actor": "Toni Naples",
+            "character": "Sultana"
+        },
+        {
+            "actor": "María Socas",
+            "character": "Amazon Queen"
+        },
+        {
+            "actor": "Dee Booher",
+            "character": "Amazon Champion Wrestler"
+        },
+        {
+            "actor": "Jacques Arndt",
+            "character": "High Priest"
+        },
+        {
+            "actor": "Jim Wynorski",
+            "character": "Dying Soldier"
+        },
+        {
+            "actor": "Marcos Woinsky",
+            "character": "Pirate"
+        },
+        {
+            "actor": "Nick Sardansky",
+            "character": "Evie's Victim"
+        }
+    ]
+}

@@ -1,0 +1,786 @@
+{
+    "adult": false,
+    "backdrop_path": "/o21lRbAMn0MBlKawSIi3tCEM8K3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81205314",
+    "id": 990691,
+    "imdb_id": "tt14592948",
+    "origin_country": [
+        "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Kærlighed for voksne",
+    "overview": "The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.",
+    "popularity": 3.553,
+    "poster_path": "/hSNHg7qReDtBk1u2PaSSzTTQ8ax.jpg",
+    "production_companies": [
+        {
+            "id": 6181,
+            "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+            "name": "SF Studios",
+            "origin_country": "SE"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "release_date": "2022-08-26",
+    "revenue": 0,
+    "runtime": 106,
+    "spoken_languages": [
+        {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Loving Adults",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 313,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "\tNetflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IN",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "M18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TR",
+                "release_dates": [
+                    {
+                        "certification": "18+",
+                        "descriptors": [],
+                        "iso_639_1": "tr",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-08-26T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 234907,
+                "known_for_department": "Acting",
+                "name": "Dar Salim",
+                "original_name": "Dar Salim",
+                "popularity": 0.058,
+                "profile_path": "/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg",
+                "cast_id": 2,
+                "character": "Christian",
+                "credit_id": "62b25ce9813cb60052b791c9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1017,
+                "known_for_department": "Acting",
+                "name": "Sonja Richter",
+                "original_name": "Sonja Richter",
+                "popularity": 0.025,
+                "profile_path": "/n3679dsEVBpg04fxIn5TcrTfnQ0.jpg",
+                "cast_id": 3,
+                "character": "Leonora",
+                "credit_id": "62b25cf4a24c50006284b2f1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1439699,
+                "known_for_department": "Acting",
+                "name": "Sus Wilkins",
+                "original_name": "Sus Wilkins",
+                "popularity": 0.011,
+                "profile_path": "/5Jpb0RQUW5WJ7I6LxhXU4PmrI6W.jpg",
+                "cast_id": 4,
+                "character": "Xenia",
+                "credit_id": "62b25cff05f9cf00eee4d14e",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228218,
+                "known_for_department": "Acting",
+                "name": "Mikael Birkkjær",
+                "original_name": "Mikael Birkkjær",
+                "popularity": 0.011,
+                "profile_path": "/mAKWxBOuLkNtRZj8UtnLUK2O3RV.jpg",
+                "cast_id": 5,
+                "character": "Police Commissioner",
+                "credit_id": "62b25d08d6d64d0060272758",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588175,
+                "known_for_department": "Acting",
+                "name": "Lars Ranthe",
+                "original_name": "Lars Ranthe",
+                "popularity": 0.02,
+                "profile_path": "/9kaqquzzGBBa1zXD8QAcMn42XUu.jpg",
+                "cast_id": 6,
+                "character": "Kim",
+                "credit_id": "62b25d0e3876510061a5fe6b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2361843,
+                "known_for_department": "Acting",
+                "name": "Morten Burian",
+                "original_name": "Morten Burian",
+                "popularity": 0.006,
+                "profile_path": "/tS9HnCx8cHaoLLruGxbti4xkzkm.jpg",
+                "cast_id": 7,
+                "character": "Peter",
+                "credit_id": "62b25d143e6f2b0052b7c790",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1902323,
+                "known_for_department": "Acting",
+                "name": "Iris Mealor Olsen",
+                "original_name": "Iris Mealor Olsen",
+                "popularity": 0.008,
+                "profile_path": "/6vt9wg637zZxsNachLIxdNVUqzZ.jpg",
+                "cast_id": 40,
+                "character": "Martha",
+                "credit_id": "668a68f563cb113b669f20ad",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1434359,
+                "known_for_department": "Acting",
+                "name": "Benjamin Kitter",
+                "original_name": "Benjamin Kitter",
+                "popularity": 0.004,
+                "profile_path": "/jgjVCWFHGPqw30lwDkCaArmd5g8.jpg",
+                "cast_id": 8,
+                "character": "Ulrik",
+                "credit_id": "62b25d1b53f8330092eac1b6",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1353297,
+                "known_for_department": "Acting",
+                "name": "Karoline Hamm",
+                "original_name": "Karoline Hamm",
+                "popularity": 0.008,
+                "profile_path": "/1job2eDnrfIPIniPZSdU0582wJ3.jpg",
+                "cast_id": 9,
+                "character": "Young Leonora",
+                "credit_id": "62b25d21d6d64d00914287a3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2999531,
+                "known_for_department": "Acting",
+                "name": "Natali Vallespir Sand",
+                "original_name": "Natali Vallespir Sand",
+                "popularity": 0.001,
+                "profile_path": "/bljVGExyDljWO0JDZipVxarZQTP.jpg",
+                "cast_id": 10,
+                "character": "Sonja",
+                "credit_id": "62b25d299a9f9a008d136e0e",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1476922,
+                "known_for_department": "Acting",
+                "name": "Jesper Dupont",
+                "original_name": "Jesper Dupont",
+                "popularity": 0.001,
+                "profile_path": "/YkojZPxHjmnBIMDbfucTwQt3RE.jpg",
+                "cast_id": 39,
+                "character": "Policeman",
+                "credit_id": "661955a4dd731b017e0af488",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127723,
+                "known_for_department": "Acting",
+                "name": "Barbara Topsøe-Rothenborg",
+                "original_name": "Barbara Topsøe-Rothenborg",
+                "popularity": 0.008,
+                "profile_path": "/9cdWDHNRylYtfNb5OFH6iGDIoDX.jpg",
+                "credit_id": "62b25cd39f51af008c78d51c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3646883,
+                "known_for_department": "Writing",
+                "name": "Anna Ekberg",
+                "original_name": "Anna Ekberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "62e9154efc5f060059c435dd",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 127723,
+                "known_for_department": "Acting",
+                "name": "Barbara Topsøe-Rothenborg",
+                "original_name": "Barbara Topsøe-Rothenborg",
+                "popularity": 0.008,
+                "profile_path": "/9cdWDHNRylYtfNb5OFH6iGDIoDX.jpg",
+                "credit_id": "630656460398ab007d759641",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1078982,
+                "known_for_department": "Production",
+                "name": "Ronnie Fridthjof",
+                "original_name": "Ronnie Fridthjof",
+                "popularity": 0.001,
+                "profile_path": "/6NeTO033xGmBO1pMyRTwQWP0Plp.jpg",
+                "credit_id": "638ab18fe93e9501c466c3ed",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2641095,
+                "known_for_department": "Production",
+                "name": "Lars Bjørn Hansen",
+                "original_name": "Lars Bjørn Hansen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab1d7e93e9501c466c413",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 101927,
+                "known_for_department": "Production",
+                "name": "Marcella Linstad Dichmann",
+                "original_name": "Marcella Linstad Dichmann",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab2348a84d20079af1565",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1728737,
+                "known_for_department": "Production",
+                "name": "Mette-Marie Kongsved",
+                "original_name": "Mette-Marie Kongsved",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "638ab2c20e64af00adaa2ca7",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 88497,
+                "known_for_department": "Directing",
+                "name": "Anders Rønnow Klarlund",
+                "original_name": "Anders Rønnow Klarlund",
+                "popularity": 0.006,
+                "profile_path": "/vPoxDE2hxDO39jHPRRtHRrGgP7Q.jpg",
+                "credit_id": "638ab2fae93e9502258db0b7",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6157,
+                "known_for_department": "Sound",
+                "name": "Kristian Eidnes Andersen",
+                "original_name": "Kristian Eidnes Andersen",
+                "popularity": 0.008,
+                "profile_path": "/1hyr1THoXrGXuviQ5XQfgL7YSpW.jpg",
+                "credit_id": "638ab3446dc6c0008629ce83",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1824132,
+                "known_for_department": "Acting",
+                "name": "Rasmus Christensen",
+                "original_name": "Rasmus Christensen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab36715376c00865aa22b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1119430,
+                "known_for_department": "Camera",
+                "name": "Philippe Kress",
+                "original_name": "Philippe Kress",
+                "popularity": 0.001,
+                "profile_path": "/Qaauy5Q5ZqFOHmcNPY310bxQzH.jpg",
+                "credit_id": "638ab3c91283e9007c73e8f4",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1288260,
+                "known_for_department": "Editing",
+                "name": "Lars Wissing",
+                "original_name": "Lars Wissing",
+                "popularity": 0.001,
+                "profile_path": "/tBonWHgXYyIIduf1KL9R48JaiwL.jpg",
+                "credit_id": "638ab3e3c3aa3f0096e1b91c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 559150,
+                "known_for_department": "Production",
+                "name": "Karin Jagd",
+                "original_name": "Karin Jagd",
+                "popularity": 0.003,
+                "profile_path": "/2Ufp59WHxP2xfHqJ1uL52mPsMdx.jpg",
+                "credit_id": "638ab4031283e9007c73e90d",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1150529,
+                "known_for_department": "Art",
+                "name": "Mette Rio",
+                "original_name": "Mette Rio",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "638ab42d8a84d2008c4b5c9b",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1874696,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rikke Simonsen",
+                "original_name": "Rikke Simonsen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab4550e64af00c25d3ab0",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1659118,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Christina Dahlin",
+                "original_name": "Christina Dahlin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab4820e64af0088590a0c",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Designer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3812862,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vibeke Henningsen",
+                "original_name": "Vibeke Henningsen",
+                "popularity": 0.001,
+                "profile_path": "/hmR599HmWINS5otr9mR7z47sJIj.jpg",
+                "credit_id": "638ab4ad6dc6c000af120247",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3812863,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cécile Hvidberg",
+                "original_name": "Cécile Hvidberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab4cf6dc6c00097bb1bf6",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6157,
+                "known_for_department": "Sound",
+                "name": "Kristian Eidnes Andersen",
+                "original_name": "Kristian Eidnes Andersen",
+                "popularity": 0.008,
+                "profile_path": "/1hyr1THoXrGXuviQ5XQfgL7YSpW.jpg",
+                "credit_id": "638ab5217d5db5007f39cde2",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1869426,
+                "known_for_department": "Sound",
+                "name": "Laurent Chassaigne",
+                "original_name": "Laurent Chassaigne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab54cc3aa3f00c89bea7e",
+                "department": "Sound",
+                "job": "Foley Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2330,
+                "known_for_department": "Sound",
+                "name": "Patrick Ghislain",
+                "original_name": "Patrick Ghislain",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab5697d5db5007cdbbdfc",
+                "department": "Sound",
+                "job": "Foley Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1728111,
+                "known_for_department": "Sound",
+                "name": "Thomas Jæger",
+                "original_name": "Thomas Jæger",
+                "popularity": 0.001,
+                "profile_path": "/qAwn1818eWOnbZrjzR0pXayCQ50.jpg",
+                "credit_id": "638ab584c3aa3f007f34ea32",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2381217,
+                "known_for_department": "Sound",
+                "name": "Frederik Lehmann",
+                "original_name": "Frederik Lehmann",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab5b50e64af00adaa2e58",
+                "department": "Visual Effects",
+                "job": "VFX Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3180085,
+                "known_for_department": "Sound",
+                "name": "Airi Mori",
+                "original_name": "Airi Mori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab5d21283e900976651f1",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1106173,
+                "known_for_department": "Sound",
+                "name": "Julien Naudin",
+                "original_name": "Julien Naudin",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "638ab5e87d5db50099503ec9",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 927979,
+                "known_for_department": "Visual Effects",
+                "name": "Martin Madsen",
+                "original_name": "Martin Madsen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab6457d5db50084af3af5",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2439183,
+                "known_for_department": "Visual Effects",
+                "name": "Sune Reinhardt",
+                "original_name": "Sune Reinhardt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "638ab66dc3aa3f00b6d5515a",
+                "department": "Visual Effects",
+                "job": "Visual Effects Compositor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3375683,
+                "known_for_department": "Production",
+                "name": "Tim King",
+                "original_name": "Tim King",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "63d5998e20e6a500d5436ff0",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Dar Salim",
+            "character": "Christian"
+        },
+        {
+            "actor": "Sonja Richter",
+            "character": "Leonora"
+        },
+        {
+            "actor": "Sus Wilkins",
+            "character": "Xenia"
+        },
+        {
+            "actor": "Mikael Birkkjær",
+            "character": "Police Commissioner"
+        },
+        {
+            "actor": "Lars Ranthe",
+            "character": "Kim"
+        },
+        {
+            "actor": "Morten Burian",
+            "character": "Peter"
+        },
+        {
+            "actor": "Iris Mealor Olsen",
+            "character": "Martha"
+        },
+        {
+            "actor": "Benjamin Kitter",
+            "character": "Ulrik"
+        },
+        {
+            "actor": "Karoline Hamm",
+            "character": "Young Leonora"
+        },
+        {
+            "actor": "Natali Vallespir Sand",
+            "character": "Sonja"
+        },
+        {
+            "actor": "Jesper Dupont",
+            "character": "Policeman"
+        }
+    ]
+}

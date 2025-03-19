@@ -1,0 +1,1489 @@
+{
+    "adult": false,
+    "backdrop_path": "/b4bOy4QfEN9DfWrH2iTVi2W9eOp.jpg",
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Adventure"
+        },
+        {
+            "id": 16,
+            "name": "Animation"
+        },
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 10751,
+            "name": "Family"
+        }
+    ],
+    "homepage": "http://www.osmosisjones.com/",
+    "id": 12610,
+    "imdb_id": "tt0181739",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Osmosis Jones",
+    "overview": "A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.",
+    "popularity": 3.531,
+    "poster_path": "/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg",
+    "production_companies": [
+        {
+            "id": 1156,
+            "logo_path": null,
+            "name": "Conundrum Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2001-08-10",
+    "revenue": 13596911,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Every body needs a hero.",
+    "title": "Osmosis Jones",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 1029,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "6",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2002-07-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "7",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2001-09-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2001-12-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2001-11-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2002-06-25T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2001-11-02T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "G",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2002-12-06T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2003-07-31T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "7",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2001-10-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2001-08-10T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "VHS and DVD release",
+                        "release_date": "2001-11-13T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2632,
+                "known_for_department": "Acting",
+                "name": "Chris Rock",
+                "original_name": "Chris Rock",
+                "popularity": 0.085,
+                "profile_path": "/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg",
+                "cast_id": 1,
+                "character": "Osmosis Jones (voice)",
+                "credit_id": "52fe45069251416c750491d7",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2975,
+                "known_for_department": "Acting",
+                "name": "Laurence Fishburne",
+                "original_name": "Laurence Fishburne",
+                "popularity": 0.141,
+                "profile_path": "/iwx7h0AfWMm9K4sMmhru3ShSra.jpg",
+                "cast_id": 2,
+                "character": "Thrax (voice)",
+                "credit_id": "52fe45069251416c750491db",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11076,
+                "known_for_department": "Acting",
+                "name": "David Hyde Pierce",
+                "original_name": "David Hyde Pierce",
+                "popularity": 0.044,
+                "profile_path": "/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg",
+                "cast_id": 3,
+                "character": "Drix (voice)",
+                "credit_id": "52fe45069251416c750491df",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 33285,
+                "known_for_department": "Acting",
+                "name": "Brandy Norwood",
+                "original_name": "Brandy Norwood",
+                "popularity": 0.03,
+                "profile_path": "/ie1IH8LQI3aGzke4FoYRbcdHv88.jpg",
+                "cast_id": 4,
+                "character": "Leah (voice)",
+                "credit_id": "52fe45069251416c750491e3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1532,
+                "known_for_department": "Acting",
+                "name": "Bill Murray",
+                "original_name": "Bill Murray",
+                "popularity": 0.16,
+                "profile_path": "/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg",
+                "cast_id": 5,
+                "character": "Frank Detorre",
+                "credit_id": "52fe45069251416c750491e7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 28640,
+                "known_for_department": "Acting",
+                "name": "Molly Shannon",
+                "original_name": "Molly Shannon",
+                "popularity": 0.064,
+                "profile_path": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg",
+                "cast_id": 6,
+                "character": "Mrs. Boyd",
+                "credit_id": "52fe45069251416c750491eb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1748,
+                "known_for_department": "Acting",
+                "name": "William Shatner",
+                "original_name": "William Shatner",
+                "popularity": 0.099,
+                "profile_path": "/puzpe91Lh0CzdRKg9iYilQsjoYk.jpg",
+                "cast_id": 22,
+                "character": "Mayor Phlegmming (voice)",
+                "credit_id": "541142040e0a26663f000e74",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6159,
+                "known_for_department": "Directing",
+                "name": "Ron Howard",
+                "original_name": "Ron Howard",
+                "popularity": 0.074,
+                "profile_path": "/g3n8qduLaPO2l4kJZsV6xNMXozn.jpg",
+                "cast_id": 94,
+                "character": "Tom Colonic (voice)",
+                "credit_id": "5776e365c3a3684743000225",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 214701,
+                "known_for_department": "Acting",
+                "name": "Sherry Lynn",
+                "original_name": "Sherry Lynn",
+                "popularity": 0.021,
+                "profile_path": "/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg",
+                "cast_id": 108,
+                "character": "(voice)",
+                "credit_id": "59f54a9fc3a3682fd5006304",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 84493,
+                "known_for_department": "Acting",
+                "name": "Mickie McGowan",
+                "original_name": "Mickie McGowan",
+                "popularity": 0.047,
+                "profile_path": "/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg",
+                "cast_id": 109,
+                "character": "Additional Character Voice (voice)",
+                "credit_id": "5aaf4ce60e0a265e5801d956",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1534,
+                "known_for_department": "Acting",
+                "name": "Chris Elliott",
+                "original_name": "Chris Elliott",
+                "popularity": 0.08,
+                "profile_path": "/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg",
+                "cast_id": 114,
+                "character": "Bob",
+                "credit_id": "5c56419bc3a368302884150e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1230898,
+                "known_for_department": "Acting",
+                "name": "Elena Franklin",
+                "original_name": "Elena Franklin",
+                "popularity": 0.01,
+                "profile_path": "/wKpXokGfGEk2zCUNkyidtyCHJLt.jpg",
+                "cast_id": 115,
+                "character": "Shane Detorre",
+                "credit_id": "5c5641d492514151a9630b67",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 165867,
+                "known_for_department": "Acting",
+                "name": "Kid Rock",
+                "original_name": "Kid Rock",
+                "popularity": 0.022,
+                "profile_path": "/rcVwdKYqb0NAiBhjKWzxuZzekGC.jpg",
+                "cast_id": 116,
+                "character": "Kidney Rock",
+                "credit_id": "5c5641f80e0a26495ae299de",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1231749,
+                "known_for_department": "Acting",
+                "name": "Uncle Kracker",
+                "original_name": "Uncle Kracker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 117,
+                "character": "Kidney Rock (voice)",
+                "credit_id": "6365f5cf2ac499007e7f8430",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59784,
+                "known_for_department": "Acting",
+                "name": "Carlos Alazraqui",
+                "original_name": "Carlos Alazraqui",
+                "popularity": 0.098,
+                "profile_path": "/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg",
+                "cast_id": 118,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "6365f634902012007948abd5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70615,
+                "known_for_department": "Acting",
+                "name": "Rodger Bumpass",
+                "original_name": "Rodger Bumpass",
+                "popularity": 0.037,
+                "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg",
+                "cast_id": 120,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "64d39787bf31f201cd4d6040",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81662,
+                "known_for_department": "Acting",
+                "name": "Richard Steven Horvitz",
+                "original_name": "Richard Steven Horvitz",
+                "popularity": 0.034,
+                "profile_path": "/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg",
+                "cast_id": 121,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "64d397a4dd926a01eb18e118",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52699,
+                "known_for_department": "Acting",
+                "name": "Danny Mann",
+                "original_name": "Danny Mann",
+                "popularity": 0.059,
+                "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg",
+                "cast_id": 122,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "64d397cadb4ed60139582643",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 84493,
+                "known_for_department": "Acting",
+                "name": "Mickie McGowan",
+                "original_name": "Mickie McGowan",
+                "popularity": 0.047,
+                "profile_path": "/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg",
+                "cast_id": 123,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "64d39822db4ed600ffb64b7b",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13477,
+                "known_for_department": "Acting",
+                "name": "Jonathan Adams",
+                "original_name": "Jonathan Adams",
+                "popularity": 0.048,
+                "profile_path": "/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg",
+                "cast_id": 124,
+                "character": "Additional Character Voices (voice)",
+                "credit_id": "64f4255297a4e600feaa1b3b",
+                "order": 19
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7395,
+                "known_for_department": "Directing",
+                "name": "Bobby Farrelly",
+                "original_name": "Bobby Farrelly",
+                "popularity": 0.022,
+                "profile_path": "/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg",
+                "credit_id": "52fe45069251416c750491f1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 10387,
+                "known_for_department": "Writing",
+                "name": "Marc Hyman",
+                "original_name": "Marc Hyman",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe45069251416c750491f7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7395,
+                "known_for_department": "Directing",
+                "name": "Bobby Farrelly",
+                "original_name": "Bobby Farrelly",
+                "popularity": 0.022,
+                "profile_path": "/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg",
+                "credit_id": "52fe45069251416c75049203",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7396,
+                "known_for_department": "Directing",
+                "name": "Peter Farrelly",
+                "original_name": "Peter Farrelly",
+                "popularity": 0.042,
+                "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg",
+                "credit_id": "52fe45069251416c75049209",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11011,
+                "known_for_department": "Writing",
+                "name": "Zak Penn",
+                "original_name": "Zak Penn",
+                "popularity": 0.026,
+                "profile_path": "/5Zx3o1Fmlu4sIYq4xn5WLyK2GNM.jpg",
+                "credit_id": "52fe45069251416c7504920f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7407,
+                "known_for_department": "Production",
+                "name": "Bradley Thomas",
+                "original_name": "Bradley Thomas",
+                "popularity": 0.008,
+                "profile_path": "/hlnmTTNWTwk4AqyV59FVsCPxBl.jpg",
+                "credit_id": "52fe45069251416c75049215",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14712,
+                "known_for_department": "Sound",
+                "name": "Randy Edelman",
+                "original_name": "Randy Edelman",
+                "popularity": 0.014,
+                "profile_path": "/84aXTzWZX2BSYfGcjBrBDyy0euF.jpg",
+                "credit_id": "52fe45069251416c7504921b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7413,
+                "known_for_department": "Camera",
+                "name": "Mark Irwin",
+                "original_name": "Mark Irwin",
+                "popularity": 0.008,
+                "profile_path": "/hHz6PdkfUT9peeTJeNL9LtG1sZi.jpg",
+                "credit_id": "52fe45069251416c75049227",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 53009,
+                "known_for_department": "Editing",
+                "name": "Lois Freeman-Fox",
+                "original_name": "Lois Freeman-Fox",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe45069251416c7504922d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59363,
+                "known_for_department": "Editing",
+                "name": "Stephen Schaffer",
+                "original_name": "Stephen Schaffer",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "52fe45069251416c75049233",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 73108,
+                "known_for_department": "Editing",
+                "name": "Sam Seig",
+                "original_name": "Sam Seig",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "52fe45069251416c75049239",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7396,
+                "known_for_department": "Directing",
+                "name": "Peter Farrelly",
+                "original_name": "Peter Farrelly",
+                "popularity": 0.042,
+                "profile_path": "/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg",
+                "credit_id": "52fe45069251416c7504923f",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1447297,
+                "known_for_department": "Visual Effects",
+                "name": "Adam Beck",
+                "original_name": "Adam Beck",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5518ba4b9251416f0a005e41",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1447377,
+                "known_for_department": "Visual Effects",
+                "name": "Paul Dutton",
+                "original_name": "Paul Dutton",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5518f02cc3a36862ef006b98",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1447310,
+                "known_for_department": "Crew",
+                "name": "Jeannine Berger",
+                "original_name": "Jeannine Berger",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "553d562b9251411435001eaa",
+                "department": "Crew",
+                "job": "Post Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447500,
+                "known_for_department": "Directing",
+                "name": "Audrey Stedman",
+                "original_name": "Audrey Stedman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55191029c3a3681f84002977",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447466,
+                "known_for_department": "Directing",
+                "name": "Karen Hamrock",
+                "original_name": "Karen Hamrock",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "551aed329251414aea0003cd",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1217416,
+                "known_for_department": "Writing",
+                "name": "Bob Camp",
+                "original_name": "Bob Camp",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "551aefe89251414aea000429",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1460442,
+                "known_for_department": "Visual Effects",
+                "name": "Eddie Rosas",
+                "original_name": "Eddie Rosas",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "553fe1ff9251417b1400018e",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447347,
+                "known_for_department": "Art",
+                "name": "Bill Perkins",
+                "original_name": "Bill Perkins",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "554235f4c3a3681d98003ee6",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447436,
+                "known_for_department": "Directing",
+                "name": "Jennifer Yuan",
+                "original_name": "Jennifer Yuan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "551f9a949251415c84001246",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1451676,
+                "known_for_department": "Crew",
+                "name": "Earl A. Hibbert",
+                "original_name": "Earl A. Hibbert",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5542ceaec3a3680cd7000838",
+                "department": "Visual Effects",
+                "job": "Visual Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6114,
+                "known_for_department": "Production",
+                "name": "Marc S. Fischer",
+                "original_name": "Marc S. Fischer",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "5537417cc3a3681be40010a0",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 60267,
+                "known_for_department": "Production",
+                "name": "Aaron Parry",
+                "original_name": "Aaron Parry",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "55374188c3a36878450024d2",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33340,
+                "known_for_department": "Production",
+                "name": "John Walker",
+                "original_name": "John Walker",
+                "popularity": 0.001,
+                "profile_path": "/ysGnsyG24nmDsYaN91vA2I8hcwD.jpg",
+                "credit_id": "553741969251416518005201",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7416,
+                "known_for_department": "Art",
+                "name": "Arlan Jay Vetter",
+                "original_name": "Arlan Jay Vetter",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "553741f79251414201002e0f",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1451265,
+                "known_for_department": "Visual Effects",
+                "name": "Chris Aguirre",
+                "original_name": "Chris Aguirre",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "55374223925141570400275d",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 126638,
+                "known_for_department": "Writing",
+                "name": "Mark Andrews",
+                "original_name": "Mark Andrews",
+                "popularity": 0.008,
+                "profile_path": "/1z6t4TK2ZehNZ5gwaN7893aNhJf.jpg",
+                "credit_id": "5537423192514166aa005bda",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457625,
+                "known_for_department": "Writing",
+                "name": "Barry Caldwell",
+                "original_name": "Barry Caldwell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5537427ac3a36842ae00381f",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1447393,
+                "known_for_department": "Art",
+                "name": "Ruben Chavez",
+                "original_name": "Ruben Chavez",
+                "popularity": 0.004,
+                "profile_path": "/8HT2otuK7EEaZbffAc7buZyNYwN.jpg",
+                "credit_id": "55374287c3a3683443007d99",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457627,
+                "known_for_department": "Art",
+                "name": "Katherine C. Concepcion",
+                "original_name": "Katherine C. Concepcion",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553742b192514112560016c8",
+                "department": "Art",
+                "job": "Art Department Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1249293,
+                "known_for_department": "Art",
+                "name": "Ricardo F. Delgado",
+                "original_name": "Ricardo F. Delgado",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "553742ce9251414201002e3e",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457628,
+                "known_for_department": "Visual Effects",
+                "name": "Hani D. El-Masri",
+                "original_name": "Hani D. El-Masri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553742da9251416518005259",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1270289,
+                "known_for_department": "Visual Effects",
+                "name": "Jeff Etter",
+                "original_name": "Jeff Etter",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553742e692514166aa005bff",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1451635,
+                "known_for_department": "Writing",
+                "name": "Steve Fonti",
+                "original_name": "Steve Fonti",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "553742f09251416518005261",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457630,
+                "known_for_department": "Art",
+                "name": "Darek Gogol",
+                "original_name": "Darek Gogol",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553743159251415704002796",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1457631,
+                "known_for_department": "Writing",
+                "name": "Daan Jippes",
+                "original_name": "Daan Jippes",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "55374321c3a36815ac005045",
+                "department": "Writing",
+                "job": "Storyboard"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1457632,
+                "known_for_department": "Visual Effects",
+                "name": "Kevin Johnson",
+                "original_name": "Kevin Johnson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553743589251412d910013c3",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1457633,
+                "known_for_department": "Crew",
+                "name": "Leon Delaney",
+                "original_name": "Leon Delaney",
+                "popularity": 0.014,
+                "profile_path": null,
+                "credit_id": "5537436c9251414201002e66",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1451661,
+                "known_for_department": "Crew",
+                "name": "John Bermudes",
+                "original_name": "John Bermudes",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5537439992514112560016fe",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457636,
+                "known_for_department": "Crew",
+                "name": "John Harajovic",
+                "original_name": "John Harajovic",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553743c89251414ab90010a6",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1457637,
+                "known_for_department": "Visual Effects",
+                "name": "William 'Billy Jack' Jakielaszek",
+                "original_name": "William 'Billy Jack' Jakielaszek",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553743d59251414201002e83",
+                "department": "Crew",
+                "job": "Special Effects Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457638,
+                "known_for_department": "Art",
+                "name": "Carol Koch",
+                "original_name": "Carol Koch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "553743de92514166aa005c3f",
+                "department": "Art",
+                "job": "Sculptor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447380,
+                "known_for_department": "Visual Effects",
+                "name": "Craig R. Maras",
+                "original_name": "Craig R. Maras",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "5537f6a9c3a36815ac007248",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447368,
+                "known_for_department": "Visual Effects",
+                "name": "Randy Sanchez",
+                "original_name": "Randy Sanchez",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5543d72bc3a3680ce3002563",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447590,
+                "known_for_department": "Directing",
+                "name": "James P. Alles",
+                "original_name": "James P. Alles",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "55466e16c3a3680ce60073e2",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1447566,
+                "known_for_department": "Visual Effects",
+                "name": "John Williamson",
+                "original_name": "John Williamson",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5548e7f8c3a368787b002541",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447563,
+                "known_for_department": "Visual Effects",
+                "name": "Joe Giampapa",
+                "original_name": "Joe Giampapa",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "555241cc92514171750022d3",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447562,
+                "known_for_department": "Directing",
+                "name": "Sam Chou",
+                "original_name": "Sam Chou",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "55524328c3a36834e1005296",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1453498,
+                "known_for_department": "Visual Effects",
+                "name": "Shane Prigmore",
+                "original_name": "Shane Prigmore",
+                "popularity": 0.003,
+                "profile_path": "/e01p6PLPJYYAW95QT4i4Pp5HQJ7.jpg",
+                "credit_id": "555e37639251417e5c000701",
+                "department": "Visual Effects",
+                "job": "Animation"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 958895,
+                "known_for_department": "Visual Effects",
+                "name": "Fred Cline",
+                "original_name": "Fred Cline",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "572a5010c3a368279100056c",
+                "department": "Visual Effects",
+                "job": "Visual Development"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1205985,
+                "known_for_department": "Writing",
+                "name": "Stephan Franck",
+                "original_name": "Stephan Franck",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "591029d9c3a36864d402e9aa",
+                "department": "Visual Effects",
+                "job": "Lead Animator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1195160,
+                "known_for_department": "Visual Effects",
+                "name": "Ian Mah",
+                "original_name": "Ian Mah",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59102b4ac3a36864ec02a93e",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447298,
+                "known_for_department": "Visual Effects",
+                "name": "Darlie Brewster",
+                "original_name": "Darlie Brewster",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "59102f4a9251414e8002e129",
+                "department": "Crew",
+                "job": "Supervising Animator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7415,
+                "known_for_department": "Production",
+                "name": "Rick Montgomery",
+                "original_name": "Rick Montgomery",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5910302b9251414ead02c1c1",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1457634,
+                "known_for_department": "Visual Effects",
+                "name": "Steven Burch",
+                "original_name": "Steven Burch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "591032e3c3a368650a02c780",
+                "department": "Visual Effects",
+                "job": "Special Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 932118,
+                "known_for_department": "Art",
+                "name": "Sydney J. Bartholomew Jr.",
+                "original_name": "Sydney J. Bartholomew Jr.",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5910332f9251414ead02c46f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7417,
+                "known_for_department": "Art",
+                "name": "Scott Jacobson",
+                "original_name": "Scott Jacobson",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5910334b9251414e8d02ce6e",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20745,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pamela Withers",
+                "original_name": "Pamela Withers",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5910350ec3a36864c602dc2d",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18786,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Brenda McNally",
+                "original_name": "Brenda McNally",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5910352bc3a36864d402f4ed",
+                "department": "Costume & Make-Up",
+                "job": "Hair Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1468624,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Joe Rossi",
+                "original_name": "Joe Rossi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59103546c3a368651902adb0",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 961093,
+                "known_for_department": "Production",
+                "name": "Hal Olofsson",
+                "original_name": "Hal Olofsson",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "59103ee6c3a36864c602e768",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1812709,
+                "known_for_department": "Sound",
+                "name": "Ken Ross",
+                "original_name": "Ken Ross",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59103f069251414edb02f2a7",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 42267,
+                "known_for_department": "Sound",
+                "name": "Randy Thom",
+                "original_name": "Randy Thom",
+                "popularity": 0.022,
+                "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+                "credit_id": "59103f669251414ead02d0ea",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 1901975,
+                "known_for_department": "Production",
+                "name": "Dennis Edwards",
+                "original_name": "Dennis Edwards",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "5ab7f9dfc3a3680a24022bf0",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4105606,
+                "known_for_department": "Crew",
+                "name": "Alan J. Hagge",
+                "original_name": "Alan J. Hagge",
+                "popularity": 0.001,
+                "profile_path": "/7m4xHi0vDNfaEAcSFxKlGZPO9Gs.jpg",
+                "credit_id": "6484745fe375c000ff485987",
+                "department": "Crew",
+                "job": "Systems Administrators & Support"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7982,
+                "known_for_department": "Art",
+                "name": "Louis Gonzales",
+                "original_name": "Louis Gonzales",
+                "popularity": 0.006,
+                "profile_path": "/58IsdAjs75hdOd3POOjUaJUOyvE.jpg",
+                "credit_id": "5ba52e26c3a368083401bd44",
+                "department": "Directing",
+                "job": "Layout"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2132683,
+                "known_for_department": "Art",
+                "name": "Moroni Taylor",
+                "original_name": "Moroni Taylor",
+                "popularity": 0.006,
+                "profile_path": "/jXmwM4pYsdTGw2SvGJyUPEgrwZC.jpg",
+                "credit_id": "5ba6214a0e0a2635dd00857c",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5198,
+                "name": "cold"
+            },
+            {
+                "id": 6681,
+                "name": "flu"
+            },
+            {
+                "id": 14675,
+                "name": "lethal virus"
+            },
+            {
+                "id": 188326,
+                "name": "construction worker"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Chris Rock",
+            "character": "Osmosis Jones (voice)"
+        },
+        {
+            "actor": "Laurence Fishburne",
+            "character": "Thrax (voice)"
+        },
+        {
+            "actor": "David Hyde Pierce",
+            "character": "Drix (voice)"
+        },
+        {
+            "actor": "Brandy Norwood",
+            "character": "Leah (voice)"
+        },
+        {
+            "actor": "Bill Murray",
+            "character": "Frank Detorre"
+        },
+        {
+            "actor": "Molly Shannon",
+            "character": "Mrs. Boyd"
+        },
+        {
+            "actor": "William Shatner",
+            "character": "Mayor Phlegmming (voice)"
+        },
+        {
+            "actor": "Ron Howard",
+            "character": "Tom Colonic (voice)"
+        },
+        {
+            "actor": "Sherry Lynn",
+            "character": "(voice)"
+        },
+        {
+            "actor": "Mickie McGowan",
+            "character": "Additional Character Voice (voice)"
+        },
+        {
+            "actor": "Chris Elliott",
+            "character": "Bob"
+        },
+        {
+            "actor": "Elena Franklin",
+            "character": "Shane Detorre"
+        },
+        {
+            "actor": "Kid Rock",
+            "character": "Kidney Rock"
+        },
+        {
+            "actor": "Uncle Kracker",
+            "character": "Kidney Rock (voice)"
+        },
+        {
+            "actor": "Carlos Alazraqui",
+            "character": "Additional Character Voices (voice)"
+        },
+        {
+            "actor": "Rodger Bumpass",
+            "character": "Additional Character Voices (voice)"
+        },
+        {
+            "actor": "Richard Steven Horvitz",
+            "character": "Additional Character Voices (voice)"
+        },
+        {
+            "actor": "Danny Mann",
+            "character": "Additional Character Voices (voice)"
+        },
+        {
+            "actor": "Mickie McGowan",
+            "character": "Additional Character Voices (voice)"
+        },
+        {
+            "actor": "Jonathan Adams",
+            "character": "Additional Character Voices (voice)"
+        }
+    ]
+}

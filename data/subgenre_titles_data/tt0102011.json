@@ -1,0 +1,847 @@
+{
+    "adult": false,
+    "backdrop_path": "/1y43OB6R4vfBKEuVpGxyFENMAqh.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 17956,
+    "imdb_id": "tt0102011",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "He Said, She Said",
+    "overview": "Womanising, right-wing Dan Hanson and quiet, liberal Lorie Bryer work for the Baltimore Sun. Rivals for the job of new writer of a vacant column, the paper ends up instead printing their very different opinions alongside each other, which leads to a similarly combative local TV show. At the same time their initial indifference to each other looks like it may evolve into something more romantic.",
+    "popularity": 3.53,
+    "poster_path": "/5uYv11zTTa83WMWwI3B6EOZtI0Z.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1991-02-22",
+    "revenue": 9804775,
+    "runtime": 115,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The story of true love. Both versions.",
+    "title": "He Said, She Said",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 121,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1991-11-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG-13",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1991-02-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4724,
+                "known_for_department": "Acting",
+                "name": "Kevin Bacon",
+                "original_name": "Kevin Bacon",
+                "popularity": 0.21,
+                "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+                "cast_id": 3,
+                "character": "Dan Hanson",
+                "credit_id": "52fe47559251416c75095a15",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 20,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Perkins",
+                "original_name": "Elizabeth Perkins",
+                "popularity": 0.067,
+                "profile_path": "/vTWYllD9V76rgv9XAbtkkjjeunG.jpg",
+                "cast_id": 4,
+                "character": "Lorraine \"Lorie\" Bryer",
+                "credit_id": "52fe47559251416c75095a19",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78729,
+                "known_for_department": "Acting",
+                "name": "Nathan Lane",
+                "original_name": "Nathan Lane",
+                "popularity": 0.05,
+                "profile_path": "/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg",
+                "cast_id": 5,
+                "character": "Wallace \"Wally\" Thurman",
+                "credit_id": "52fe47559251416c75095a1d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 57829,
+                "known_for_department": "Acting",
+                "name": "Anthony LaPaglia",
+                "original_name": "Anthony LaPaglia",
+                "popularity": 0.065,
+                "profile_path": "/31fRY01Dq2ebkx09FjuG5g3QW9G.jpg",
+                "cast_id": 6,
+                "character": "Mark",
+                "credit_id": "52fe47559251416c75095a21",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4430,
+                "known_for_department": "Acting",
+                "name": "Sharon Stone",
+                "original_name": "Sharon Stone",
+                "popularity": 0.117,
+                "profile_path": "/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg",
+                "cast_id": 7,
+                "character": "Linda Metzger",
+                "credit_id": "52fe47559251416c75095a25",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15253,
+                "known_for_department": "Acting",
+                "name": "Stanley Anderson",
+                "original_name": "Stanley Anderson",
+                "popularity": 0.023,
+                "profile_path": "/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg",
+                "cast_id": 8,
+                "character": "Bill Weller",
+                "credit_id": "52fe47559251416c75095a29",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 33689,
+                "known_for_department": "Acting",
+                "name": "Charlayne Woodard",
+                "original_name": "Charlayne Woodard",
+                "popularity": 0.031,
+                "profile_path": "/bBr6sZO2DCjgnsntidiUHVYzKLA.jpg",
+                "cast_id": 9,
+                "character": "Cindy",
+                "credit_id": "52fe47559251416c75095a2d",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 54462,
+                "known_for_department": "Acting",
+                "name": "Danton Stone",
+                "original_name": "Danton Stone",
+                "popularity": 0.013,
+                "profile_path": "/s0W4ByxGRf0qyLu9hxBCgwvxfEl.jpg",
+                "cast_id": 10,
+                "character": "Eric",
+                "credit_id": "52fe47559251416c75095a31",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3433,
+                "known_for_department": "Acting",
+                "name": "Phil Leeds",
+                "original_name": "Phil Leeds",
+                "popularity": 0.037,
+                "profile_path": "/hcPPhwWl12wKYWHCwrKVURWugjn.jpg",
+                "cast_id": 11,
+                "character": "Mr. Spepk",
+                "credit_id": "52fe47559251416c75095a35",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 135170,
+                "known_for_department": "Acting",
+                "name": "Rita Karin",
+                "original_name": "Rita Karin",
+                "popularity": 0.008,
+                "profile_path": "/kpk0kb4QVJXSGiuVA9GqxEamBf5.jpg",
+                "cast_id": 12,
+                "character": "Mrs. Spepk",
+                "credit_id": "52fe47559251416c75095a39",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21384,
+                "known_for_department": "Acting",
+                "name": "Paul Butler",
+                "original_name": "Paul Butler",
+                "popularity": 0.013,
+                "profile_path": "/qQIjo92vpwqK9Uwt54Myjlc1sfs.jpg",
+                "cast_id": 13,
+                "character": "Al, at the Deli",
+                "credit_id": "52fe47559251416c75095a3d",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 33655,
+                "known_for_department": "Acting",
+                "name": "Erika Alexander",
+                "original_name": "Erika Alexander",
+                "popularity": 0.035,
+                "profile_path": "/8o9KbXYoRi9v1u94nbjrslOzE0n.jpg",
+                "cast_id": 14,
+                "character": "Rita, Al's Daugther",
+                "credit_id": "52fe47559251416c75095a41",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 154695,
+                "known_for_department": "Acting",
+                "name": "Ashley Gardner",
+                "original_name": "Ashley Gardner",
+                "popularity": 0.014,
+                "profile_path": "/leJhZg3sr1oTd5dXe6D6QouD20t.jpg",
+                "cast_id": 15,
+                "character": "Susan",
+                "credit_id": "52fe47559251416c75095a45",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98950,
+                "known_for_department": "Acting",
+                "name": "Michael Harris",
+                "original_name": "Michael Harris",
+                "popularity": 0.015,
+                "profile_path": "/3Hyl1L6mbqFHxdBseCWudF9x0uG.jpg",
+                "cast_id": 16,
+                "character": "Adam",
+                "credit_id": "52fe47559251416c75095a49",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 159948,
+                "known_for_department": "Acting",
+                "name": "Damien Leake",
+                "original_name": "Damien Leake",
+                "popularity": 0.02,
+                "profile_path": "/7E0kD9z3lSXnAxNIC4ijnsAUsgf.jpg",
+                "cast_id": 17,
+                "character": "Ray, the Technical Director",
+                "credit_id": "52fe47559251416c75095a4d",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58521,
+                "known_for_department": "Acting",
+                "name": "Constance Shulman",
+                "original_name": "Constance Shulman",
+                "popularity": 0.016,
+                "profile_path": "/17pWsLlK4ZtAU79To93TXJAh9bE.jpg",
+                "cast_id": 18,
+                "character": "Make-Up Girl",
+                "credit_id": "52fe47559251416c75095a51",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 169920,
+                "known_for_department": "Acting",
+                "name": "Leon Russom",
+                "original_name": "Leon Russom",
+                "popularity": 0.033,
+                "profile_path": "/AsUwlDzw4Clrutw8Y0bRplCwIAw.jpg",
+                "cast_id": 19,
+                "character": "Harry",
+                "credit_id": "52fe47559251416c75095a55",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31032,
+                "known_for_department": "Acting",
+                "name": "Steven Gilborn",
+                "original_name": "Steven Gilborn",
+                "popularity": 0.034,
+                "profile_path": "/k7Ow6qOO9rcQkFmJmyUpro4heVk.jpg",
+                "cast_id": 20,
+                "character": "Ed",
+                "credit_id": "52fe47559251416c75095a59",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 163011,
+                "known_for_department": "Acting",
+                "name": "Dana Andersen",
+                "original_name": "Dana Andersen",
+                "popularity": 0.016,
+                "profile_path": "/nvg81xW8QnhGiXcA1esFaaatfYh.jpg",
+                "cast_id": 21,
+                "character": "Janet",
+                "credit_id": "52fe47559251416c75095a5d",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1170984,
+                "known_for_department": "Acting",
+                "name": "Petie Perkins",
+                "original_name": "Petie Perkins",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Sheila",
+                "credit_id": "52fe47559251416c75095a61",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1170985,
+                "known_for_department": "Acting",
+                "name": "Hope Miles",
+                "original_name": "Hope Miles",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Diana",
+                "credit_id": "52fe47559251416c75095a65",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 155576,
+                "known_for_department": "Acting",
+                "name": "Bruce MacVittie",
+                "original_name": "Bruce MacVittie",
+                "popularity": 0.019,
+                "profile_path": "/fSNyxCflKmXRCzQhCy7kESpW82M.jpg",
+                "cast_id": 24,
+                "character": "Lou the Florist",
+                "credit_id": "52fe47559251416c75095a69",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2701,
+                "known_for_department": "Acting",
+                "name": "George Martin",
+                "original_name": "George Martin",
+                "popularity": 0.01,
+                "profile_path": "/nIgCta2DazdhpJLQKqyxHpKbqpl.jpg",
+                "cast_id": 25,
+                "character": "Mr. Bryer",
+                "credit_id": "52fe47559251416c75095a6d",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1212008,
+                "known_for_department": "Acting",
+                "name": "Tanya Berezin",
+                "original_name": "Tanya Berezin",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 26,
+                "character": "Mrs. Bryer",
+                "credit_id": "52fe47559251416c75095a71",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 169301,
+                "known_for_department": "Acting",
+                "name": "Maury Efrems",
+                "original_name": "Maury Efrems",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Jack Bryer",
+                "credit_id": "52fe47559251416c75095a75",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 219574,
+                "known_for_department": "Acting",
+                "name": "Claudia Silver",
+                "original_name": "Claudia Silver",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Susan Bryer",
+                "credit_id": "52fe47559251416c75095a79",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1006136,
+                "known_for_department": "Acting",
+                "name": "David Cale",
+                "original_name": "David Cale",
+                "popularity": 0.004,
+                "profile_path": "/4pvw6DCZch873iaN4CKQ3dRhGvM.jpg",
+                "cast_id": 29,
+                "character": "The Waiter",
+                "credit_id": "52fe47559251416c75095a7d",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 163795,
+                "known_for_department": "Acting",
+                "name": "Rick Warner",
+                "original_name": "Rick Warner",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Man at Restaurant",
+                "credit_id": "52fe47559251416c75095a81",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1170986,
+                "known_for_department": "Acting",
+                "name": "Elizabeth Brower",
+                "original_name": "Elizabeth Brower",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Waitress",
+                "credit_id": "52fe47559251416c75095a85",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3238243,
+                "known_for_department": "Acting",
+                "name": "Alycea Baylis",
+                "original_name": "Alycea Baylis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 44,
+                "character": "Theatre Dancer",
+                "credit_id": "6144f0682b531d00293640df",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2945252,
+                "known_for_department": "Acting",
+                "name": "Bernard Lee",
+                "original_name": "Bernard Lee",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 45,
+                "character": "Basketball Player #3",
+                "credit_id": "623f36e0519bbb0089ef99c0",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 143888,
+                "known_for_department": "Directing",
+                "name": "Marisa Silver",
+                "original_name": "Marisa Silver",
+                "popularity": 0.002,
+                "profile_path": "/qQUbccAO5hpJ3JuQ5GufFUIeIS8.jpg",
+                "credit_id": "52fe47559251416c75095a8b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 29009,
+                "known_for_department": "Directing",
+                "name": "Ken Kwapis",
+                "original_name": "Ken Kwapis",
+                "popularity": 0.023,
+                "profile_path": "/ec57YfT1bN17GMDQNCbmWGv4EUN.jpg",
+                "credit_id": "52fe47559251416c75095a0b",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 14042,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Deena Appel",
+                "original_name": "Deena Appel",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095ab5",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 49284,
+                "known_for_department": "Production",
+                "name": "Frank Mancuso Jr.",
+                "original_name": "Frank Mancuso Jr.",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095abb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 6119,
+                "known_for_department": "Production",
+                "name": "Carrie Frazier",
+                "original_name": "Carrie Frazier",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095aa3",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 7857,
+                "known_for_department": "Art",
+                "name": "Merideth Boswell",
+                "original_name": "Merideth Boswell",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095acd",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 85914,
+                "known_for_department": "Writing",
+                "name": "Brian Hohlfeld",
+                "original_name": "Brian Hohlfeld",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095a11",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2588,
+                "known_for_department": "Editing",
+                "name": "Sidney Levin",
+                "original_name": "Sidney Levin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095a9d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1170987,
+                "known_for_department": "Lighting",
+                "name": "Alex Skvorzov",
+                "original_name": "Alex Skvorzov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095ac1",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 961106,
+                "known_for_department": "Production",
+                "name": "Shani Ginsberg",
+                "original_name": "Shani Ginsberg",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095aa9",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1258,
+                "known_for_department": "Camera",
+                "name": "Stephen H. Burum",
+                "original_name": "Stephen H. Burum",
+                "popularity": 0.001,
+                "profile_path": "/333sNyUGFW6wbS0MoLN24XIzLor.jpg",
+                "credit_id": "52fe47559251416c75095a91",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 437,
+                "known_for_department": "Art",
+                "name": "David J. Bomba",
+                "original_name": "David J. Bomba",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095ac7",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63964,
+                "known_for_department": "Sound",
+                "name": "Miles Goodman",
+                "original_name": "Miles Goodman",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe47559251416c75095a97",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7855,
+                "known_for_department": "Art",
+                "name": "Michael Corenblith",
+                "original_name": "Michael Corenblith",
+                "popularity": 0.01,
+                "profile_path": "/VxzpZk96tOLoARr2qDgSYDQu1j.jpg",
+                "credit_id": "52fe47559251416c75095aaf",
+                "department": "Art",
+                "job": "Production Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 187056,
+                "name": "woman director"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Kevin Bacon",
+            "character": "Dan Hanson"
+        },
+        {
+            "actor": "Elizabeth Perkins",
+            "character": "Lorraine \"Lorie\" Bryer"
+        },
+        {
+            "actor": "Nathan Lane",
+            "character": "Wallace \"Wally\" Thurman"
+        },
+        {
+            "actor": "Anthony LaPaglia",
+            "character": "Mark"
+        },
+        {
+            "actor": "Sharon Stone",
+            "character": "Linda Metzger"
+        },
+        {
+            "actor": "Stanley Anderson",
+            "character": "Bill Weller"
+        },
+        {
+            "actor": "Charlayne Woodard",
+            "character": "Cindy"
+        },
+        {
+            "actor": "Danton Stone",
+            "character": "Eric"
+        },
+        {
+            "actor": "Phil Leeds",
+            "character": "Mr. Spepk"
+        },
+        {
+            "actor": "Rita Karin",
+            "character": "Mrs. Spepk"
+        },
+        {
+            "actor": "Paul Butler",
+            "character": "Al, at the Deli"
+        },
+        {
+            "actor": "Erika Alexander",
+            "character": "Rita, Al's Daugther"
+        },
+        {
+            "actor": "Ashley Gardner",
+            "character": "Susan"
+        },
+        {
+            "actor": "Michael Harris",
+            "character": "Adam"
+        },
+        {
+            "actor": "Damien Leake",
+            "character": "Ray, the Technical Director"
+        },
+        {
+            "actor": "Constance Shulman",
+            "character": "Make-Up Girl"
+        },
+        {
+            "actor": "Leon Russom",
+            "character": "Harry"
+        },
+        {
+            "actor": "Steven Gilborn",
+            "character": "Ed"
+        },
+        {
+            "actor": "Dana Andersen",
+            "character": "Janet"
+        },
+        {
+            "actor": "Petie Perkins",
+            "character": "Sheila"
+        },
+        {
+            "actor": "Hope Miles",
+            "character": "Diana"
+        },
+        {
+            "actor": "Bruce MacVittie",
+            "character": "Lou the Florist"
+        },
+        {
+            "actor": "George Martin",
+            "character": "Mr. Bryer"
+        },
+        {
+            "actor": "Tanya Berezin",
+            "character": "Mrs. Bryer"
+        },
+        {
+            "actor": "Maury Efrems",
+            "character": "Jack Bryer"
+        },
+        {
+            "actor": "Claudia Silver",
+            "character": "Susan Bryer"
+        },
+        {
+            "actor": "David Cale",
+            "character": "The Waiter"
+        },
+        {
+            "actor": "Rick Warner",
+            "character": "Man at Restaurant"
+        },
+        {
+            "actor": "Elizabeth Brower",
+            "character": "Waitress"
+        },
+        {
+            "actor": "Alycea Baylis",
+            "character": "Theatre Dancer"
+        },
+        {
+            "actor": "Bernard Lee",
+            "character": "Basketball Player #3"
+        }
+    ]
+}

@@ -1,0 +1,660 @@
+{
+    "adult": false,
+    "backdrop_path": "/k5qXRqhCkzETnH0ktCtyBGR7pWz.jpg",
+    "belongs_to_collection": {
+        "id": 661152,
+        "name": "Emmanuelle Collection",
+        "poster_path": "/9fHxgcDKKel1efLdngnqOuZAB5v.jpg",
+        "backdrop_path": "/smpJmTZdDHdqYdBosA409mytj4T.jpg"
+    },
+    "budget": 500000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 24402,
+    "imdb_id": "tt0071464",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Emmanuelle",
+    "overview": "An employee at the French Embassy in Bangkok invites his wife to join him – and enjoy the benefits of their open marriage.",
+    "popularity": 3.78,
+    "poster_path": "/cEXZik5xYIiEWYwswbjYVpJT5w9.jpg",
+    "production_companies": [
+        {
+            "id": 10496,
+            "logo_path": null,
+            "name": "Orphée Productions",
+            "origin_country": "FR"
+        },
+        {
+            "id": 4765,
+            "logo_path": null,
+            "name": "Trinacra Films",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        }
+    ],
+    "release_date": "1974-06-25",
+    "revenue": 20200000,
+    "runtime": 95,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Let's you feel good without feeling bad",
+    "title": "Emmanuelle",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 773,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AT",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2027-10-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-06-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1974-09-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "\"S\"",
+                        "release_date": "1978-02-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "",
+                        "release_date": "1974-06-25T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "",
+                        "release_date": "1974-07-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "III",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "4k restoration",
+                        "release_date": "2024-12-19T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-10-03T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-12-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-10-03T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [
+                            "Violence",
+                            "Sex",
+                            "Coarse Language"
+                        ],
+                        "iso_639_1": "fr",
+                        "note": "50th anniversary, re-release, 4K restored",
+                        "release_date": "2024-10-03T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2007-04-23T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1975-04-17T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TW",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "4k restoration",
+                        "release_date": "2024-11-29T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1974-12-03T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "DVD Release",
+                        "release_date": "2007-10-09T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 35319,
+                "known_for_department": "Acting",
+                "name": "Sylvia Kristel",
+                "original_name": "Sylvia Kristel",
+                "popularity": 0.067,
+                "profile_path": "/9z9iLNRAHBa11oeLTLUg00AA0eJ.jpg",
+                "cast_id": 2,
+                "character": "Emmanuelle",
+                "credit_id": "52fe4493c3a368484e02abbb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5964,
+                "known_for_department": "Acting",
+                "name": "Alain Cuny",
+                "original_name": "Alain Cuny",
+                "popularity": 0.014,
+                "profile_path": "/pWwOq4RTxq08FHaPCSobaKIp01A.jpg",
+                "cast_id": 1,
+                "character": "Mario",
+                "credit_id": "52fe4493c3a368484e02abb7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10356,
+                "known_for_department": "Acting",
+                "name": "Marika Green",
+                "original_name": "Marika Green",
+                "popularity": 0.018,
+                "profile_path": "/u1KMdWcSHCHCmflZeYtQjdp5Sez.jpg",
+                "cast_id": 3,
+                "character": "Bee",
+                "credit_id": "52fe4493c3a368484e02abbf",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22212,
+                "known_for_department": "Acting",
+                "name": "Daniel Sarky",
+                "original_name": "Daniel Sarky",
+                "popularity": 0.008,
+                "profile_path": "/bTNunjdPV35bpFC3HtkqMaueRlY.jpg",
+                "cast_id": 4,
+                "character": "Jean",
+                "credit_id": "52fe4493c3a368484e02abc3",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91572,
+                "known_for_department": "Acting",
+                "name": "Jeanne Colletin",
+                "original_name": "Jeanne Colletin",
+                "popularity": 0.004,
+                "profile_path": "/dRmaCZbkiGkzwlva9D8ua0vGQMs.jpg",
+                "cast_id": 5,
+                "character": "Ariana",
+                "credit_id": "52fe4493c3a368484e02abc7",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91573,
+                "known_for_department": "Acting",
+                "name": "Christine Boisson",
+                "original_name": "Christine Boisson",
+                "popularity": 0.014,
+                "profile_path": "/aU8dQjROQt6sqyC9yQw9s76ZtLG.jpg",
+                "cast_id": 6,
+                "character": "Marie-Ange",
+                "credit_id": "52fe4493c3a368484e02abcb",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38010,
+                "known_for_department": "Acting",
+                "name": "Gabriel Briand",
+                "original_name": "Gabriel Briand",
+                "popularity": 0.006,
+                "profile_path": "/4jsLTlLhvjh3ich7LAMvFTr7D4j.jpg",
+                "cast_id": 21,
+                "character": "Le deuxième homme dans l'avion",
+                "credit_id": "663d9f54c97ab0045c50f0f8",
+                "order": 6
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38007,
+                "known_for_department": "Directing",
+                "name": "Just Jaeckin",
+                "original_name": "Just Jaeckin",
+                "popularity": 0.01,
+                "profile_path": "/1v6PDE0DyaXbyltb0IJatnvmXQH.jpg",
+                "credit_id": "52fe4493c3a368484e02abd1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91574,
+                "known_for_department": "Writing",
+                "name": "Emmanuelle Arsan",
+                "original_name": "Emmanuelle Arsan",
+                "popularity": 0.007,
+                "profile_path": "/r7z3sQ0VZDAG7BCiPyRPXjv7BDD.jpg",
+                "credit_id": "52fe4494c3a368484e02abd7",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18558,
+                "known_for_department": "Acting",
+                "name": "Jean-Louis Richard",
+                "original_name": "Jean-Louis Richard",
+                "popularity": 0.012,
+                "profile_path": "/pT0vIOIESVdy1AincoVJowRksRI.jpg",
+                "credit_id": "52fe4494c3a368484e02abdd",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3130240,
+                "known_for_department": "Acting",
+                "name": "Sylvia Charvillat",
+                "original_name": "Sylvia Charvillat",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60ce8df70021340029e63bd7",
+                "department": "Costume & Make-Up",
+                "job": "Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2596,
+                "known_for_department": "Camera",
+                "name": "Robert Fraisse",
+                "original_name": "Robert Fraisse",
+                "popularity": 0.002,
+                "profile_path": "/2CTKX2yuNBwmAwKA6ACio1D0txM.jpg",
+                "credit_id": "60ce97860a94d4002976375b",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2036068,
+                "known_for_department": "Directing",
+                "name": "Philippe Leriche",
+                "original_name": "Philippe Leriche",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60ce98295ed9620058f4d075",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1628721,
+                "known_for_department": "Sound",
+                "name": "André Hervée",
+                "original_name": "André Hervée",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60ce984b9a9e200029b600c5",
+                "department": "Sound",
+                "job": "Sound Engineer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2199989,
+                "known_for_department": "Directing",
+                "name": "Alice Ziller",
+                "original_name": "Alice Ziller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "60ce9859a199a600294c5362",
+                "department": "Crew",
+                "job": "Script"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1268566,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Christine Fornelli",
+                "original_name": "Christine Fornelli",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6163902262fcd300448c9743",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68484,
+                "known_for_department": "Production",
+                "name": "Yves Rousset-Rouard",
+                "original_name": "Yves Rousset-Rouard",
+                "popularity": 0.003,
+                "profile_path": "/kqznCUEz8dCfmoi4v9t9Q5XKtzq.jpg",
+                "credit_id": "574686eb9251415e7200139e",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 36947,
+                "known_for_department": "Sound",
+                "name": "Pierre Bachelet",
+                "original_name": "Pierre Bachelet",
+                "popularity": 0.009,
+                "profile_path": "/byWLaCynghqq13ENaYSQjPUOnR7.jpg",
+                "credit_id": "5746871bc3a36806b0001466",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 35947,
+                "known_for_department": "Camera",
+                "name": "Richard Suzuki",
+                "original_name": "Richard Suzuki",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "57468752c3a36806b3001265",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18223,
+                "known_for_department": "Editing",
+                "name": "Claudine Bouché",
+                "original_name": "Claudine Bouché",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "57468769c3a36806a60013b5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1331443,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Georges Bril",
+                "original_name": "Georges Bril",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "663d9ffbddef6428e70f5057",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4705272,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Pfister",
+                "original_name": "Andrea Pfister",
+                "popularity": 0.0,
+                "profile_path": null,
+                "credit_id": "663da00c7d7879035ec77c59",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22208,
+                "known_for_department": "Sound",
+                "name": "Paul Bertault",
+                "original_name": "Paul Bertault",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "663da01d548d8d7dad0f3889",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4705273,
+                "known_for_department": "Sound",
+                "name": "Jean-Claude Duval",
+                "original_name": "Jean-Claude Duval",
+                "popularity": 0.0,
+                "profile_path": null,
+                "credit_id": "663da02a532723af3a023f10",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1326,
+                "name": "infidelity"
+            },
+            {
+                "id": 3800,
+                "name": "airplane"
+            },
+            {
+                "id": 3432,
+                "name": "bangkok, thailand"
+            },
+            {
+                "id": 9835,
+                "name": "sexual fantasy"
+            },
+            {
+                "id": 11486,
+                "name": "sexual arousal"
+            },
+            {
+                "id": 10505,
+                "name": "promiscuity"
+            },
+            {
+                "id": 155477,
+                "name": "softcore"
+            },
+            {
+                "id": 190370,
+                "name": "erotic movie"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Sylvia Kristel",
+            "character": "Emmanuelle"
+        },
+        {
+            "actor": "Alain Cuny",
+            "character": "Mario"
+        },
+        {
+            "actor": "Marika Green",
+            "character": "Bee"
+        },
+        {
+            "actor": "Daniel Sarky",
+            "character": "Jean"
+        },
+        {
+            "actor": "Jeanne Colletin",
+            "character": "Ariana"
+        },
+        {
+            "actor": "Christine Boisson",
+            "character": "Marie-Ange"
+        },
+        {
+            "actor": "Gabriel Briand",
+            "character": "Le deuxième homme dans l'avion"
+        }
+    ]
+}

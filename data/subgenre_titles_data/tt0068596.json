@@ -1,0 +1,786 @@
+{
+    "adult": false,
+    "backdrop_path": "/e9n0sDkXTPz8CLXBEK1uo6janh3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 36600,
+    "imdb_id": "tt0068596",
+    "origin_country": [
+        "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Flesh and Blood Show",
+    "overview": "Actors rehearsing a show at a mysterious seaside theater are being killed off by an unknown maniac.",
+    "popularity": 1.13,
+    "poster_path": "/4KNjXNOxareROutLC8WH9fMz2W1.jpg",
+    "production_companies": [
+        {
+            "id": 17102,
+            "logo_path": null,
+            "name": "Peter Walker (Heritage) Ltd.",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1972-10-01",
+    "revenue": 0,
+    "runtime": 93,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "An appalling amalgam of carnage and carnality...",
+    "title": "The Flesh and Blood Show",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 32,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2008-05-23T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1972-10-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-08-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 112465,
+                "known_for_department": "Acting",
+                "name": "Jenny Hanley",
+                "original_name": "Jenny Hanley",
+                "popularity": 0.009,
+                "profile_path": "/70f82jX8Vx5mXm1Dk4h6Q1yRjjY.jpg",
+                "cast_id": 2,
+                "character": "Julia Dawson",
+                "credit_id": "52fe45f79251416c910449cb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80495,
+                "known_for_department": "Acting",
+                "name": "Ray Brooks",
+                "original_name": "Ray Brooks",
+                "popularity": 0.014,
+                "profile_path": "/h8b8WxTywk2y0Ry87fTPgbmXLdT.jpg",
+                "cast_id": 3,
+                "character": "Mike",
+                "credit_id": "52fe45f79251416c910449cf",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97671,
+                "known_for_department": "Acting",
+                "name": "Luan Peters",
+                "original_name": "Luan Peters",
+                "popularity": 0.01,
+                "profile_path": "/bOgnA8yMsJ549anum5AyaneUs68.jpg",
+                "cast_id": 4,
+                "character": "Carol Edwards",
+                "credit_id": "52fe45f79251416c910449d3",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 107003,
+                "known_for_department": "Acting",
+                "name": "Candace Glendenning",
+                "original_name": "Candace Glendenning",
+                "popularity": 0.005,
+                "profile_path": "/eiXiRiByGyAGiX8r7CiczX1bkms.jpg",
+                "cast_id": 5,
+                "character": "Sarah",
+                "credit_id": "52fe45f79251416c910449d7",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 97171,
+                "known_for_department": "Acting",
+                "name": "Robin Askwith",
+                "original_name": "Robin Askwith",
+                "popularity": 0.02,
+                "profile_path": "/2oAIv6rFEZkkKZJWXtB5AybNHgX.jpg",
+                "cast_id": 8,
+                "character": "Simon",
+                "credit_id": "532469dcc3a3683f040011f6",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94962,
+                "known_for_department": "Acting",
+                "name": "Tristan Rogers",
+                "original_name": "Tristan Rogers",
+                "popularity": 0.02,
+                "profile_path": "/m2Zt2jUP3h1rGAH0jXbKOuqUfuo.jpg",
+                "cast_id": 9,
+                "character": "Tony Weller",
+                "credit_id": "532469eac3a36824af000be3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102044,
+                "known_for_department": "Acting",
+                "name": "Judy Matheson",
+                "original_name": "Judy Matheson",
+                "popularity": 0.008,
+                "profile_path": "/5WerEWytlc8IoBbZ4JbnSCVZd4w.jpg",
+                "cast_id": 10,
+                "character": "Jane",
+                "credit_id": "532469f5c3a36813c2000d82",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 186019,
+                "known_for_department": "Acting",
+                "name": "David Howey",
+                "original_name": "David Howey",
+                "popularity": 0.012,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "John",
+                "credit_id": "53246a01c3a36824b5007577",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 68856,
+                "known_for_department": "Writing",
+                "name": "Elizabeth Bradley",
+                "original_name": "Elizabeth Bradley",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Mrs. Saunders",
+                "credit_id": "53246a16c3a3683dbf001224",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1060790,
+                "known_for_department": "Acting",
+                "name": "Rodney Diak",
+                "original_name": "Rodney Diak",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Warner",
+                "credit_id": "53246a26c3a3683dbf001226",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1301133,
+                "known_for_department": "Acting",
+                "name": "Penny Meredith",
+                "original_name": "Penny Meredith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Angela",
+                "credit_id": "53246a34c3a3685725008458",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1301134,
+                "known_for_department": "Acting",
+                "name": "Sally Lahee",
+                "original_name": "Sally Lahee",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Iris Vokins",
+                "credit_id": "53246a44c3a36824b5007580",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120489,
+                "known_for_department": "Acting",
+                "name": "John Yule",
+                "original_name": "John Yule",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Gerry",
+                "credit_id": "5be0bfb79251412f6b003896",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 184883,
+                "known_for_department": "Acting",
+                "name": "Raymond Young",
+                "original_name": "Raymond Young",
+                "popularity": 0.01,
+                "profile_path": "/bOba40qFyRrWBYGGEb0XkKdo37v.jpg",
+                "cast_id": 33,
+                "character": "Insp. Walsh",
+                "credit_id": "637a630631644b00cdfe818e",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 86481,
+                "known_for_department": "Acting",
+                "name": "Carol Allen",
+                "original_name": "Carol Allen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Librarian",
+                "credit_id": "637a637563aad200761f9466",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 200712,
+                "known_for_department": "Acting",
+                "name": "Alan Curtis",
+                "original_name": "Alan Curtis",
+                "popularity": 0.008,
+                "profile_path": "/xGaas7BgImxRVcagWHEwzhRwYLb.jpg",
+                "cast_id": 35,
+                "character": "Jack Phipps",
+                "credit_id": "637a63c463aad2007d69ff27",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100101,
+                "known_for_department": "Acting",
+                "name": "Brian Tully",
+                "original_name": "Brian Tully",
+                "popularity": 0.002,
+                "profile_path": "/pVxYY7lJ8Y4WldjsFTGiIS34UJV.jpg",
+                "cast_id": 36,
+                "character": "Willesden",
+                "credit_id": "637a63e8a3b5e600b4f465ae",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1992747,
+                "known_for_department": "Acting",
+                "name": "Jane Cardew",
+                "original_name": "Jane Cardew",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Lady Pamela",
+                "credit_id": "637a63fa1bf8760087991e39",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3612303,
+                "known_for_department": "Acting",
+                "name": "Tom Mennard",
+                "original_name": "Tom Mennard",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Fred",
+                "credit_id": "637a640731644b00c3788c4f",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 559710,
+                "known_for_department": "Acting",
+                "name": "Stewart Bevan",
+                "original_name": "Stewart Bevan",
+                "popularity": 0.001,
+                "profile_path": "/nqw09ot4phNQQ4uhtB7KnDcnbUY.jpg",
+                "cast_id": 39,
+                "character": "Harry Mulligan",
+                "credit_id": "637a6418a3b5e6007fb8f09d",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1214086,
+                "known_for_department": "Acting",
+                "name": "Michael Knowles",
+                "original_name": "Michael Knowles",
+                "popularity": 0.001,
+                "profile_path": "/gBF7D6TtvEDyBu7TtFyQxLeGlu7.jpg",
+                "cast_id": 40,
+                "character": "Curran",
+                "credit_id": "637a645f63aad2007d69ff44",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3795424,
+                "known_for_department": "Acting",
+                "name": "Kent Baker",
+                "original_name": "Kent Baker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Mortuary Attendant",
+                "credit_id": "637a64aa63aad2009bb42b05",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 79633,
+                "known_for_department": "Acting",
+                "name": "Jess Conrad",
+                "original_name": "Jess Conrad",
+                "popularity": 0.015,
+                "profile_path": "/cvIDSrjbAnFrKRMH0XWkCnm1pmx.jpg",
+                "cast_id": 42,
+                "character": "Young Actor",
+                "credit_id": "637a6509a3b5e600b4f465d5",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100787,
+                "known_for_department": "Acting",
+                "name": "Patrick Barr",
+                "original_name": "Patrick Barr",
+                "popularity": 0.014,
+                "profile_path": "/cDR0FzAyYVJtM85UyxHdrZT8lA5.jpg",
+                "cast_id": 43,
+                "character": "Major Bell / Sir Arnold Gates",
+                "credit_id": "637a6539fab3fa00aace6b70",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120493,
+                "known_for_department": "Directing",
+                "name": "Pete Walker",
+                "original_name": "Pete Walker",
+                "popularity": 0.003,
+                "profile_path": "/A3g0ixyIYiYebtBY8SyPvbwAkax.jpg",
+                "credit_id": "52fe45f79251416c910449dd",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101477,
+                "known_for_department": "Writing",
+                "name": "Alfred Shaughnessy",
+                "original_name": "Alfred Shaughnessy",
+                "popularity": 0.006,
+                "profile_path": null,
+                "credit_id": "52fe45f79251416c910449e3",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120493,
+                "known_for_department": "Directing",
+                "name": "Pete Walker",
+                "original_name": "Pete Walker",
+                "popularity": 0.003,
+                "profile_path": "/A3g0ixyIYiYebtBY8SyPvbwAkax.jpg",
+                "credit_id": "53246a57c3a36823780013c8",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 139698,
+                "known_for_department": "Sound",
+                "name": "Cyril Ornadel",
+                "original_name": "Cyril Ornadel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "53246a63c3a36824af000be8",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47872,
+                "known_for_department": "Camera",
+                "name": "Peter Jessop",
+                "original_name": "Peter Jessop",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "53246a72c3a36813c2000d8e",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1301135,
+                "known_for_department": "Editing",
+                "name": "Ron Pope",
+                "original_name": "Ron Pope",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "53246a80c3a3683dbf001231",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 960718,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bill Lodge",
+                "original_name": "Bill Lodge",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "53246a90c3a36823780013cd",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 79626,
+                "known_for_department": "Camera",
+                "name": "John Metcalfe",
+                "original_name": "John Metcalfe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a5ee01bf87600cd77edee",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3533307,
+                "known_for_department": "Sound",
+                "name": "Peter O'Connor",
+                "original_name": "Peter O'Connor",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a5f331bf8760078c4a5d4",
+                "department": "Sound",
+                "job": "Sound Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2138745,
+                "known_for_department": "Camera",
+                "name": "Tim Ross",
+                "original_name": "Tim Ross",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a5f64976e480091a730f3",
+                "department": "Camera",
+                "job": "Focus Puller"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3533309,
+                "known_for_department": "Directing",
+                "name": "Brian Lawrence",
+                "original_name": "Brian Lawrence",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a5f97a3b5e60082950668",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3795394,
+                "known_for_department": "Directing",
+                "name": "Paul Fell",
+                "original_name": "Paul Fell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a601631644b0077b98738",
+                "department": "Directing",
+                "job": "Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3795397,
+                "known_for_department": "Sound",
+                "name": "Nick Flowers",
+                "original_name": "Nick Flowers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a60301bf87600cd77ee3e",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3795405,
+                "known_for_department": "Lighting",
+                "name": "Jim Davis",
+                "original_name": "Jim Davis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a60f45b2f47009144ba6a",
+                "department": "Lighting",
+                "job": "Gaffer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1482984,
+                "known_for_department": "Production",
+                "name": "Robert Fennell",
+                "original_name": "Robert Fennell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a613a976e4800aadb9a64",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 126924,
+                "known_for_department": "Sound",
+                "name": "Tony Anscombe",
+                "original_name": "Tony Anscombe",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "637a6247156cc700cdd5de82",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 139698,
+                "known_for_department": "Sound",
+                "name": "Cyril Ornadel",
+                "original_name": "Cyril Ornadel",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "637a6269976e48007fc7c383",
+                "department": "Sound",
+                "job": "Conductor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4063371,
+                "known_for_department": "Sound",
+                "name": "Matt McCarthy",
+                "original_name": "Matt McCarthy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6462345bef8b320172d60777",
+                "department": "Crew",
+                "job": "Post Production Supervisor"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 233450,
+                "name": "proto-slasher"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jenny Hanley",
+            "character": "Julia Dawson"
+        },
+        {
+            "actor": "Ray Brooks",
+            "character": "Mike"
+        },
+        {
+            "actor": "Luan Peters",
+            "character": "Carol Edwards"
+        },
+        {
+            "actor": "Candace Glendenning",
+            "character": "Sarah"
+        },
+        {
+            "actor": "Robin Askwith",
+            "character": "Simon"
+        },
+        {
+            "actor": "Tristan Rogers",
+            "character": "Tony Weller"
+        },
+        {
+            "actor": "Judy Matheson",
+            "character": "Jane"
+        },
+        {
+            "actor": "David Howey",
+            "character": "John"
+        },
+        {
+            "actor": "Elizabeth Bradley",
+            "character": "Mrs. Saunders"
+        },
+        {
+            "actor": "Rodney Diak",
+            "character": "Warner"
+        },
+        {
+            "actor": "Penny Meredith",
+            "character": "Angela"
+        },
+        {
+            "actor": "Sally Lahee",
+            "character": "Iris Vokins"
+        },
+        {
+            "actor": "John Yule",
+            "character": "Gerry"
+        },
+        {
+            "actor": "Raymond Young",
+            "character": "Insp. Walsh"
+        },
+        {
+            "actor": "Carol Allen",
+            "character": "Librarian"
+        },
+        {
+            "actor": "Alan Curtis",
+            "character": "Jack Phipps"
+        },
+        {
+            "actor": "Brian Tully",
+            "character": "Willesden"
+        },
+        {
+            "actor": "Jane Cardew",
+            "character": "Lady Pamela"
+        },
+        {
+            "actor": "Tom Mennard",
+            "character": "Fred"
+        },
+        {
+            "actor": "Stewart Bevan",
+            "character": "Harry Mulligan"
+        },
+        {
+            "actor": "Michael Knowles",
+            "character": "Curran"
+        },
+        {
+            "actor": "Kent Baker",
+            "character": "Mortuary Attendant"
+        },
+        {
+            "actor": "Jess Conrad",
+            "character": "Young Actor"
+        },
+        {
+            "actor": "Patrick Barr",
+            "character": "Major Bell / Sir Arnold Gates"
+        }
+    ]
+}

@@ -1,0 +1,782 @@
+{
+    "adult": false,
+    "backdrop_path": "/72Cz99QcfnlcyUy7PePQZISVxxr.jpg",
+    "belongs_to_collection": {
+        "id": 1169365,
+        "name": "10 Days of a Man Collection",
+        "poster_path": "/s3psIZZ9N8od8GxI30X1Yrcu8yH.jpg",
+        "backdrop_path": "/q3vYvfLNkQdM0j0d5Yu1NWbA9cl.jpg"
+    },
+    "budget": 0,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81426851",
+    "id": 1073337,
+    "imdb_id": "tt23334464",
+    "origin_country": [
+        "TR"
+    ],
+    "original_language": "tr",
+    "original_title": "İyi Adamın 10 Günü",
+    "overview": "A lawyer turned private investigator takes on a missing person case, propelling him on an unexpected and life-altering quest.",
+    "popularity": 3.135,
+    "poster_path": "/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg",
+    "production_companies": [
+        {
+            "id": 43853,
+            "logo_path": "/pAQVKxBUMbbeasH41x874EjtsSA.png",
+            "name": "Ay Yapım",
+            "origin_country": "TR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "TR",
+            "name": "Turkey"
+        }
+    ],
+    "release_date": "2023-02-10",
+    "revenue": 0,
+    "runtime": 124,
+    "spoken_languages": [
+        {
+            "english_name": "Turkish",
+            "iso_639_1": "tr",
+            "name": "Türkçe"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "10 Days of a Good Man",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 88,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "\tNetflix",
+                        "release_date": "2023-02-10T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "R18+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PR",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2023-02-10T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "M18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TR",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2023-03-03T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 98834,
+                "known_for_department": "Acting",
+                "name": "Nejat İşler",
+                "original_name": "Nejat İşler",
+                "popularity": 0.033,
+                "profile_path": "/wZtnNstHPW5ckkAB7xy8LtmTiXZ.jpg",
+                "cast_id": 1,
+                "character": "Sadık",
+                "credit_id": "63c11170e16e5a008ac7e2db",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1246604,
+                "known_for_department": "Acting",
+                "name": "Nur Fettahoğlu",
+                "original_name": "Nur Fettahoğlu",
+                "popularity": 0.053,
+                "profile_path": "/yMxCbHQebr1ZVjOphUw3V1U5anC.jpg",
+                "cast_id": 5,
+                "character": "Rezzan",
+                "credit_id": "63c1124c23be4600b2f14537",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 236892,
+                "known_for_department": "Acting",
+                "name": "Şenay Gürler",
+                "original_name": "Şenay Gürler",
+                "popularity": 0.02,
+                "profile_path": "/5FqFZfj1O24wUruv48jfAJRP1ND.jpg",
+                "cast_id": 6,
+                "character": "Meral",
+                "credit_id": "63c1125623be4600b2f1453d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2113514,
+                "known_for_department": "Acting",
+                "name": "Ilayda Alişan",
+                "original_name": "İlayda Alişan",
+                "popularity": 0.028,
+                "profile_path": "/tE59HmAO2qT3HMaAvAg32B4NWVo.jpg",
+                "cast_id": 7,
+                "character": "Fatoş/Seval",
+                "credit_id": "63c11260df857c0089277d73",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1481836,
+                "known_for_department": "Acting",
+                "name": "Ilayda Akdoğan",
+                "original_name": "İlayda Akdoğan",
+                "popularity": 0.02,
+                "profile_path": "/as19gD7h6iYYqE1Kdnu175Gscn9.jpg",
+                "cast_id": 8,
+                "character": "Hatice/Pınar",
+                "credit_id": "63c112688efe73007d8f2c5a",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 48510,
+                "known_for_department": "Acting",
+                "name": "Erdal Yıldız",
+                "original_name": "Erdal Yıldız",
+                "popularity": 0.021,
+                "profile_path": "/rtQMyTs3inUfeMU7Ke4HNYq1iyO.jpg",
+                "cast_id": 9,
+                "character": "Abi",
+                "credit_id": "63c11272e16e5a008191eec6",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3977143,
+                "known_for_department": "Acting",
+                "name": "Ata Artman",
+                "original_name": "Ata Artman",
+                "popularity": 0.003,
+                "profile_path": "/mu9rldgB6DPHCwAmbZoHZ7VvhjG.jpg",
+                "cast_id": 18,
+                "character": "Tevfik",
+                "credit_id": "641d8f688de0ae007b96a125",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1991238,
+                "known_for_department": "Acting",
+                "name": "Esra Ronabar",
+                "original_name": "Esra Ronabar",
+                "popularity": 0.012,
+                "profile_path": "/lofOwvsQTMtJOfGPAOnWrFvdhfe.jpg",
+                "cast_id": 10,
+                "character": "Maide",
+                "credit_id": "63c1128e23be4600d9608cec",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1251889,
+                "known_for_department": "Acting",
+                "name": "Barış Falay",
+                "original_name": "Barış Falay",
+                "popularity": 0.01,
+                "profile_path": "/bdhcUNq2PEamW3jtR6YIAfd64cV.jpg",
+                "cast_id": 11,
+                "character": "Macit",
+                "credit_id": "63c112a4e16e5a008191eed7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1258255,
+                "known_for_department": "Acting",
+                "name": "Yurdaer Okur",
+                "original_name": "Yurdaer Okur",
+                "popularity": 0.023,
+                "profile_path": "/9dtoCs5pvEhVadW472FR3oIrUeE.jpg",
+                "cast_id": 12,
+                "character": "Arif",
+                "credit_id": "63c112b0e16e5a0092b40286",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 145735,
+                "known_for_department": "Acting",
+                "name": "Rıza Kocaoğlu",
+                "original_name": "Rıza Kocaoğlu",
+                "popularity": 0.022,
+                "profile_path": "/b0Bp9W1VIaVzCzzUCMwBc7fe005.jpg",
+                "cast_id": 13,
+                "character": "Abi'nin Adamı",
+                "credit_id": "63c112bddf857c0081419890",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1603809,
+                "known_for_department": "Acting",
+                "name": "Kadir Çermik",
+                "original_name": "Kadir Çermik",
+                "popularity": 0.02,
+                "profile_path": "/yvXseGDFTTEItKTghkU4J3qx4Yj.jpg",
+                "cast_id": 14,
+                "character": "Abi'nin Adamı",
+                "credit_id": "63c112ca23be4600b2f1455e",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3552314,
+                "known_for_department": "Acting",
+                "name": "Ayça Işıldar",
+                "original_name": "Ayça Işıldar",
+                "popularity": 0.001,
+                "profile_path": "/zmyUUTPqWp76NauXULdf7N0sqhL.jpg",
+                "cast_id": 19,
+                "character": "",
+                "credit_id": "641d8fc1344a8e007bf298f0",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1948092,
+                "known_for_department": "Acting",
+                "name": "Gözde Kaya",
+                "original_name": "Gözde Kaya",
+                "popularity": 0.023,
+                "profile_path": "/byuyY80pIdKtq3epwry1RcvRsdA.jpg",
+                "cast_id": 20,
+                "character": "",
+                "credit_id": "641d8fc7befb0900ea49d0fb",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2375399,
+                "known_for_department": "Acting",
+                "name": "İpek Türktan",
+                "original_name": "İpek Türktan",
+                "popularity": 0.002,
+                "profile_path": "/78LJ1s0bBoDfs6VQ0HNyBZwla9K.jpg",
+                "cast_id": 21,
+                "character": "",
+                "credit_id": "641d8fcee0ec51008f91388c",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3464567,
+                "known_for_department": "Acting",
+                "name": "Mert Dogan",
+                "original_name": "Mert Dogan",
+                "popularity": 0.011,
+                "profile_path": "/riFtmbU41ngIFjPbgQImFzyxax0.jpg",
+                "cast_id": 22,
+                "character": "",
+                "credit_id": "641d8fd78de0ae00839a8cbe",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3793645,
+                "known_for_department": "Acting",
+                "name": "Lalizer Kemaloğlu",
+                "original_name": "Lalizer Kemaloğlu",
+                "popularity": 0.001,
+                "profile_path": "/flz1G2HkvKXc3WZtrmcMZKo3aCU.jpg",
+                "cast_id": 23,
+                "character": "",
+                "credit_id": "641d8fdfbefb09010d0137bb",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3977144,
+                "known_for_department": "Acting",
+                "name": "Niyazi Tetik",
+                "original_name": "Niyazi Tetik",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "",
+                "credit_id": "641d9005e0ec5100b85ada8a",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3977147,
+                "known_for_department": "Acting",
+                "name": "Mebrure Yağmur Anaz",
+                "original_name": "Mebrure Yağmur Anaz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 25,
+                "character": "",
+                "credit_id": "641d904a8de0ae007b96a1e6",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1888884,
+                "known_for_department": "Acting",
+                "name": "Kaan Turgut",
+                "original_name": "Kaan Turgut",
+                "popularity": 0.01,
+                "profile_path": "/mtG6ea2ZW9WRdTgoinafmMVbdn6.jpg",
+                "cast_id": 26,
+                "character": "",
+                "credit_id": "641d904f8de0ae009b8a2906",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1254552,
+                "known_for_department": "Acting",
+                "name": "Emre Erçil",
+                "original_name": "Emre Erçil",
+                "popularity": 0.004,
+                "profile_path": "/icEtYamiCx461GXBWSCNKyeKiA1.jpg",
+                "cast_id": 27,
+                "character": "",
+                "credit_id": "641d905b8de0ae007b96a1f6",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1614899,
+                "known_for_department": "Acting",
+                "name": "Can Girgin",
+                "original_name": "Can Girgin",
+                "popularity": 0.001,
+                "profile_path": "/wokQKwPyF54ReGOFXgDqAgi9Wmx.jpg",
+                "cast_id": 28,
+                "character": "",
+                "credit_id": "641d9060e1faed00c50f0d47",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3977151,
+                "known_for_department": "Acting",
+                "name": "Doğan Güneş",
+                "original_name": "Doğan Güneş",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "",
+                "credit_id": "641d9097ae6f0900884f4c86",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3977155,
+                "known_for_department": "Acting",
+                "name": "Emrecan Karakurum",
+                "original_name": "Emrecan Karakurum",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "",
+                "credit_id": "641d90b28de0ae009b8a2949",
+                "order": 23
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2001098,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Sonay Ortuğ",
+                "original_name": "Sonay Ortuğ",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "65881f10ea7b0e5ede8fe061",
+                "department": "Costume & Make-Up",
+                "job": "Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1673448,
+                "known_for_department": "Directing",
+                "name": "Uluç Bayraktar",
+                "original_name": "Uluç Bayraktar",
+                "popularity": 0.012,
+                "profile_path": "/jFhKvOtJJk2IWg0QL6PqmhvcXZE.jpg",
+                "credit_id": "63c1119423be4600817c76dc",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 72145,
+                "known_for_department": "Camera",
+                "name": "Feza Çaldıran",
+                "original_name": "Feza Çaldıran",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6409f3fd7776f000c56f888b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1562024,
+                "known_for_department": "Editing",
+                "name": "Arzu Volkan",
+                "original_name": "Arzu Volkan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6409f40b32cc2b010b3f9450",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1948941,
+                "known_for_department": "Production",
+                "name": "Nevra Genelioğlu",
+                "original_name": "Nevra Genelioğlu",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6409f415f9a3fb00f2d3e17f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2056299,
+                "known_for_department": "Writing",
+                "name": "Mehmet Eroğlu",
+                "original_name": "Mehmet Eroğlu",
+                "popularity": 0.001,
+                "profile_path": "/kWpKoBZFktbOLLLqgVJi0E94bjK.jpg",
+                "credit_id": "6668038a8dd6690b3b7c5b89",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2796505,
+                "known_for_department": "Writing",
+                "name": "Damla Serim",
+                "original_name": "Damla Serim",
+                "popularity": 0.014,
+                "profile_path": null,
+                "credit_id": "666803947cbed2fef3be9e89",
+                "department": "Writing",
+                "job": "Screenplay"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Nejat İşler",
+            "character": "Sadık"
+        },
+        {
+            "actor": "Nur Fettahoğlu",
+            "character": "Rezzan"
+        },
+        {
+            "actor": "Şenay Gürler",
+            "character": "Meral"
+        },
+        {
+            "actor": "Ilayda Alişan",
+            "character": "Fatoş/Seval"
+        },
+        {
+            "actor": "Ilayda Akdoğan",
+            "character": "Hatice/Pınar"
+        },
+        {
+            "actor": "Erdal Yıldız",
+            "character": "Abi"
+        },
+        {
+            "actor": "Ata Artman",
+            "character": "Tevfik"
+        },
+        {
+            "actor": "Esra Ronabar",
+            "character": "Maide"
+        },
+        {
+            "actor": "Barış Falay",
+            "character": "Macit"
+        },
+        {
+            "actor": "Yurdaer Okur",
+            "character": "Arif"
+        },
+        {
+            "actor": "Rıza Kocaoğlu",
+            "character": "Abi'nin Adamı"
+        },
+        {
+            "actor": "Kadir Çermik",
+            "character": "Abi'nin Adamı"
+        },
+        {
+            "actor": "Ayça Işıldar",
+            "character": ""
+        },
+        {
+            "actor": "Gözde Kaya",
+            "character": ""
+        },
+        {
+            "actor": "İpek Türktan",
+            "character": ""
+        },
+        {
+            "actor": "Mert Dogan",
+            "character": ""
+        },
+        {
+            "actor": "Lalizer Kemaloğlu",
+            "character": ""
+        },
+        {
+            "actor": "Niyazi Tetik",
+            "character": ""
+        },
+        {
+            "actor": "Mebrure Yağmur Anaz",
+            "character": ""
+        },
+        {
+            "actor": "Kaan Turgut",
+            "character": ""
+        },
+        {
+            "actor": "Emre Erçil",
+            "character": ""
+        },
+        {
+            "actor": "Can Girgin",
+            "character": ""
+        },
+        {
+            "actor": "Doğan Güneş",
+            "character": ""
+        },
+        {
+            "actor": "Emrecan Karakurum",
+            "character": ""
+        }
+    ]
+}

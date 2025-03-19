@@ -1,0 +1,782 @@
+{
+    "adult": false,
+    "backdrop_path": "/yQIEl9eYMgQ7BKv0wkISJmC38GM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 24194,
+    "imdb_id": "tt0092074",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "TerrorVision",
+    "overview": "Stanley Putterman installs a state-of-the-art satellite dish in his backyard, soon unleashing a strange monster that leaps off the screen and needs to feed on humans for survival.",
+    "popularity": 3.785,
+    "poster_path": "/9s9s2VchHi4gAiVGfFkrQyQLTzH.jpg",
+    "production_companies": [
+        {
+            "id": 1212,
+            "logo_path": null,
+            "name": "Empire Pictures",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-02-14",
+    "revenue": 320256,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "People of Earth: Your planet is about to be destroyed...  We're terribly sorry for the inconvenience.",
+    "title": "TerrorVision",
+    "video": false,
+    "vote_average": 5.787,
+    "vote_count": 202,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1987-04-15T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1986-02-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 80137,
+                "known_for_department": "Acting",
+                "name": "Diane Franklin",
+                "original_name": "Diane Franklin",
+                "popularity": 0.02,
+                "profile_path": "/xvMGJAUPS0xrxMH3mkHGq6G1zjF.jpg",
+                "cast_id": 1,
+                "character": "Suzy",
+                "credit_id": "52fe4489c3a368484e0286b1",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 26283,
+                "known_for_department": "Acting",
+                "name": "Gerrit Graham",
+                "original_name": "Gerrit Graham",
+                "popularity": 0.029,
+                "profile_path": "/itz1a5P3RxCt8BySFbMxKCQ5yeZ.jpg",
+                "cast_id": 2,
+                "character": "Stanley",
+                "credit_id": "52fe4489c3a368484e0286b5",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 100552,
+                "known_for_department": "Acting",
+                "name": "Mary Woronov",
+                "original_name": "Mary Woronov",
+                "popularity": 0.02,
+                "profile_path": "/mcMv4FKAoMlfrrJL8Wet8vzy4gw.jpg",
+                "cast_id": 48,
+                "character": "Raquel Putterman",
+                "credit_id": "52fe448ac3a368484e0287b5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91302,
+                "known_for_department": "Acting",
+                "name": "Chad Allen",
+                "original_name": "Chad Allen",
+                "popularity": 0.034,
+                "profile_path": "/nH2R7YCgDMiIghQlL8kcVoW10GR.jpg",
+                "cast_id": 3,
+                "character": "Sherman",
+                "credit_id": "52fe4489c3a368484e0286b9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9629,
+                "known_for_department": "Acting",
+                "name": "Jon Gries",
+                "original_name": "Jon Gries",
+                "popularity": 0.127,
+                "profile_path": "/nX69eyOvpmJ0YEpm2Qz2ZISngqw.jpg",
+                "cast_id": 4,
+                "character": "OD",
+                "credit_id": "52fe4489c3a368484e0286bd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30621,
+                "known_for_department": "Acting",
+                "name": "Bert Remsen",
+                "original_name": "Bert Remsen",
+                "popularity": 0.026,
+                "profile_path": "/2KOnofFMvseWKyo5LWO1uS6mtMc.jpg",
+                "cast_id": 5,
+                "character": "Grampa",
+                "credit_id": "52fe4489c3a368484e0286c1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 83851,
+                "known_for_department": "Acting",
+                "name": "Alejandro Rey",
+                "original_name": "Alejandro Rey",
+                "popularity": 0.022,
+                "profile_path": "/yKpXhpCAd7PgrJrtcrHdkpeSPVF.jpg",
+                "cast_id": 6,
+                "character": "Spiro",
+                "credit_id": "52fe4489c3a368484e0286c5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91303,
+                "known_for_department": "Acting",
+                "name": "Randi Brooks",
+                "original_name": "Randi Brooks",
+                "popularity": 0.017,
+                "profile_path": "/oTEf3vBuRqM2C4st1cF1xm10WPh.jpg",
+                "cast_id": 7,
+                "character": "Cherry",
+                "credit_id": "52fe4489c3a368484e0286c9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91304,
+                "known_for_department": "Acting",
+                "name": "Jennifer Richards",
+                "original_name": "Jennifer Richards",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Medusa",
+                "credit_id": "52fe4489c3a368484e0286cd",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63214,
+                "known_for_department": "Acting",
+                "name": "Sonny Carl Davis",
+                "original_name": "Sonny Carl Davis",
+                "popularity": 0.033,
+                "profile_path": "/rT9gvwfifLVt0Sz56k9EVrYX5mM.jpg",
+                "cast_id": 9,
+                "character": "Norton",
+                "credit_id": "52fe4489c3a368484e0286d1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34986,
+                "known_for_department": "Acting",
+                "name": "Ian Patrick Williams",
+                "original_name": "Ian Patrick Williams",
+                "popularity": 0.017,
+                "profile_path": "/2GkjmbqE7yGgJsQYULkXFG2yHTC.jpg",
+                "cast_id": 10,
+                "character": "Nutky",
+                "credit_id": "52fe4489c3a368484e0286d5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91305,
+                "known_for_department": "Acting",
+                "name": "William Paulson",
+                "original_name": "William Paulson",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Pluthar",
+                "credit_id": "52fe4489c3a368484e0286d9",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19707,
+                "known_for_department": "Production",
+                "name": "Charles Band",
+                "original_name": "Charles Band",
+                "popularity": 0.024,
+                "profile_path": "/mfTZ5yBOLqxdJ4YG0kHaA5rY0G4.jpg",
+                "credit_id": "52fe4489c3a368484e0286f1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 45988,
+                "known_for_department": "Production",
+                "name": "Debra Dion",
+                "original_name": "Debra Dion",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4489c3a368484e0286f7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91306,
+                "known_for_department": "Camera",
+                "name": "Romano Albani",
+                "original_name": "Romano Albani",
+                "popularity": 0.001,
+                "profile_path": "/3tPeC3bKPTwj9VWMPaZ7umzT7CW.jpg",
+                "credit_id": "52fe4489c3a368484e028703",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91307,
+                "known_for_department": "Editing",
+                "name": "Thomas Meshelski",
+                "original_name": "Thomas Meshelski",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4489c3a368484e028709",
+                "department": "Editing",
+                "job": "Supervising Film Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19708,
+                "known_for_department": "Production",
+                "name": "Albert Band",
+                "original_name": "Albert Band",
+                "popularity": 0.013,
+                "profile_path": "/plDhVSw65LCv4GMI8yhVql8LFfC.jpg",
+                "credit_id": "52fe4489c3a368484e0286eb",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45989,
+                "known_for_department": "Directing",
+                "name": "Ted Nicolaou",
+                "original_name": "Ted Nicolaou",
+                "popularity": 0.009,
+                "profile_path": "/bIgHoWJVh4d2hnThSV2yTgyrLPo.jpg",
+                "credit_id": "52fe4489c3a368484e0286e5",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45989,
+                "known_for_department": "Directing",
+                "name": "Ted Nicolaou",
+                "original_name": "Ted Nicolaou",
+                "popularity": 0.009,
+                "profile_path": "/bIgHoWJVh4d2hnThSV2yTgyrLPo.jpg",
+                "credit_id": "52fe4489c3a368484e0286df",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91311,
+                "known_for_department": "Production",
+                "name": "Stefano Spadoni",
+                "original_name": "Stefano Spadoni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02872d",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91313,
+                "known_for_department": "Sound",
+                "name": "Tom Gerard",
+                "original_name": "Tom Gerard",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028739",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91325,
+                "known_for_department": "Production",
+                "name": "Andrea Borella",
+                "original_name": "Andrea Borella",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e0287a5",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7205,
+                "known_for_department": "Art",
+                "name": "Giovanni Natalucci",
+                "original_name": "Giovanni Natalucci",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02870f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91309,
+                "known_for_department": "Costume & Make-Up",
+                "name": "R. Christopher Biggs",
+                "original_name": "R. Christopher Biggs",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028721",
+                "department": "Crew",
+                "job": "Makeup Effects"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91312,
+                "known_for_department": "Sound",
+                "name": "Vanessa Theme Ament",
+                "original_name": "Vanessa Theme Ament",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028733",
+                "department": "Sound",
+                "job": "Foley"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91316,
+                "known_for_department": "Crew",
+                "name": "Michelle Oggeri",
+                "original_name": "Michelle Oggeri",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028763",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91322,
+                "known_for_department": "Editing",
+                "name": "Claudia Hoover",
+                "original_name": "Claudia Hoover",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028787",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91315,
+                "known_for_department": "Acting",
+                "name": "Cleve Hall",
+                "original_name": "Cleve Hall",
+                "popularity": 0.004,
+                "profile_path": "/m1EMyR27r8CpigFLn72t2f5D4DK.jpg",
+                "credit_id": "52fe448ac3a368484e028751",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91321,
+                "known_for_department": "Crew",
+                "name": "Juliet Avola",
+                "original_name": "Juliet Avola",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028781",
+                "department": "Crew",
+                "job": "Post-Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64722,
+                "known_for_department": "Crew",
+                "name": "John Carl Buechler",
+                "original_name": "John Carl Buechler",
+                "popularity": 0.016,
+                "profile_path": "/q0elk8xsBQ77AZIMtb7ARf9ehcj.jpg",
+                "credit_id": "52fe448ac3a368484e028745",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91320,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tim Turner",
+                "original_name": "Tim Turner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02877b",
+                "department": "Costume & Make-Up",
+                "job": "Co-Costume Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91318,
+                "known_for_department": "Crew",
+                "name": "Desiree Vaughn-Soto",
+                "original_name": "Desiree Vaughn-Soto",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02876f",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91310,
+                "known_for_department": "Production",
+                "name": "Roberto Bessi",
+                "original_name": "Roberto Bessi",
+                "popularity": 0.001,
+                "profile_path": "/tz4K4TVXoK2cjtY9CLTYmzR94tZ.jpg",
+                "credit_id": "52fe448ac3a368484e028727",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91314,
+                "known_for_department": "Crew",
+                "name": "Brent Armstrong",
+                "original_name": "Brent Armstrong",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02873f",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91326,
+                "known_for_department": "Visual Effects",
+                "name": "Andrew Doucette",
+                "original_name": "Andrew Doucette",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e0287ab",
+                "department": "Crew",
+                "job": "Title Graphics"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 91308,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Kathie Clark",
+                "original_name": "Kathie Clark",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02871b",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11419,
+                "known_for_department": "Crew",
+                "name": "Robert Kurtzman",
+                "original_name": "Robert Kurtzman",
+                "popularity": 0.022,
+                "profile_path": "/o1PEJuCD1cJkXeAYwpMJm7U2eFx.jpg",
+                "credit_id": "52fe448ac3a368484e02875d",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91327,
+                "known_for_department": "Production",
+                "name": "Giancarlo J. Sini",
+                "original_name": "Giancarlo J. Sini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e0287b1",
+                "department": "Production",
+                "job": "Production Accountant"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80884,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Michael Deak",
+                "original_name": "Michael Deak",
+                "popularity": 0.017,
+                "profile_path": "/dzOirewF7aizo1Bbwk8IKBykPCf.jpg",
+                "credit_id": "52fe448ac3a368484e02874b",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91319,
+                "known_for_department": "Crew",
+                "name": "John Vulich",
+                "original_name": "John Vulich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028775",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91317,
+                "known_for_department": "Crew",
+                "name": "Margherita Regina",
+                "original_name": "Margherita Regina",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e028769",
+                "department": "Crew",
+                "job": "Special Effects"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 91324,
+                "known_for_department": "Sound",
+                "name": "Tom Villano",
+                "original_name": "Tom Villano",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "52fe448ac3a368484e02879f",
+                "department": "Sound",
+                "job": "Music Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19711,
+                "known_for_department": "Sound",
+                "name": "Richard Band",
+                "original_name": "Richard Band",
+                "popularity": 0.012,
+                "profile_path": "/bKffnBSYOlfG0e38E1S2L9J4eo2.jpg",
+                "credit_id": "5682edcac3a3686075013ce6",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1555383,
+                "known_for_department": "Sound",
+                "name": "Don Perry",
+                "original_name": "Don Perry",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5682ea5dc3a3685f89000f3f",
+                "department": "Sound",
+                "job": "Music Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19711,
+                "known_for_department": "Sound",
+                "name": "Richard Band",
+                "original_name": "Richard Band",
+                "popularity": 0.012,
+                "profile_path": "/bKffnBSYOlfG0e38E1S2L9J4eo2.jpg",
+                "credit_id": "5682ecf392514131df01283e",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 28947,
+                "known_for_department": "Sound",
+                "name": "Christopher L. Stone",
+                "original_name": "Christopher L. Stone",
+                "popularity": 0.002,
+                "profile_path": "/duWSUuGBXCkOn1aX8DViBpKXMf.jpg",
+                "credit_id": "5682ed18c3a3682abc00ebee",
+                "department": "Sound",
+                "job": "Orchestrator"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1852,
+                "name": "mutant"
+            },
+            {
+                "id": 3092,
+                "name": "slime"
+            },
+            {
+                "id": 3376,
+                "name": "satellite"
+            },
+            {
+                "id": 9951,
+                "name": "alien"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Diane Franklin",
+            "character": "Suzy"
+        },
+        {
+            "actor": "Gerrit Graham",
+            "character": "Stanley"
+        },
+        {
+            "actor": "Mary Woronov",
+            "character": "Raquel Putterman"
+        },
+        {
+            "actor": "Chad Allen",
+            "character": "Sherman"
+        },
+        {
+            "actor": "Jon Gries",
+            "character": "OD"
+        },
+        {
+            "actor": "Bert Remsen",
+            "character": "Grampa"
+        },
+        {
+            "actor": "Alejandro Rey",
+            "character": "Spiro"
+        },
+        {
+            "actor": "Randi Brooks",
+            "character": "Cherry"
+        },
+        {
+            "actor": "Jennifer Richards",
+            "character": "Medusa"
+        },
+        {
+            "actor": "Sonny Carl Davis",
+            "character": "Norton"
+        },
+        {
+            "actor": "Ian Patrick Williams",
+            "character": "Nutky"
+        },
+        {
+            "actor": "William Paulson",
+            "character": "Pluthar"
+        }
+    ]
+}

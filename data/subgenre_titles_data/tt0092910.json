@@ -1,0 +1,575 @@
+{
+    "adult": false,
+    "backdrop_path": "/3ShPhAcdczflovQszzKXxn5iHJP.jpg",
+    "belongs_to_collection": null,
+    "budget": 90000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 67729,
+    "imdb_id": "tt0092910",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Doom Asylum",
+    "overview": "A demented former lawyer uses autopsy equipment to kill off the teenagers who trespass on the long-abandoned asylum he inhabits. Filmed on location in an actual abandoned asylum.",
+    "popularity": 2.617,
+    "poster_path": "/3JF6jxFpg7vJftePtIBy42F8p0v.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1988-03-02",
+    "revenue": 0,
+    "runtime": 79,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "SLASHING with a snicker, SLAUGHTER with a smirk...",
+    "title": "Doom Asylum",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 74,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "MIFED",
+                        "release_date": "1987-10-28T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1988-03-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 935902,
+                "known_for_department": "Acting",
+                "name": "Patty Mullen",
+                "original_name": "Patty Mullen",
+                "popularity": 0.013,
+                "profile_path": "/fLvVWXR98VPU01yzbaHlvbKkIoD.jpg",
+                "cast_id": 2,
+                "character": "Judy LaRue / Kiki LaRue",
+                "credit_id": "52fe4774c3a368484e0c7c9b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 52316,
+                "known_for_department": "Acting",
+                "name": "Ruth Collins",
+                "original_name": "Ruth Collins",
+                "popularity": 0.008,
+                "profile_path": "/cxyA4kWJHjMJE3fyC5o2wwgu3Y2.jpg",
+                "cast_id": 4,
+                "character": "Tina",
+                "credit_id": "57dfae21c3a3680c1f0001b7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 38025,
+                "known_for_department": "Acting",
+                "name": "Kristin Davis",
+                "original_name": "Kristin Davis",
+                "popularity": 0.045,
+                "profile_path": "/61TjappibaZ1i8pEFlqwK2yrR2W.jpg",
+                "cast_id": 3,
+                "character": "Jane",
+                "credit_id": "52fe4774c3a368484e0c7c9f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1681923,
+                "known_for_department": "Acting",
+                "name": "William Hay",
+                "original_name": "William Hay",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 5,
+                "character": "Mike",
+                "credit_id": "57dfae2ec3a3680ca700019f",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1681924,
+                "known_for_department": "Acting",
+                "name": "Kenny L. Price",
+                "original_name": "Kenny L. Price",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Dennis",
+                "credit_id": "57dfae3792514106040001c8",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1487328,
+                "known_for_department": "Acting",
+                "name": "Harrison White",
+                "original_name": "Harrison White",
+                "popularity": 0.016,
+                "profile_path": "/p0ocpENvbN7TXMkDUt5NVHMeN42.jpg",
+                "cast_id": 7,
+                "character": "Darnell",
+                "credit_id": "57dfae4a92514106040001e0",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885706,
+                "known_for_department": "Acting",
+                "name": "Dawn Alvan",
+                "original_name": "Dawn Alvan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Godiva",
+                "credit_id": "59b60b259251417d0f0092a1",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3593758,
+                "known_for_department": "Acting",
+                "name": "Farin",
+                "original_name": "Farin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Rapunzel",
+                "credit_id": "62aebb62de11e500626dce14",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3593760,
+                "known_for_department": "Acting",
+                "name": "Michael Rogen",
+                "original_name": "Michael Rogen",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Mitch Hansen",
+                "credit_id": "62aebc04a6a4c100f0ab01ab",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3451295,
+                "known_for_department": "Acting",
+                "name": "Harvey Keith",
+                "original_name": "Harvey Keith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Medical Examiner",
+                "credit_id": "622123bb13a320006e312f40",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1085015,
+                "known_for_department": "Production",
+                "name": "Steven G. Menkin",
+                "original_name": "Steven G. Menkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 31,
+                "character": "Assistant Medical Examiner",
+                "credit_id": "62aebc727f1d8300512365dc",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885707,
+                "known_for_department": "Acting",
+                "name": "Paul Giorgi",
+                "original_name": "Paul Giorgi",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Fake Shemp",
+                "credit_id": "59b60b56c3a3682aba008e03",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39167,
+                "known_for_department": "Directing",
+                "name": "Richard Friedman",
+                "original_name": "Richard Friedman",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe4774c3a368484e0c7c97",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885701,
+                "known_for_department": "Art",
+                "name": "Kosmo Vinyl",
+                "original_name": "Kosmo Vinyl",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60ab19251417cbc0093d1",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1204164,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Tanya Seeman",
+                "original_name": "Tanya Seeman",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60ac89251417cb1009574",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885705,
+                "known_for_department": "Sound",
+                "name": "Jonathan Stuart",
+                "original_name": "Jonathan Stuart",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60afa9251417d1700947f",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1085015,
+                "known_for_department": "Production",
+                "name": "Steven G. Menkin",
+                "original_name": "Steven G. Menkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60a779251417cb5008f76",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1085015,
+                "known_for_department": "Production",
+                "name": "Steven G. Menkin",
+                "original_name": "Steven G. Menkin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60a839251417cbc009370",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 104434,
+                "known_for_department": "Camera",
+                "name": "Larry Revene",
+                "original_name": "Larry Revene",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "59b60a999251417ce200900a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1023285,
+                "known_for_department": "Production",
+                "name": "Alexander W. Kogan Jr.",
+                "original_name": "Alexander W. Kogan Jr.",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60b099251417d01008fca",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885702,
+                "known_for_department": "Art",
+                "name": "Hank Liebeskind",
+                "original_name": "Hank Liebeskind",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60abb9251417cb100955a",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": true,
+                "gender": 2,
+                "id": 106397,
+                "known_for_department": "Writing",
+                "name": "Rick Marx",
+                "original_name": "Rick Marx",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "59b60a679251417cbc009338",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885704,
+                "known_for_department": "Sound",
+                "name": "Dave Erlanger",
+                "original_name": "Dave Erlanger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60aefc3a3682b3d00949e",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885700,
+                "known_for_department": "Editing",
+                "name": "Ray Shapiro",
+                "original_name": "Ray Shapiro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60aa49251417cb100952c",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1885703,
+                "known_for_department": "Directing",
+                "name": "Elisabeth Myles",
+                "original_name": "Elisabeth Myles",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "59b60add9251417d0f009210",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39167,
+                "known_for_department": "Directing",
+                "name": "Richard Friedman",
+                "original_name": "Richard Friedman",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "59b60a50c3a3682b0a008ac8",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 960384,
+                "known_for_department": "Production",
+                "name": "Leonard Finger",
+                "original_name": "Leonard Finger",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76dacd069f0e000f314422",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1023288,
+                "known_for_department": "Production",
+                "name": "Barry Tucker",
+                "original_name": "Barry Tucker",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76daaa5907de00102bc109",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1416024,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Cidele Curo",
+                "original_name": "Cidele Curo",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d76daee5907de00122bc13f",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5952,
+                "known_for_department": "Production",
+                "name": "Ted Hope",
+                "original_name": "Ted Hope",
+                "popularity": 0.008,
+                "profile_path": "/atYPlQ6C8UwwKeMIfCdiWm6BjpQ.jpg",
+                "credit_id": "5d76dab939549a001395beac",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 950952,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vincent J. Guastini",
+                "original_name": "Vincent J. Guastini",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5d76dafd5907de00132bc15f",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2884,
+                "name": "asylum"
+            },
+            {
+                "id": 9844,
+                "name": "car crash"
+            },
+            {
+                "id": 12339,
+                "name": "slasher"
+            },
+            {
+                "id": 156179,
+                "name": "coroner"
+            },
+            {
+                "id": 209173,
+                "name": "abandoned"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Patty Mullen",
+            "character": "Judy LaRue / Kiki LaRue"
+        },
+        {
+            "actor": "Ruth Collins",
+            "character": "Tina"
+        },
+        {
+            "actor": "Kristin Davis",
+            "character": "Jane"
+        },
+        {
+            "actor": "William Hay",
+            "character": "Mike"
+        },
+        {
+            "actor": "Kenny L. Price",
+            "character": "Dennis"
+        },
+        {
+            "actor": "Harrison White",
+            "character": "Darnell"
+        },
+        {
+            "actor": "Dawn Alvan",
+            "character": "Godiva"
+        },
+        {
+            "actor": "Farin",
+            "character": "Rapunzel"
+        },
+        {
+            "actor": "Michael Rogen",
+            "character": "Mitch Hansen"
+        },
+        {
+            "actor": "Harvey Keith",
+            "character": "Medical Examiner"
+        },
+        {
+            "actor": "Steven G. Menkin",
+            "character": "Assistant Medical Examiner"
+        },
+        {
+            "actor": "Paul Giorgi",
+            "character": "Fake Shemp"
+        }
+    ]
+}

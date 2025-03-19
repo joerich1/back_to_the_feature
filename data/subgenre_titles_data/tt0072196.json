@@ -1,0 +1,526 @@
+{
+    "adult": false,
+    "backdrop_path": "/deVuMsEC2aJrZJ4HGPfkoLIYJ2n.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "",
+    "id": 94069,
+    "imdb_id": "tt0072196",
+    "origin_country": [
+        "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Spasmo",
+    "overview": "While walking along the beach, Christian and his girlfriend discover a mysterious woman washed ashore. The following day, Christian meets the woman again at a yacht party and soon finds himself entangled in a web of lust, intrigue and murder.",
+    "popularity": 1.947,
+    "poster_path": "/ci9BT6Bgqop21fL0mYLlHbgar8U.jpg",
+    "production_companies": [
+        {
+            "id": 83303,
+            "logo_path": null,
+            "name": "Rewind Film",
+            "origin_country": "IT"
+        },
+        {
+            "id": 75286,
+            "logo_path": null,
+            "name": "UTI Produzioni Associate",
+            "origin_country": "IT"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+        }
+    ],
+    "release_date": "1974-02-16",
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Spasmo",
+    "video": false,
+    "vote_average": 6.209,
+    "vote_count": 55,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2021-11-12T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Blu-Ray",
+                        "release_date": "2020-03-05T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "DVD",
+                        "release_date": "2007-02-12T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1974-02-16T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 269502,
+                "known_for_department": "Acting",
+                "name": "Robert Hoffmann",
+                "original_name": "Robert Hoffmann",
+                "popularity": 0.006,
+                "profile_path": "/421tXKtbXJaaIyRxXJMCfQnihjo.jpg",
+                "cast_id": 2,
+                "character": "Christian Bauman",
+                "credit_id": "52fe49489251416c750c30d3",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 93476,
+                "known_for_department": "Acting",
+                "name": "Suzy Kendall",
+                "original_name": "Suzy Kendall",
+                "popularity": 0.022,
+                "profile_path": "/x2KEWyZEsK0ePRVK9hgn95piT3i.jpg",
+                "cast_id": 3,
+                "character": "Barbara",
+                "credit_id": "52fe49489251416c750c30d7",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44961,
+                "known_for_department": "Acting",
+                "name": "Ivan Rassimov",
+                "original_name": "Ivan Rassimov",
+                "popularity": 0.014,
+                "profile_path": "/nawfX5ZPQcjrTecEWZLMiPAQg8Y.jpg",
+                "cast_id": 4,
+                "character": "Fritz Baumann",
+                "credit_id": "52fe49489251416c750c30db",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6787,
+                "known_for_department": "Acting",
+                "name": "Adolfo Lastretti",
+                "original_name": "Adolfo Lastretti",
+                "popularity": 0.007,
+                "profile_path": "/wssCNcdZ7ziWSbNYpABhJ62eHAe.jpg",
+                "cast_id": 5,
+                "character": "Tatum",
+                "credit_id": "52fe49489251416c750c30df",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 37773,
+                "known_for_department": "Acting",
+                "name": "Franco Silva",
+                "original_name": "Franco Silva",
+                "popularity": 0.004,
+                "profile_path": "/zoF3MjqIP1j3vuwtn0yPwhHgT6r.jpg",
+                "cast_id": 8,
+                "character": "Luca",
+                "credit_id": "58be64d0c3a3686630054058",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27196,
+                "known_for_department": "Acting",
+                "name": "Mario Erpichini",
+                "original_name": "Mario Erpichini",
+                "popularity": 0.004,
+                "profile_path": "/yO3NdlUhq989Bpq6Gnq9aIuodQd.jpg",
+                "cast_id": 9,
+                "character": "Alex",
+                "credit_id": "58be64dc925141340700ddb3",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 101127,
+                "known_for_department": "Acting",
+                "name": "Maria Pia Conte",
+                "original_name": "Maria Pia Conte",
+                "popularity": 0.006,
+                "profile_path": "/3Hlo3onar9H6s2Bqm4XnWWmmTdt.jpg",
+                "cast_id": 7,
+                "character": "Xenia",
+                "credit_id": "58be64c4c3a3680df800d419",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 102122,
+                "known_for_department": "Acting",
+                "name": "Rosita Torosh",
+                "original_name": "Rosita Torosh",
+                "popularity": 0.01,
+                "profile_path": "/8MjpSb9TQamZYGJ3b6t7YRMbalL.jpg",
+                "cast_id": 11,
+                "character": "Woman in Car",
+                "credit_id": "58be64f0925141608405c377",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 146998,
+                "known_for_department": "Acting",
+                "name": "Monica Monet",
+                "original_name": "Monica Monet",
+                "popularity": 0.004,
+                "profile_path": "/thUH68usdsYh2fHD9ZsRHH9k7vK.jpg",
+                "cast_id": 6,
+                "character": "Clorinda",
+                "credit_id": "52fe49489251416c750c30e3",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5688,
+                "known_for_department": "Acting",
+                "name": "Guido Alberti",
+                "original_name": "Guido Alberti",
+                "popularity": 0.01,
+                "profile_path": "/qE4NJkE8fjYyCEy3e8x9LEzpdyM.jpg",
+                "cast_id": 10,
+                "character": "Malcolm",
+                "credit_id": "58be64e5c3a3686630054074",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 39432,
+                "known_for_department": "Acting",
+                "name": "Tom Felleghy",
+                "original_name": "Tom Felleghy",
+                "popularity": 0.016,
+                "profile_path": "/uddfp0a5SEP33FqT5B7oYGHX3cg.jpg",
+                "cast_id": 12,
+                "character": "Mr. Bauman (uncredited)",
+                "credit_id": "58be6513925141609b059a88",
+                "order": 10
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22467,
+                "known_for_department": "Directing",
+                "name": "Umberto Lenzi",
+                "original_name": "Umberto Lenzi",
+                "popularity": 0.008,
+                "profile_path": "/pwXeVYS6zFhsZu3gkrJOsRbTEC1.jpg",
+                "credit_id": "52fe49489251416c750c30cf",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1259,
+                "known_for_department": "Sound",
+                "name": "Ennio Morricone",
+                "original_name": "Ennio Morricone",
+                "popularity": 0.025,
+                "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+                "credit_id": "5b5d84989251415224025fff",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 22467,
+                "known_for_department": "Directing",
+                "name": "Umberto Lenzi",
+                "original_name": "Umberto Lenzi",
+                "popularity": 0.008,
+                "profile_path": "/pwXeVYS6zFhsZu3gkrJOsRbTEC1.jpg",
+                "credit_id": "5c527756c3a3684793984793",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 31604,
+                "known_for_department": "Writing",
+                "name": "Massimo Franciosa",
+                "original_name": "Massimo Franciosa",
+                "popularity": 0.01,
+                "profile_path": "/a2GUhWkjWofEkAvI0QglkkLNaXZ.jpg",
+                "credit_id": "5c527745c3a368756485ce73",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 31605,
+                "known_for_department": "Writing",
+                "name": "Luisa Montagnana",
+                "original_name": "Luisa Montagnana",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5c527764c3a36847779923a9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2230854,
+                "known_for_department": "Writing",
+                "name": "Pino Boller",
+                "original_name": "Pino Boller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c5277b60e0a263ccddcb46f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5821,
+                "known_for_department": "Editing",
+                "name": "Eugenio Alabiso",
+                "original_name": "Eugenio Alabiso",
+                "popularity": 0.004,
+                "profile_path": "/8NXkXuYueRwoHslgCZqHls7U27l.jpg",
+                "credit_id": "5d976c6bae26be002bbe2f6d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 53195,
+                "known_for_department": "Production",
+                "name": "Ugo Tucci",
+                "original_name": "Ugo Tucci",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5d976c53075288002d3ffa74",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33861,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Silvio Laurenzi",
+                "original_name": "Silvio Laurenzi",
+                "popularity": 0.001,
+                "profile_path": "/A92IgQjbtsnPDQ6VM90lGh2nndz.jpg",
+                "credit_id": "5e7d6085ab1bc75874c32922",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 91797,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pierantonio Mecacci",
+                "original_name": "Pierantonio Mecacci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ff39f9567203d003dcc0585",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33813,
+                "known_for_department": "Art",
+                "name": "Giacomo Caló Carducci",
+                "original_name": "Giacomo Caló Carducci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ff39fa90c3ec8004083d504",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2230854,
+                "known_for_department": "Writing",
+                "name": "Pino Boller",
+                "original_name": "Pino Boller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67026626e4801491468590fd",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 68386,
+                "known_for_department": "Camera",
+                "name": "Sandro Borni",
+                "original_name": "Sandro Borni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "670266701592ef1ba9858247",
+                "department": "Sound",
+                "job": "Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1173400,
+                "known_for_department": "Camera",
+                "name": "Guglielmo Mancori",
+                "original_name": "Guglielmo Mancori",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "67b7f5fc21d4708b60eb337f",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 2489,
+                "name": "hereditary disease"
+            },
+            {
+                "id": 380,
+                "name": "sibling relationship"
+            },
+            {
+                "id": 2708,
+                "name": "hitman"
+            },
+            {
+                "id": 9826,
+                "name": "murder"
+            },
+            {
+                "id": 155755,
+                "name": "mysterious woman"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Robert Hoffmann",
+            "character": "Christian Bauman"
+        },
+        {
+            "actor": "Suzy Kendall",
+            "character": "Barbara"
+        },
+        {
+            "actor": "Ivan Rassimov",
+            "character": "Fritz Baumann"
+        },
+        {
+            "actor": "Adolfo Lastretti",
+            "character": "Tatum"
+        },
+        {
+            "actor": "Franco Silva",
+            "character": "Luca"
+        },
+        {
+            "actor": "Mario Erpichini",
+            "character": "Alex"
+        },
+        {
+            "actor": "Maria Pia Conte",
+            "character": "Xenia"
+        },
+        {
+            "actor": "Rosita Torosh",
+            "character": "Woman in Car"
+        },
+        {
+            "actor": "Monica Monet",
+            "character": "Clorinda"
+        },
+        {
+            "actor": "Guido Alberti",
+            "character": "Malcolm"
+        },
+        {
+            "actor": "Tom Felleghy",
+            "character": "Mr. Bauman (uncredited)"
+        }
+    ]
+}

@@ -1,0 +1,752 @@
+{
+    "adult": false,
+    "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81226469",
+    "id": 968739,
+    "imdb_id": "tt15548032",
+    "origin_country": [
+        "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Les liaisons dangereuses",
+    "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+    "popularity": 3.589,
+    "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+    "production_companies": [
+        {
+            "id": 103271,
+            "logo_path": null,
+            "name": "Autopilot Entertainment",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "FR",
+            "name": "France"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-07-08",
+    "revenue": 0,
+    "runtime": 109,
+    "spoken_languages": [
+        {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+        },
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dangerous Liaisons",
+    "video": false,
+    "vote_average": 5.917,
+    "vote_count": 296,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "U",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GR",
+                "release_dates": [
+                    {
+                        "certification": "K15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "\tNetflix",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Netflix",
+                        "release_date": "2022-07-08T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3527559,
+                "known_for_department": "Acting",
+                "name": "Paola Locatelli",
+                "original_name": "Paola Locatelli",
+                "popularity": 0.01,
+                "profile_path": "/mWojsDCUKV6LwfMjVYTrDCLSEyO.jpg",
+                "cast_id": 1,
+                "character": "Célène",
+                "credit_id": "626ab5cd75110d0065ed5acb",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3527561,
+                "known_for_department": "Acting",
+                "name": "Simon Rérolle",
+                "original_name": "Simon Rérolle",
+                "popularity": 0.006,
+                "profile_path": "/mb0iJHI9XsvznkMLHgMfCm7t7Nc.jpg",
+                "cast_id": 2,
+                "character": "Tristan Badiola",
+                "credit_id": "626ab62295acf00e1a374801",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3093534,
+                "known_for_department": "Acting",
+                "name": "Ella Pellegrini",
+                "original_name": "Ella Pellegrini",
+                "popularity": 0.004,
+                "profile_path": "/bgk2u6mGNGUeJnQxfCqA6lmRirg.jpg",
+                "cast_id": 11,
+                "character": "Vanessa",
+                "credit_id": "626ab9b5489d000052507653",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3139386,
+                "known_for_department": "Acting",
+                "name": "Héloïse Janjaud",
+                "original_name": "Héloïse Janjaud",
+                "popularity": 0.002,
+                "profile_path": "/8aR2c9SahY4NbbL3u2zvfRwNxbs.jpg",
+                "cast_id": 7,
+                "character": "Charlotte",
+                "credit_id": "626ab9352d531a09bfd0d7a8",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3363908,
+                "known_for_department": "Acting",
+                "name": "Jin Xuan Mao",
+                "original_name": "Jin Xuan Mao",
+                "popularity": 0.001,
+                "profile_path": "/7vUa5RANCkHTvlFK53MCYuNdhGN.jpg",
+                "cast_id": 19,
+                "character": "Tao",
+                "credit_id": "626abcf77d41aa0067984d8e",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2566289,
+                "known_for_department": "Acting",
+                "name": "Oscar Lesage",
+                "original_name": "Oscar Lesage",
+                "popularity": 0.03,
+                "profile_path": "/8N31SCzlmRBEHRXD7AIE50Wh7Fs.jpg",
+                "cast_id": 10,
+                "character": "Oscar",
+                "credit_id": "626ab995532acb0050750833",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3248086,
+                "known_for_department": "Acting",
+                "name": "Camille Léon-Fucien",
+                "original_name": "Camille Léon-Fucien",
+                "popularity": 0.002,
+                "profile_path": "/pb131tqOJdC8PcTknSkuNcXzOkn.jpg",
+                "cast_id": 5,
+                "character": "Naya",
+                "credit_id": "626ab8b7ec370c0d9a688525",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3527579,
+                "known_for_department": "Acting",
+                "name": "Elsa Duchez Paverani",
+                "original_name": "Elsa Duchez Paverani",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Ariel",
+                "credit_id": "626ab918489d000052507421",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3220450,
+                "known_for_department": "Acting",
+                "name": "Aymeric Fougeron",
+                "original_name": "Aymeric Fougeron",
+                "popularity": 0.004,
+                "profile_path": "/2GiOfHcnoMqJGwDu7JiU8YMlgph.jpg",
+                "cast_id": 12,
+                "character": "Pierre",
+                "credit_id": "626abade2d531a09bfd0de24",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3527580,
+                "known_for_department": "Acting",
+                "name": "Tristan Zanchi",
+                "original_name": "Tristan Zanchi",
+                "popularity": 0.003,
+                "profile_path": "/aiEGGbEWSTvth4PAlRQySWLxlsy.jpg",
+                "cast_id": 9,
+                "character": "Ben",
+                "credit_id": "626ab9739824c800642478d6",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3306944,
+                "known_for_department": "Acting",
+                "name": "Julien Lopez",
+                "original_name": "Julien Lopez",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 8,
+                "character": "Julius",
+                "credit_id": "626ab954532acb00507506e0",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 431148,
+                "known_for_department": "Acting",
+                "name": "Alexis Michalik",
+                "original_name": "Alexis Michalik",
+                "popularity": 0.012,
+                "profile_path": "/mTkQ8zxBj9uIFJeN5yR3uKOGMnk.jpg",
+                "cast_id": 3,
+                "character": "Christophe",
+                "credit_id": "626ab71675110d005047edff",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1308777,
+                "known_for_department": "Acting",
+                "name": "Nicolas Berno",
+                "original_name": "Nicolas Berno",
+                "popularity": 0.003,
+                "profile_path": "/YAxdvjzRgdxNtUPvBzvQi8PuIZ.jpg",
+                "cast_id": 20,
+                "character": "Patrick",
+                "credit_id": "626abd1790dde000661480d1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3286436,
+                "known_for_department": "Acting",
+                "name": "Nicolas Jacquens",
+                "original_name": "Nicolas Jacquens",
+                "popularity": 0.001,
+                "profile_path": "/bCucMxRovnU60XrmaXbmcq1pAvC.jpg",
+                "cast_id": 23,
+                "character": "Franck",
+                "credit_id": "647e60f193828e00dcde0c9e",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4098900,
+                "known_for_department": "Acting",
+                "name": "Léopold Martin",
+                "original_name": "Léopold Martin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 24,
+                "character": "Léo",
+                "credit_id": "647e614417497300de67a3c1",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1308773,
+                "known_for_department": "Acting",
+                "name": "Sabine Perraud",
+                "original_name": "Sabine Perraud",
+                "popularity": 0.013,
+                "profile_path": "/j0aBvQzLk0tiwzIvhf3MuDZtc7T.jpg",
+                "cast_id": 25,
+                "character": "Madame Badiola",
+                "credit_id": "647e615893828e013378f195",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1452603,
+                "known_for_department": "Acting",
+                "name": "Rachel Suissa",
+                "original_name": "Rachel Suissa",
+                "popularity": 0.004,
+                "profile_path": "/pcSkf6grXPnvSKJTcNBnQiGZV5H.jpg",
+                "cast_id": 26,
+                "character": "La directrice de théâtre",
+                "credit_id": "647e6174caef2d0119c0fcc0",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1033712,
+                "known_for_department": "Acting",
+                "name": "Ginnie Watson",
+                "original_name": "Ginnie Watson",
+                "popularity": 0.006,
+                "profile_path": "/sMeGyAU333f5Y1ngP5k32fjTslK.jpg",
+                "cast_id": 27,
+                "character": "L'agent de Vanessa",
+                "credit_id": "647e6192caef2d00fce6d202",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4098903,
+                "known_for_department": "Acting",
+                "name": "Mollie Laylin",
+                "original_name": "Mollie Laylin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Jessica Stone",
+                "credit_id": "647e61b90e29a22bdebd2d3e",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3221877,
+                "known_for_department": "Production",
+                "name": "Sophia Benkirane",
+                "original_name": "Sophia Benkirane",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Fille 2",
+                "credit_id": "647e61d593828e00a765b135",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3516719,
+                "known_for_department": "Acting",
+                "name": "Asia Suissa-Fuller",
+                "original_name": "Asia Suissa-Fuller",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "Vanessa \"La Petite Sophie\" enfant",
+                "credit_id": "647e61fecaef2d0119c0fcf0",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1690386,
+                "known_for_department": "Acting",
+                "name": "Lila-Rose Gilberti",
+                "original_name": "Lila-Rose Gilberti",
+                "popularity": 0.007,
+                "profile_path": "/yQVVrxl9VjMi1Oa7jPKPoNcEEaJ.jpg",
+                "cast_id": 31,
+                "character": "Vanessa \"La Petite Sophie\" ado",
+                "credit_id": "647e622b17497300a81aa580",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4098911,
+                "known_for_department": "Acting",
+                "name": "Clara Marzloff",
+                "original_name": "Clara Marzloff",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Clara Marz",
+                "credit_id": "647e624dcf4b8b00a878c450",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 544658,
+                "known_for_department": "Acting",
+                "name": "Moon Dailly",
+                "original_name": "Moon Dailly",
+                "popularity": 0.016,
+                "profile_path": "/mg4qIXphpd1tAZwWNvvuPDNt3mA.jpg",
+                "cast_id": 33,
+                "character": "Jade",
+                "credit_id": "647e625f17497300c1339b28",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 932117,
+                "known_for_department": "Acting",
+                "name": "Vanessa Guide",
+                "original_name": "Vanessa Guide",
+                "popularity": 0.02,
+                "profile_path": "/s6gnkkXgRgGMGWCPOGjoIpO2kXc.jpg",
+                "cast_id": 34,
+                "character": "Fan",
+                "credit_id": "647e6278ccde0400de901ce6",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2014128,
+                "known_for_department": "Production",
+                "name": "Edouard de Lachomette",
+                "original_name": "Edouard de Lachomette",
+                "popularity": 0.001,
+                "profile_path": "/alexQj9YyNDvrLqwFCYHTQRVHjQ.jpg",
+                "credit_id": "626abb66394a870069fac175",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1021244,
+                "known_for_department": "Production",
+                "name": "Eleonore Dailly",
+                "original_name": "Eleonore Dailly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "626abb55ec370c0d99864904",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 114363,
+                "known_for_department": "Editing",
+                "name": "Julien Rey",
+                "original_name": "Julien Rey",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "626abbaa95acf00e1cc38c0f",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2561856,
+                "known_for_department": "Crew",
+                "name": "Clément Dumoulin",
+                "original_name": "Clément Dumoulin",
+                "popularity": 0.001,
+                "profile_path": "/3bVOWJqvEtva8UwBzQHzKDMEPCM.jpg",
+                "credit_id": "626abbb99824c800989c6624",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 20844,
+                "known_for_department": "Camera",
+                "name": "Giovanni Fiore Coltellacci",
+                "original_name": "Giovanni Fiore Coltellacci",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "626abb8a394a8700532d3d65",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1452603,
+                "known_for_department": "Acting",
+                "name": "Rachel Suissa",
+                "original_name": "Rachel Suissa",
+                "popularity": 0.004,
+                "profile_path": "/pcSkf6grXPnvSKJTcNBnQiGZV5H.jpg",
+                "credit_id": "626b22e30ed2ab01825ca4d2",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1155077,
+                "known_for_department": "Art",
+                "name": "Samantha Gordowski",
+                "original_name": "Samantha Gordowski",
+                "popularity": 0.001,
+                "profile_path": "/cRzMdGHyfFlifgOemSTHWjHaDgM.jpg",
+                "credit_id": "647e63c9ccde0400fbceb24d",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4098930,
+                "known_for_department": "Production",
+                "name": "Nicolas Derouet",
+                "original_name": "Nicolas Derouet",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "647e63b90e29a22be32813cf",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1163450,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Emmanuelle Youchnovski",
+                "original_name": "Emmanuelle Youchnovski",
+                "popularity": 0.006,
+                "profile_path": "/pjLbPFpJEDOmO6U3E3LgQiYGAuK.jpg",
+                "credit_id": "647e63d693828e00dcde0d60",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1452603,
+                "known_for_department": "Acting",
+                "name": "Rachel Suissa",
+                "original_name": "Rachel Suissa",
+                "popularity": 0.004,
+                "profile_path": "/pcSkf6grXPnvSKJTcNBnQiGZV5H.jpg",
+                "credit_id": "647e63630e29a22bdebd2da4",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11879,
+                "known_for_department": "Writing",
+                "name": "Choderlos de Laclos",
+                "original_name": "Choderlos de Laclos",
+                "popularity": 0.002,
+                "profile_path": "/re6q4Vx56AzLDOrhDd0S8RpFDsv.jpg",
+                "credit_id": "647e6381caef2d0119c0fd80",
+                "department": "Writing",
+                "job": "Novel"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1308760,
+                "known_for_department": "Acting",
+                "name": "Slimane-Baptiste Berhoun",
+                "original_name": "Slimane-Baptiste Berhoun",
+                "popularity": 0.004,
+                "profile_path": "/d7MVGNYC7b9EdSNan6BmgmVXBeg.jpg",
+                "credit_id": "647e63580fb39800fb0ccf1d",
+                "department": "Writing",
+                "job": "Co-Writer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": []
+    },
+    "actors_characters": [
+        {
+            "actor": "Paola Locatelli",
+            "character": "Célène"
+        },
+        {
+            "actor": "Simon Rérolle",
+            "character": "Tristan Badiola"
+        },
+        {
+            "actor": "Ella Pellegrini",
+            "character": "Vanessa"
+        },
+        {
+            "actor": "Héloïse Janjaud",
+            "character": "Charlotte"
+        },
+        {
+            "actor": "Jin Xuan Mao",
+            "character": "Tao"
+        },
+        {
+            "actor": "Oscar Lesage",
+            "character": "Oscar"
+        },
+        {
+            "actor": "Camille Léon-Fucien",
+            "character": "Naya"
+        },
+        {
+            "actor": "Elsa Duchez Paverani",
+            "character": "Ariel"
+        },
+        {
+            "actor": "Aymeric Fougeron",
+            "character": "Pierre"
+        },
+        {
+            "actor": "Tristan Zanchi",
+            "character": "Ben"
+        },
+        {
+            "actor": "Julien Lopez",
+            "character": "Julius"
+        },
+        {
+            "actor": "Alexis Michalik",
+            "character": "Christophe"
+        },
+        {
+            "actor": "Nicolas Berno",
+            "character": "Patrick"
+        },
+        {
+            "actor": "Nicolas Jacquens",
+            "character": "Franck"
+        },
+        {
+            "actor": "Léopold Martin",
+            "character": "Léo"
+        },
+        {
+            "actor": "Sabine Perraud",
+            "character": "Madame Badiola"
+        },
+        {
+            "actor": "Rachel Suissa",
+            "character": "La directrice de théâtre"
+        },
+        {
+            "actor": "Ginnie Watson",
+            "character": "L'agent de Vanessa"
+        },
+        {
+            "actor": "Mollie Laylin",
+            "character": "Jessica Stone"
+        },
+        {
+            "actor": "Sophia Benkirane",
+            "character": "Fille 2"
+        },
+        {
+            "actor": "Asia Suissa-Fuller",
+            "character": "Vanessa \"La Petite Sophie\" enfant"
+        },
+        {
+            "actor": "Lila-Rose Gilberti",
+            "character": "Vanessa \"La Petite Sophie\" ado"
+        },
+        {
+            "actor": "Clara Marzloff",
+            "character": "Clara Marz"
+        },
+        {
+            "actor": "Moon Dailly",
+            "character": "Jade"
+        },
+        {
+            "actor": "Vanessa Guide",
+            "character": "Fan"
+        }
+    ]
+}

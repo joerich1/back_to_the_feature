@@ -1,0 +1,801 @@
+{
+    "adult": false,
+    "backdrop_path": "/zLyPji2w032idP56LYOjQCJUPSr.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 618019,
+    "imdb_id": "tt7584702",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Awake",
+    "overview": "A man wakes in a hospital bed with no recollection of who he is, and learns that he's wanted by the police for a committing a series of murders.",
+    "popularity": 3.539,
+    "poster_path": "/t2dYdtArwjZJRXbKNFlqr20g8Er.jpg",
+    "production_companies": [
+        {
+            "id": 121202,
+            "logo_path": null,
+            "name": "Archer Film Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 121204,
+            "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+            "name": "BondIt Media Capital",
+            "origin_country": "US"
+        },
+        {
+            "id": 121205,
+            "logo_path": "/f1oMMN9etU1sT6owkPDtxFH2yMA.png",
+            "name": "VMI WorldWide",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2019-08-01",
+    "revenue": 0,
+    "runtime": 92,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Awake",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 143,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "VOD",
+                        "release_date": "2022-04-20T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-05-09T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2024-06-06T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "fr",
+                        "note": "",
+                        "release_date": "2019-08-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "VM14",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-08-01T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-09-05T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-08-01T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2021-02-10T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-08-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2021-05-27T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-08-16T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "NR",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2019-09-24T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1244,
+                "known_for_department": "Acting",
+                "name": "Jonathan Rhys Meyers",
+                "original_name": "Jonathan Rhys Meyers",
+                "popularity": 0.076,
+                "profile_path": "/RsrGA98aMmyjTTxTLhAaOqnfLz.jpg",
+                "cast_id": 1,
+                "character": "John Doe",
+                "credit_id": "5d390dcbab68496bf784717d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1274513,
+                "known_for_department": "Acting",
+                "name": "Francesca Eastwood",
+                "original_name": "Francesca Eastwood",
+                "popularity": 0.024,
+                "profile_path": "/6gfWW8t1PG5ZaHPQxolHvN7pXnd.jpg",
+                "cast_id": 2,
+                "character": "Diana",
+                "credit_id": "5d390de0ab6849105b892693",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4520,
+                "known_for_department": "Acting",
+                "name": "William Forsythe",
+                "original_name": "William Forsythe",
+                "popularity": 0.051,
+                "profile_path": "/35BXHugSG931iVPbHn6W9SNXNY1.jpg",
+                "cast_id": 3,
+                "character": "Roger Bower",
+                "credit_id": "5d390dfbab684974f58c8e1d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12977,
+                "known_for_department": "Acting",
+                "name": "Malik Yoba",
+                "original_name": "Malik Yoba",
+                "popularity": 0.037,
+                "profile_path": "/nq7sNTe2I6xAoN2JiCrbDaZq5kn.jpg",
+                "cast_id": 4,
+                "character": "Frank Ward",
+                "credit_id": "5d390e11e54d5d2f6adc5d49",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1517269,
+                "known_for_department": "Acting",
+                "name": "James Austin Kerr",
+                "original_name": "James Austin Kerr",
+                "popularity": 0.014,
+                "profile_path": "/11ntHOXkZvJpsMhO2zxfX2ZiNyL.jpg",
+                "cast_id": 5,
+                "character": "Oliver",
+                "credit_id": "5d390e2eab68496bf7847267",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 97397,
+                "known_for_department": "Acting",
+                "name": "Ginger Gilmartin",
+                "original_name": "Ginger Gilmartin",
+                "popularity": 0.006,
+                "profile_path": "/kYPDyp4DW8xlkEqoclt0MO5oVFk.jpg",
+                "cast_id": 6,
+                "character": "Elizabeth",
+                "credit_id": "5d390e4560c51d00128927c4",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2370618,
+                "known_for_department": "Acting",
+                "name": "Cheyenne Rose Martin",
+                "original_name": "Cheyenne Rose Martin",
+                "popularity": 0.002,
+                "profile_path": "/i2WLT0GxsxVUxILMHHModyChDv2.jpg",
+                "cast_id": 8,
+                "character": "Mia (as Cheyenne Martin)",
+                "credit_id": "5d39185460c51d0012894029",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1944127,
+                "known_for_department": "Acting",
+                "name": "Kaye Brownlee-France",
+                "original_name": "Kaye Brownlee-France",
+                "popularity": 0.002,
+                "profile_path": "/TIhalBAOE57NIXQhkg9vy7pfPO.jpg",
+                "cast_id": 9,
+                "character": "Annabelle Fargo",
+                "credit_id": "5d39186eab684968b5848d02",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2237936,
+                "known_for_department": "Acting",
+                "name": "Erin Herring",
+                "original_name": "Erin Herring",
+                "popularity": 0.001,
+                "profile_path": "/rDG9O8MdQVeh5omFkQJDEbuknew.jpg",
+                "cast_id": 10,
+                "character": "Nurse",
+                "credit_id": "5d391883e54d5d2533da649d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2370619,
+                "known_for_department": "Acting",
+                "name": "David C Tam",
+                "original_name": "David C Tam",
+                "popularity": 0.001,
+                "profile_path": "/qQzMxkQpQWCDyN8WrmbiLgQP74j.jpg",
+                "cast_id": 11,
+                "character": "Coroner",
+                "credit_id": "5d39189ce54d5d2f6adc7af7",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2370620,
+                "known_for_department": "Writing",
+                "name": "C. Neil Davenport",
+                "original_name": "C. Neil Davenport",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 12,
+                "character": "Victum",
+                "credit_id": "5d3918c1e54d5d2533da6515",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2107105,
+                "known_for_department": "Acting",
+                "name": "Dale Murphy",
+                "original_name": "Dale Murphy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 13,
+                "character": "Sheriff Deputy",
+                "credit_id": "5d3918db60c51d07878379a2",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2128871,
+                "known_for_department": "Production",
+                "name": "Dale Niehaus",
+                "original_name": "Dale Niehaus",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Pedestrian / homeless person",
+                "credit_id": "5d39194c60c51d6c6a8139e3",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2370621,
+                "known_for_department": "Acting",
+                "name": "Bryce Camp",
+                "original_name": "Bryce Camp",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 15,
+                "character": "Library patron",
+                "credit_id": "5d39196060c51d6c6a813a1b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2370622,
+                "known_for_department": "Acting",
+                "name": "Gina D. Brewer",
+                "original_name": "Gina D. Brewer",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Nurse",
+                "credit_id": "5d391983ab684974f58caaa8",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1514102,
+                "known_for_department": "Acting",
+                "name": "Cheryl McConnell",
+                "original_name": "Cheryl McConnell",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 34,
+                "character": "Nurse",
+                "credit_id": "619745d34f9a9900244afabb",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2042775,
+                "known_for_department": "Acting",
+                "name": "Erin Elizabeth Cook",
+                "original_name": "Erin Elizabeth Cook",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Waitress",
+                "credit_id": "6500f9ddd7dcd200ffebc436",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2796097,
+                "known_for_department": "Acting",
+                "name": "Jeremy Parr",
+                "original_name": "Jeremy Parr",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Thomas",
+                "credit_id": "6500faf7efea7a00c396e696",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236809,
+                "known_for_department": "Directing",
+                "name": "Alexander Chernyaev",
+                "original_name": "Alexander Chernyaev",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5d390ff7ab684969a5847abb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1677612,
+                "known_for_department": "Acting",
+                "name": "Elana Zeltser",
+                "original_name": "Elana Zeltser",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d3919e4ab684968b584911b",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2414418,
+                "known_for_department": "Production",
+                "name": "J.D. Beaufils",
+                "original_name": "J.D. Beaufils",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d836986c49048023ad1ef09",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1738094,
+                "known_for_department": "Production",
+                "name": "Brittani Ward",
+                "original_name": "Brittani Ward",
+                "popularity": 0.002,
+                "profile_path": "/bxYKcd0QOknjhdP8MxX1we6MLlx.jpg",
+                "credit_id": "5d836a229e4586022695c484",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1510871,
+                "known_for_department": "Editing",
+                "name": "Katerina Valenti",
+                "original_name": "Katerina Valenti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d83696c9e4586022695c325",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 236809,
+                "known_for_department": "Directing",
+                "name": "Alexander Chernyaev",
+                "original_name": "Alexander Chernyaev",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "5d8369a59e4586023f94e372",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1680440,
+                "known_for_department": "Production",
+                "name": "Patrick DePeters",
+                "original_name": "Patrick DePeters",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d8369c1e04aca0225c44bf1",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1501837,
+                "known_for_department": "Camera",
+                "name": "Jessica Bennett",
+                "original_name": "Jessica Bennett",
+                "popularity": 0.001,
+                "profile_path": "/bCCkFnu3HkuCCpNl0ok7GX01cnw.jpg",
+                "credit_id": "5d836997162bc30240ddd246",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1673707,
+                "known_for_department": "Production",
+                "name": "Luke Taylor",
+                "original_name": "Luke Taylor",
+                "popularity": 0.014,
+                "profile_path": "/hMQuwCLvqQfd8XF0n3NwUub0AxR.jpg",
+                "credit_id": "5d836a14162bc30240ddd2ef",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1275657,
+                "known_for_department": "Production",
+                "name": "Andre Relis",
+                "original_name": "Andre Relis",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5d8369f8162bc30259dd537d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1524275,
+                "known_for_department": "Camera",
+                "name": "Fedor Lyass",
+                "original_name": "Fedor Lyass",
+                "popularity": 0.001,
+                "profile_path": "/dZAU8ibaPn1TzCzXeS2Fylyuo41.jpg",
+                "credit_id": "5d83680cc490480221d29b2d",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1489060,
+                "known_for_department": "Production",
+                "name": "Matthew Helderman",
+                "original_name": "Matthew Helderman",
+                "popularity": 0.007,
+                "profile_path": "/7jf5ERhOvG4jmxt106EJCOZQMzK.jpg",
+                "credit_id": "5d8369d5162bc30240ddd28d",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2128853,
+                "known_for_department": "Production",
+                "name": "Chris Freihofer",
+                "original_name": "Chris Freihofer",
+                "popularity": 0.015,
+                "profile_path": "/2hrz73LkQoTFCa7jZJMJUj5S5oc.jpg",
+                "credit_id": "5d836a309e4586022695c49f",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2414417,
+                "known_for_department": "Production",
+                "name": "Mickey Guerin",
+                "original_name": "Mickey Guerin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d836979162bc30227de9b4f",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1510870,
+                "known_for_department": "Sound",
+                "name": "Alex Kharlamov",
+                "original_name": "Alex Kharlamov",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d8367fae04aca0225c44826",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1275657,
+                "known_for_department": "Production",
+                "name": "Andre Relis",
+                "original_name": "Andre Relis",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5d836a04c49048023ad1ef82",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2414416,
+                "known_for_department": "Art",
+                "name": "Zackary Steven Graham",
+                "original_name": "Zackary Steven Graham",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5d836958c490480221d29d84",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1471435,
+                "known_for_department": "Production",
+                "name": "Luke Daniels",
+                "original_name": "Luke Daniels",
+                "popularity": 0.004,
+                "profile_path": "/7dg4gumZ7rq3C69vrMe49PWYeeq.jpg",
+                "credit_id": "5d8369b4c490480221d29e12",
+                "department": "Production",
+                "job": "Executive Producer"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 1453,
+                "name": "amnesia"
+            },
+            {
+                "id": 11612,
+                "name": "hospital"
+            },
+            {
+                "id": 14676,
+                "name": "series of murders"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jonathan Rhys Meyers",
+            "character": "John Doe"
+        },
+        {
+            "actor": "Francesca Eastwood",
+            "character": "Diana"
+        },
+        {
+            "actor": "William Forsythe",
+            "character": "Roger Bower"
+        },
+        {
+            "actor": "Malik Yoba",
+            "character": "Frank Ward"
+        },
+        {
+            "actor": "James Austin Kerr",
+            "character": "Oliver"
+        },
+        {
+            "actor": "Ginger Gilmartin",
+            "character": "Elizabeth"
+        },
+        {
+            "actor": "Cheyenne Rose Martin",
+            "character": "Mia (as Cheyenne Martin)"
+        },
+        {
+            "actor": "Kaye Brownlee-France",
+            "character": "Annabelle Fargo"
+        },
+        {
+            "actor": "Erin Herring",
+            "character": "Nurse"
+        },
+        {
+            "actor": "David C Tam",
+            "character": "Coroner"
+        },
+        {
+            "actor": "C. Neil Davenport",
+            "character": "Victum"
+        },
+        {
+            "actor": "Dale Murphy",
+            "character": "Sheriff Deputy"
+        },
+        {
+            "actor": "Dale Niehaus",
+            "character": "Pedestrian / homeless person"
+        },
+        {
+            "actor": "Bryce Camp",
+            "character": "Library patron"
+        },
+        {
+            "actor": "Gina D. Brewer",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Cheryl McConnell",
+            "character": "Nurse"
+        },
+        {
+            "actor": "Erin Elizabeth Cook",
+            "character": "Waitress"
+        },
+        {
+            "actor": "Jeremy Parr",
+            "character": "Thomas"
+        }
+    ]
+}

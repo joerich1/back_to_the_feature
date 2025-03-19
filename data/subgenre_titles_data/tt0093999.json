@@ -1,0 +1,476 @@
+{
+    "adult": false,
+    "backdrop_path": "/4AfmZTVeuXFt0BAmPFMfjb9lyNM.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "",
+    "id": 59075,
+    "imdb_id": "tt0093999",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Snow White",
+    "overview": "A prince, seeking the greatest treasure, stumbles upon seven little men guarding a coffin. They tell him the story of Snow White, a beautiful princess who was forced to run away from home after her jealous stepmother tried to have her killed. When she realizes that the girl is still alive and living with the dwarfs, she sets out to destroy her only rival once and for all.",
+    "popularity": 0.883,
+    "poster_path": "/k7ICLYTRHdyERwOC29pd9FqZD3H.jpg",
+    "production_companies": [
+        {
+            "id": 1444,
+            "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+            "name": "The Cannon Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 13549,
+            "logo_path": null,
+            "name": "Golan-Globus Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IL",
+            "name": "Israel"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1987-05-14",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The beloved fairy tale that will awaken your dreams.",
+    "title": "Snow White",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 25,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "RTL plus",
+                        "release_date": "1990-11-01T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1987-05-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 10168,
+                "known_for_department": "Acting",
+                "name": "Diana Rigg",
+                "original_name": "Diana Rigg",
+                "popularity": 0.064,
+                "profile_path": "/nGLMbJZehRWNmb7MaoCJjVk0bUo.jpg",
+                "cast_id": 1,
+                "character": "Evil Queen",
+                "credit_id": "52fe4980c3a36847f819d687",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 12659,
+                "known_for_department": "Acting",
+                "name": "Billy Barty",
+                "original_name": "Billy Barty",
+                "popularity": 0.04,
+                "profile_path": "/b8Q8bD1AaXFDBpAg4pDBkb7Z1Nh.jpg",
+                "cast_id": 2,
+                "character": "Iddy",
+                "credit_id": "52fe4980c3a36847f819d68b",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 70882,
+                "known_for_department": "Acting",
+                "name": "Sarah Patterson",
+                "original_name": "Sarah Patterson",
+                "popularity": 0.003,
+                "profile_path": "/nlXvMHuSYBc2LNSKUFY9cyFd1LI.jpg",
+                "cast_id": 3,
+                "character": "Snow White",
+                "credit_id": "52fe4980c3a36847f819d68f",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 135174,
+                "known_for_department": "Acting",
+                "name": "Nicola Stapleton",
+                "original_name": "Nicola Stapleton",
+                "popularity": 0.011,
+                "profile_path": "/vy1rehPvCpvW8OqCkVhMNrdFyrb.jpg",
+                "cast_id": 4,
+                "character": "Snow White as a child",
+                "credit_id": "52fe4980c3a36847f819d693",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 219382,
+                "known_for_department": "Acting",
+                "name": "Mike Edmonds",
+                "original_name": "Mike Edmonds",
+                "popularity": 0.007,
+                "profile_path": "/vLOB9mTZ15CS0oTgEteTEio8RC2.jpg",
+                "cast_id": 5,
+                "character": "Biddy",
+                "credit_id": "52fe4980c3a36847f819d697",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228789,
+                "known_for_department": "Acting",
+                "name": "Ricardo Gil",
+                "original_name": "Ricardo Gil",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Kiddy",
+                "credit_id": "52fe4980c3a36847f819d69b",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 182851,
+                "known_for_department": "Acting",
+                "name": "Gary Friedkin",
+                "original_name": "Gary Friedkin",
+                "popularity": 0.008,
+                "profile_path": "/7yIbiI3P6T8pfttjwUIAHpsVlpf.jpg",
+                "cast_id": 7,
+                "character": "Fiddy",
+                "credit_id": "52fe4980c3a36847f819d69f",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81416,
+                "known_for_department": "Acting",
+                "name": "Arturo Gil",
+                "original_name": "Arturo Gil",
+                "popularity": 0.01,
+                "profile_path": "/eCIZwSbxlPfnkn46NiEV9GKpXBv.jpg",
+                "cast_id": 8,
+                "character": "Giddy",
+                "credit_id": "52fe4980c3a36847f819d6a3",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228791,
+                "known_for_department": "Acting",
+                "name": "Tony Cooper",
+                "original_name": "Tony Cooper",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Liddy",
+                "credit_id": "52fe4980c3a36847f819d6a7",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 228792,
+                "known_for_department": "Acting",
+                "name": "Dorit Adi",
+                "original_name": "Dorit Adi",
+                "popularity": 0.001,
+                "profile_path": "/tnhJnGqawk783Gc14a4kTzREnHK.jpg",
+                "cast_id": 10,
+                "character": "Good Queen",
+                "credit_id": "52fe4980c3a36847f819d6ab",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 228793,
+                "known_for_department": "Acting",
+                "name": "James Ian Wright",
+                "original_name": "James Ian Wright",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 11,
+                "character": "Prince",
+                "credit_id": "52fe4980c3a36847f819d6af",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1100766,
+                "known_for_department": "Acting",
+                "name": "Amnon Meskin",
+                "original_name": "Amnon Meskin",
+                "popularity": 0.001,
+                "profile_path": "/r6I4ijZ6KYtJOu5EgXqf1DfdtO1.jpg",
+                "cast_id": 22,
+                "character": "The Hunter",
+                "credit_id": "635887312cefc2007a59b5cb",
+                "order": 11
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228794,
+                "known_for_department": "Writing",
+                "name": "Michael Berz",
+                "original_name": "Michael Berz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4980c3a36847f819d6b5",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 38748,
+                "known_for_department": "Writing",
+                "name": "Jacob Grimm",
+                "original_name": "Jacob Grimm",
+                "popularity": 0.014,
+                "profile_path": "/4HTsSB1QyKnZJOeEFTWlMEeHaYo.jpg",
+                "credit_id": "52fe4980c3a36847f819d6bb",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5448,
+                "known_for_department": "Writing",
+                "name": "Wilhelm Grimm",
+                "original_name": "Wilhelm Grimm",
+                "popularity": 0.006,
+                "profile_path": "/awKfzrm9PdJWGXW8EozymYUNz4h.jpg",
+                "credit_id": "52fe4980c3a36847f819d6c1",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33009,
+                "known_for_department": "Production",
+                "name": "Yoram Globus",
+                "original_name": "Yoram Globus",
+                "popularity": 0.014,
+                "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+                "credit_id": "52fe4980c3a36847f819d6c7",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33008,
+                "known_for_department": "Production",
+                "name": "Menahem Golan",
+                "original_name": "Menahem Golan",
+                "popularity": 0.013,
+                "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+                "credit_id": "52fe4980c3a36847f819d6cd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 228794,
+                "known_for_department": "Writing",
+                "name": "Michael Berz",
+                "original_name": "Michael Berz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61016b5d4e52ed002ea2c50b",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3018903,
+                "known_for_department": "Sound",
+                "name": "Arik Rudich",
+                "original_name": "Arik Rudich",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61016b6b1b7294002f6c7e26",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 65664,
+                "known_for_department": "Camera",
+                "name": "Amnon Salomon",
+                "original_name": "Amnon Salomon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61016b74db72c03bfb22cf51",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3176109,
+                "known_for_department": "Editing",
+                "name": "Moshe Avni",
+                "original_name": "Moshe Avni",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61016b7da84a470025666375",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2290787,
+                "known_for_department": "Editing",
+                "name": "John S. Smith",
+                "original_name": "John S. Smith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "61016b8ba84a47005f1e0fb3",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 65664,
+                "known_for_department": "Camera",
+                "name": "Amnon Salomon",
+                "original_name": "Amnon Salomon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6658a80771d53364d61d2045",
+                "department": "Camera",
+                "job": "Director of Photography"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3205,
+                "name": "fairy tale"
+            },
+            {
+                "id": 1526,
+                "name": "home"
+            },
+            {
+                "id": 3071,
+                "name": "prince"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Diana Rigg",
+            "character": "Evil Queen"
+        },
+        {
+            "actor": "Billy Barty",
+            "character": "Iddy"
+        },
+        {
+            "actor": "Sarah Patterson",
+            "character": "Snow White"
+        },
+        {
+            "actor": "Nicola Stapleton",
+            "character": "Snow White as a child"
+        },
+        {
+            "actor": "Mike Edmonds",
+            "character": "Biddy"
+        },
+        {
+            "actor": "Ricardo Gil",
+            "character": "Kiddy"
+        },
+        {
+            "actor": "Gary Friedkin",
+            "character": "Fiddy"
+        },
+        {
+            "actor": "Arturo Gil",
+            "character": "Giddy"
+        },
+        {
+            "actor": "Tony Cooper",
+            "character": "Liddy"
+        },
+        {
+            "actor": "Dorit Adi",
+            "character": "Good Queen"
+        },
+        {
+            "actor": "James Ian Wright",
+            "character": "Prince"
+        },
+        {
+            "actor": "Amnon Meskin",
+            "character": "The Hunter"
+        }
+    ]
+}

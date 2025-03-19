@@ -1,0 +1,945 @@
+{
+    "adult": false,
+    "backdrop_path": "/rwD8N3wvfxcDBborM1BCZ6AiExZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 10751,
+            "name": "Family"
+        },
+        {
+            "id": 878,
+            "name": "Science Fiction"
+        },
+        {
+            "id": 12,
+            "name": "Adventure"
+        }
+    ],
+    "homepage": "",
+    "id": 31397,
+    "imdb_id": "tt0092532",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Alien from L.A.",
+    "overview": "When her archaeologist father disappears on an expedition, Wanda sets out to look for him. What she finds is a secret underground world, where no one believes in life on the surface and where she and her father are taken for spies.",
+    "popularity": 2.259,
+    "poster_path": "/Al8v2ASozhufxTiA7HVL7GAxi3y.jpg",
+    "production_companies": [
+        {
+            "id": 1444,
+            "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+            "name": "The Cannon Group",
+            "origin_country": "US"
+        },
+        {
+            "id": 13549,
+            "logo_path": null,
+            "name": "Golan-Globus Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1988-02-26",
+    "revenue": 0,
+    "runtime": 87,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The people at the center of the earth are about to get a visitor.",
+    "title": "Alien from L.A.",
+    "video": false,
+    "vote_average": 3.2,
+    "vote_count": 64,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1998-02-07T00:00:00.000Z",
+                        "type": 6
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "A",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-02-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1988-02-26T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 58277,
+                "known_for_department": "Acting",
+                "name": "Kathy Ireland",
+                "original_name": "Kathy Ireland",
+                "popularity": 0.019,
+                "profile_path": "/iuqJwQMDWGqRF5ZloPwwi3ZcrjW.jpg",
+                "cast_id": 4,
+                "character": "Wanda Saknussemm",
+                "credit_id": "52fe447a9251416c910121c9",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 68527,
+                "known_for_department": "Acting",
+                "name": "William R. Moses",
+                "original_name": "William R. Moses",
+                "popularity": 0.044,
+                "profile_path": "/mbGteKONCey21NqRO5sfIIKs1UF.jpg",
+                "cast_id": 5,
+                "character": "Guten 'Gus' Edway",
+                "credit_id": "52fe447a9251416c910121cd",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 27005,
+                "known_for_department": "Directing",
+                "name": "Don Michael Paul",
+                "original_name": "Don Michael Paul",
+                "popularity": 0.016,
+                "profile_path": "/68anBJK0vHrbwiORHh8NDaoOaLH.jpg",
+                "cast_id": 7,
+                "character": "Robbie",
+                "credit_id": "52fe447a9251416c910121d5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64198,
+                "known_for_department": "Acting",
+                "name": "Thom Mathews",
+                "original_name": "Thom Mathews",
+                "popularity": 0.021,
+                "profile_path": "/zwZ6adw44UO0SDdeUyVqDCkvhn0.jpg",
+                "cast_id": 8,
+                "character": "Charmin'",
+                "credit_id": "52fe447a9251416c910121d9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106480,
+                "known_for_department": "Acting",
+                "name": "Simon Poland",
+                "original_name": "Simon Poland",
+                "popularity": 0.008,
+                "profile_path": "/eOnBcqGKynCg3rBd31vRvlzNIBq.jpg",
+                "cast_id": 10,
+                "character": "Consul Triton Crassus / The Mailman",
+                "credit_id": "52fe447a9251416c910121e1",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 106245,
+                "known_for_department": "Acting",
+                "name": "Linda Kerridge",
+                "original_name": "Linda Kerridge",
+                "popularity": 0.005,
+                "profile_path": "/ftTVmvJgUpqWgwujkUXIDzI1FV4.jpg",
+                "cast_id": 33,
+                "character": "Roeyis Freki / Auntie Pearl",
+                "credit_id": "59d9d1c7c3a368620003b25f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1295,
+                "known_for_department": "Acting",
+                "name": "Deep Roy",
+                "original_name": "Deep Roy",
+                "popularity": 0.021,
+                "profile_path": "/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg",
+                "cast_id": 34,
+                "character": "Mambino",
+                "credit_id": "59d9d1d192514124eb0395b9",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 93922,
+                "known_for_department": "Directing",
+                "name": "Jeff Celentano",
+                "original_name": "Jeff Celentano",
+                "popularity": 0.008,
+                "profile_path": "/529TK0OU7AmosBtsqVrOV3cB5sg.jpg",
+                "cast_id": 36,
+                "character": "Tola (as Jeff Weston)",
+                "credit_id": "59d9d1efc3a368623e0393f1",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 119374,
+                "known_for_department": "Acting",
+                "name": "Richard Haines",
+                "original_name": "Richard Haines",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 6,
+                "character": "Prof. Arnold Saknussemm",
+                "credit_id": "52fe447a9251416c910121d1",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 138622,
+                "known_for_department": "Acting",
+                "name": "Christian Andrews",
+                "original_name": "Christian Andrews",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "Brick Bardo",
+                "credit_id": "59d9d1e3c3a36861df03e331",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1266703,
+                "known_for_department": "Acting",
+                "name": "Lynda Marshall",
+                "original_name": "Lynda Marshall",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Fat Lady",
+                "credit_id": "59d9d1fac3a368623e03940c",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 19687,
+                "known_for_department": "Acting",
+                "name": "Greg Latter",
+                "original_name": "Greg Latter",
+                "popularity": 0.011,
+                "profile_path": "/rquWDe8QatetbD1m991GP6TfKKU.jpg",
+                "cast_id": 11,
+                "character": "Security Officer",
+                "credit_id": "52fe447a9251416c910121e5",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1266705,
+                "known_for_department": "Acting",
+                "name": "Denis Smith",
+                "original_name": "Denis Smith",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Anchorman",
+                "credit_id": "59d9d219c3a36861df03e395",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1077190,
+                "known_for_department": "Acting",
+                "name": "Janie du Plessis",
+                "original_name": "Janie du Plessis",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "General Rykov / Shank / Claims Officer",
+                "credit_id": "63d22403a410c8125be6a993",
+                "order": 13
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63937,
+                "known_for_department": "Directing",
+                "name": "Albert Pyun",
+                "original_name": "Albert Pyun",
+                "popularity": 0.01,
+                "profile_path": "/c1lkhBrHiqn5pD0Cm0zg0UU7hHF.jpg",
+                "credit_id": "52fe447a9251416c910121bf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 63937,
+                "known_for_department": "Directing",
+                "name": "Albert Pyun",
+                "original_name": "Albert Pyun",
+                "popularity": 0.01,
+                "profile_path": "/c1lkhBrHiqn5pD0Cm0zg0UU7hHF.jpg",
+                "credit_id": "52fe447a9251416c910121b9",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408458,
+                "known_for_department": "Sound",
+                "name": "Jim Andron",
+                "original_name": "Jim Andron",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a847e39251414d5b0023af",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408462,
+                "known_for_department": "Production",
+                "name": "Nancy Lara-Hansch",
+                "original_name": "Nancy Lara-Hansch",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a848d4c3a3680c2b002166",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1408466,
+                "known_for_department": "Production",
+                "name": "Michael L. Games",
+                "original_name": "Michael L. Games",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a849ad9251414d5d002427",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 128596,
+                "known_for_department": "Crew",
+                "name": "Solly Marx",
+                "original_name": "Solly Marx",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "54a849da9251414d630023bc",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33009,
+                "known_for_department": "Production",
+                "name": "Yoram Globus",
+                "original_name": "Yoram Globus",
+                "popularity": 0.014,
+                "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+                "credit_id": "54a84787c3a3680c1c002371",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33008,
+                "known_for_department": "Production",
+                "name": "Menahem Golan",
+                "original_name": "Menahem Golan",
+                "popularity": 0.013,
+                "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+                "credit_id": "54a847979251414d6d00208f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 30856,
+                "known_for_department": "Camera",
+                "name": "Tom Fraser",
+                "original_name": "Tom Fraser",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "54a848499251414d6000243a",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 94667,
+                "known_for_department": "Sound",
+                "name": "Anthony Riparetti",
+                "original_name": "Anthony Riparetti",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8480ac3a3680c30002512",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408464,
+                "known_for_department": "Art",
+                "name": "Francis Darwall",
+                "original_name": "Francis Darwall",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8494bc3a3680c2900248f",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1408460,
+                "known_for_department": "Sound",
+                "name": "James Saad",
+                "original_name": "James Saad",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8482ac3a3680c250022e3",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4844,
+                "known_for_department": "Production",
+                "name": "Tom Karnowski",
+                "original_name": "Tom Karnowski",
+                "popularity": 0.012,
+                "profile_path": null,
+                "credit_id": "54a847aec3a3680c29002469",
+                "department": "Production",
+                "job": "Line Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 64338,
+                "known_for_department": "Art",
+                "name": "Pamela B. Warner",
+                "original_name": "Pamela B. Warner",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8491e9251414d5b0023ca",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408459,
+                "known_for_department": "Sound",
+                "name": "Simon LeGassick",
+                "original_name": "Simon LeGassick",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a847f4c3a3680c33001f87",
+                "department": "Sound",
+                "job": "Music"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408461,
+                "known_for_department": "Production",
+                "name": "Lindy Blythe",
+                "original_name": "Lindy Blythe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a848c49251414d6d00209a",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1268479,
+                "known_for_department": "Production",
+                "name": "Nicola Van Der Walt",
+                "original_name": "Nicola Van Der Walt",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a848fbc3a3680c1c002392",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 64339,
+                "known_for_department": "Art",
+                "name": "Donald Elmblad",
+                "original_name": "Donald Elmblad",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a849749251414d630023b5",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 9887,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Birgitta Bjerke",
+                "original_name": "Birgitta Bjerke",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8498ec3a3680c250022fc",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1408463,
+                "known_for_department": "Production",
+                "name": "Julie Pyken",
+                "original_name": "Julie Pyken",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a848e79251414d7000212b",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 17209,
+                "known_for_department": "Production",
+                "name": "Avi Lerner",
+                "original_name": "Avi Lerner",
+                "popularity": 0.012,
+                "profile_path": "/tjQG1pIvtGL0wgvRlo76pMkUX0b.jpg",
+                "credit_id": "54a847d0c3a3680c2100263a",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58706,
+                "known_for_department": "Directing",
+                "name": "Daniel Loewenthal",
+                "original_name": "Daniel Loewenthal",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a848819251414d67002211",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1408465,
+                "known_for_department": "Art",
+                "name": "Drew Ogier",
+                "original_name": "Drew Ogier",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "54a8495fc3a3680c29002494",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16618,
+                "known_for_department": "Crew",
+                "name": "Freddie Hice",
+                "original_name": "Freddie Hice",
+                "popularity": 0.021,
+                "profile_path": "/7mKMuUuBZ2C6em7qhaKl0ssjY9a.jpg",
+                "credit_id": "64220ced8d22fc00ef178fc3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 939869,
+                "known_for_department": "Crew",
+                "name": "Donna Evans",
+                "original_name": "Donna Evans",
+                "popularity": 0.029,
+                "profile_path": "/sfh8yXTzKrgqjrvFaBFCk8gLTM7.jpg",
+                "credit_id": "64220d0ec7a7e000a37b58c8",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1564950,
+                "known_for_department": "Writing",
+                "name": "Judith Berg",
+                "original_name": "Judith Berg",
+                "popularity": 0.005,
+                "profile_path": null,
+                "credit_id": "64220cb52dc9dc00fd1c1e64",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1400371,
+                "known_for_department": "Crew",
+                "name": "James M. Halty",
+                "original_name": "James M. Halty",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64220d2623be4600df99af8f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9559,
+                "known_for_department": "Crew",
+                "name": "Jophery C. Brown",
+                "original_name": "Jophery C. Brown",
+                "popularity": 0.019,
+                "profile_path": "/Uf6SfhpfFvSUCNGQylUFdHn2pV.jpg",
+                "credit_id": "64220cf58d22fc00cc0f9f48",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1267054,
+                "known_for_department": "Crew",
+                "name": "Edgar Teixeira",
+                "original_name": "Edgar Teixeira",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64220d4f8d22fc00ef178fd1",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 999703,
+                "known_for_department": "Crew",
+                "name": "Marvin Walters",
+                "original_name": "Marvin Walters",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64220d4ac7a7e00100ba5d7e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151663,
+                "known_for_department": "Crew",
+                "name": "Eddie Hice",
+                "original_name": "Eddie Hice",
+                "popularity": 0.011,
+                "profile_path": "/flL90ZTRxCHSJ6ADSD899n4vtpO.jpg",
+                "credit_id": "64220b3a23be4600df99af1e",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1564951,
+                "known_for_department": "Writing",
+                "name": "Sandra Berg",
+                "original_name": "Sandra Berg",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "64220cbbc7a7e0007d209e9f",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1516788,
+                "known_for_department": "Crew",
+                "name": "Guy Pringle",
+                "original_name": "Guy Pringle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64220d3153466100f0ecb7e3",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1262158,
+                "known_for_department": "Crew",
+                "name": "Graham Press",
+                "original_name": "Graham Press",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "64220d3d8d22fc00a9dea561",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 4893496,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Trevor Langlois",
+                "original_name": "Trevor Langlois",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c2cd86177cc794856e3581",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 566658,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Pamela Peitzman",
+                "original_name": "Pamela Peitzman",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "66c2cd94e5050946d11aaa19",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 24962,
+                "known_for_department": "Production",
+                "name": "Teri Blythe",
+                "original_name": "Teri Blythe",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c2cd7edbb2bb7bc05d87db",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1944387,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Merryl MacKenzie",
+                "original_name": "Merryl MacKenzie",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "66c2cd9db17b9b53116e3537",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2073598,
+                "known_for_department": "Crew",
+                "name": "Mark W. Jones",
+                "original_name": "Mark W. Jones",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5e8c8d8b63e6fb001484fdc3",
+                "department": "Crew",
+                "job": "Transportation Captain"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 970,
+                "name": "parent child relationship"
+            },
+            {
+                "id": 385,
+                "name": "jules verne"
+            },
+            {
+                "id": 1963,
+                "name": "expedition"
+            },
+            {
+                "id": 3644,
+                "name": "south africa"
+            },
+            {
+                "id": 10053,
+                "name": "sexploitation"
+            },
+            {
+                "id": 41586,
+                "name": "archaeologist"
+            },
+            {
+                "id": 162801,
+                "name": "subterranean"
+            },
+            {
+                "id": 179568,
+                "name": "archaeological dig"
+            },
+            {
+                "id": 181239,
+                "name": "scientific expedition"
+            },
+            {
+                "id": 190025,
+                "name": "secret police"
+            },
+            {
+                "id": 194705,
+                "name": "gauteng"
+            },
+            {
+                "id": 195394,
+                "name": "hidden civilization"
+            },
+            {
+                "id": 195395,
+                "name": "zimbabwe"
+            },
+            {
+                "id": 195396,
+                "name": "archaeological expedition"
+            },
+            {
+                "id": 195397,
+                "name": "subterranean world"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Kathy Ireland",
+            "character": "Wanda Saknussemm"
+        },
+        {
+            "actor": "William R. Moses",
+            "character": "Guten 'Gus' Edway"
+        },
+        {
+            "actor": "Don Michael Paul",
+            "character": "Robbie"
+        },
+        {
+            "actor": "Thom Mathews",
+            "character": "Charmin'"
+        },
+        {
+            "actor": "Simon Poland",
+            "character": "Consul Triton Crassus / The Mailman"
+        },
+        {
+            "actor": "Linda Kerridge",
+            "character": "Roeyis Freki / Auntie Pearl"
+        },
+        {
+            "actor": "Deep Roy",
+            "character": "Mambino"
+        },
+        {
+            "actor": "Jeff Celentano",
+            "character": "Tola (as Jeff Weston)"
+        },
+        {
+            "actor": "Richard Haines",
+            "character": "Prof. Arnold Saknussemm"
+        },
+        {
+            "actor": "Christian Andrews",
+            "character": "Brick Bardo"
+        },
+        {
+            "actor": "Lynda Marshall",
+            "character": "Fat Lady"
+        },
+        {
+            "actor": "Greg Latter",
+            "character": "Security Officer"
+        },
+        {
+            "actor": "Denis Smith",
+            "character": "Anchorman"
+        },
+        {
+            "actor": "Janie du Plessis",
+            "character": "General Rykov / Shank / Claims Officer"
+        }
+    ]
+}

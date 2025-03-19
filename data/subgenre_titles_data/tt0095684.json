@@ -1,0 +1,795 @@
+{
+    "adult": false,
+    "backdrop_path": "/t1tvkqhdsZwkF3qQ5EF6ilD5T8P.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 21151,
+    "imdb_id": "tt0095684",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "My Best Friend Is a Vampire",
+    "overview": "Shortly after high school student Jeremy Capello goes on a hot date, he finds he can't stand garlic or see his reflection in mirrors.",
+    "popularity": 3.388,
+    "poster_path": "/A3xP0Ak8YD0AwAZYcqTBbsV3jdy.jpg",
+    "production_companies": [
+        {
+            "id": 4255,
+            "logo_path": null,
+            "name": "Kings Road Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1987-10-01",
+    "revenue": 174,
+    "runtime": 89,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Vampires and teenagers are a lot alike. They're just misunderstood.",
+    "title": "My Best Friend Is a Vampire",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 96,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-10-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1988-07-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "en",
+                        "note": "",
+                        "release_date": "1987-10-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2692,
+                "known_for_department": "Acting",
+                "name": "Robert Sean Leonard",
+                "original_name": "Robert Sean Leonard",
+                "popularity": 0.067,
+                "profile_path": "/jXehZM0AWLJ2OIz4o0jFtHEzcMI.jpg",
+                "cast_id": 1,
+                "character": "Jeremy Capello",
+                "credit_id": "52fe440dc3a368484e00ca3d",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 175120,
+                "known_for_department": "Acting",
+                "name": "Evan Mirand",
+                "original_name": "Evan Mirand",
+                "popularity": 0.02,
+                "profile_path": "/2juze2UWM22dWfoL2E6YLrKwsmH.jpg",
+                "cast_id": 24,
+                "character": "Ralph",
+                "credit_id": "5d7abddbaf43247fa1979be8",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 988370,
+                "known_for_department": "Acting",
+                "name": "Leeanne Locken Emberlin",
+                "original_name": "Leeanne Locken Emberlin",
+                "popularity": 0.004,
+                "profile_path": "/uiOcJsUz2hsDYmGv9dBRWvlWCi5.jpg",
+                "cast_id": 4,
+                "character": "Candy Andrews",
+                "credit_id": "5305af49c3a3685a8f140f3a",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 55792,
+                "known_for_department": "Acting",
+                "name": "Cheryl Pollak",
+                "original_name": "Cheryl Pollak",
+                "popularity": 0.014,
+                "profile_path": "/2aDUWTvfxWCwf9IfytF0Nzmx3ga.jpg",
+                "cast_id": 5,
+                "character": "Darla Blake",
+                "credit_id": "5305af5dc3a3685a78157350",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 7046,
+                "known_for_department": "Acting",
+                "name": "Cecilia Peck",
+                "original_name": "Cecilia Peck",
+                "popularity": 0.01,
+                "profile_path": "/kFroqrLbmVATUFMIoY4KnLKKTo7.jpg",
+                "cast_id": 3,
+                "character": "Nora",
+                "credit_id": "52fe440dc3a368484e00ca47",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18251,
+                "known_for_department": "Acting",
+                "name": "Fannie Flagg",
+                "original_name": "Fannie Flagg",
+                "popularity": 0.016,
+                "profile_path": "/pMxuqJ0gR2Jx3WYEw6sJhP5iDjs.jpg",
+                "cast_id": 6,
+                "character": "Mrs. Capello",
+                "credit_id": "5305af6bc3a3685a9e15e7c7",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 151326,
+                "known_for_department": "Acting",
+                "name": "Kenneth Kimmins",
+                "original_name": "Kenneth Kimmins",
+                "popularity": 0.026,
+                "profile_path": "/d1RA5ZEx7OaTz2OAXTiesGfVNSb.jpg",
+                "cast_id": 7,
+                "character": "Mr. Capello",
+                "credit_id": "5305af75c3a36816bc13f5a5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2076,
+                "known_for_department": "Acting",
+                "name": "David Warner",
+                "original_name": "David Warner",
+                "popularity": 0.095,
+                "profile_path": "/sJ5NyKkTmFGyiTrpCnZ1v0DSnQG.jpg",
+                "cast_id": 29,
+                "character": "Professor Leopold McCarthy",
+                "credit_id": "62eb82281bf266005a6266d2",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15099,
+                "known_for_department": "Acting",
+                "name": "Paul Willson",
+                "original_name": "Paul Willson",
+                "popularity": 0.031,
+                "profile_path": "/w6tzfcU1YPSx9JpWgiCqZ2V88VQ.jpg",
+                "cast_id": 30,
+                "character": "Grimsdyke",
+                "credit_id": "62eb8230fc5f06005e70f29c",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9807,
+                "known_for_department": "Acting",
+                "name": "René Auberjonois",
+                "original_name": "René Auberjonois",
+                "popularity": 0.071,
+                "profile_path": "/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg",
+                "cast_id": 31,
+                "character": "Modoc",
+                "credit_id": "62eb8238223a8b0058a55147",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649719,
+                "known_for_department": "Acting",
+                "name": "Michelle La Vigne",
+                "original_name": "Michelle La Vigne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 27,
+                "character": "Flo",
+                "credit_id": "62eb81f348333a005e9e5ed8",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2705654,
+                "known_for_department": "Acting",
+                "name": "Harvey Christiansen",
+                "original_name": "Harvey Christiansen",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "George",
+                "credit_id": "62eb821c273648005abffda0",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649722,
+                "known_for_department": "Acting",
+                "name": "Erica Zeitlin",
+                "original_name": "Erica Zeitlin",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 32,
+                "character": "Gloria",
+                "credit_id": "62eb823f223a8b005d7e1637",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9885,
+                "known_for_department": "Production",
+                "name": "Gary Chason",
+                "original_name": "Gary Chason",
+                "popularity": 0.003,
+                "profile_path": null,
+                "cast_id": 33,
+                "character": "Drivers Ed Instructor",
+                "credit_id": "62eb824748333a0061eb72e9",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8534,
+                "known_for_department": "Acting",
+                "name": "Kathy Bates",
+                "original_name": "Kathy Bates",
+                "popularity": 0.086,
+                "profile_path": "/3MsayDvY73uXGVbCFHyy1ABTacV.jpg",
+                "cast_id": 34,
+                "character": "Helen Blake",
+                "credit_id": "62eb825540d0fe006e21fd02",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 160559,
+                "known_for_department": "Acting",
+                "name": "John Chappell",
+                "original_name": "John Chappell",
+                "popularity": 0.008,
+                "profile_path": "/4uKL7KDLhTnx2ng8tvFxvbdUXkZ.jpg",
+                "cast_id": 35,
+                "character": "Buddy Blake",
+                "credit_id": "62eb825d57d378005845d8f9",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649723,
+                "known_for_department": "Acting",
+                "name": "Jill Bianchini",
+                "original_name": "Jill Bianchini",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Waitress",
+                "credit_id": "62eb82628566d2005fb0aa68",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649725,
+                "known_for_department": "Acting",
+                "name": "J.P. Conroy",
+                "original_name": "J.P. Conroy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 37,
+                "character": "Butcher",
+                "credit_id": "62eb826757d378005845d906",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 98524,
+                "known_for_department": "Acting",
+                "name": "Amelia Kinkade",
+                "original_name": "Amelia Kinkade",
+                "popularity": 0.007,
+                "profile_path": "/jKSbUcVuHRY18nLb6XVugS9iedx.jpg",
+                "cast_id": 38,
+                "character": "Brunette in Punk Bar",
+                "credit_id": "62eb828c223a8b0060459321",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649727,
+                "known_for_department": "Acting",
+                "name": "E. Linda Moore",
+                "original_name": "E. Linda Moore",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 39,
+                "character": "Girl at Bar",
+                "credit_id": "62eb829257d378005d8c6ec7",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649728,
+                "known_for_department": "Acting",
+                "name": "Marianne Simpson",
+                "original_name": "Marianne Simpson",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 40,
+                "character": "Blonde in Punk Bar",
+                "credit_id": "62eb8299f1b571006135bb5c",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649729,
+                "known_for_department": "Acting",
+                "name": "Staness Jonekos",
+                "original_name": "Staness Jonekos",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 41,
+                "character": "Redhead in Punk Bar",
+                "credit_id": "62eb82a0fc5f06005e70f2de",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 161824,
+                "known_for_department": "Crew",
+                "name": "Ronnie Rondell Jr.",
+                "original_name": "Ronnie Rondell Jr.",
+                "popularity": 0.012,
+                "profile_path": "/dD6pQRV9jm085qY7dr0Q3P02L78.jpg",
+                "cast_id": 42,
+                "character": "Bouncer",
+                "credit_id": "62eb82a9fc5f06005e70f2e4",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3649730,
+                "known_for_department": "Acting",
+                "name": "Chris Wycliff",
+                "original_name": "Chris Wycliff",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 43,
+                "character": "Police Officer #1",
+                "credit_id": "62eb82af091e62005d2c7225",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2686619,
+                "known_for_department": "Acting",
+                "name": "Coy Sevier",
+                "original_name": "Coy Sevier",
+                "popularity": 0.001,
+                "profile_path": "/if6MsDmgZf6HuAOVC8gFrQF60sC.jpg",
+                "cast_id": 44,
+                "character": "Police Officer #2",
+                "credit_id": "62eb8304af4324005c1a8062",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 113921,
+                "known_for_department": "Directing",
+                "name": "Jimmy Huston",
+                "original_name": "Jimmy Huston",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe440dc3a368484e00ca43",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61950,
+                "known_for_department": "Writing",
+                "name": "Tab Murphy",
+                "original_name": "Tab Murphy",
+                "popularity": 0.014,
+                "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+                "credit_id": "589a4249c3a3683a2e001978",
+                "department": "Production",
+                "job": "Associate Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70054,
+                "known_for_department": "Sound",
+                "name": "Steve Dorff",
+                "original_name": "Steve Dorff",
+                "popularity": 0.004,
+                "profile_path": "/mKSUNtiwBCX75aKUcLSK8aoSKE2.jpg",
+                "credit_id": "589a429dc3a3683a47001990",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1428576,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rona Lamont",
+                "original_name": "Rona Lamont",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42fb9251413ac4001a74",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 16534,
+                "known_for_department": "Editing",
+                "name": "Janice Hampton",
+                "original_name": "Janice Hampton",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "589a42d1c3a3683a2b00190d",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 61950,
+                "known_for_department": "Writing",
+                "name": "Tab Murphy",
+                "original_name": "Tab Murphy",
+                "popularity": 0.014,
+                "profile_path": "/ifwNspazW8Xq2wjkSnD2uhNrGXu.jpg",
+                "credit_id": "589a42379251413aca001a4a",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1753103,
+                "known_for_department": "Editing",
+                "name": "Gail Yasunaga",
+                "original_name": "Gail Yasunaga",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42d99251413abb001a62",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1753104,
+                "known_for_department": "Art",
+                "name": "Michael Molly",
+                "original_name": "Michael Molly",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42ed9251413acd001b87",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112498,
+                "known_for_department": "Production",
+                "name": "Dennis Stuart Murphy",
+                "original_name": "Dennis Stuart Murphy",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42409251413ac10019f9",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 29080,
+                "known_for_department": "Camera",
+                "name": "James Bartle",
+                "original_name": "James Bartle",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42ac9251413abb001a45",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 960923,
+                "known_for_department": "Production",
+                "name": "Pennie DuPont",
+                "original_name": "Pennie DuPont",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "589a42e3c3a3683a3e0018fc",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 63292,
+                "known_for_department": "Art",
+                "name": "Jeanette Scott",
+                "original_name": "Jeanette Scott",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "589a42f4c3a3683a28001a44",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": true,
+                "gender": 1,
+                "id": 1639897,
+                "known_for_department": "Directing",
+                "name": "Charlene Webb",
+                "original_name": "Charlene Webb",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "643e117cc6006d04ab806638",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 968316,
+                "known_for_department": "Crew",
+                "name": "Andy Gill",
+                "original_name": "Andy Gill",
+                "popularity": 0.014,
+                "profile_path": "/uphgScM95clUsV8Rb2nwdiqCndX.jpg",
+                "credit_id": "64685fad33a3760158d97bb4",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112682,
+                "known_for_department": "Crew",
+                "name": "Spiro Razatos",
+                "original_name": "Spiro Razatos",
+                "popularity": 0.028,
+                "profile_path": "/tkJnvTnKa0t5HLi7dTKcXDrooFU.jpg",
+                "credit_id": "64685f8ba5046e0124678ded",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 112682,
+                "known_for_department": "Crew",
+                "name": "Spiro Razatos",
+                "original_name": "Spiro Razatos",
+                "popularity": 0.028,
+                "profile_path": "/tkJnvTnKa0t5HLi7dTKcXDrooFU.jpg",
+                "credit_id": "64685fb2a5046e0124678dfe",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 16618,
+                "known_for_department": "Crew",
+                "name": "Freddie Hice",
+                "original_name": "Freddie Hice",
+                "popularity": 0.021,
+                "profile_path": "/7mKMuUuBZ2C6em7qhaKl0ssjY9a.jpg",
+                "credit_id": "64757093dd258900c324e9e1",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6270,
+                "name": "high school"
+            },
+            {
+                "id": 3133,
+                "name": "vampire"
+            },
+            {
+                "id": 11870,
+                "name": "teen movie"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Robert Sean Leonard",
+            "character": "Jeremy Capello"
+        },
+        {
+            "actor": "Evan Mirand",
+            "character": "Ralph"
+        },
+        {
+            "actor": "Leeanne Locken Emberlin",
+            "character": "Candy Andrews"
+        },
+        {
+            "actor": "Cheryl Pollak",
+            "character": "Darla Blake"
+        },
+        {
+            "actor": "Cecilia Peck",
+            "character": "Nora"
+        },
+        {
+            "actor": "Fannie Flagg",
+            "character": "Mrs. Capello"
+        },
+        {
+            "actor": "Kenneth Kimmins",
+            "character": "Mr. Capello"
+        },
+        {
+            "actor": "David Warner",
+            "character": "Professor Leopold McCarthy"
+        },
+        {
+            "actor": "Paul Willson",
+            "character": "Grimsdyke"
+        },
+        {
+            "actor": "René Auberjonois",
+            "character": "Modoc"
+        },
+        {
+            "actor": "Michelle La Vigne",
+            "character": "Flo"
+        },
+        {
+            "actor": "Harvey Christiansen",
+            "character": "George"
+        },
+        {
+            "actor": "Erica Zeitlin",
+            "character": "Gloria"
+        },
+        {
+            "actor": "Gary Chason",
+            "character": "Drivers Ed Instructor"
+        },
+        {
+            "actor": "Kathy Bates",
+            "character": "Helen Blake"
+        },
+        {
+            "actor": "John Chappell",
+            "character": "Buddy Blake"
+        },
+        {
+            "actor": "Jill Bianchini",
+            "character": "Waitress"
+        },
+        {
+            "actor": "J.P. Conroy",
+            "character": "Butcher"
+        },
+        {
+            "actor": "Amelia Kinkade",
+            "character": "Brunette in Punk Bar"
+        },
+        {
+            "actor": "E. Linda Moore",
+            "character": "Girl at Bar"
+        },
+        {
+            "actor": "Marianne Simpson",
+            "character": "Blonde in Punk Bar"
+        },
+        {
+            "actor": "Staness Jonekos",
+            "character": "Redhead in Punk Bar"
+        },
+        {
+            "actor": "Ronnie Rondell Jr.",
+            "character": "Bouncer"
+        },
+        {
+            "actor": "Chris Wycliff",
+            "character": "Police Officer #1"
+        },
+        {
+            "actor": "Coy Sevier",
+            "character": "Police Officer #2"
+        }
+    ]
+}

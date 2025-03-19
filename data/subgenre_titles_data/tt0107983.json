@@ -1,0 +1,978 @@
+{
+    "adult": false,
+    "backdrop_path": "/bI6fptNOG0mS2pNNZgbZSxuVaPN.jpg",
+    "belongs_to_collection": null,
+    "budget": 11500000,
+    "genres": [
+        {
+            "id": 80,
+            "name": "Crime"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 10749,
+            "name": "Romance"
+        }
+    ],
+    "homepage": "",
+    "id": 2088,
+    "imdb_id": "tt0107983",
+    "origin_country": [
+        "GB",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Romeo Is Bleeding",
+    "overview": "A corrupt cop gets in over his head when he tries to assassinate a beautiful Russian hit-woman.",
+    "popularity": 3.53,
+    "poster_path": "/ojXNRpHMXU99UFmF9MKKiJCymKr.jpg",
+    "production_companies": [
+        {
+            "id": 36907,
+            "logo_path": null,
+            "name": "Hilary Henkin",
+            "origin_country": ""
+        },
+        {
+            "id": 10163,
+            "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+            "name": "Working Title Films",
+            "origin_country": "GB"
+        },
+        {
+            "id": 1382,
+            "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+        },
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1993-09-13",
+    "revenue": 3275585,
+    "runtime": 100,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The story of a cop who wanted it bad and got it worse.",
+    "title": "Romeo Is Bleeding",
+    "video": false,
+    "vote_average": 6.285,
+    "vote_count": 188,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-09-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "15+",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-11-01T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-10-05T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-03-02T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "hu",
+                        "note": "",
+                        "release_date": "1994-10-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1993-09-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1994-02-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64,
+                "known_for_department": "Acting",
+                "name": "Gary Oldman",
+                "original_name": "Gary Oldman",
+                "popularity": 0.4,
+                "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg",
+                "cast_id": 11,
+                "character": "Jack Grimaldi",
+                "credit_id": "52fe4334c3a36847f804230b",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5313,
+                "known_for_department": "Acting",
+                "name": "Lena Olin",
+                "original_name": "Lena Olin",
+                "popularity": 0.069,
+                "profile_path": "/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg",
+                "cast_id": 12,
+                "character": "Mona Demarkov",
+                "credit_id": "52fe4334c3a36847f804230f",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 18750,
+                "known_for_department": "Acting",
+                "name": "Annabella Sciorra",
+                "original_name": "Annabella Sciorra",
+                "popularity": 0.072,
+                "profile_path": "/p2dnBSjLzKxldrHCQZYmVq0LcFw.jpg",
+                "cast_id": 13,
+                "character": "Natalie Grimaldi",
+                "credit_id": "52fe4334c3a36847f8042313",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3196,
+                "known_for_department": "Acting",
+                "name": "Juliette Lewis",
+                "original_name": "Juliette Lewis",
+                "popularity": 0.08,
+                "profile_path": "/oErIsGmtxeluwtzRoWI3dx2pYGQ.jpg",
+                "cast_id": 14,
+                "character": "Sheri",
+                "credit_id": "52fe4334c3a36847f8042317",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6355,
+                "known_for_department": "Acting",
+                "name": "Roy Scheider",
+                "original_name": "Roy Scheider",
+                "popularity": 0.065,
+                "profile_path": "/y0MTwkCm5fIKjM1xH90tZbjAHql.jpg",
+                "cast_id": 15,
+                "character": "Don Falcone",
+                "credit_id": "52fe4334c3a36847f804231b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2555,
+                "known_for_department": "Acting",
+                "name": "David Proval",
+                "original_name": "David Proval",
+                "popularity": 0.037,
+                "profile_path": "/xD9mcTYEmkFLKAE9T9d3AFP50f3.jpg",
+                "cast_id": 16,
+                "character": "Scully",
+                "credit_id": "52fe4334c3a36847f804231f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 883,
+                "known_for_department": "Acting",
+                "name": "Will Patton",
+                "original_name": "Will Patton",
+                "popularity": 0.097,
+                "profile_path": "/2vr8aJacajXz7m4lMc2WdVniCRZ.jpg",
+                "cast_id": 17,
+                "character": "Martie",
+                "credit_id": "52fe4334c3a36847f8042323",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21380,
+                "known_for_department": "Acting",
+                "name": "Larry Joshua",
+                "original_name": "Larry Joshua",
+                "popularity": 0.028,
+                "profile_path": "/vFKFwlwTzQ1IAtGUlApk3ROLMIA.jpg",
+                "cast_id": 18,
+                "character": "Joey",
+                "credit_id": "52fe4334c3a36847f8042327",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2505,
+                "known_for_department": "Acting",
+                "name": "James Cromwell",
+                "original_name": "James Cromwell",
+                "popularity": 0.074,
+                "profile_path": "/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg",
+                "cast_id": 19,
+                "character": "Cage",
+                "credit_id": "52fe4334c3a36847f804232b",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21381,
+                "known_for_department": "Acting",
+                "name": "Wallace Wood",
+                "original_name": "Wallace Wood",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Waiter",
+                "credit_id": "52fe4334c3a36847f804232f",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21382,
+                "known_for_department": "Acting",
+                "name": "Gene Canfield",
+                "original_name": "Gene Canfield",
+                "popularity": 0.041,
+                "profile_path": "/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg",
+                "cast_id": 21,
+                "character": "John",
+                "credit_id": "52fe4334c3a36847f8042333",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21383,
+                "known_for_department": "Acting",
+                "name": "William Duff-Griffin",
+                "original_name": "William Duff-Griffin",
+                "popularity": 0.01,
+                "profile_path": null,
+                "cast_id": 22,
+                "character": "Paddy",
+                "credit_id": "52fe4334c3a36847f8042337",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21384,
+                "known_for_department": "Acting",
+                "name": "Paul Butler",
+                "original_name": "Paul Butler",
+                "popularity": 0.013,
+                "profile_path": "/qQIjo92vpwqK9Uwt54Myjlc1sfs.jpg",
+                "cast_id": 23,
+                "character": "Skouras",
+                "credit_id": "52fe4334c3a36847f804233b",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21385,
+                "known_for_department": "Acting",
+                "name": "Tony Sirico",
+                "original_name": "Tony Sirico",
+                "popularity": 0.044,
+                "profile_path": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg",
+                "cast_id": 24,
+                "character": "Malacci",
+                "credit_id": "52fe4334c3a36847f804233f",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 7486,
+                "known_for_department": "Acting",
+                "name": "Michael Wincott",
+                "original_name": "Michael Wincott",
+                "popularity": 0.046,
+                "profile_path": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg",
+                "cast_id": 34,
+                "character": "Sal",
+                "credit_id": "58f943d49251415886000401",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1117,
+                "known_for_department": "Acting",
+                "name": "Dennis Farina",
+                "original_name": "Dennis Farina",
+                "popularity": 0.034,
+                "profile_path": "/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg",
+                "cast_id": 35,
+                "character": "Nick Gazzara (uncredited)",
+                "credit_id": "58fa7a8ec3a3687a15001a19",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2372,
+                "known_for_department": "Acting",
+                "name": "Ron Perlman",
+                "original_name": "Ron Perlman",
+                "popularity": 0.154,
+                "profile_path": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg",
+                "cast_id": 36,
+                "character": "Jack's Attorney",
+                "credit_id": "58fabc38c3a36879f4004990",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 939845,
+                "known_for_department": "Acting",
+                "name": "Gary Hope",
+                "original_name": "Gary Hope",
+                "popularity": 0.006,
+                "profile_path": "/4S8gyTtqJ8z3bGiB8zer0ytQw9k.jpg",
+                "cast_id": 39,
+                "character": "Driver",
+                "credit_id": "5c1afc8ac3a3680b568729b0",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 101781,
+                "known_for_department": "Acting",
+                "name": "James Murtaugh",
+                "original_name": "James Murtaugh",
+                "popularity": 0.013,
+                "profile_path": "/hAmLarccxeHXMKshSCAtRf4t6Hq.jpg",
+                "cast_id": 41,
+                "character": "Priest",
+                "credit_id": "5ee29d3e5b4fed002060f7de",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1033099,
+                "known_for_department": "Acting",
+                "name": "Pete Macnamara",
+                "original_name": "Pete Macnamara",
+                "popularity": 0.004,
+                "profile_path": "/wlDFiHQjLj9nuchuzlMv11m4QKS.jpg",
+                "cast_id": 42,
+                "character": "Mob Guard (uncredited)",
+                "credit_id": "5ee29db159008600224eadbf",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 78789,
+                "known_for_department": "Acting",
+                "name": "Jay Patterson",
+                "original_name": "Jay Patterson",
+                "popularity": 0.014,
+                "profile_path": "/6P358wW8datGSbqA6DfhvMSAAuD.jpg",
+                "cast_id": 44,
+                "character": "Mona's Lawyer (uncredited)",
+                "credit_id": "5ee29def5b4fed002161100c",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 537,
+                "known_for_department": "Acting",
+                "name": "Stephen Tobolowsky",
+                "original_name": "Stephen Tobolowsky",
+                "popularity": 0.071,
+                "profile_path": "/uL8yfcm0dCFYFQt052kczVQVvac.jpg",
+                "cast_id": 45,
+                "character": "District Attorney (uncredited)",
+                "credit_id": "5ee29e0a90dde00020aa1eae",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4199,
+                "known_for_department": "Acting",
+                "name": "Neal Jones",
+                "original_name": "Neal Jones",
+                "popularity": 0.019,
+                "profile_path": "/x2RaW51Kx51GfQrEV5BkNgCOrVf.jpg",
+                "cast_id": 46,
+                "character": "Clerk",
+                "credit_id": "5ee2a049f36a32001d94a776",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1085691,
+                "known_for_department": "Acting",
+                "name": "Victoria Bastel",
+                "original_name": "Victoria Bastel",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 48,
+                "character": "Girl #1",
+                "credit_id": "638f5e8e196757026ca5438d",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 169281,
+                "known_for_department": "Acting",
+                "name": "Ron Faber",
+                "original_name": "Ron Faber",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "Hotel Manager (uncredited)",
+                "credit_id": "644f395e124c8d02e77e0d48",
+                "order": 24
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21378,
+                "known_for_department": "Production",
+                "name": "Paul Webster",
+                "original_name": "Paul Webster",
+                "popularity": 0.007,
+                "profile_path": "/fze6uF1oCdDYJFA5tbVhKX9nwW3.jpg",
+                "credit_id": "52fe4334c3a36847f80422e3",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 897,
+                "known_for_department": "Production",
+                "name": "Bonnie Timmermann",
+                "original_name": "Bonnie Timmermann",
+                "popularity": 0.013,
+                "profile_path": "/ly847VZmhXHbe4A0GzcyUW6NofS.jpg",
+                "credit_id": "52fe4334c3a36847f80422fb",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 8251,
+                "known_for_department": "Writing",
+                "name": "Hilary Henkin",
+                "original_name": "Hilary Henkin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe4334c3a36847f80422d7",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 120,
+                "known_for_department": "Camera",
+                "name": "Dariusz Wolski",
+                "original_name": "Dariusz Wolski",
+                "popularity": 0.008,
+                "profile_path": "/qnNirhrjkbi6RGdP4FZeljbjzkU.jpg",
+                "credit_id": "52fe4334c3a36847f80422ef",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4140,
+                "known_for_department": "Sound",
+                "name": "Mark Isham",
+                "original_name": "Mark Isham",
+                "popularity": 0.014,
+                "profile_path": "/ayQ1j1T3wFk44kliy1u4atTT8um.jpg",
+                "credit_id": "52fe4334c3a36847f80422e9",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 21377,
+                "known_for_department": "Directing",
+                "name": "Peter Medak",
+                "original_name": "Peter Medak",
+                "popularity": 0.018,
+                "profile_path": "/oUPjJXMOSomwrqFx4eobxROVZOV.jpg",
+                "credit_id": "52fe4334c3a36847f80422d1",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 154,
+                "known_for_department": "Editing",
+                "name": "Walter Murch",
+                "original_name": "Walter Murch",
+                "popularity": 0.025,
+                "profile_path": "/kQh7U7kRLF9NKEMpxiGjZEIu0o3.jpg",
+                "credit_id": "52fe4334c3a36847f80422f5",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 11713,
+                "known_for_department": "Art",
+                "name": "W. Steven Graham",
+                "original_name": "W. Steven Graham",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "52fe4334c3a36847f8042307",
+                "department": "Art",
+                "job": "Art Direction"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 8251,
+                "known_for_department": "Writing",
+                "name": "Hilary Henkin",
+                "original_name": "Hilary Henkin",
+                "popularity": 0.003,
+                "profile_path": null,
+                "credit_id": "52fe4334c3a36847f80422dd",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1382732,
+                "known_for_department": "Production",
+                "name": "Michael Flynn",
+                "original_name": "Michael Flynn",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "61b5ad2758efd300417a0ce2",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 21379,
+                "known_for_department": "Art",
+                "name": "Stuart Wurtzel",
+                "original_name": "Stuart Wurtzel",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5645fd93c3a36870ef00945f",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1183454,
+                "known_for_department": "Directing",
+                "name": "Robin Squibb",
+                "original_name": "Robin Squibb",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5645fe369251410a3f00917b",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1535434,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Andrea Miller",
+                "original_name": "Andrea Miller",
+                "popularity": 0.001,
+                "profile_path": "/iiVq0RMNdDnu5YFOfr9WXZonUnt.jpg",
+                "credit_id": "5645ff259251410a4c009358",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1399989,
+                "known_for_department": "Art",
+                "name": "Anthony Dunne",
+                "original_name": "Anthony Dunne",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5645fdfdc3a36870e80093db",
+                "department": "Art",
+                "job": "Construction Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1445469,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Aaron F. Quarles",
+                "original_name": "Aaron F. Quarles",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5645fecc92514133ab008c3c",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 12258,
+                "known_for_department": "Art",
+                "name": "Beth A. Rubino",
+                "original_name": "Beth A. Rubino",
+                "popularity": 0.006,
+                "profile_path": "/wP1KbPsWkoXYZ9FOB6XRSYw2unD.jpg",
+                "credit_id": "5645fdbd9251410a4400992c",
+                "department": "Art",
+                "job": "Set Decoration"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1535431,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Hiram Ortiz",
+                "original_name": "Hiram Ortiz",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5645fee19251410a4900908e",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 142152,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Bernadette Mazur",
+                "original_name": "Bernadette Mazur",
+                "popularity": 0.008,
+                "profile_path": null,
+                "credit_id": "5645fef79251410a41009453",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 4189,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Aude Bronson-Howard",
+                "original_name": "Aude Bronson-Howard",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "5645fdd79251410a44009930",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2238,
+                "known_for_department": "Production",
+                "name": "Eric Fellner",
+                "original_name": "Eric Fellner",
+                "popularity": 0.013,
+                "profile_path": "/8fEalki5uMWg97FVDk3l2kvf2Dt.jpg",
+                "credit_id": "5b193058c3a36848eb00560e",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2236,
+                "known_for_department": "Production",
+                "name": "Tim Bevan",
+                "original_name": "Tim Bevan",
+                "popularity": 0.017,
+                "profile_path": "/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg",
+                "credit_id": "5b19304f9251414b92006479",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 34540,
+                "known_for_department": "Crew",
+                "name": "Peter Bucossi",
+                "original_name": "Peter Bucossi",
+                "popularity": 0.017,
+                "profile_path": "/oTV2bohMX3gAiEvQRMs1gFRo3Rb.jpg",
+                "credit_id": "675ba1e638e9ae64cc611110",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1648167,
+                "known_for_department": "Crew",
+                "name": "Janet Paparazzo",
+                "original_name": "Janet Paparazzo",
+                "popularity": 0.01,
+                "profile_path": null,
+                "credit_id": "67b0861be5a6eebadf362c5e",
+                "department": "Crew",
+                "job": "Stunts"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 5906,
+                "name": "sex addiction"
+            },
+            {
+                "id": 4668,
+                "name": "police operation"
+            },
+            {
+                "id": 6220,
+                "name": "mafia boss"
+            },
+            {
+                "id": 9016,
+                "name": "femme fatale"
+            },
+            {
+                "id": 10978,
+                "name": "bad cop"
+            },
+            {
+                "id": 12366,
+                "name": "hitwoman"
+            },
+            {
+                "id": 12367,
+                "name": "female assassin"
+            },
+            {
+                "id": 179577,
+                "name": "assassination plan"
+            },
+            {
+                "id": 267608,
+                "name": "corrupt cop"
+            },
+            {
+                "id": 292178,
+                "name": "corrupt police officials"
+            },
+            {
+                "id": 324599,
+                "name": "russian mobster"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Gary Oldman",
+            "character": "Jack Grimaldi"
+        },
+        {
+            "actor": "Lena Olin",
+            "character": "Mona Demarkov"
+        },
+        {
+            "actor": "Annabella Sciorra",
+            "character": "Natalie Grimaldi"
+        },
+        {
+            "actor": "Juliette Lewis",
+            "character": "Sheri"
+        },
+        {
+            "actor": "Roy Scheider",
+            "character": "Don Falcone"
+        },
+        {
+            "actor": "David Proval",
+            "character": "Scully"
+        },
+        {
+            "actor": "Will Patton",
+            "character": "Martie"
+        },
+        {
+            "actor": "Larry Joshua",
+            "character": "Joey"
+        },
+        {
+            "actor": "James Cromwell",
+            "character": "Cage"
+        },
+        {
+            "actor": "Wallace Wood",
+            "character": "Waiter"
+        },
+        {
+            "actor": "Gene Canfield",
+            "character": "John"
+        },
+        {
+            "actor": "William Duff-Griffin",
+            "character": "Paddy"
+        },
+        {
+            "actor": "Paul Butler",
+            "character": "Skouras"
+        },
+        {
+            "actor": "Tony Sirico",
+            "character": "Malacci"
+        },
+        {
+            "actor": "Michael Wincott",
+            "character": "Sal"
+        },
+        {
+            "actor": "Dennis Farina",
+            "character": "Nick Gazzara (uncredited)"
+        },
+        {
+            "actor": "Ron Perlman",
+            "character": "Jack's Attorney"
+        },
+        {
+            "actor": "Gary Hope",
+            "character": "Driver"
+        },
+        {
+            "actor": "James Murtaugh",
+            "character": "Priest"
+        },
+        {
+            "actor": "Pete Macnamara",
+            "character": "Mob Guard (uncredited)"
+        },
+        {
+            "actor": "Jay Patterson",
+            "character": "Mona's Lawyer (uncredited)"
+        },
+        {
+            "actor": "Stephen Tobolowsky",
+            "character": "District Attorney (uncredited)"
+        },
+        {
+            "actor": "Neal Jones",
+            "character": "Clerk"
+        },
+        {
+            "actor": "Victoria Bastel",
+            "character": "Girl #1"
+        },
+        {
+            "actor": "Ron Faber",
+            "character": "Hotel Manager (uncredited)"
+        }
+    ]
+}

@@ -1,0 +1,940 @@
+{
+    "adult": false,
+    "backdrop_path": "/xR8Ag3NpOqc0hgJGFqB05lj7dDd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 28,
+            "name": "Action"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "",
+    "id": 10348,
+    "imdb_id": "tt0114126",
+    "origin_country": [
+        "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "霹靂火",
+    "overview": "In order to release his kidnapped sister, sports car mechanic, Chan Foh To, has to defeat a super-criminal street racer.",
+    "popularity": 3.53,
+    "poster_path": "/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg",
+    "production_companies": [
+        {
+            "id": 2521,
+            "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+            "name": "Orange Sky Golden Harvest",
+            "origin_country": "HK"
+        },
+        {
+            "id": 2734,
+            "logo_path": null,
+            "name": "Paragon Films",
+            "origin_country": "HK"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+        }
+    ],
+    "release_date": "1995-09-08",
+    "revenue": 0,
+    "runtime": 110,
+    "spoken_languages": [
+        {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+        },
+        {
+            "english_name": "Cantonese",
+            "iso_639_1": "cn",
+            "name": "广州话 / 廣州話"
+        },
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The stakes don't come much higher.",
+    "title": "Thunderbolt",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 300,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "de",
+                        "note": "",
+                        "release_date": "1999-08-10T00:00:00.000Z",
+                        "type": 1
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2007-09-30T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "es",
+                        "note": "",
+                        "release_date": "2000-07-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1999-08-10T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "Scanbox Entertainment Sveden AB (DVD 3766)",
+                        "release_date": "1999-07-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1995-09-08T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "cast_id": 1,
+                "character": "Chan Foh To",
+                "credit_id": "52fe435e9251416c7500da4f",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 64895,
+                "known_for_department": "Acting",
+                "name": "Anita Yuen Wing-Yee",
+                "original_name": "袁詠儀",
+                "popularity": 0.031,
+                "profile_path": "/AuCZvEuF5QFzManEGuJLGXg4DZ.jpg",
+                "cast_id": 2,
+                "character": "Amy Yip",
+                "credit_id": "52fe435e9251416c7500da53",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64898,
+                "known_for_department": "Acting",
+                "name": "Thorsten Nickel",
+                "original_name": "Thorsten Nickel",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 4,
+                "character": "Warner 'Cougar' Kaugman",
+                "credit_id": "52fe435e9251416c7500da5b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96546,
+                "known_for_department": "Directing",
+                "name": "Chor Yuen",
+                "original_name": "楚原",
+                "popularity": 0.031,
+                "profile_path": "/zDHHM7CAVoixsgkRDwmxqtTxpAi.jpg",
+                "cast_id": 19,
+                "character": "Foh's father",
+                "credit_id": "53f9e3dac3a3687355002f75",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1356437,
+                "known_for_department": "Acting",
+                "name": "Daisy Woo Hoi-Yan",
+                "original_name": "胡凱欣",
+                "popularity": 0.004,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Chan's sister",
+                "credit_id": "53f9e3f1c3a3687361002e12",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 125103,
+                "known_for_department": "Acting",
+                "name": "Annie Man Chung-Han",
+                "original_name": "文頌嫻",
+                "popularity": 0.021,
+                "profile_path": "/4q8FJCQzqM19S2hTxSvUDPFUij8.jpg",
+                "cast_id": 21,
+                "character": "Chan's sister",
+                "credit_id": "53f9e3ffc3a368735b002e7e",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64896,
+                "known_for_department": "Acting",
+                "name": "Michael Wong",
+                "original_name": "王敏德",
+                "popularity": 0.038,
+                "profile_path": "/k3iH4zPZ8faWEF5uJeiq7fTtg7p.jpg",
+                "cast_id": 3,
+                "character": "Steve Cannon",
+                "credit_id": "52fe435e9251416c7500da57",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 110847,
+                "known_for_department": "Acting",
+                "name": "Dayo Wong Chi-Wah",
+                "original_name": "黃子華",
+                "popularity": 0.033,
+                "profile_path": "/p3vNUTB35GexppsWMBxqpDpeihS.jpg",
+                "cast_id": 17,
+                "character": "Mr. Lam",
+                "credit_id": "53f9e3adc3a3687358002eaf",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1346930,
+                "known_for_department": "Acting",
+                "name": "William Duen Wai-Lun",
+                "original_name": "段偉倫",
+                "popularity": 0.021,
+                "profile_path": "/hUgHLGnmzf5A5qVJJKY181154av.jpg",
+                "cast_id": 34,
+                "character": "Koo",
+                "credit_id": "610ec6bf26346200746033f9",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 33764,
+                "known_for_department": "Acting",
+                "name": "Yūzō Kayama",
+                "original_name": "加山雄三",
+                "popularity": 0.014,
+                "profile_path": "/wkBZ1dcVxZv6GzZUFaBMtN11uEI.jpg",
+                "cast_id": 22,
+                "character": "Coach Mirakami",
+                "credit_id": "53f9e409c3a368734f002d07",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 148884,
+                "known_for_department": "Acting",
+                "name": "Chin Ka-Lok",
+                "original_name": "錢嘉樂",
+                "popularity": 0.035,
+                "profile_path": "/wEeyX29Lu7kUsBICYjHeu6aVSGU.jpg",
+                "cast_id": 26,
+                "character": "Coach's Assistant",
+                "credit_id": "53f9e448c3a3687358002ec6",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1186988,
+                "known_for_department": "Acting",
+                "name": "Kenya Sawada",
+                "original_name": "Kenya Sawada",
+                "popularity": 0.008,
+                "profile_path": "/68devixyeQ0sbhqz0FzMZ88mNHw.jpg",
+                "cast_id": 24,
+                "character": "Saw",
+                "credit_id": "53f9e431c3a3687361002e25",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 70690,
+                "known_for_department": "Acting",
+                "name": "Ken Lo Wai-Kwong",
+                "original_name": "盧惠光",
+                "popularity": 0.044,
+                "profile_path": "/aecWmrSbnZTTnBJ8vgyNAaphOLp.jpg",
+                "cast_id": 18,
+                "character": "Kong",
+                "credit_id": "53f9e3cfc3a3687358002ec1",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1356438,
+                "known_for_department": "Acting",
+                "name": "Mari Eguro",
+                "original_name": "Mari Eguro",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 23,
+                "character": "Miss Kenya",
+                "credit_id": "53f9e427c3a3687355002f7b",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119447,
+                "known_for_department": "Acting",
+                "name": "Shing Fui-On",
+                "original_name": "成奎安",
+                "popularity": 0.028,
+                "profile_path": "/iLGQZ8OjGdZW3imJlgiUNv9ER8y.jpg",
+                "cast_id": 29,
+                "character": "Illegal Racer",
+                "credit_id": "5ac9369b0e0a26497704c7f7",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 35452,
+                "known_for_department": "Directing",
+                "name": "Corey Yuen Kwai",
+                "original_name": "元奎",
+                "popularity": 0.063,
+                "profile_path": "/mByophwSNqKU96TzozUgC5hykzs.jpg",
+                "cast_id": 25,
+                "character": "The Doctor",
+                "credit_id": "53f9e43dc3a3687361002e27",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1641300,
+                "known_for_department": "Acting",
+                "name": "Peter Yung Kam-Cheung",
+                "original_name": "Kam-Cheong Yung",
+                "popularity": 0.004,
+                "profile_path": "/i25AF9HIKMgMCPLgiuHAAn9Gnq8.jpg",
+                "cast_id": 39,
+                "character": "Cheong - Mechanic",
+                "credit_id": "638acdb715376c00834afb59",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1356439,
+                "known_for_department": "Acting",
+                "name": "Michael Lui Mai-Go",
+                "original_name": "呂米高",
+                "popularity": 0.001,
+                "profile_path": "/e5YXaYjU6MvjdQxYTpUlNkNNhOl.jpg",
+                "cast_id": 27,
+                "character": "Jackie's Mechanic (uncredited)",
+                "credit_id": "53f9e457c3a3687352002edb",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119454,
+                "known_for_department": "Acting",
+                "name": "Mars",
+                "original_name": "蔣榮發",
+                "popularity": 0.037,
+                "profile_path": "/3Ei43rRzIwI6K4TE1pdHURYkFyB.jpg",
+                "cast_id": 14,
+                "character": "Saw's Thug (uncredited)",
+                "credit_id": "52fe435e9251416c7500da95",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 986480,
+                "known_for_department": "Acting",
+                "name": "Timmy Hung Tin-Ming",
+                "original_name": "洪天明",
+                "popularity": 0.018,
+                "profile_path": "/93SewU7wmWmYijuthNEfuscfvhx.jpg",
+                "cast_id": 28,
+                "character": "Saw's Thug (uncredited)",
+                "credit_id": "574993b792514139df00079d",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1407529,
+                "known_for_department": "Acting",
+                "name": "Chan Tat-Kwong",
+                "original_name": "陳達廣",
+                "popularity": 0.003,
+                "profile_path": "/8Kcf7sZs9xLxwieDqiWJe5SuzXM.jpg",
+                "cast_id": 32,
+                "character": "Kong's Thug (uncredited)",
+                "credit_id": "60fe767ef85958008314de93",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 52908,
+                "known_for_department": "Acting",
+                "name": "Collin Chou",
+                "original_name": "鄒兆龍",
+                "popularity": 0.027,
+                "profile_path": "/uUZ60sZTVhinijIPORMSCwIt0eg.jpg",
+                "cast_id": 33,
+                "character": "Kong's Thug with Red Bandana (uncredited)",
+                "credit_id": "60fe7762db72c0005d7e3037",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1121128,
+                "known_for_department": "Acting",
+                "name": "Benny Lai Keung-Kuen",
+                "original_name": "黎強權",
+                "popularity": 0.015,
+                "profile_path": "/aSuPzMM2jf74Og3lWor20gbZoUE.jpg",
+                "cast_id": 35,
+                "character": "Saw's Thug (uncredited)",
+                "credit_id": "62435b44c50ad20047fd5c0d",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1277939,
+                "known_for_department": "Acting",
+                "name": "Ailen Sit Chun-Wai",
+                "original_name": "Ailen Sit Chun-Wai",
+                "popularity": 0.01,
+                "profile_path": "/1cFoTB2JIJiUDhhjMx4YSR65fSK.jpg",
+                "cast_id": 36,
+                "character": "Bribing Thug (uncredited)",
+                "credit_id": "62a491276c8492180709f4de",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1627392,
+                "known_for_department": "Acting",
+                "name": "Jimmy Hung Tin-Cheung",
+                "original_name": "洪天祥",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 49,
+                "character": "",
+                "credit_id": "66efc25bb348bea4eb3b4bf6",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1135709,
+                "known_for_department": "Acting",
+                "name": "Sam Wong Ming-Sing",
+                "original_name": "黃明昇",
+                "popularity": 0.014,
+                "profile_path": "/r8lU3VAJEP3s3ciJe9SX97dJmaR.jpg",
+                "cast_id": 42,
+                "character": "",
+                "credit_id": "657dd1aac9054f06aeb5867b",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 552393,
+                "known_for_department": "Acting",
+                "name": "Nicky Li Chung-Chi",
+                "original_name": "李忠志",
+                "popularity": 0.025,
+                "profile_path": "/53eLkyoEKfACXpcBBymtigxlbRj.jpg",
+                "cast_id": 43,
+                "character": "",
+                "credit_id": "65fcecfb1b1f3c0163961ac4",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 552394,
+                "known_for_department": "Acting",
+                "name": "Jack Wong Wai-Leung",
+                "original_name": "Jack Wong Wai-Leung",
+                "popularity": 0.012,
+                "profile_path": "/gMNmPS6ljXJPkeiTpQrIPGCwdy2.jpg",
+                "cast_id": 44,
+                "character": "",
+                "credit_id": "660b5f7835818f017c3a1ea4",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 246385,
+                "known_for_department": "Acting",
+                "name": "Hsiao Ho",
+                "original_name": "Hsiao Ho",
+                "popularity": 0.007,
+                "profile_path": "/ifBs2JU2sEV1HMZ4659056cyTnP.jpg",
+                "cast_id": 45,
+                "character": "",
+                "credit_id": "665e7705fd44388d42c292aa",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610931,
+                "known_for_department": "Acting",
+                "name": "Chan Sek",
+                "original_name": "Chan Sek",
+                "popularity": 0.005,
+                "profile_path": "/lVawfUxfFm3pppVt9WKzMKFc9U0.jpg",
+                "cast_id": 48,
+                "character": "",
+                "credit_id": "66b7fe537c4433945811ce6a",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 119452,
+                "known_for_department": "Acting",
+                "name": "Yuen Miu",
+                "original_name": "Yuen Miu",
+                "popularity": 0.01,
+                "profile_path": "/mDmN3X9940rawLnLlt8fWrWlAaf.jpg",
+                "cast_id": 51,
+                "character": "",
+                "credit_id": "678f1435449bb9688baaa79f",
+                "order": 30
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 44932,
+                "known_for_department": "Directing",
+                "name": "Leonard Horn",
+                "original_name": "Leonard Horn",
+                "popularity": 0.014,
+                "profile_path": null,
+                "credit_id": "52fe435e9251416c7500da6d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 56870,
+                "known_for_department": "Editing",
+                "name": "Chan Ki-Hop",
+                "original_name": "Chan Ki-Hop",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe435e9251416c7500da8b",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64903,
+                "known_for_department": "Production",
+                "name": "Chua Lam",
+                "original_name": "Chua Lam",
+                "popularity": 0.01,
+                "profile_path": "/88Xt5XtO3mThsdxVDHDyl36rD9r.jpg",
+                "credit_id": "52fe435e9251416c7500da67",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "credit_id": "52fe435e9251416c7500da73",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64905,
+                "known_for_department": "Writing",
+                "name": "Philip Kwok",
+                "original_name": "Philip Kwok",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "52fe435e9251416c7500da79",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64907,
+                "known_for_department": "Camera",
+                "name": "Joe Chan Kwong-Hung",
+                "original_name": "陳廣鴻",
+                "popularity": 0.013,
+                "profile_path": null,
+                "credit_id": "52fe435e9251416c7500da91",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "credit_id": "52fe435e9251416c7500daa1",
+                "department": "Crew",
+                "job": "Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64901,
+                "known_for_department": "Directing",
+                "name": "Gordon Chan",
+                "original_name": "陳嘉上",
+                "popularity": 0.018,
+                "profile_path": "/u5ZyeRfHyQGraQClzz9XO8Jjeav.jpg",
+                "credit_id": "52fe435e9251416c7500da61",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 64901,
+                "known_for_department": "Directing",
+                "name": "Gordon Chan",
+                "original_name": "陳嘉上",
+                "popularity": 0.018,
+                "profile_path": "/u5ZyeRfHyQGraQClzz9XO8Jjeav.jpg",
+                "credit_id": "52fe435e9251416c7500da7f",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 18897,
+                "known_for_department": "Acting",
+                "name": "Jackie Chan",
+                "original_name": "成龍",
+                "popularity": 0.253,
+                "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+                "credit_id": "608c73cb71ffdf00777586ef",
+                "department": "Sound",
+                "job": "Theme Song Performance"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 65932,
+                "known_for_department": "Writing",
+                "name": "Chan Hing-Kai",
+                "original_name": "Chan Hing-Kai",
+                "popularity": 0.01,
+                "profile_path": "/9q6Qy6i4X9uNlLF6LstkAXpJ9PS.jpg",
+                "credit_id": "638acc8ec3aa3f007a10a1bf",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 64906,
+                "known_for_department": "Sound",
+                "name": "Yang Bang Ean",
+                "original_name": "Yang Bang Ean",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "6669bd091fa1e0327d37f36c",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 25240,
+                "known_for_department": "Camera",
+                "name": "Cheng Siu-Keung",
+                "original_name": "鄭兆強",
+                "popularity": 0.01,
+                "profile_path": "/b5AaGHDthGXTNF5RFlsk0WphhC0.jpg",
+                "credit_id": "6669bd02d0b60109caa7263b",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62410,
+                "known_for_department": "Acting",
+                "name": "Sammo Hung Kam-Bo",
+                "original_name": "洪金寶",
+                "popularity": 0.083,
+                "profile_path": "/odHszmZ4uj2Hj4EE03js8IsswJb.jpg",
+                "credit_id": "676531e187b92a43be5de79f",
+                "department": "Crew",
+                "job": "Stunts"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 81220,
+                "known_for_department": "Directing",
+                "name": "Dante Lam Chiu-Yin",
+                "original_name": "林超賢",
+                "popularity": 0.013,
+                "profile_path": "/4xXjPWxN8AwUdh3yL0lp1XjTCLs.jpg",
+                "credit_id": "679808999a30a85b27240396",
+                "department": "Directing",
+                "job": "Assistant Director"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 779,
+                "name": "martial arts"
+            },
+            {
+                "id": 6149,
+                "name": "police"
+            },
+            {
+                "id": 830,
+                "name": "car race"
+            },
+            {
+                "id": 3296,
+                "name": "car mechanic"
+            },
+            {
+                "id": 6996,
+                "name": "car garage"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Jackie Chan",
+            "character": "Chan Foh To"
+        },
+        {
+            "actor": "Anita Yuen Wing-Yee",
+            "character": "Amy Yip"
+        },
+        {
+            "actor": "Thorsten Nickel",
+            "character": "Warner 'Cougar' Kaugman"
+        },
+        {
+            "actor": "Chor Yuen",
+            "character": "Foh's father"
+        },
+        {
+            "actor": "Daisy Woo Hoi-Yan",
+            "character": "Chan's sister"
+        },
+        {
+            "actor": "Annie Man Chung-Han",
+            "character": "Chan's sister"
+        },
+        {
+            "actor": "Michael Wong",
+            "character": "Steve Cannon"
+        },
+        {
+            "actor": "Dayo Wong Chi-Wah",
+            "character": "Mr. Lam"
+        },
+        {
+            "actor": "William Duen Wai-Lun",
+            "character": "Koo"
+        },
+        {
+            "actor": "Yūzō Kayama",
+            "character": "Coach Mirakami"
+        },
+        {
+            "actor": "Chin Ka-Lok",
+            "character": "Coach's Assistant"
+        },
+        {
+            "actor": "Kenya Sawada",
+            "character": "Saw"
+        },
+        {
+            "actor": "Ken Lo Wai-Kwong",
+            "character": "Kong"
+        },
+        {
+            "actor": "Mari Eguro",
+            "character": "Miss Kenya"
+        },
+        {
+            "actor": "Shing Fui-On",
+            "character": "Illegal Racer"
+        },
+        {
+            "actor": "Corey Yuen Kwai",
+            "character": "The Doctor"
+        },
+        {
+            "actor": "Peter Yung Kam-Cheung",
+            "character": "Cheong - Mechanic"
+        },
+        {
+            "actor": "Michael Lui Mai-Go",
+            "character": "Jackie's Mechanic (uncredited)"
+        },
+        {
+            "actor": "Mars",
+            "character": "Saw's Thug (uncredited)"
+        },
+        {
+            "actor": "Timmy Hung Tin-Ming",
+            "character": "Saw's Thug (uncredited)"
+        },
+        {
+            "actor": "Chan Tat-Kwong",
+            "character": "Kong's Thug (uncredited)"
+        },
+        {
+            "actor": "Collin Chou",
+            "character": "Kong's Thug with Red Bandana (uncredited)"
+        },
+        {
+            "actor": "Benny Lai Keung-Kuen",
+            "character": "Saw's Thug (uncredited)"
+        },
+        {
+            "actor": "Ailen Sit Chun-Wai",
+            "character": "Bribing Thug (uncredited)"
+        },
+        {
+            "actor": "Jimmy Hung Tin-Cheung",
+            "character": ""
+        },
+        {
+            "actor": "Sam Wong Ming-Sing",
+            "character": ""
+        },
+        {
+            "actor": "Nicky Li Chung-Chi",
+            "character": ""
+        },
+        {
+            "actor": "Jack Wong Wai-Leung",
+            "character": ""
+        },
+        {
+            "actor": "Hsiao Ho",
+            "character": ""
+        },
+        {
+            "actor": "Chan Sek",
+            "character": ""
+        },
+        {
+            "actor": "Yuen Miu",
+            "character": ""
+        }
+    ]
+}

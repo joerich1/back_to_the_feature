@@ -1,0 +1,661 @@
+{
+    "adult": false,
+    "backdrop_path": "/rexenhkNhgE77fcph3EPbxIT7ni.jpg",
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        }
+    ],
+    "homepage": "http://www.needlemovie.com/",
+    "id": 49347,
+    "imdb_id": "tt1545315",
+    "origin_country": [
+        "AU",
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Needle",
+    "overview": "College student Ben inherits a curious old mechanical box that churns out voodoo dolls. When a shadowy figure starts using the box to murder Ben's friends, he must find the killer.",
+    "popularity": 1.914,
+    "poster_path": "/gxVJLWNMGyOXPG5P8KULdoWHHPg.jpg",
+    "production_companies": [
+        {
+            "id": 10002,
+            "logo_path": "/2iHUtPgZZ25bSd65i5M2nrv2WIQ.png",
+            "name": "Filmscope Entertainment",
+            "origin_country": "AU"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "AU",
+            "name": "Australia"
+        }
+    ],
+    "release_date": "2010-06-04",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Ten Suspects. Six Clues. One Killer...",
+    "title": "Needle",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 54,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-06-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-04-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-04-03T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "TP",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2013-04-03T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "18",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2011-06-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2012-01-11T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2010-10-09T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77700,
+                "known_for_department": "Acting",
+                "name": "Travis Fimmel",
+                "original_name": "Travis Fimmel",
+                "popularity": 0.148,
+                "profile_path": "/i6wEoE9P6PgYe75g6QT8Y7JjX6n.jpg",
+                "cast_id": 4,
+                "character": "Marcus Rutherford",
+                "credit_id": "52fe4790c3a36847f813c733",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77335,
+                "known_for_department": "Acting",
+                "name": "Ben Mendelsohn",
+                "original_name": "Ben Mendelsohn",
+                "popularity": 0.086,
+                "profile_path": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg",
+                "cast_id": 16,
+                "character": "Detective Meares",
+                "credit_id": "53b6c6c80e0a2676c4005659",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 152416,
+                "known_for_department": "Acting",
+                "name": "Murray Bartlett",
+                "original_name": "Murray Bartlett",
+                "popularity": 0.1,
+                "profile_path": "/eN20zfcRB2F51bmUbTK9byQCpb9.jpg",
+                "cast_id": 26,
+                "character": "Tony Martin",
+                "credit_id": "61993beebc2cb300427c2e4d",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 76068,
+                "known_for_department": "Acting",
+                "name": "Michael Dorman",
+                "original_name": "Michael Dorman",
+                "popularity": 0.032,
+                "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
+                "cast_id": 14,
+                "character": "Ben Rutherford",
+                "credit_id": "53b6c6570e0a2676c70059cb",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 70827,
+                "known_for_department": "Acting",
+                "name": "Jane Badler",
+                "original_name": "Jane Badler",
+                "popularity": 0.023,
+                "profile_path": "/1y3ULLRX3Ga4BqmxJBmWKbkN6m.jpg",
+                "cast_id": 2,
+                "character": "Professor Banyon",
+                "credit_id": "52fe4790c3a36847f813c72b",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 142100,
+                "known_for_department": "Acting",
+                "name": "Jessica Marais",
+                "original_name": "Jessica Marais",
+                "popularity": 0.022,
+                "profile_path": "/q31rf98sqWlGwZsr2ka74prQCxu.jpg",
+                "cast_id": 3,
+                "character": "Kandi",
+                "credit_id": "52fe4790c3a36847f813c72f",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1483257,
+                "known_for_department": "Acting",
+                "name": "Nathaniel Buzolic",
+                "original_name": "Nathaniel Buzolic",
+                "popularity": 0.016,
+                "profile_path": "/w7RPzpXDRCkvtBiRc126eZlrJvV.jpg",
+                "cast_id": 18,
+                "character": "Ryan",
+                "credit_id": "58ae59f3c3a36835d600079e",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 45210,
+                "known_for_department": "Acting",
+                "name": "John Jarratt",
+                "original_name": "John Jarratt",
+                "popularity": 0.02,
+                "profile_path": "/h5dgpQbqJdX9xaqde6IDWuubGkr.jpg",
+                "cast_id": 17,
+                "character": "Paul, the Coroner",
+                "credit_id": "53b6c6f90e0a2676bf0055a4",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 92175,
+                "known_for_department": "Acting",
+                "name": "Tahyna MacManus",
+                "original_name": "Tahyna MacManus",
+                "popularity": 0.015,
+                "profile_path": "/m372xljHsDRe20eMCXTKACNfD65.jpg",
+                "cast_id": 15,
+                "character": "Mary Matthews",
+                "credit_id": "53b6c6740e0a2676bf005589",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 142101,
+                "known_for_department": "Acting",
+                "name": "Trilby Glover",
+                "original_name": "Trilby Glover",
+                "popularity": 0.006,
+                "profile_path": "/ji3okzcPNaOB18xO4uIYNRPoq9m.jpg",
+                "cast_id": 5,
+                "character": "Isabel Du Pont",
+                "credit_id": "52fe4790c3a36847f813c737",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 94508,
+                "known_for_department": "Acting",
+                "name": "Khan Chittenden",
+                "original_name": "Khan Chittenden",
+                "popularity": 0.007,
+                "profile_path": "/rL2rApg1H432nAQuneJxQRlToAN.jpg",
+                "cast_id": 23,
+                "character": "Jed",
+                "credit_id": "5e23b0afcf4b8b0012f4fa5e",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1376120,
+                "known_for_department": "Acting",
+                "name": "Chanel Marriott",
+                "original_name": "Chanel Marriott",
+                "popularity": 0.005,
+                "profile_path": "/8OfPsUJTwNcQ8WN5ckRZQTEoMUm.jpg",
+                "cast_id": 24,
+                "character": "Lucy",
+                "credit_id": "5e23b0bb397df000149c44c6",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 152492,
+                "known_for_department": "Acting",
+                "name": "Malcolm Kennard",
+                "original_name": "Malcolm Kennard",
+                "popularity": 0.01,
+                "profile_path": "/8EJAbII2oZtaf9knXJFAFqHmdON.jpg",
+                "cast_id": 27,
+                "character": "Detective Reddick",
+                "credit_id": "61993c1f96033100918b7666",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 96770,
+                "known_for_department": "Acting",
+                "name": "Luke Carroll",
+                "original_name": "Luke Carroll",
+                "popularity": 0.005,
+                "profile_path": "/kH1PPzVG2AaQljZZuRyOHPZOoSg.jpg",
+                "cast_id": 25,
+                "character": "Nelson",
+                "credit_id": "5e23b0c88f26bc001177b653",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1125473,
+                "known_for_department": "Acting",
+                "name": "Michael Loney",
+                "original_name": "Michael Loney",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 28,
+                "character": "Robert Shaw",
+                "credit_id": "61993c3870b444009303a3b9",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3318001,
+                "known_for_department": "Acting",
+                "name": "Tahlia Norrish",
+                "original_name": "Tahlia Norrish",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 29,
+                "character": "Student",
+                "credit_id": "61993c44497560006157131c",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2588033,
+                "known_for_department": "Acting",
+                "name": "Rebecca Chalon",
+                "original_name": "Rebecca Chalon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 30,
+                "character": "University Student",
+                "credit_id": "61993c4f2973380064429407",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3076493,
+                "known_for_department": "Acting",
+                "name": "James Hagan",
+                "original_name": "James Hagan",
+                "popularity": 0.001,
+                "profile_path": "/y1eQGJ4Ji4xZlSj5um10Kjfz5mU.jpg",
+                "cast_id": 31,
+                "character": "Samuel Rutherford",
+                "credit_id": "61993c7571458f002aa32f9e",
+                "order": 17
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1204249,
+                "known_for_department": "Production",
+                "name": "Sean Baguley",
+                "original_name": "Sean Baguley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c755",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59930,
+                "known_for_department": "Editing",
+                "name": "Jason Ballantine",
+                "original_name": "Jason Ballantine",
+                "popularity": 0.01,
+                "profile_path": "/9gl7jGZpFeoepsFmb7Vi6vvFOKr.jpg",
+                "credit_id": "52fe4790c3a36847f813c761",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1204250,
+                "known_for_department": "Art",
+                "name": "Nigel Devenport",
+                "original_name": "Nigel Devenport",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c767",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90818,
+                "known_for_department": "Writing",
+                "name": "John V. Soto",
+                "original_name": "John V. Soto",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c727",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 59958,
+                "known_for_department": "Sound",
+                "name": "Jamie Blanks",
+                "original_name": "Jamie Blanks",
+                "popularity": 0.004,
+                "profile_path": "/8LVDBzdovUys2Cn87EQvQMG5btB.jpg",
+                "credit_id": "52fe4790c3a36847f813c75b",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 90818,
+                "known_for_department": "Writing",
+                "name": "John V. Soto",
+                "original_name": "John V. Soto",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c743",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1204248,
+                "known_for_department": "Production",
+                "name": "Deidre Kitcher",
+                "original_name": "Deidre Kitcher",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c74f",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 58192,
+                "known_for_department": "Camera",
+                "name": "Stephen F. Windon",
+                "original_name": "Stephen F. Windon",
+                "popularity": 0.004,
+                "profile_path": "/oe7nAXAcXpCY62FuCdJR4bFZKae.jpg",
+                "credit_id": "52fe4790c3a36847f813c749",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1072833,
+                "known_for_department": "Editing",
+                "name": "Anthony Egan",
+                "original_name": "Anthony Egan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe4790c3a36847f813c73d",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2318059,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Vivienne Rintoul",
+                "original_name": "Vivienne Rintoul",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ce4178cc3a368652b1f2442",
+                "department": "Costume & Make-Up",
+                "job": "Makeup & Hair"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 75526,
+                "known_for_department": "Production",
+                "name": "Jane Sullivan",
+                "original_name": "Jane Sullivan",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ce417b29251414923b94ddd",
+                "department": "Production",
+                "job": "Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2318061,
+                "known_for_department": "Art",
+                "name": "Ness Demaine",
+                "original_name": "Ness Demaine",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ce417f30e0a262573cadd5a",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1654527,
+                "known_for_department": "Art",
+                "name": "Monique Wajon",
+                "original_name": "Monique Wajon",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5ce41846c3a36864941f0799",
+                "department": "Art",
+                "job": "Set Dresser"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 3392,
+                "name": "voodoo"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Travis Fimmel",
+            "character": "Marcus Rutherford"
+        },
+        {
+            "actor": "Ben Mendelsohn",
+            "character": "Detective Meares"
+        },
+        {
+            "actor": "Murray Bartlett",
+            "character": "Tony Martin"
+        },
+        {
+            "actor": "Michael Dorman",
+            "character": "Ben Rutherford"
+        },
+        {
+            "actor": "Jane Badler",
+            "character": "Professor Banyon"
+        },
+        {
+            "actor": "Jessica Marais",
+            "character": "Kandi"
+        },
+        {
+            "actor": "Nathaniel Buzolic",
+            "character": "Ryan"
+        },
+        {
+            "actor": "John Jarratt",
+            "character": "Paul, the Coroner"
+        },
+        {
+            "actor": "Tahyna MacManus",
+            "character": "Mary Matthews"
+        },
+        {
+            "actor": "Trilby Glover",
+            "character": "Isabel Du Pont"
+        },
+        {
+            "actor": "Khan Chittenden",
+            "character": "Jed"
+        },
+        {
+            "actor": "Chanel Marriott",
+            "character": "Lucy"
+        },
+        {
+            "actor": "Malcolm Kennard",
+            "character": "Detective Reddick"
+        },
+        {
+            "actor": "Luke Carroll",
+            "character": "Nelson"
+        },
+        {
+            "actor": "Michael Loney",
+            "character": "Robert Shaw"
+        },
+        {
+            "actor": "Tahlia Norrish",
+            "character": "Student"
+        },
+        {
+            "actor": "Rebecca Chalon",
+            "character": "University Student"
+        },
+        {
+            "actor": "James Hagan",
+            "character": "Samuel Rutherford"
+        }
+    ]
+}

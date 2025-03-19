@@ -1,0 +1,712 @@
+{
+    "adult": false,
+    "backdrop_path": "/9ahfMwFratA2kIaSxxz9aKdByuX.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        }
+    ],
+    "homepage": "",
+    "id": 67627,
+    "imdb_id": "tt0079154",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Fish That Saved Pittsburgh",
+    "overview": "The Pittsburgh basketball team is hopeless. Maybe with the aid of an astrologer, and some new astrologically compatible players, they can become winners.",
+    "popularity": 0.459,
+    "poster_path": "/heDHvyI0ICaG4MogaIQNawdhsJc.jpg",
+    "production_companies": [
+        {
+            "id": 60,
+            "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+            "name": "United Artists",
+            "origin_country": "US"
+        },
+        {
+            "id": 898,
+            "logo_path": "/pBh5kde6mhGEMglYLwCdFnqK5zh.png",
+            "name": "Lorimar Productions",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1979-11-06",
+    "revenue": 8,
+    "runtime": 102,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Fish That Saved Pittsburgh",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 13,
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "PG",
+                        "descriptors": [],
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "1979-11-06T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 196537,
+                "known_for_department": "Acting",
+                "name": "Julius Erving",
+                "original_name": "Julius Erving",
+                "popularity": 0.005,
+                "profile_path": "/tvBg6Zu1Lgs6QQMaq7Y0XWVyFjz.jpg",
+                "cast_id": 1,
+                "character": "Moses Guthrie",
+                "credit_id": "52fe476ec3a368484e0c6abd",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13593,
+                "known_for_department": "Acting",
+                "name": "Jonathan Winters",
+                "original_name": "Jonathan Winters",
+                "popularity": 0.021,
+                "profile_path": "/c2pp7XSUBTbUyptlDjaEhoyz9QX.jpg",
+                "cast_id": 2,
+                "character": "H.S. / Harvey Tilson",
+                "credit_id": "52fe476ec3a368484e0c6ac1",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 100610,
+                "known_for_department": "Acting",
+                "name": "Meadowlark Lemon",
+                "original_name": "Meadowlark Lemon",
+                "popularity": 0.002,
+                "profile_path": null,
+                "cast_id": 3,
+                "character": "Rev. Grady Jackson",
+                "credit_id": "52fe476ec3a368484e0c6ac5",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1273,
+                "known_for_department": "Acting",
+                "name": "Jack Kehoe",
+                "original_name": "Jack Kehoe",
+                "popularity": 0.028,
+                "profile_path": "/bwsY19BaN9vF21XuH8nVZrEAplo.jpg",
+                "cast_id": 4,
+                "character": "Setshot",
+                "credit_id": "52fe476fc3a368484e0c6ac9",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 14414,
+                "known_for_department": "Acting",
+                "name": "Kareem Abdul-Jabbar",
+                "original_name": "Kareem Abdul-Jabbar",
+                "popularity": 0.025,
+                "profile_path": "/d1WwPP6PVgZXXalxqYOXfztOpuj.jpg",
+                "cast_id": 5,
+                "character": "Self",
+                "credit_id": "52fe476fc3a368484e0c6acd",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 13307,
+                "known_for_department": "Acting",
+                "name": "Margaret Avery",
+                "original_name": "Margaret Avery",
+                "popularity": 0.022,
+                "profile_path": "/pvAB2GwE8QCPo7WxwBW7ndqUoPR.jpg",
+                "cast_id": 6,
+                "character": "Toby Millman",
+                "credit_id": "52fe476fc3a368484e0c6ad1",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 564063,
+                "known_for_department": "Acting",
+                "name": "James Bond III",
+                "original_name": "James Bond III",
+                "popularity": 0.008,
+                "profile_path": null,
+                "cast_id": 7,
+                "character": "Tyrone Millman",
+                "credit_id": "52fe476fc3a368484e0c6ad5",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3172,
+                "known_for_department": "Acting",
+                "name": "Michael V. Gazzo",
+                "original_name": "Michael V. Gazzo",
+                "popularity": 0.031,
+                "profile_path": "/cTY2Hlf6sIR9xLI95bBir7eI0N.jpg",
+                "cast_id": 8,
+                "character": "Harry the Trainer",
+                "credit_id": "52fe476fc3a368484e0c6ad9",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106250,
+                "known_for_department": "Acting",
+                "name": "Peter Isacksen",
+                "original_name": "Peter Isacksen",
+                "popularity": 0.006,
+                "profile_path": null,
+                "cast_id": 9,
+                "character": "Driftwood",
+                "credit_id": "52fe476fc3a368484e0c6add",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 13028,
+                "known_for_department": "Acting",
+                "name": "Nicholas Pryor",
+                "original_name": "Nicholas Pryor",
+                "popularity": 0.033,
+                "profile_path": "/rAqLXW7s72tSgl1XBRYRCjQg4Cq.jpg",
+                "cast_id": 10,
+                "character": "George Brockington",
+                "credit_id": "52fe476fc3a368484e0c6ae1",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 588,
+                "known_for_department": "Acting",
+                "name": "M. Emmet Walsh",
+                "original_name": "M. Emmet Walsh",
+                "popularity": 0.078,
+                "profile_path": "/7qhQ8VZ8cFHV5c5y1GQ9ISTxwQZ.jpg",
+                "cast_id": 11,
+                "character": "Wally Cantrell",
+                "credit_id": "52fe476fc3a368484e0c6ae5",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 8893,
+                "known_for_department": "Acting",
+                "name": "Stockard Channing",
+                "original_name": "Stockard Channing",
+                "popularity": 0.077,
+                "profile_path": "/qAYBGvapAnnhpoZuYFyoqetncs5.jpg",
+                "cast_id": 12,
+                "character": "Mona Mondieu",
+                "credit_id": "52fe476fc3a368484e0c6ae9",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 103903,
+                "known_for_department": "Acting",
+                "name": "Flip Wilson",
+                "original_name": "Flip Wilson",
+                "popularity": 0.01,
+                "profile_path": "/k57GxEpFulepz38Q8l2XRu8jzV2.jpg",
+                "cast_id": 13,
+                "character": "Coach \"Jock\" Delaney",
+                "credit_id": "52fe476fc3a368484e0c6aed",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179512,
+                "known_for_department": "Acting",
+                "name": "Marv Albert",
+                "original_name": "Marv Albert",
+                "popularity": 0.005,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Self",
+                "credit_id": "52fe476fc3a368484e0c6af1",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 32395,
+                "known_for_department": "Acting",
+                "name": "Debbie Allen",
+                "original_name": "Debbie Allen",
+                "popularity": 0.034,
+                "profile_path": "/m5WLlvAakNejhGiG7zjsPvrwxM8.jpg",
+                "cast_id": 15,
+                "character": "Ola",
+                "credit_id": "52fe476fc3a368484e0c6af5",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3603665,
+                "known_for_department": "Acting",
+                "name": "George von Benko",
+                "original_name": "George von Benko",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 35,
+                "character": "P.A. Announcer",
+                "credit_id": "62b99df07304b5135b7e123e",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 112766,
+                "known_for_department": "Acting",
+                "name": "Dee Dee Bridgewater",
+                "original_name": "Dee Dee Bridgewater",
+                "popularity": 0.004,
+                "profile_path": "/1StxCAEW8ORtiLy2qgaORqeJRwX.jpg",
+                "cast_id": 20,
+                "character": "Brandy",
+                "credit_id": "5c6389d39251412fc6fdb754",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3603666,
+                "known_for_department": "Acting",
+                "name": "Darrell Brown",
+                "original_name": "Darrell Brown",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 36,
+                "character": "Junior Ashland",
+                "credit_id": "62b99e507304b5135c624a25",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 77299,
+                "known_for_department": "Acting",
+                "name": "Julius Carry",
+                "original_name": "Julius Carry",
+                "popularity": 0.029,
+                "profile_path": "/x9rg0WCIzb1HnesZOcn6fnIRi04.jpg",
+                "cast_id": 37,
+                "character": "Malik Jamal Truth",
+                "credit_id": "62b99e5a7ef3810435386258",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3603662,
+                "known_for_department": "Acting",
+                "name": "Jerry Chambers",
+                "original_name": "Jerry Chambers",
+                "popularity": 0.001,
+                "profile_path": null,
+                "cast_id": 38,
+                "character": "Lucian Tucker",
+                "credit_id": "62b99e637ef3810435386264",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 37598,
+                "known_for_department": "Acting",
+                "name": "Alix Elias",
+                "original_name": "Alix Elias",
+                "popularity": 0.009,
+                "profile_path": "/iYSeDJdMqZG6F0unFXUpzRLiDfF.jpg",
+                "cast_id": 39,
+                "character": "Michelle",
+                "credit_id": "62b99e6b356a710051c96cd9",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 9786,
+                "known_for_department": "Acting",
+                "name": "Jessie Lawrence Ferguson",
+                "original_name": "Jessie Lawrence Ferguson",
+                "popularity": 0.014,
+                "profile_path": "/zPWYlBlljsndQtvzVUZ1NwGOX67.jpg",
+                "cast_id": 40,
+                "character": "Jackhammer Washington",
+                "credit_id": "62b99e75e1faed142061ada9",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 47771,
+                "known_for_department": "Acting",
+                "name": "Richard Foronjy",
+                "original_name": "Richard Foronjy",
+                "popularity": 0.011,
+                "profile_path": "/zNerBPOQawN4PxT35WmqwFd9PMu.jpg",
+                "cast_id": 41,
+                "character": "Mike",
+                "credit_id": "62b99e7e2e2b2c031eb5b62a",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 80258,
+                "known_for_department": "Acting",
+                "name": "Chick Hearn",
+                "original_name": "Chick Hearn",
+                "popularity": 0.008,
+                "profile_path": "/rOaJWtx4jGG1YzKGCUem2viLHn6.jpg",
+                "cast_id": 42,
+                "character": "Self",
+                "credit_id": "62b99e8cf031740d0dc7f169",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1327987,
+                "known_for_department": "Acting",
+                "name": "Clayton Hill",
+                "original_name": "Clayton Hill",
+                "popularity": 0.004,
+                "profile_path": "/iMI2DokUdoZ2HcFKi6OEvucBAK.jpg",
+                "cast_id": 43,
+                "character": "Security Guard",
+                "credit_id": "62b99eadf031740d0dc7f179",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 15070,
+                "known_for_department": "Acting",
+                "name": "Ken Foree",
+                "original_name": "Ken Foree",
+                "popularity": 0.034,
+                "profile_path": "/5u9Ou7RHx1vDe8SQFhX3Euxe2Ae.jpg",
+                "cast_id": 44,
+                "character": "Pittsburgh Python Player",
+                "credit_id": "641b7ed524b333007cf44447",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 6008,
+                "known_for_department": "Acting",
+                "name": "Harry Shearer",
+                "original_name": "Harry Shearer",
+                "popularity": 0.053,
+                "profile_path": "/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg",
+                "cast_id": 45,
+                "character": "Murray Sports",
+                "credit_id": "6483b68ed2b20900ca1e9b69",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 106730,
+                "known_for_department": "Acting",
+                "name": "Branscombe Richmond",
+                "original_name": "Branscombe Richmond",
+                "popularity": 0.049,
+                "profile_path": "/4UFwrT68uzusdG1hcPARjxpJUIx.jpg",
+                "cast_id": 46,
+                "character": "Winston Running Hawk",
+                "credit_id": "65a8b508c4f552012a8e4f89",
+                "order": 27
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 171145,
+                "known_for_department": "Directing",
+                "name": "Gilbert Moses",
+                "original_name": "Gilbert Moses",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe476fc3a368484e0c6afb",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 197909,
+                "known_for_department": "Writing",
+                "name": "Jaison Starkes",
+                "original_name": "Jaison Starkes",
+                "popularity": 0.004,
+                "profile_path": null,
+                "credit_id": "52fe476fc3a368484e0c6b01",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 179786,
+                "known_for_department": "Writing",
+                "name": "Edmond Stevens",
+                "original_name": "Edmond Stevens",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "52fe476fc3a368484e0c6b07",
+                "department": "Writing",
+                "job": "Writer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1175454,
+                "known_for_department": "Writing",
+                "name": "David Dashev",
+                "original_name": "David Dashev",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c638af80e0a267de699466c",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55320,
+                "known_for_department": "Camera",
+                "name": "Frank Stanley",
+                "original_name": "Frank Stanley",
+                "popularity": 0.001,
+                "profile_path": null,
+                "credit_id": "5c638b209251417aa2fa01db",
+                "department": "Crew",
+                "job": "Cinematography"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2783,
+                "known_for_department": "Editing",
+                "name": "Frank Mazzola",
+                "original_name": "Frank Mazzola",
+                "popularity": 0.002,
+                "profile_path": null,
+                "credit_id": "5c638b359251412fb4fdc3be",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3100,
+                "known_for_department": "Editing",
+                "name": "Peter Zinner",
+                "original_name": "Peter Zinner",
+                "popularity": 0.009,
+                "profile_path": null,
+                "credit_id": "5c638b44c3a3684fa4d989b8",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 5634,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Patricia Norris",
+                "original_name": "Patricia Norris",
+                "popularity": 0.007,
+                "profile_path": null,
+                "credit_id": "5c638b55c3a3684fabd8ef51",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            }
+        ]
+    },
+    "keywords": {
+        "keywords": [
+            {
+                "id": 6075,
+                "name": "sports"
+            },
+            {
+                "id": 6496,
+                "name": "basketball"
+            },
+            {
+                "id": 157151,
+                "name": "astrology"
+            },
+            {
+                "id": 251859,
+                "name": "pisces"
+            }
+        ]
+    },
+    "actors_characters": [
+        {
+            "actor": "Julius Erving",
+            "character": "Moses Guthrie"
+        },
+        {
+            "actor": "Jonathan Winters",
+            "character": "H.S. / Harvey Tilson"
+        },
+        {
+            "actor": "Meadowlark Lemon",
+            "character": "Rev. Grady Jackson"
+        },
+        {
+            "actor": "Jack Kehoe",
+            "character": "Setshot"
+        },
+        {
+            "actor": "Kareem Abdul-Jabbar",
+            "character": "Self"
+        },
+        {
+            "actor": "Margaret Avery",
+            "character": "Toby Millman"
+        },
+        {
+            "actor": "James Bond III",
+            "character": "Tyrone Millman"
+        },
+        {
+            "actor": "Michael V. Gazzo",
+            "character": "Harry the Trainer"
+        },
+        {
+            "actor": "Peter Isacksen",
+            "character": "Driftwood"
+        },
+        {
+            "actor": "Nicholas Pryor",
+            "character": "George Brockington"
+        },
+        {
+            "actor": "M. Emmet Walsh",
+            "character": "Wally Cantrell"
+        },
+        {
+            "actor": "Stockard Channing",
+            "character": "Mona Mondieu"
+        },
+        {
+            "actor": "Flip Wilson",
+            "character": "Coach \"Jock\" Delaney"
+        },
+        {
+            "actor": "Marv Albert",
+            "character": "Self"
+        },
+        {
+            "actor": "Debbie Allen",
+            "character": "Ola"
+        },
+        {
+            "actor": "George von Benko",
+            "character": "P.A. Announcer"
+        },
+        {
+            "actor": "Dee Dee Bridgewater",
+            "character": "Brandy"
+        },
+        {
+            "actor": "Darrell Brown",
+            "character": "Junior Ashland"
+        },
+        {
+            "actor": "Julius Carry",
+            "character": "Malik Jamal Truth"
+        },
+        {
+            "actor": "Jerry Chambers",
+            "character": "Lucian Tucker"
+        },
+        {
+            "actor": "Alix Elias",
+            "character": "Michelle"
+        },
+        {
+            "actor": "Jessie Lawrence Ferguson",
+            "character": "Jackhammer Washington"
+        },
+        {
+            "actor": "Richard Foronjy",
+            "character": "Mike"
+        },
+        {
+            "actor": "Chick Hearn",
+            "character": "Self"
+        },
+        {
+            "actor": "Clayton Hill",
+            "character": "Security Guard"
+        },
+        {
+            "actor": "Ken Foree",
+            "character": "Pittsburgh Python Player"
+        },
+        {
+            "actor": "Harry Shearer",
+            "character": "Murray Sports"
+        },
+        {
+            "actor": "Branscombe Richmond",
+            "character": "Winston Running Hawk"
+        }
+    ]
+}
