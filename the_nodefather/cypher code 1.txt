@@ -1,0 +1,181 @@
+// 0. Style reset
+:style reset
+
+---
+
+//01. Soft reset
+MATCH (n) DETACH DELETE n;
+
+---
+
+// 02. Constraints
+// Movie (using tconst as unique ID)
+CREATE CONSTRAINT movie_id IF NOT EXISTS 
+FOR (m:Movie) 
+REQUIRE m.tconst IS UNIQUE;
+
+// Person (shared constraint for all roles, keyed by TMDB ID)
+CREATE CONSTRAINT person_id IF NOT EXISTS 
+FOR (p:Person) 
+REQUIRE p.tmdb_id IS UNIQUE;
+
+// Genre
+CREATE CONSTRAINT genre_name IF NOT EXISTS 
+FOR (g:Genre) 
+REQUIRE g.name IS UNIQUE;
+
+// Subgenre
+CREATE CONSTRAINT subgenre_name IF NOT EXISTS 
+FOR (sg:Subgenre) 
+REQUIRE sg.name IS UNIQUE;
+
+// Production Company
+CREATE CONSTRAINT company_name IF NOT EXISTS 
+FOR (c:ProductionCompany) 
+REQUIRE c.name IS UNIQUE;
+
+---
+
+//03. import movies
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.node_from_label = "Movie" AND row.node_from_tconst IS NOT NULL
+MERGE (m:Movie {tconst: row.node_from_tconst})
+SET 
+    m.primaryTitle = CASE 
+        WHEN row.node_from_name IS NOT NULL AND row.node_from_name <> "" 
+        THEN row.node_from_name ELSE "Unknown Title" END,
+    m.releaseYear = CASE 
+        WHEN row.node_from_year IS NOT NULL AND row.node_from_year <> "" 
+        THEN toInteger(row.node_from_year) ELSE NULL END,
+    m.runtimeMinutes = CASE 
+        WHEN row.node_from_runtimeMinutes IS NOT NULL AND row.node_from_runtimeMinutes <> "" 
+        THEN toInteger(row.node_from_runtimeMinutes) ELSE NULL END,
+    m.imdbRating = CASE 
+        WHEN row.node_from_averageRating IS NOT NULL AND row.node_from_averageRating <> "" 
+        THEN toFloat(row.node_from_averageRating) ELSE NULL END,
+    m.revenue = CASE 
+        WHEN row.node_from_revenue IS NOT NULL AND row.node_from_revenue <> "" 
+        THEN toFloat(row.node_from_revenue) ELSE NULL END,
+    m.budget = CASE 
+        WHEN row.node_from_budget IS NOT NULL AND row.node_from_budget <> "" 
+        THEN toFloat(row.node_from_budget) ELSE NULL END,
+    m.numVotes = CASE 
+        WHEN row.node_from_numVotes IS NOT NULL AND row.node_from_numVotes <> "" 
+        THEN toInteger(row.node_from_numVotes) ELSE NULL END;
+
+---
+
+//04. Import Actors
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.to_label = "Actor"
+  AND row.to_id IS NOT NULL AND row.to_id <> ""
+MERGE (a:Person {tmdb_id: row.to_id})  // Use TMDB ID as unique key
+SET 
+  a.name = row.to_name,
+  a.gender = CASE WHEN row.to_gender IS NOT NULL AND row.to_gender <> "" THEN toInteger(row.to_gender) ELSE NULL END,
+  a.popularity = CASE WHEN row.to_popularity IS NOT NULL AND row.to_popularity <> "" THEN toFloat(row.to_popularity) ELSE NULL END,
+  a.adult = CASE WHEN row.to_adult IS NOT NULL AND row.to_adult <> "" THEN toBoolean(row.to_adult) ELSE NULL END
+SET a:Actor;  // Apply the Actor label
+
+---
+
+//05. Link Actors to Movies
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.relationship = "ACTED_IN"
+  AND row.to_id IS NOT NULL AND row.to_id <> ""
+  AND row.from_tconst IS NOT NULL AND row.from_tconst <> ""
+MATCH (a:Person {tmdb_id: row.to_id})
+MATCH (m:Movie {tconst: row.from_tconst})
+MERGE (a)-[:ACTED_IN]->(m);
+
+---
+
+//06. Import Directors
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.node_from_label = "Director"
+  AND row.node_from_name IS NOT NULL
+MERGE (d:Director {name: row.node_from_name});
+
+---
+
+//07. Link Directors to Movies
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.relationship = "DIRECTED"
+  AND row.node_from_name IS NOT NULL
+  AND row.node_to_tconst IS NOT NULL
+MATCH (d:Director {name: row.node_from_name})
+MATCH (m:Movie {tconst: row.node_to_tconst})
+MERGE (d)-[:DIRECTED]->(m);
+
+---
+
+//08. Import DoPs
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.to_label = "Director of Photography"
+  AND row.to_id IS NOT NULL AND row.to_id <> ""
+MERGE (p:Person {tmdb_id: row.to_id})
+SET 
+  p.name = row.to_name,
+  p.gender = CASE WHEN row.to_gender IS NOT NULL AND row.to_gender <> "" THEN toInteger(row.to_gender) ELSE NULL END,
+  p.popularity = CASE WHEN row.to_popularity IS NOT NULL AND row.to_popularity <> "" THEN toFloat(row.to_popularity) ELSE NULL END
+SET p:`Director of Photography`;
+
+---
+
+//09. Link DoPs to Movies
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.relationship = "PHOTOGRAPHED"
+  AND row.to_id IS NOT NULL AND row.to_id <> ""
+  AND row.from_tconst IS NOT NULL AND row.from_tconst <> ""
+MATCH (p:Person {tmdb_id: row.to_id})
+MATCH (m:Movie {tconst: row.from_tconst})
+MERGE (p)-[:PHOTOGRAPHED]->(m);
+
+---
+
+//10. Import Genres
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.node_from_label = "Genre"
+  AND row.node_from_name IS NOT NULL
+MERGE (g:Genre {name: row.node_from_name});
+
+---
+
+//11. Link Movies to Genres
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.relationship = "IN_GENRE"
+  AND row.node_from_tconst IS NOT NULL
+  AND row.node_to_name IS NOT NULL
+MATCH (m:Movie {tconst: row.node_from_tconst})
+MATCH (g:Genre {name: trim(row.node_to_name)})
+MERGE (m)-[:IN_GENRE]->(g);
+
+---
+
+//12. Import Subgenres
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.to_label = "Subgenre"
+  AND row.to_name IS NOT NULL AND row.to_name <> ""
+MERGE (sg:Subgenre {name: row.to_name});
+
+---
+
+//13. Link Movies to Subgenres
+LOAD CSV WITH HEADERS FROM "file:///graph_data.csv" AS row
+WITH row
+WHERE row.relationship = "HAS_SUBGENRE"
+  AND row.from_tconst IS NOT NULL AND row.from_tconst <> ""
+  AND row.to_name IS NOT NULL AND row.to_name <> ""
+MATCH (m:Movie {tconst: row.from_tconst})
+MATCH (sg:Subgenre {name: row.to_name})
+MERGE (m)-[:HAS_SUBGENRE]->(sg);
